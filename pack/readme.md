@@ -14,6 +14,16 @@
 
    - Strong preference for environmental interaction in lieu of GUIs.
 
+2. **Altered Progression** – Like a Skyblock pack, the pack should alter recipes
+   and add mechanics which alter the standard flow of advancement.
+
+   - This is a quest-driven pack with stages.
+
+   - Stages should be gated by resources with unusual means of acquisition.
+
+   - The start of the game is slower to encourage caution and engagement, and to
+     nudge players into settling down.
+
 ## Core Modlist
 
 Mods not listed below are only dependencies.
@@ -24,8 +34,11 @@ Mods not listed below are only dependencies.
 | :-- | :----------- |
 | [Quark](https://curseforge.com/minecraft/mc-mods/quark) | French vanilla foundation. |
 | [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | French vanilla foundation. Pipes and backpack. |
+| [Spice of Life: Carrot Edition](https://curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) | Altered progression. |
 | [REI](https://curseforge.com/minecraft/mc-mods/roughly-enough-items) | Quality of Life. |
 | [PackMenu](https://curseforge.com/minecraft/mc-mods/packmenu) | Utility. |
+| [AppleSkin](https://curseforge.com/minecraft/mc-mods/apple-skin) | Utility. Quality of Life. |
+| [Colorful Hearts](https://curseforge.com/minecraft/mc-mods/colorful-hearts) | Utility. Quality of Life. |
 | [Curios](https://curseforge.com/minecraft/mc-mods/curios) | Utility. |
 | [Curios Quark Oddities Backpack](https://curseforge.com/minecraft/mc-mods/curios-quark-oddities-backpack) | Quality of Life. Integration. |
 | [Inventory Sorter](https://curseforge.com/minecraft/mc-mods/inventory-sorter) | Utility. Personal must-have. |
