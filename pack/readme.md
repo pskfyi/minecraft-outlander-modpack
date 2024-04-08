@@ -28,3 +28,6 @@ Mods not listed below are only dependencies.
 | [PackMenu](https://curseforge.com/minecraft/mc-mods/packmenu) | Utility. |
 | [Curios](https://curseforge.com/minecraft/mc-mods/curios) | Utility. |
 | [Curios Quark Oddities Backpack](https://curseforge.com/minecraft/mc-mods/curios-quark-oddities-backpack) | Quality of Life. Integration. |
+| [Inventory Sorter](https://curseforge.com/minecraft/mc-mods/inventory-sorter) | Utility. Personal must-have. |
+| [Mouse Tweaks](https://curseforge.com/minecraft/mc-mods/mouse-tweaks) | Utility. |
+| [Toast Control](https://curseforge.com/minecraft/mc-mods/toast-control) | Utility. |

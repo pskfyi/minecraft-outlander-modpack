@@ -37,6 +37,16 @@ hash = "ead7066d6c446bdfed73aca9617f070b8a034545f8d30125228cd4fc42e44e70"
 metafile = true
 
 [[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "fac74cc46a4424c4a235a6efbb7e8b3b62c200ad95564e230857eec26b33f216"
+metafile = true
+
+[[files]]
 file = "mods/packmenu.pw.toml"
 hash = "f0f3e5e97bd3ea4a32821b1ba1e49c661a54df5220fb5f3e1d94fe05bdf66447"
 metafile = true
@@ -64,6 +74,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "0cda8ca46707f171ef6fb584e38a79f3748bb7c01db404ec572922986b1232a7"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
 metafile = true
 
 [[files]]
