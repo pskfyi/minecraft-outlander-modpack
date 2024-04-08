@@ -1,2 +1,11 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "2e9cb4daa54baffcda96c7f1129ba1b7df2c56d140edd473b08fa69551a21b24"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "9ba4edf5fcf5fcb861bdd9de94e01dfa0c9640f2ae1a82db284a0c47ddded987"
+metafile = true
