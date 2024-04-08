@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "726e3fa6878e3c090da9cd0d72debfd789e3388aa3f02e92df89ea987d7f477f"
+hash = "1f6f5c1f0162628549dd0a418c202e24a9dfffe70b3ab844150bec28c1efb6c5"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
