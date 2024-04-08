@@ -21,8 +21,10 @@
 
    - Stages should be gated by resources with unusual means of acquisition.
 
-   - The start of the game is slower to encourage caution and engagement, and to
-     nudge players into settling down.
+   - The start of the game is slower and harder to encourage caution and
+     engagement, and to nudge players into settling down.
+
+   - Ultimine and automation options significantly reduce tedium of midgame.
 
 3. **Integration** – As much as it makes sense, mods should be integrated with
    one another. This will involve both mods which have built-in integrations and
@@ -39,6 +41,7 @@ Mods not listed below are only dependencies.
 | [Quark](https://curseforge.com/minecraft/mc-mods/quark) | French vanilla foundation. |
 | [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | French vanilla foundation. Pipes and backpack. |
 | [Spice of Life: Carrot Edition](https://curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) | Altered progression. Integration. |
+| [FTB Ultimine](https://curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) | Altered progression. Personal must-have. |
 | [Curios Quark Oddities Backpack](https://curseforge.com/minecraft/mc-mods/curios-quark-oddities-backpack) | Integration. Quality of Life. |
 | [REI](https://curseforge.com/minecraft/mc-mods/roughly-enough-items) | Quality of Life. |
 | [AppleSkin](https://curseforge.com/minecraft/mc-mods/apple-skin) | Utility. Quality of Life. |

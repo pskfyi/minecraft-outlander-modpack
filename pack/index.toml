@@ -5,6 +5,10 @@ file = "config/fml.toml"
 hash = "c5a62e3f2d7b91aaff7977d02db34b45f800ccd553678d86e77b5c110f46d60b"
 
 [[files]]
+file = "config/ftbultimine.snbt"
+hash = "838e7e4c0550c94db975e02cd0ce9f680abeba20edaa777203e44d691b36dcdd"
+
+[[files]]
 file = "config/packmenu.cfg"
 hash = "65f530d15bc34408fdf6f55acc27579892b7cfe9651a511675709fccb05fce47"
 
@@ -44,6 +48,16 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "ead7066d6c446bdfed73aca9617f070b8a034545f8d30125228cd4fc42e44e70"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "0d2a80abab32de6a2094520dacb0fbca2d1a66f6c7f3c6f441c07320e2572856"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "dcab54200a705f5a74544011849f8d77e73776124e7b144a2d27d6117c949b84"
 metafile = true
 
 [[files]]
