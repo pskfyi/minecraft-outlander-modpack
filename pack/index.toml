@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "39c9ccac08af882378b794afe1ab75e5e922a8a121419070ef088853fb57b0b6"
+hash = "caebecedf8231e8f920bc7a417e75a467c8572668adeeb6847b9175cb04311ca"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
