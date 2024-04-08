@@ -5,8 +5,28 @@ file = "config/quark-common.toml"
 hash = "726e3fa6878e3c090da9cd0d72debfd789e3388aa3f02e92df89ea987d7f477f"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "2e9cb4daa54baffcda96c7f1129ba1b7df2c56d140edd473b08fa69551a21b24"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items-hacks.pw.toml"
+hash = "7a39d6d8faddf9ac5f10aa1b3c271b8dc27b1f79531bdbeefb8d268b68e9eef5"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "0cda8ca46707f171ef6fb584e38a79f3748bb7c01db404ec572922986b1232a7"
 metafile = true
 
 [[files]]

@@ -21,3 +21,4 @@
 | Mod | Pack Purpose |
 | :-- | :----------- |
 | [Quark](https://curseforge.com/minecraft/mc-mods/quark) | French vanilla foundation. |
+| [REI](https://curseforge.com/minecraft/mc-mods/roughly-enough-items) | Quality of Life. |
