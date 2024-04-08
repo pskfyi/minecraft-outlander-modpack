@@ -2,6 +2,7 @@
   "lock": false,
   "tasks": {
     "add": "cd pack && ./packwiz curseforge add",
+    "refresh": "cd pack && ./packwiz refresh",
     "dev": "cd pack && ./packwiz serve"
   }
 }
