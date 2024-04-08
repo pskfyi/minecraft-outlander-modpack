@@ -24,6 +24,10 @@
    - The start of the game is slower to encourage caution and engagement, and to
      nudge players into settling down.
 
+3. **Integration** – As much as it makes sense, mods should be integrated with
+   one another. This will involve both mods which have built-in integrations and
+   modded recipes to create integrations.
+
 ## Core Modlist
 
 Mods not listed below are only dependencies.
@@ -34,13 +38,13 @@ Mods not listed below are only dependencies.
 | :-- | :----------- |
 | [Quark](https://curseforge.com/minecraft/mc-mods/quark) | French vanilla foundation. |
 | [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | French vanilla foundation. Pipes and backpack. |
-| [Spice of Life: Carrot Edition](https://curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) | Altered progression. |
+| [Spice of Life: Carrot Edition](https://curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) | Altered progression. Integration. |
+| [Curios Quark Oddities Backpack](https://curseforge.com/minecraft/mc-mods/curios-quark-oddities-backpack) | Integration. Quality of Life. |
 | [REI](https://curseforge.com/minecraft/mc-mods/roughly-enough-items) | Quality of Life. |
-| [PackMenu](https://curseforge.com/minecraft/mc-mods/packmenu) | Utility. |
 | [AppleSkin](https://curseforge.com/minecraft/mc-mods/apple-skin) | Utility. Quality of Life. |
 | [Colorful Hearts](https://curseforge.com/minecraft/mc-mods/colorful-hearts) | Utility. Quality of Life. |
 | [Curios](https://curseforge.com/minecraft/mc-mods/curios) | Utility. |
-| [Curios Quark Oddities Backpack](https://curseforge.com/minecraft/mc-mods/curios-quark-oddities-backpack) | Quality of Life. Integration. |
 | [Inventory Sorter](https://curseforge.com/minecraft/mc-mods/inventory-sorter) | Utility. Personal must-have. |
 | [Mouse Tweaks](https://curseforge.com/minecraft/mc-mods/mouse-tweaks) | Utility. |
+| [PackMenu](https://curseforge.com/minecraft/mc-mods/packmenu) | Utility. |
 | [Toast Control](https://curseforge.com/minecraft/mc-mods/toast-control) | Utility. |
