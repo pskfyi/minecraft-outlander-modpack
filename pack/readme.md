@@ -14,7 +14,9 @@
 
    - Strong preference for environmental interaction in lieu of GUIs.
 
-## Modlist
+## Core Modlist
+
+Mods not listed below are only dependencies.
 
 <!-- deno-fmt-ignore -->
 
