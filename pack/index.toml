@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fml.toml"
+hash = "c5a62e3f2d7b91aaff7977d02db34b45f800ccd553678d86e77b5c110f46d60b"
+
+[[files]]
 file = "config/packmenu.cfg"
 hash = "65f530d15bc34408fdf6f55acc27579892b7cfe9651a511675709fccb05fce47"
 
