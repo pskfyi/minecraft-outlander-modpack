@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "1f6f5c1f0162628549dd0a418c202e24a9dfffe70b3ab844150bec28c1efb6c5"
+hash = "39c9ccac08af882378b794afe1ab75e5e922a8a121419070ef088853fb57b0b6"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -16,6 +16,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
+metafile = true
+
+[[files]]
+file = "mods/quark-oddities.pw.toml"
+hash = "cccf29ce906a920013a8f10ece935b3e9c970dca19943d7237557b178d01f149"
 metafile = true
 
 [[files]]

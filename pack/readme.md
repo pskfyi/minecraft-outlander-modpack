@@ -21,4 +21,5 @@
 | Mod | Pack Purpose |
 | :-- | :----------- |
 | [Quark](https://curseforge.com/minecraft/mc-mods/quark) | French vanilla foundation. |
+| [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | French vanilla foundation. Pipes and backpack. |
 | [REI](https://curseforge.com/minecraft/mc-mods/roughly-enough-items) | Quality of Life. |
