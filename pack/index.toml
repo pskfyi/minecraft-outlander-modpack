@@ -5,6 +5,10 @@ file = "config/quark-common.toml"
 hash = "1f6f5c1f0162628549dd0a418c202e24a9dfffe70b3ab844150bec28c1efb6c5"
 
 [[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "59db6d571d9dc9b1c6968dbaed24bb1b361a2712e9074bf1c795c72fb4cb9db4"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
