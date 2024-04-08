@@ -1,3 +1,6 @@
 {
-  "lock": false
+  "lock": false,
+  "tasks": {
+    "add": "cd pack && ./packwiz curseforge add"
+  }
 }
