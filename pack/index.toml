@@ -19,6 +19,16 @@ hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
 metafile = true
 
 [[files]]
+file = "mods/curios-quark-oddities-backpack.pw.toml"
+hash = "f92a5d8b618e398ec21c803416cee4b594a8ed0a2c82dce0b6901f396662ea16"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "ead7066d6c446bdfed73aca9617f070b8a034545f8d30125228cd4fc42e44e70"
+metafile = true
+
+[[files]]
 file = "mods/quark-oddities.pw.toml"
 hash = "cccf29ce906a920013a8f10ece935b3e9c970dca19943d7237557b178d01f149"
 metafile = true
