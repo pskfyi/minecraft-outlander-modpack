@@ -51,4 +51,5 @@ Mods not listed below are only dependencies.
 | [Inventory Sorter](https://curseforge.com/minecraft/mc-mods/inventory-sorter) | Utility. Personal must-have. |
 | [Mouse Tweaks](https://curseforge.com/minecraft/mc-mods/mouse-tweaks) | Utility. |
 | [PackMenu](https://curseforge.com/minecraft/mc-mods/packmenu) | Utility. |
+| [Structure Essentials](https://curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric) | Utility. |
 | [Toast Control](https://curseforge.com/minecraft/mc-mods/toast-control) | Utility. |
