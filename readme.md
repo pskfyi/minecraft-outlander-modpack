@@ -1,6 +1,6 @@
-# Outlander
+# Outlander Minecraft Modpack Repo
 
-A Minecraft modpack, and related tooling used in its production.
+A modpack and related tooling used in its production.
 
 ## Development
 
