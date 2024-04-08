@@ -40,6 +40,7 @@ Mods not listed below are only dependencies.
 | :-- | :----------- |
 | [Quark](https://curseforge.com/minecraft/mc-mods/quark) | French vanilla foundation. |
 | [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | French vanilla foundation. Pipes and backpack. |
+| [Storage Drawers](https://curseforge.com/minecraft/mc-mods/storage-drawers) | French vanilla. Quality of Life. |
 | [Spice of Life: Carrot Edition](https://curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) | Altered progression. Integration. |
 | [FTB Ultimine](https://curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) | Altered progression. Personal must-have. |
 | [Curios Quark Oddities Backpack](https://curseforge.com/minecraft/mc-mods/curios-quark-oddities-backpack) | Integration. Quality of Life. |
