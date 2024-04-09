@@ -38,6 +38,7 @@ Mods not listed below are only dependencies.
 
 | Mod | Pack Purpose |
 | :-- | :----------- |
+| [Create](https://curseforge.com/minecraft/mc-mods/create) | French vanilla foundation. |
 | [Supplementaries](https://curseforge.com/minecraft/mc-mods/supplementaries) | French vanilla foundation. |
 | [Quark](https://curseforge.com/minecraft/mc-mods/quark) | French vanilla foundation. |
 | [Map Atlases](https://curseforge.com/minecraft/mc-mods/map-atlases-forge) | French vanilla foundation. Preferred map solution. |

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/create-client.toml"
+hash = "034c927c093ed960408e10866f1dad0963a4b703af12520150a337736aac439f"
+
+[[files]]
 file = "config/fml.toml"
 hash = "c5a62e3f2d7b91aaff7977d02db34b45f800ccd553678d86e77b5c110f46d60b"
 
@@ -64,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
 metafile = true
 
 [[files]]
