@@ -1,0 +1,13 @@
+name = "Radiant Gear (Fabric/Forge/Quilt)"
+filename = "radiantgear-forge-2.1.4+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eacc7fc68e845d044df92792e29ed14a8f5c97de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5163664
+project-id = 602199

@@ -26,7 +26,11 @@
 
    - Ultimine and automation options significantly reduce tedium of midgame.
 
-3. **Integration** – As much as it makes sense, mods should be integrated with
+3. **Adventure** – Exploration, survival, and to a lesser extent combat, should
+   all be accentuated through enhancing danger, encouraging collection,
+   expanding movement, etc.
+
+4. **Integration** – As much as it makes sense, mods should be integrated with
    one another. This will involve both mods which have built-in integrations and
    modded recipes to create integrations.
 
@@ -41,18 +45,21 @@ Mods not listed below are only dependencies.
 | [Create](https://curseforge.com/minecraft/mc-mods/create) | French vanilla foundation. |
 | [Supplementaries](https://curseforge.com/minecraft/mc-mods/supplementaries) | French vanilla foundation. |
 | [Quark](https://curseforge.com/minecraft/mc-mods/quark) | French vanilla foundation. |
-| [Map Atlases](https://curseforge.com/minecraft/mc-mods/map-atlases-forge) | French vanilla foundation. Preferred map solution. |
+| [Map Atlases](https://curseforge.com/minecraft/mc-mods/map-atlases-forge) | French vanilla foundation. Adventure. Preferred map solution. |
 | [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | French vanilla foundation. Pipes and backpack. |
 | [Storage Drawers](https://curseforge.com/minecraft/mc-mods/storage-drawers) | French vanilla. Quality of Life. |
-| [Spice of Life: Carrot Edition](https://curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) | Altered progression. Integration. |
+| [Spice of Life: Carrot Edition](https://curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) | Altered progression. Adventure. Integration. |
 | [FTB Ultimine](https://curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) | Altered progression. Personal must-have. |
-| [Curios Quark Oddities Backpack](https://curseforge.com/minecraft/mc-mods/curios-quark-oddities-backpack) | Integration. Quality of Life. |
-| [Waystones](https://curseforge.com/minecraft/mc-mods/waystones) | Integration. Quality of Life. |
+| [Curios Quark Oddities Backpack](https://curseforge.com/minecraft/mc-mods/curios-quark-oddities-backpack) | Adventure. Integration. Quality of Life. |
+| [Curious Lanterns](https://curseforge.com/minecraft/mc-mods/curious-lanterns) | Adventure. Integration. Quality of Life. |
+| [Waystones](https://curseforge.com/minecraft/mc-mods/waystones) | Adventure. Integration. Quality of Life. |
 | [REI](https://curseforge.com/minecraft/mc-mods/roughly-enough-items) | Quality of Life. |
 | [AppleSkin](https://curseforge.com/minecraft/mc-mods/apple-skin) | Utility. Quality of Life. |
 | [Colorful Hearts](https://curseforge.com/minecraft/mc-mods/colorful-hearts) | Utility. Quality of Life. |
 | [Configured](https://curseforge.com/minecraft/mc-mods/configured) | Utility. |
 | [Curios](https://curseforge.com/minecraft/mc-mods/curios) | Utility. |
+| [Embeddium](https://curseforge.com/minecraft/mc-mods/embeddium) | Utility. |
+| [TexTrue's Embeddium Options](https://curseforge.com/minecraft/mc-mods/textrues-embeddium-options) | Utility. |
 | [ImmediatelyFast](https://curseforge.com/minecraft/mc-mods/immediatelyfast) | Utility. |
 | [Inventory Sorter](https://curseforge.com/minecraft/mc-mods/inventory-sorter) | Utility. Personal must-have. |
 | [Mouse Tweaks](https://curseforge.com/minecraft/mc-mods/mouse-tweaks) | Utility. |
