@@ -44,9 +44,10 @@ Mods not listed below are only dependencies.
 | :-- | :----------- |
 | [Create](https://curseforge.com/minecraft/mc-mods/create) | French vanilla foundation. |
 | [Supplementaries](https://curseforge.com/minecraft/mc-mods/supplementaries) | French vanilla foundation. |
+| [Supplementaries Squared](https://curseforge.com/minecraft/mc-mods/supplementaries-squared) | French vanilla foundation. |
 | [Quark](https://curseforge.com/minecraft/mc-mods/quark) | French vanilla foundation. |
-| [Map Atlases](https://curseforge.com/minecraft/mc-mods/map-atlases-forge) | French vanilla foundation. Adventure. Preferred map solution. |
 | [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | French vanilla foundation. Pipes and backpack. |
+| [Map Atlases](https://curseforge.com/minecraft/mc-mods/map-atlases-forge) | French vanilla foundation. Adventure. Preferred map solution. |
 | [Storage Drawers](https://curseforge.com/minecraft/mc-mods/storage-drawers) | French vanilla. Quality of Life. |
 | [Spice of Life: Carrot Edition](https://curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) | Altered progression. Adventure. Integration. |
 | [FTB Ultimine](https://curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) | Altered progression. Personal must-have. |
