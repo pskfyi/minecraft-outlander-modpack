@@ -21,6 +21,10 @@ file = "config/roughlyenoughitems/config.json5"
 hash = "59db6d571d9dc9b1c6968dbaed24bb1b361a2712e9074bf1c795c72fb4cb9db4"
 
 [[files]]
+file = "config/supplementaries-client.toml"
+hash = "371a5b7e472913d5c278944f260d9afacd291855d9b9025e33d601fa2f37daee"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
