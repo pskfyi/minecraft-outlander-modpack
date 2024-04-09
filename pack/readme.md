@@ -48,6 +48,7 @@ Mods not listed below are only dependencies.
 | [REI](https://curseforge.com/minecraft/mc-mods/roughly-enough-items) | Quality of Life. |
 | [AppleSkin](https://curseforge.com/minecraft/mc-mods/apple-skin) | Utility. Quality of Life. |
 | [Colorful Hearts](https://curseforge.com/minecraft/mc-mods/colorful-hearts) | Utility. Quality of Life. |
+| [Configured](https://curseforge.com/minecraft/mc-mods/configured) | Utility. |
 | [Curios](https://curseforge.com/minecraft/mc-mods/curios) | Utility. |
 | [Inventory Sorter](https://curseforge.com/minecraft/mc-mods/inventory-sorter) | Utility. Personal must-have. |
 | [Mouse Tweaks](https://curseforge.com/minecraft/mc-mods/mouse-tweaks) | Utility. |
