@@ -38,6 +38,7 @@ Mods not listed below are only dependencies.
 
 | Mod | Pack Purpose |
 | :-- | :----------- |
+| [Supplementaries](https://curseforge.com/minecraft/mc-mods/supplementaries) | French vanilla foundation. |
 | [Quark](https://curseforge.com/minecraft/mc-mods/quark) | French vanilla foundation. |
 | [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | French vanilla foundation. Pipes and backpack. |
 | [Storage Drawers](https://curseforge.com/minecraft/mc-mods/storage-drawers) | French vanilla. Quality of Life. |
