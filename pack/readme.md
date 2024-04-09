@@ -51,6 +51,7 @@ Mods not listed below are only dependencies.
 | [Colorful Hearts](https://curseforge.com/minecraft/mc-mods/colorful-hearts) | Utility. Quality of Life. |
 | [Configured](https://curseforge.com/minecraft/mc-mods/configured) | Utility. |
 | [Curios](https://curseforge.com/minecraft/mc-mods/curios) | Utility. |
+| [ImmediatelyFast](https://curseforge.com/minecraft/mc-mods/immediatelyfast) | Utility. |
 | [Inventory Sorter](https://curseforge.com/minecraft/mc-mods/inventory-sorter) | Utility. Personal must-have. |
 | [Mouse Tweaks](https://curseforge.com/minecraft/mc-mods/mouse-tweaks) | Utility. |
 | [PackMenu](https://curseforge.com/minecraft/mc-mods/packmenu) | Utility. |

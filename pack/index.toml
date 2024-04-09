@@ -83,6 +83,11 @@ hash = "dcab54200a705f5a74544011849f8d77e73776124e7b144a2d27d6117c949b84"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "2135f2ac7c199434a604b8ef89a09eb1e7e2d6a26c5dbdb2af158b9c71366280"
+metafile = true
+
+[[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
 metafile = true
