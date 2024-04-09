@@ -9,6 +9,14 @@ file = "config/ftbultimine.snbt"
 hash = "838e7e4c0550c94db975e02cd0ce9f680abeba20edaa777203e44d691b36dcdd"
 
 [[files]]
+file = "config/map_atlases-client.toml"
+hash = "1c576427daad12b9f6ffaddacd583b112a23bd530a2ea2b3844bef8aa5924df9"
+
+[[files]]
+file = "config/map_atlases-common.toml"
+hash = "8bb8b8c0a91e3cf033fff59a462f3b4450b6b2bb87b137ce6d6a04a8408e8b71"
+
+[[files]]
 file = "config/packmenu.cfg"
 hash = "65f530d15bc34408fdf6f55acc27579892b7cfe9651a511675709fccb05fce47"
 
@@ -77,6 +85,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
+metafile = true
+
+[[files]]
+file = "mods/map-atlases-forge.pw.toml"
+hash = "5f774bed83562d6f96a83b182deaec8e980e751d13692465bcfa85db1a40d286"
 metafile = true
 
 [[files]]
