@@ -46,6 +46,7 @@ Mods not listed below are only dependencies.
 | [Spice of Life: Carrot Edition](https://curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) | Altered progression. Integration. |
 | [FTB Ultimine](https://curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) | Altered progression. Personal must-have. |
 | [Curios Quark Oddities Backpack](https://curseforge.com/minecraft/mc-mods/curios-quark-oddities-backpack) | Integration. Quality of Life. |
+| [Waystones](https://curseforge.com/minecraft/mc-mods/waystones) | Integration. Quality of Life. |
 | [REI](https://curseforge.com/minecraft/mc-mods/roughly-enough-items) | Quality of Life. |
 | [AppleSkin](https://curseforge.com/minecraft/mc-mods/apple-skin) | Utility. Quality of Life. |
 | [Colorful Hearts](https://curseforge.com/minecraft/mc-mods/colorful-hearts) | Utility. Quality of Life. |
