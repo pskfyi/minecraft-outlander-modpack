@@ -38,33 +38,37 @@
 
 Mods not listed below are only dependencies.
 
+### Key Mods
+
 <!-- deno-fmt-ignore -->
 
 | Mod | Pack Purpose |
 | :-- | :----------- |
 | [Create](https://curseforge.com/minecraft/mc-mods/create) | French vanilla foundation. |
-| [Supplementaries](https://curseforge.com/minecraft/mc-mods/supplementaries) | French vanilla foundation. |
-| [Supplementaries Squared](https://curseforge.com/minecraft/mc-mods/supplementaries-squared) | French vanilla foundation. |
-| [Quark](https://curseforge.com/minecraft/mc-mods/quark) | French vanilla foundation. |
-| [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | French vanilla foundation. Pipes and backpack. |
+| [Supplementaries](https://curseforge.com/minecraft/mc-mods/supplementaries) & [Supplementaries Squared](https://curseforge.com/minecraft/mc-mods/supplementaries-squared) | French vanilla foundation. |
+| [Quark](https://curseforge.com/minecraft/mc-mods/quark) & [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | French vanilla foundation. Pipes and backpack. |
 | [Map Atlases](https://curseforge.com/minecraft/mc-mods/map-atlases-forge) | French vanilla foundation. Adventure. Preferred map solution. |
 | [Storage Drawers](https://curseforge.com/minecraft/mc-mods/storage-drawers) | French vanilla. Quality of Life. |
 | [Spice of Life: Carrot Edition](https://curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) | Altered progression. Adventure. Integration. |
 | [FTB Ultimine](https://curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) | Altered progression. Personal must-have. |
-| [Curios Quark Oddities Backpack](https://curseforge.com/minecraft/mc-mods/curios-quark-oddities-backpack) | Adventure. Integration. Quality of Life. |
-| [Curious Lanterns](https://curseforge.com/minecraft/mc-mods/curious-lanterns) | Adventure. Integration. Quality of Life. |
 | [Waystones](https://curseforge.com/minecraft/mc-mods/waystones) | Adventure. Integration. Quality of Life. |
 | [Parcool](https://curseforge.com/minecraft/mc-mods/parcool) | Adventure. Note: Special configuration. |
-| [REI](https://curseforge.com/minecraft/mc-mods/roughly-enough-items) | Quality of Life. |
-| [AppleSkin](https://curseforge.com/minecraft/mc-mods/apple-skin) | Utility. Quality of Life. |
-| [Colorful Hearts](https://curseforge.com/minecraft/mc-mods/colorful-hearts) | Utility. Quality of Life. |
-| [Configured](https://curseforge.com/minecraft/mc-mods/configured) | Utility. |
-| [Curios](https://curseforge.com/minecraft/mc-mods/curios) | Utility. |
-| [Embeddium](https://curseforge.com/minecraft/mc-mods/embeddium) | Utility. |
-| [TexTrue's Embeddium Options](https://curseforge.com/minecraft/mc-mods/textrues-embeddium-options) | Utility. |
-| [ImmediatelyFast](https://curseforge.com/minecraft/mc-mods/immediatelyfast) | Utility. |
-| [Inventory Sorter](https://curseforge.com/minecraft/mc-mods/inventory-sorter) | Utility. Personal must-have. |
-| [Mouse Tweaks](https://curseforge.com/minecraft/mc-mods/mouse-tweaks) | Utility. |
-| [PackMenu](https://curseforge.com/minecraft/mc-mods/packmenu) | Utility. |
-| [Structure Essentials](https://curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric) | Utility. |
-| [Toast Control](https://curseforge.com/minecraft/mc-mods/toast-control) | Utility. |
+
+### Utility & Quality of Life
+
+- [REI](https://curseforge.com/minecraft/mc-mods/roughly-enough-items)
+- [AppleSkin](https://curseforge.com/minecraft/mc-mods/apple-skin)
+- [Colorful Hearts](https://curseforge.com/minecraft/mc-mods/colorful-hearts)
+- [Configured](https://curseforge.com/minecraft/mc-mods/configured)
+- [Curios](https://curseforge.com/minecraft/mc-mods/curios)
+  - [Curios Quark Oddities Backpack](https://curseforge.com/minecraft/mc-mods/curios-quark-oddities-backpack)
+  - [Curious Lanterns](https://curseforge.com/minecraft/mc-mods/curious-lanterns)
+- [Embeddium](https://curseforge.com/minecraft/mc-mods/embeddium)
+  - [TexTrue's Embeddium Options](https://curseforge.com/minecraft/mc-mods/textrues-embeddium-options)
+- [ImmediatelyFast](https://curseforge.com/minecraft/mc-mods/immediatelyfast)
+- [Inventory Sorter](https://curseforge.com/minecraft/mc-mods/inventory-sorter)
+  (Personal must-have.)
+- [Mouse Tweaks](https://curseforge.com/minecraft/mc-mods/mouse-tweaks)
+- [PackMenu](https://curseforge.com/minecraft/mc-mods/packmenu)
+- [Structure Essentials](https://curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric)
+- [Toast Control](https://curseforge.com/minecraft/mc-mods/toast-control)
