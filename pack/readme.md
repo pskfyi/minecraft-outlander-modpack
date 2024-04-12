@@ -1,5 +1,7 @@
 # Outlander Modpack
 
+![ChatGPT / DallE 3 image as temporary placeholder to establish mood](outlander.webp)
+
 ## Core Modlist
 
 Mods not listed below are only dependencies.
