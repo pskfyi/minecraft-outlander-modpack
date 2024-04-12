@@ -27,10 +27,10 @@ Mods not listed below are only dependencies.
 - [Colorful Hearts](https://curseforge.com/minecraft/mc-mods/colorful-hearts)
 - [Configured](https://curseforge.com/minecraft/mc-mods/configured)
 - [Curios](https://curseforge.com/minecraft/mc-mods/curios)
-  - [Curios Quark Oddities Backpack](https://curseforge.com/minecraft/mc-mods/curios-quark-oddities-backpack)
-  - [Curious Lanterns](https://curseforge.com/minecraft/mc-mods/curious-lanterns)
+  ([Quark Oddities Backpack](https://curseforge.com/minecraft/mc-mods/curios-quark-oddities-backpack),
+  [Lanterns](https://curseforge.com/minecraft/mc-mods/curious-lanterns))
 - [Embeddium](https://curseforge.com/minecraft/mc-mods/embeddium)
-  - [TexTrue's Embeddium Options](https://curseforge.com/minecraft/mc-mods/textrues-embeddium-options)
+  ([TexTrue's Options](https://curseforge.com/minecraft/mc-mods/textrues-embeddium-options))
 - [Fast Leaf Decay](https://curseforge.com/minecraft/mc-mods/fast-leaf-decay)
 - [ImmediatelyFast](https://curseforge.com/minecraft/mc-mods/immediatelyfast)
 - [Inventory Sorter](https://curseforge.com/minecraft/mc-mods/inventory-sorter)
