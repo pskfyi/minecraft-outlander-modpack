@@ -43,6 +43,10 @@ flowchart LR
 
    - New structures, biomes, crops, and animals.
 
+     - Materials gathered from these sources should facilitate new recipes. This
+       connects exploration, gathering, crafting, and advancement, forming the
+       core game loop.
+
    - Enhanced danger and limitations.
 
    - Collection mechanics to make every new item worthwhile.
