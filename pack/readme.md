@@ -58,6 +58,7 @@ Mods not listed below are only dependencies.
 
 - [REI](https://curseforge.com/minecraft/mc-mods/roughly-enough-items)
 - [AppleSkin](https://curseforge.com/minecraft/mc-mods/apple-skin)
+- [Carry On](https://curseforge.com/minecraft/mc-mods/carry-on)
 - [Colorful Hearts](https://curseforge.com/minecraft/mc-mods/colorful-hearts)
 - [Configured](https://curseforge.com/minecraft/mc-mods/configured)
 - [Curios](https://curseforge.com/minecraft/mc-mods/curios)
