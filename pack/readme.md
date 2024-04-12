@@ -21,6 +21,7 @@ Mods not listed below are only dependencies.
 | [FTB Ultimine](https://curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) | Altered progression. Personal must-have. |
 | [Waystones](https://curseforge.com/minecraft/mc-mods/waystones) | Adventure. Integration. Quality of Life. |
 | [Parcool](https://curseforge.com/minecraft/mc-mods/parcool) | Adventure. Note: Special configuration. |
+| [Farmer's Delight](https://curseforge.com/minecraft/mc-mods/farmers-delight) | Settlement. Adventure. |
 | [Integrated Dungeons and Structures](https://curseforge.com/minecraft/mc-mods/idas) | Integration. Adventure. |
 
 ### Utility & Quality of Life
