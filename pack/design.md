@@ -44,8 +44,6 @@ alter the standard flow of advancement.
 
 Exploration, survival, and to a lesser extent combat, should all be accentuated.
 
-- New movement options.
-
 - New structures, biomes, crops, and animals.
 
   - Materials gathered from these sources should facilitate new recipes. This
@@ -85,3 +83,12 @@ integrations.
 Except when another design pillar requires it, the pack and progress within it
 should as much as possible reduce tedium and grind, and should provide helpful
 shortcuts for common tasks. The pack should respect the player's time.
+
+## Features
+
+These hook into more than one pillar.
+
+### More Travel Options
+
+Arguably the biggest enhancement to the moment-to-moment gameplay. Hooks into
+Adventure and Convenience.
