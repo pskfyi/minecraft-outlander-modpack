@@ -126,8 +126,18 @@ hash = "dcab54200a705f5a74544011849f8d77e73776124e7b144a2d27d6117c949b84"
 metafile = true
 
 [[files]]
+file = "mods/idas.pw.toml"
+hash = "0808a2e0f30d8ec20508d77b10ee4412a3d3d5978385ba37b2234b994f72baea"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2135f2ac7c199434a604b8ef89a09eb1e7e2d6a26c5dbdb2af158b9c71366280"
+metafile = true
+
+[[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "f4c2da6dca3b98278e50c31f15ee95f1af75e27e98bea5a68e7f1e6aaff952f0"
 metafile = true
 
 [[files]]
