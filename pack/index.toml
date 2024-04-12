@@ -317,7 +317,7 @@ hash = "a930d6ba2229ffdaf7768a063165cf8d3b5ca7bb5e6ef5e65b0ddc49be237833"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
-hash = "2a85bf8d7c5fc57a746d14a03826743994b1e649cb1c793f329d2a4c716b8710"
+hash = "ed6656c67847c2e71f2a9ea8bbee7f716129b00d7f14ddfb1fe4df52350238b7"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/reload.png"
