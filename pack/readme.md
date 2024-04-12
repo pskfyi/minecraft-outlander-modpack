@@ -27,8 +27,15 @@
    - Ultimine and automation options significantly reduce tedium of midgame.
 
 3. **Adventure** – Exploration, survival, and to a lesser extent combat, should
-   all be accentuated through enhancing danger, encouraging collection,
-   expanding movement, etc.
+   all be accentuated.
+
+   - New movement options.
+
+   - New structures, biomes, crops, and animals.
+
+   - Enhanced danger and limitations.
+
+   - Collection mechanics to make every new item worthwhile.
 
 4. **Integration** – As much as it makes sense, mods should be integrated with
    one another. This will involve both mods which have built-in integrations and
