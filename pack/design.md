@@ -12,68 +12,76 @@ flowchart LR
 
 ## Pillars
 
-1. **French Vanilla** – The themes and aesthetic of the pack should remain
-   familiar and well-integrated with the base game.
+### 1. French Vanilla
 
-   - Tech level should not exceed the
-     [First Industrial Revolution](https://en.wikipedia.org/wiki/Industrial_Revolution)
-     except through fantastical means such as redstone and ender pearls.
+The themes and aesthetic of the pack should remain familiar and well-integrated
+with the base game.
 
-   - No overhauls to the core look and feel of the vanilla game. No texture
-     packs, bundled shaders, audio overhauls, etc.
+- Tech level should not exceed the
+  [First Industrial Revolution](https://en.wikipedia.org/wiki/Industrial_Revolution)
+  except through fantastical means such as redstone and ender pearls.
 
-   - Strong preference for environmental interaction in lieu of GUIs.
+- No overhauls to the core look and feel of the vanilla game. No texture packs,
+  bundled shaders, audio overhauls, etc.
 
-2. **Altered Progression** – Like a Skyblock pack, the pack should alter recipes
-   and add mechanics which alter the standard flow of advancement.
+- Strong preference for environmental interaction in lieu of GUIs.
 
-   - This is a quest-driven pack with stages.
+### 2. Altered Progression
 
-   - Stages should be gated by resources with unusual means of acquisition.
+Like a Skyblock pack, the pack should alter recipes and add mechanics which
+alter the standard flow of advancement.
 
-   - The start of the game is slower and harder to encourage caution and
-     engagement, and to nudge players into settling down.
+- This is a quest-driven pack with stages.
 
-   - Ultimine and automation options significantly reduce tedium of midgame.
+- Stages should be gated by resources with unusual means of acquisition.
 
-3. **Adventure** – Exploration, survival, and to a lesser extent combat, should
-   all be accentuated.
+- The start of the game is slower and harder to encourage caution and
+  engagement, and to nudge players into settling down.
 
-   - New movement options.
+- Ultimine and automation options significantly reduce tedium of midgame.
 
-   - New structures, biomes, crops, and animals.
+### 3. Adventure
 
-     - Materials gathered from these sources should facilitate new recipes. This
-       connects exploration, gathering, crafting, and advancement, forming the
-       core game loop.
+Exploration, survival, and to a lesser extent combat, should all be accentuated.
 
-   - Enhanced danger and limitations.
+- New movement options.
 
-   - Collection mechanics to make every new item worthwhile.
+- New structures, biomes, crops, and animals.
 
-4. **Settlement** - To complement the focus on Adventure, there should be a
-   corresponding focus on developing a compelling home base to return to between
-   expeditions.
+  - Materials gathered from these sources should facilitate new recipes. This
+    connects exploration, gathering, crafting, and advancement, forming the core
+    game loop.
 
-   - Aesthetic customization options should be plentiful.
+- Enhanced danger and limitations.
 
-   - Expansions to farming, cooking, and husbandry.
+- Collection mechanics to make every new item worthwhile.
 
-   - Bases should be places to construct new crafting stations and large
-     machines, which would otherwise be too numerous and cumbersome to
-     transport. The machines and the recipes they facilitate require materials
-     which the player will incrementally gain access to, making them a constant
-     touch point.
+### 4. Settlement
 
-   - Slow automation mechanics should provide rewarding returns on time
-     investment while encouraging players to set-it-and-forget-it and explore
-     while their machines churn away.
+To complement the focus on Adventure, there should be a corresponding focus on
+developing a compelling home base to return to between expeditions.
 
-5. **Integration** – As much as it makes sense, mods should be integrated with
-   one another. This will involve both mods which have built-in integrations and
-   modded recipes to create integrations.
+- Aesthetic customization options should be plentiful.
 
-6. **Convenience** - Except when another design pillar requires it, the pack and
-   progress within it should as much as possible reduce tedium and grind, and
-   should provide helpful shortcuts for common tasks. The pack should respect
-   the player's time.
+- Expansions to farming, cooking, and husbandry.
+
+- Bases should be places to construct new crafting stations and large machines,
+  which would otherwise be too numerous and cumbersome to transport. The
+  machines and the recipes they facilitate require materials which the player
+  will incrementally gain access to, making them a constant touch point.
+
+- Slow automation mechanics should provide rewarding returns on time investment
+  while encouraging players to set-it-and-forget-it and explore while their
+  machines churn away.
+
+### 5. Integration
+
+As much as it makes sense, mods should be integrated with one another. This will
+involve both mods which have built-in integrations and modded recipes to create
+integrations.
+
+### 6. Convenience
+
+Except when another design pillar requires it, the pack and progress within it
+should as much as possible reduce tedium and grind, and should provide helpful
+shortcuts for common tasks. The pack should respect the player's time.
