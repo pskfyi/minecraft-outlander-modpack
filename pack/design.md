@@ -1,5 +1,15 @@
 # Design
 
+## Game Loop
+
+```mermaid
+flowchart LR
+    A(Explore) --> B(Gather)
+    B --> C(Craft)
+    C -->D(Advance)
+    D --> A
+```
+
 ## Pillars
 
 1. **French Vanilla** – The themes and aesthetic of the pack should remain
