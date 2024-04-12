@@ -1,6 +1,6 @@
 # Outlander Modpack
 
-![ChatGPT / DallE 3 image as temporary placeholder to establish mood](outlander.webp)
+![ChatGPT / DallE 3 image as temporary placeholder to establish mood](packmenu/resources/assets/packmenu/textures/gui/background.png)
 
 See also the documentation on [the pack's design](design.md) and
 [mod configurations](config.md).
