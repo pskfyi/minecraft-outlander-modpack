@@ -171,6 +171,11 @@ hash = "fac74cc46a4424c4a235a6efbb7e8b3b62c200ad95564e230857eec26b33f216"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "1cd365278de0da9556eea435b41d7c4adeab251e80ea6be22b6ba60debfaf5b0"
+metafile = true
+
+[[files]]
 file = "mods/packmenu.pw.toml"
 hash = "f0f3e5e97bd3ea4a32821b1ba1e49c661a54df5220fb5f3e1d94fe05bdf66447"
 metafile = true

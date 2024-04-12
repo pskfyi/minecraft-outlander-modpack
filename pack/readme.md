@@ -36,6 +36,7 @@ Mods not listed below are only dependencies.
 - [Inventory Sorter](https://curseforge.com/minecraft/mc-mods/inventory-sorter)
   (Personal must-have.)
 - [Mouse Tweaks](https://curseforge.com/minecraft/mc-mods/mouse-tweaks)
+- [Open Loader](https://curseforge.com/minecraft/mc-mods/open-loader)
 - [PackMenu](https://curseforge.com/minecraft/mc-mods/packmenu)
 - [Structure Essentials](https://curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric)
 - [Toast Control](https://curseforge.com/minecraft/mc-mods/toast-control)
