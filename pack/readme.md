@@ -44,3 +44,4 @@ configuration is particularly notable.
 - [PackMenu](https://curseforge.com/minecraft/mc-mods/packmenu)
 - [Structure Essentials](https://curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric)
 - [Toast Control](https://curseforge.com/minecraft/mc-mods/toast-control)
+- [Visual Workbench](https://curseforge.com/minecraft/mc-mods/visual-workbench)
