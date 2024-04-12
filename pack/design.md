@@ -72,3 +72,8 @@ flowchart LR
 5. **Integration** – As much as it makes sense, mods should be integrated with
    one another. This will involve both mods which have built-in integrations and
    modded recipes to create integrations.
+
+6. **Convenience** - Except when another design pillar requires it, the pack and
+   progress within it should as much as possible reduce tedium and grind, and
+   should provide helpful shortcuts for common tasks. The pack should respect
+   the player's time.
