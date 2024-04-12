@@ -2,9 +2,15 @@
 
 ![ChatGPT / DallE 3 image as temporary placeholder to establish mood](outlander.webp)
 
+See also the documentation on [the pack's design](design.md) and
+[mod configurations](config.md).
+
 ## Core Modlist
 
 Mods not listed below are only dependencies.
+
+⚙️ = Link to notes on mod configuration. Only called out here when a mod's
+configuration is particularly notable.
 
 ### Key Mods
 
@@ -12,12 +18,11 @@ Mods not listed below are only dependencies.
 
 | Mod | Pack Purpose |
 | :-- | :----------- |
-| [Create](https://curseforge.com/minecraft/mc-mods/create), [Supplementaries](https://curseforge.com/minecraft/mc-mods/supplementaries) ([Squared](https://curseforge.com/minecraft/mc-mods/supplementaries-squared)), [Quark](https://curseforge.com/minecraft/mc-mods/quark) ([Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities)), [Lychee](https://curseforge.com/minecraft/mc-mods/lychee), [Map Atlases](https://curseforge.com/minecraft/mc-mods/map-atlases-forge), [Storage Drawers](https://curseforge.com/minecraft/mc-mods/storage-drawers) | French vanilla foundation. |
-| [Spice of Life: Carrot Edition](https://curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) | Altered progression. Adventure. Integration. |
-| [FTB Ultimine](https://curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) | Altered progression. Personal must-have. |
-| [Parcool](https://curseforge.com/minecraft/mc-mods/parcool) | Adventure. Note: Special configuration. |
-| [Farmer's Delight](https://curseforge.com/minecraft/mc-mods/farmers-delight) | Settlement. Adventure. |
-| [Waystones](https://curseforge.com/minecraft/mc-mods/waystones), [Integrated Dungeons and Structures](https://curseforge.com/minecraft/mc-mods/idas) | Integration. Adventure. |
+| [Create](https://curseforge.com/minecraft/mc-mods/create), [Supplementaries](https://curseforge.com/minecraft/mc-mods/supplementaries) ([Squared](https://curseforge.com/minecraft/mc-mods/supplementaries-squared)), [Quark](https://curseforge.com/minecraft/mc-mods/quark) ([Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities)), [Lychee](https://curseforge.com/minecraft/mc-mods/lychee), [Map Atlases](https://curseforge.com/minecraft/mc-mods/map-atlases-forge), [Storage Drawers](https://curseforge.com/minecraft/mc-mods/storage-drawers) | [French vanilla](design.md#1-french-vanilla) foundation |
+| [FTB Ultimine](https://curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) [⚙️](config.md#ftb-ultimine), [Spice of Life: Carrot Edition](https://curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) | [Altered progression](design.md#2-altered-progression) |
+| [Parcool](https://curseforge.com/minecraft/mc-mods/parcool) [⚙️](config.md#parcool), [Waystones](https://curseforge.com/minecraft/mc-mods/waystones) | [More Travel Options](design.md#more-travel-options) |
+| [Farmer's Delight](https://curseforge.com/minecraft/mc-mods/farmers-delight) | [Expanded Agriculture](design.md#expanded-agriculture) |
+| [Integrated Dungeons and Structures](https://curseforge.com/minecraft/mc-mods/idas) | [Integration](design.md#5-integration) |
 
 ### Utility & Quality of Life
 
@@ -34,7 +39,6 @@ Mods not listed below are only dependencies.
 - [Fast Leaf Decay](https://curseforge.com/minecraft/mc-mods/fast-leaf-decay)
 - [ImmediatelyFast](https://curseforge.com/minecraft/mc-mods/immediatelyfast)
 - [Inventory Sorter](https://curseforge.com/minecraft/mc-mods/inventory-sorter)
-  (Personal must-have.)
 - [Mouse Tweaks](https://curseforge.com/minecraft/mc-mods/mouse-tweaks)
 - [Open Loader](https://curseforge.com/minecraft/mc-mods/open-loader)
 - [PackMenu](https://curseforge.com/minecraft/mc-mods/packmenu)
