@@ -47,6 +47,24 @@ flowchart LR
 
    - Collection mechanics to make every new item worthwhile.
 
-4. **Integration** – As much as it makes sense, mods should be integrated with
+4. **Settlement** - To complement the focus on Adventure, there should be a
+   corresponding focus on developing a compelling home base to return to between
+   expeditions.
+
+   - Aesthetic customization options should be plentiful.
+
+   - Expansions to farming, cooking, and husbandry.
+
+   - Bases should be places to construct new crafting stations and large
+     machines, which would otherwise be too numerous and cumbersome to
+     transport. The machines and the recipes they facilitate require materials
+     which the player will incrementally gain access to, making them a constant
+     touch point.
+
+   - Slow automation mechanics should provide rewarding returns on time
+     investment while encouraging players to set-it-and-forget-it and explore
+     while their machines churn away.
+
+5. **Integration** – As much as it makes sense, mods should be integrated with
    one another. This will involve both mods which have built-in integrations and
    modded recipes to create integrations.
