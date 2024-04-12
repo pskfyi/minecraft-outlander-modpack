@@ -25,6 +25,10 @@ file = "config/packmenu.cfg"
 hash = "65f530d15bc34408fdf6f55acc27579892b7cfe9651a511675709fccb05fce47"
 
 [[files]]
+file = "config/paraglider-common.toml"
+hash = "c91312875a70cfd13eb1cdec393e0ddb646b810d729d1958ef769063c765febc"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "caebecedf8231e8f920bc7a417e75a467c8572668adeeb6847b9175cb04311ca"
 
@@ -39,6 +43,10 @@ hash = "371a5b7e472913d5c278944f260d9afacd291855d9b9025e33d601fa2f37daee"
 [[files]]
 file = "config/waystones-common.toml"
 hash = "1f27ecf41f4f0fadbc670bb2b88e9e21dcb1ac9c8e0778b70d990888b08b3d6f"
+
+[[files]]
+file = "defaultconfigs/paraglider-server.toml"
+hash = "7cf884d4898e67d096c555304368a5682fd9768fab61a9ef1d0232cb69453358"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -188,6 +196,11 @@ metafile = true
 [[files]]
 file = "mods/packmenu.pw.toml"
 hash = "f0f3e5e97bd3ea4a32821b1ba1e49c661a54df5220fb5f3e1d94fe05bdf66447"
+metafile = true
+
+[[files]]
+file = "mods/paragliders.pw.toml"
+hash = "e0d9db82e60f58d505d8fdb2cc2e0ed73510385582c2ca10e7934fd9fb81517e"
 metafile = true
 
 [[files]]
