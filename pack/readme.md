@@ -12,17 +12,12 @@ Mods not listed below are only dependencies.
 
 | Mod | Pack Purpose |
 | :-- | :----------- |
-| [Create](https://curseforge.com/minecraft/mc-mods/create) | French vanilla foundation. |
-| [Supplementaries](https://curseforge.com/minecraft/mc-mods/supplementaries) & [Supplementaries Squared](https://curseforge.com/minecraft/mc-mods/supplementaries-squared) | French vanilla foundation. |
-| [Quark](https://curseforge.com/minecraft/mc-mods/quark) & [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | French vanilla foundation. Pipes and backpack. |
-| [Map Atlases](https://curseforge.com/minecraft/mc-mods/map-atlases-forge) | French vanilla foundation. Adventure. Preferred map solution. |
-| [Storage Drawers](https://curseforge.com/minecraft/mc-mods/storage-drawers) | French vanilla. Quality of Life. |
+| [Create](https://curseforge.com/minecraft/mc-mods/create), [Supplementaries](https://curseforge.com/minecraft/mc-mods/supplementaries) ([Squared](https://curseforge.com/minecraft/mc-mods/supplementaries-squared)), [Quark](https://curseforge.com/minecraft/mc-mods/quark) ([Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities)), [Map Atlases](https://curseforge.com/minecraft/mc-mods/map-atlases-forge), [Storage Drawers](https://curseforge.com/minecraft/mc-mods/storage-drawers) | French vanilla foundation. |
 | [Spice of Life: Carrot Edition](https://curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) | Altered progression. Adventure. Integration. |
 | [FTB Ultimine](https://curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) | Altered progression. Personal must-have. |
-| [Waystones](https://curseforge.com/minecraft/mc-mods/waystones) | Adventure. Integration. Quality of Life. |
 | [Parcool](https://curseforge.com/minecraft/mc-mods/parcool) | Adventure. Note: Special configuration. |
 | [Farmer's Delight](https://curseforge.com/minecraft/mc-mods/farmers-delight) | Settlement. Adventure. |
-| [Integrated Dungeons and Structures](https://curseforge.com/minecraft/mc-mods/idas) | Integration. Adventure. |
+| [Waystones](https://curseforge.com/minecraft/mc-mods/waystones), [Integrated Dungeons and Structures](https://curseforge.com/minecraft/mc-mods/idas) | Integration. Adventure. |
 
 ### Utility & Quality of Life
 
