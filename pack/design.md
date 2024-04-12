@@ -61,8 +61,6 @@ developing a compelling home base to return to between expeditions.
 
 - Aesthetic customization options should be plentiful.
 
-- Expansions to farming, cooking, and husbandry.
-
 - Bases should be places to construct new crafting stations and large machines,
   which would otherwise be too numerous and cumbersome to transport. The
   machines and the recipes they facilitate require materials which the player
@@ -92,3 +90,8 @@ These hook into more than one pillar.
 
 Arguably the biggest enhancement to the moment-to-moment gameplay. Hooks into
 Adventure and Convenience.
+
+### Expanded Agriculture
+
+As new biomes add new plants to gather and animals to tame, they create new
+options for farming, husbandry, and cooking. Connects Adventure and Settlement.
