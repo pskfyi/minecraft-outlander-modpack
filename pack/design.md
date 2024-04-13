@@ -93,3 +93,8 @@ Adventure and Convenience.
 
 As new biomes add new plants to gather and animals to tame, they create new
 options for farming, husbandry, and cooking. Connects Adventure and Settlement.
+
+### Expanded Villages
+
+Villages are both places to uncover and places to call home, bridging Adventure
+and Settlement. They are also key Integration points in the modding scene.
