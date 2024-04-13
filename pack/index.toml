@@ -244,6 +244,11 @@ hash = "0cda8ca46707f171ef6fb584e38a79f3748bb7c01db404ec572922986b1232a7"
 metafile = true
 
 [[files]]
+file = "mods/sawmill.pw.toml"
+hash = "f9a5ab1207c217049a8c9497b3a7131c0eccab324f3096cec7e1af0d3a0d7004"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "344d03a97fa0bf67aece64aceb5256b05493387366764f389b6350d8c41c497f"
 metafile = true
