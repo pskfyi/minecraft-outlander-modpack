@@ -35,10 +35,8 @@ alter the standard flow of advancement.
 
 - Stages should be gated by resources with unusual means of acquisition.
 
-- The start of the game is slower and harder to encourage caution and
+- The early game is slower and more difficult to encourage caution and
   engagement, and to nudge players into settling down.
-
-- Ultimine and automation options significantly reduce tedium of midgame.
 
 ### 3. Adventure
 
