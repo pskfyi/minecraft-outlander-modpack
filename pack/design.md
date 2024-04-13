@@ -84,7 +84,7 @@ shortcuts for common tasks. The pack should respect the player's time.
 
 These hook into more than one pillar.
 
-### More Travel Options
+### Expanded Travel Options
 
 Arguably the biggest enhancement to the moment-to-moment gameplay. Hooks into
 Adventure and Convenience.
