@@ -21,8 +21,11 @@ also prefer a much simpler implementation.
 - Expanded Agriculture
   - [Farmer's Delight Expansions](https://www.curseforge.com/minecraft/search?page=1&pageSize=20&sortBy=total+downloads&class=mc-mods&search=delight&version=1.20.1&gameVersionTypeId=1)
 - [Mob Capturing Tool](https://www.curseforge.com/minecraft/mc-mods/mob-capturing-tool)
-- [V-Tweaks](https://www.curseforge.com/minecraft/mc-mods/v-tweaks) (Requires
-  investigation)
+- Modpack Tools (Mostly new recipe/crafting mechanisms)
+  - [V-Tweaks](https://www.curseforge.com/minecraft/mc-mods/v-tweaks) has Anvil
+    recipes and the ability to toss items into fuids to convert them
+  - [Custom Fluid Mixin](https://www.curseforge.com/minecraft/mc-mods/custom-fluid-mixin)
+    allows for fluid interactions like cobble generators
 - Visuals & Branding
   - Possible alternative to Packmenu:
     https://legacy.curseforge.com/minecraft/mc-mods/its-the-little-things
