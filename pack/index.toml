@@ -310,6 +310,11 @@ hash = "0cda8ca46707f171ef6fb584e38a79f3748bb7c01db404ec572922986b1232a7"
 metafile = true
 
 [[files]]
+file = "mods/salt.pw.toml"
+hash = "0320c1620e4589d18a590e23d80c729f873dbcdd9aae29bc5e76a9ad7c5f668f"
+metafile = true
+
+[[files]]
 file = "mods/sawmill.pw.toml"
 hash = "f9a5ab1207c217049a8c9497b3a7131c0eccab324f3096cec7e1af0d3a0d7004"
 metafile = true
