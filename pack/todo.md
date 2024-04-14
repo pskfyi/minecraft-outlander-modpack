@@ -23,7 +23,6 @@ also prefer a much simpler implementation.
     - https://www.curseforge.com/minecraft/mc-mods/villagersplus-forge
   - https://legacy.curseforge.com/minecraft/mc-mods/-smarter-farmers-farmers-replant
 - HUD integrations
-  - https://www.curseforge.com/minecraft/mc-mods/gui-clock
   - https://www.reddit.com/r/feedthebeast/comments/1894zfx/what_is_the_difference_between_the_one_probe_and/
     - https://legacy.curseforge.com/minecraft/mc-mods/jade
     - https://www.curseforge.com/minecraft/mc-mods/the-one-probe
