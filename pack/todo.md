@@ -18,12 +18,6 @@ also prefer a much simpler implementation.
 ## Mods Under Consideration
 
 - [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons)
-- Villages
-  - [CTOV Integrations](https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village/wiki/Compatibility)
-    - [Floralis](https://www.curseforge.com/minecraft/mc-mods/floralis)
-    - [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation)
-    - [Wizards](https://www.curseforge.com/minecraft/mc-mods/wizards)
-    - [Jellyfishing](https://www.curseforge.com/minecraft/mc-mods/jellyfishing)
 - Expanded Agriculture
   - [Farmer's Delight Expansions](https://www.curseforge.com/minecraft/search?page=1&pageSize=20&sortBy=total+downloads&class=mc-mods&search=delight&version=1.20.1&gameVersionTypeId=1)
 - [Mob Capturing Tool](https://www.curseforge.com/minecraft/mc-mods/mob-capturing-tool)
