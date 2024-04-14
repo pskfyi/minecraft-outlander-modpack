@@ -27,6 +27,8 @@ configuration is particularly notable.
 ### Utility & Quality of Life
 
 - [REI](https://curseforge.com/minecraft/mc-mods/roughly-enough-items)
+- [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) [⚙️](config.md#jade)
+  ([Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons))
 - [AppleSkin](https://curseforge.com/minecraft/mc-mods/apple-skin)
 - [Carry On](https://curseforge.com/minecraft/mc-mods/carry-on)
 - [Colorful Hearts](https://curseforge.com/minecraft/mc-mods/colorful-hearts)

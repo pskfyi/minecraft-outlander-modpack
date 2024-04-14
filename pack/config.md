@@ -15,6 +15,15 @@ and encourages players to update deps which is dangerous.
 Configured to require tools, for better support of the Altered Progression
 design pillar.
 
+## Jade
+
+Configured to hide mod names. This reduces visual clutter and promotes the
+feeling of Integration that the pack is going for. It also removes an
+omnipresent feeling of moddedness by not constantly reminding the player about
+specific mods. Lastly it adds a small amount of mystery.
+
+This is a rare setting and is likely to be polarizing.
+
 ## Map Altases
 
 Configured to hide coords and biome names which IMO violate the vanilla

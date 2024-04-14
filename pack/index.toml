@@ -13,6 +13,10 @@ file = "config/ftbultimine.snbt"
 hash = "838e7e4c0550c94db975e02cd0ce9f680abeba20edaa777203e44d691b36dcdd"
 
 [[files]]
+file = "config/jade/jade.json"
+hash = "7cc14384617b2b05c58d191152313094e09024e9f8a2523636eeb6fcb1185fb5"
+
+[[files]]
 file = "config/map_atlases-client.toml"
 hash = "1c576427daad12b9f6ffaddacd583b112a23bd530a2ea2b3844bef8aa5924df9"
 
@@ -166,6 +170,16 @@ metafile = true
 [[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "3a61d8d5097d96d41106c38bd40d17b8847c0d388219e6797ba29b187fd50411"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "33466bb8e4a189bc2fc7e456f0f06c94979b87141fb064706f96b1ff7ead74d3"
 metafile = true
 
 [[files]]
