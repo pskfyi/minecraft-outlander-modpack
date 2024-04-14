@@ -53,5 +53,6 @@ configuration is particularly notable.
 
 ### Modpack Tools
 
-- [PackMenu](https://curseforge.com/minecraft/mc-mods/packmenu)
 - [Cagerium](https://curseforge.com/minecraft/mc-mods/cagerium)
+- [KubeJS](https://curseforge.com/minecraft/mc-mods/jubejs)
+- [PackMenu](https://curseforge.com/minecraft/mc-mods/packmenu)

@@ -260,6 +260,11 @@ hash = "826c59a1e607641acb85f1e23a2bb7183a2f0a9ccd19ea4f01bbc9d94d480acf"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "1c579abc5087a9fefa92484a76a2c9a7bef46ba14fb431d452aad806be15fd3a"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "20b9ccddbc62a654c50431d6eb109c656c874b634cce32968faf04710cfdf1b5"
 metafile = true
@@ -341,6 +346,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "a8195e39831da3b5532265589c9e9b5011208bdfa1a8c0e298910463505c3bfa"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "6be79c8aeb5bddbe5957a1292a7977d8e03926c3126472edeaa906ef54f51b58"
 metafile = true
 
 [[files]]
