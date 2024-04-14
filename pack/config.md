@@ -40,6 +40,11 @@ stamina system.
 
 TBD
 
+## Quark
+
+Disabled emotes. They add many entries to the Controls screeen and cause clutter
+in the in-game talk GUI.
+
 ## REI
 
 Using configuration to hide uncraftable items and items which the modpack
