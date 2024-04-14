@@ -25,8 +25,6 @@ also prefer a much simpler implementation.
 - Questing
   - https://www.curseforge.com/minecraft/mc-mods/wares
   - https://www.curseforge.com/minecraft/mc-mods/bountiful
-- MehVahdJukaar
-  - https://legacy.curseforge.com/minecraft/mc-mods/sleep-tight
 - [V-Tweaks](https://www.curseforge.com/minecraft/mc-mods/v-tweaks) (Requires
   investigation)
 - Visuals & Branding
