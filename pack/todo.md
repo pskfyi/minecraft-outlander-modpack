@@ -1,5 +1,10 @@
 # TODO
 
+## Compatibility Issues
+
+Salt and associated systems added by The Salt and Vintage Delight need to be
+reconciled.
+
 ## Mods Not Yet Ready
 
 [Grappling Hook Mod](https://www.curseforge.com/minecraft/mc-mods/grappling-hook-mod)
