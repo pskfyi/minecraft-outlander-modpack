@@ -22,7 +22,7 @@ configuration is particularly notable.
 | [FTB Quests](https://curseforge.com/minecraft/mc-mods/ftb-quests-forge), [FTB Ultimine](https://curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) [⚙️](config.md#ftb-ultimine), [Sawmill](https://curseforge.com/minecraft/mc-mods/sawmill), [Spice of Life: Carrot Edition](https://curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) | [Altered progression](design.md#2-altered-progression) |
 | [Paragliders](https://curseforge.com/minecraft/mc-mods/paragliders) [⚙️](config.md#paragliders), [Parcool](https://curseforge.com/minecraft/mc-mods/parcool) [⚙️](config.md#parcool), [Spyglass Improvements](https://curseforge.com/minecraft/mc-mods/spyglass-improvements), [Waystones](https://curseforge.com/minecraft/mc-mods/waystones) | [Adventure](design.md#3-adventure) and [Expanded Travel Options](design.md#expanded-travel-options) |
 | [Farmer's Delight](https://curseforge.com/minecraft/mc-mods/farmers-delight) | [Expanded Agriculture](design.md#expanded-agriculture) |
-| [Integrated Dungeons and Structures](https://curseforge.com/minecraft/mc-mods/idas) | [Integration](design.md#5-integration) |
+| [ChoiceTheorem's Overhauled Village](https://www.curseforge.com/minecraft/mc-mods/choicetheorems-overhauled-village) and addons, [Integrated Dungeons and Structures](https://curseforge.com/minecraft/mc-mods/idas), [Bountiful](https://www.curseforge.com/minecraft/mc-mods/bountiful), [Chef's Delight](https://www.curseforge.com/minecraft/mc-mods/chefs-delight-forge) | [Expanded Villages](design.md#expanded-villages) and [Integration](design.md#5-integration) |
 
 ### Utility & Quality of Life
 

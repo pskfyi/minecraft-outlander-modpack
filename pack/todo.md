@@ -19,12 +19,11 @@ also prefer a much simpler implementation.
 
 - [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons)
 - Villages
-  - CTOV & Integrations
+  - CTOV Integrations
     - https://www.curseforge.com/minecraft/mc-mods/villagersplus-forge
   - https://legacy.curseforge.com/minecraft/mc-mods/-smarter-farmers-farmers-replant
 - Questing
   - https://www.curseforge.com/minecraft/mc-mods/wares
-  - https://www.curseforge.com/minecraft/mc-mods/bountiful
 - [V-Tweaks](https://www.curseforge.com/minecraft/mc-mods/v-tweaks) (Requires
   investigation)
 - Visuals & Branding
