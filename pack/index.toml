@@ -283,6 +283,11 @@ hash = "08faa8239705d280e41d353888bf717906fe71b1d5b9278bac9f5cd87b07efb3"
 metafile = true
 
 [[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "5188902bc719b959283aca7b087192b6694b77bcefa2c46d40f907010ff6fc29"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "ce92a2870c50085508caf9b680efffdfdd50b54e240e7bf047b6833c66ac139e"
 metafile = true
