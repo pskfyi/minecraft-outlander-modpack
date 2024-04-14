@@ -44,7 +44,6 @@ configuration is particularly notable.
 - [Inventory Sorter](https://curseforge.com/minecraft/mc-mods/inventory-sorter)
 - [Mouse Tweaks](https://curseforge.com/minecraft/mc-mods/mouse-tweaks)
 - [Open Loader](https://curseforge.com/minecraft/mc-mods/open-loader)
-- [PackMenu](https://curseforge.com/minecraft/mc-mods/packmenu)
 - [Smooth Boot Reloaded](https://curseforge.com/minecraft/mc-mods/smooth-boot-reloaded)
 - [Structure Essentials](https://curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric)
 - [Toast Control](https://curseforge.com/minecraft/mc-mods/toast-control)
@@ -52,4 +51,5 @@ configuration is particularly notable.
 
 ### Modpack Tools
 
+- [PackMenu](https://curseforge.com/minecraft/mc-mods/packmenu)
 - [Cagerium](https://curseforge.com/minecraft/mc-mods/cagerium)
