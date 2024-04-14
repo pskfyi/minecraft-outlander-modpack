@@ -309,6 +309,10 @@ hash = "2e9cb4daa54baffcda96c7f1129ba1b7df2c56d140edd473b08fa69551a21b24"
 metafile = true
 
 [[files]]
+file = "mods/quark_delight_1.0.0_forge_1.20.1.jar"
+hash = "1ca98c2776cbb0f4feb226d26adda6e393cb5a393d74b1397f4f2136e563193b"
+
+[[files]]
 file = "mods/radiant-gear.pw.toml"
 hash = "8a03ffa080335bee4e2943880128171d8fbc13c624df70102d68e2c2b93d2eab"
 metafile = true

@@ -26,7 +26,6 @@ also prefer a much simpler implementation.
     - [Jellyfishing](https://www.curseforge.com/minecraft/mc-mods/jellyfishing)
 - Expanded Agriculture
   - [Farmer's Delight Expansions](https://www.curseforge.com/minecraft/search?page=1&pageSize=20&sortBy=total+downloads&class=mc-mods&search=delight&version=1.20.1&gameVersionTypeId=1)
-    - [Quark Delight](https://www.curseforge.com/minecraft/mc-mods/quark-delight)
 - [Mob Capturing Tool](https://www.curseforge.com/minecraft/mc-mods/mob-capturing-tool)
 - [V-Tweaks](https://www.curseforge.com/minecraft/mc-mods/v-tweaks) (Requires
   investigation)
