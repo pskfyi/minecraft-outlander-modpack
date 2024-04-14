@@ -80,6 +80,26 @@ hash = "d02b891b8549c4bacda20466c941001255efd7f184f5ff6bd662ef90c9f6de95"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "475a3bafbd5a7b6e8a7f8008f9a137e25a7c0d3474cca99eaa8bfa313899b408"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots-tiers.pw.toml"
+hash = "d77df24d693e08236ad1fbf5177f266d0da906b9cac2595e18bdddfef04f0c39"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "fa2e9854b4ba351582bae25550b45e9c43305a2597c8b373bf033f471686f174"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "513bfca78fa8de750dbc620919391b839975c1ce4b7c2f3891c1f963476a8d6a"
+metafile = true
+
+[[files]]
 file = "mods/bountiful.pw.toml"
 hash = "79e8f00ded5245e95e096c1b764ebd8bb4dd1b5eeeae6ce89d97d5d07e662ed3"
 metafile = true
@@ -257,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "826c59a1e607641acb85f1e23a2bb7183a2f0a9ccd19ea4f01bbc9d94d480acf"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-botany-pots.pw.toml"
+hash = "1923934e70e6c3ea996b9f263ba35fa95a2249aa366ab4d3d64d5a0d4793f54e"
 metafile = true
 
 [[files]]
