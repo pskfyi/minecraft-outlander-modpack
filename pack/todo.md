@@ -35,6 +35,7 @@ also prefer a much simpler implementation.
   - Possible alternative to Packmenu:
     https://legacy.curseforge.com/minecraft/mc-mods/its-the-little-things
   - https://www.curseforge.com/minecraft/mc-mods/custom-skyboxes
+  - https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen
 - Structures:
   - https://legacy.curseforge.com/minecraft/mc-mods/explorify
 - Difficulty
