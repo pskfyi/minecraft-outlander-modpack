@@ -25,8 +25,16 @@ file = "config/map_atlases-common.toml"
 hash = "8bb8b8c0a91e3cf033fff59a462f3b4450b6b2bb87b137ce6d6a04a8408e8b71"
 
 [[files]]
+file = "config/openloader/data/ctov-chefs-delight-add-on-v2-0.zip"
+hash = "5e1bbd335b0e384169e3e4e8d251111eb233c39d6d98a6ab026e918394d26716"
+
+[[files]]
 file = "config/openloader/data/ctov-farmers-delight-add-on-v2-1a.zip"
 hash = "5e2c46941644f263c9076affd07eef0b408d3c145e36ddb2e4c20c469433ab35"
+
+[[files]]
+file = "config/openloader/data/ctov-wares-add-on-v1-0a.zip"
+hash = "9bed956cfbc3f10e178ac14f07c663bb881e834c6ea3e6c955065d9f1af0252a"
 
 [[files]]
 file = "config/packmenu.cfg"
@@ -359,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "3a3648832ed73aad40fc1a29e1092238cbd3cd2b6f70f305db8a0ac6608e95ba"
+metafile = true
+
+[[files]]
+file = "mods/wares.pw.toml"
+hash = "34b5f377d6fd8ee7d06543e98d9cbc5871bc2b8861afe2128c5714e4f3174e3f"
 metafile = true
 
 [[files]]

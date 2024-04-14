@@ -25,13 +25,10 @@ also prefer a much simpler implementation.
     - [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation)
     - [Wizards](https://www.curseforge.com/minecraft/mc-mods/wizards)
     - [Jellyfishing](https://www.curseforge.com/minecraft/mc-mods/jellyfishing)
-    - [Wares](https://www.curseforge.com/minecraft/texture-packs/ctov-wares-compatibility-pack)
 - Expanded Agriculture
   - [Farmer's Delight Expansions](https://www.curseforge.com/minecraft/search?page=1&pageSize=20&sortBy=total+downloads&class=mc-mods&search=delight&version=1.20.1&gameVersionTypeId=1)
     - [Quark Delight](https://www.curseforge.com/minecraft/mc-mods/quark-delight)
   - https://legacy.curseforge.com/minecraft/mc-mods/-smarter-farmers-farmers-replant
-- Questing
-  - https://www.curseforge.com/minecraft/mc-mods/wares
 - [Mob Capturing Tool](https://www.curseforge.com/minecraft/mc-mods/mob-capturing-tool)
 - [V-Tweaks](https://www.curseforge.com/minecraft/mc-mods/v-tweaks) (Requires
   investigation)
