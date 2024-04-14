@@ -150,6 +150,11 @@ hash = "d4751daea2a174a7bea8efb15eb8191be3be00426c8c316ca45254bb9d12dced"
 metafile = true
 
 [[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "92e7c209d5ed32174844e106e473397f393efb4949fa38d7475601c1135bd0f9"
+metafile = true
+
+[[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "7c42037125573675148f40d1be3c2dfbbfb58065de4793828281de9cd70f0588"
 metafile = true
@@ -202,6 +207,16 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "dcab54200a705f5a74544011849f8d77e73776124e7b144a2d27d6117c949b84"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "59d22263e36313c43ad7c5e4179cb3554d414f701442b0784d94c0ba2384edfd"
+metafile = true
+
+[[files]]
+file = "mods/golemsarefriends.pw.toml"
+hash = "c2a3f3de7f32e18283c366c551ddb7869e35c025acac76b52f9ce6ae05711789"
 metafile = true
 
 [[files]]
@@ -324,6 +339,11 @@ hash = "8a03ffa080335bee4e2943880128171d8fbc13c624df70102d68e2c2b93d2eab"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "a8195e39831da3b5532265589c9e9b5011208bdfa1a8c0e298910463505c3bfa"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items-hacks.pw.toml"
 hash = "7a39d6d8faddf9ac5f10aa1b3c271b8dc27b1f79531bdbeefb8d268b68e9eef5"
 metafile = true
@@ -381,6 +401,16 @@ metafile = true
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "9d454c82d919b4980c0a3fc46ae7c19ee015847e24573ea116df1fbab7644f48"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "436e0c633a689379dfb99745344a6ab0c9cc39955f59d6194aad2a6a44202217"
 metafile = true
 
 [[files]]
