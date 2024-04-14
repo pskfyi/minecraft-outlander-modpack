@@ -20,7 +20,6 @@ also prefer a much simpler implementation.
 - [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons)
 - Villages
   - [CTOV Integrations](https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village/wiki/Compatibility)
-    - [Croptopia](https://www.curseforge.com/minecraft/texture-packs/ctov-croptopia-compat)
     - [Floralis](https://www.curseforge.com/minecraft/mc-mods/floralis)
     - [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation)
     - [Wizards](https://www.curseforge.com/minecraft/mc-mods/wizards)

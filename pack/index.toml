@@ -29,6 +29,10 @@ file = "config/openloader/data/ctov-chefs-delight-add-on-v2-0.zip"
 hash = "5e1bbd335b0e384169e3e4e8d251111eb233c39d6d98a6ab026e918394d26716"
 
 [[files]]
+file = "config/openloader/data/ctov-croptopia-add-on-v2-0.zip"
+hash = "6ba1337cf810232eac8d368fa437079d95459b72151e1c2000b7c53af5da2ccd"
+
+[[files]]
 file = "config/openloader/data/ctov-farmers-delight-add-on-v2-1a.zip"
 hash = "5e2c46941644f263c9076affd07eef0b408d3c145e36ddb2e4c20c469433ab35"
 
@@ -125,6 +129,11 @@ hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
 metafile = true
 
 [[files]]
+file = "mods/croptopia.pw.toml"
+hash = "d8fde87d322c7d8e841658090d41c33120c72b4e6724af94a9fd3cc41603234c"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "703196e02c2f1c05f8cb8edb7b3ff9f0c1015bf0ead85730f976e09c24ce0fca"
 metafile = true
@@ -152,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "3dcbd80b1fa747abe35a56886faab664f47456f2345d94043f8df532129b3a9b"
+metafile = true
+
+[[files]]
+file = "mods/epherolib.pw.toml"
+hash = "fadaae47087ff0af2442bed6c9978eaa14f2926990738d81b5ce382d4c4a86fa"
 metafile = true
 
 [[files]]
