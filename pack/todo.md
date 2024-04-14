@@ -27,7 +27,6 @@ also prefer a much simpler implementation.
   - https://www.curseforge.com/minecraft/mc-mods/bountiful
   - https://legacy.curseforge.com/minecraft/mc-mods/advancement-frames
 - MehVahdJukaar
-  - https://legacy.curseforge.com/minecraft/mc-mods/cagerium
   - https://legacy.curseforge.com/minecraft/mc-mods/sleep-tight
 - [V-Tweaks](https://www.curseforge.com/minecraft/mc-mods/v-tweaks) (Requires
   investigation)
