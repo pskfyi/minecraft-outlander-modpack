@@ -20,7 +20,6 @@ also prefer a much simpler implementation.
 - [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons)
 - Villages
   - CTOV Integrations
-    - https://www.curseforge.com/minecraft/mc-mods/villagersplus-forge
   - https://legacy.curseforge.com/minecraft/mc-mods/-smarter-farmers-farmers-replant
 - Questing
   - https://www.curseforge.com/minecraft/mc-mods/wares
