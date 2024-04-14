@@ -199,6 +199,11 @@ hash = "fadaae47087ff0af2442bed6c9978eaa14f2926990738d81b5ce382d4c4a86fa"
 metafile = true
 
 [[files]]
+file = "mods/ewewukeks-musket-mod.pw.toml"
+hash = "718b91b6de3a6692e32c9035eb6c63560a460663eaef8a27406b1b0eb49157d7"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
 metafile = true
