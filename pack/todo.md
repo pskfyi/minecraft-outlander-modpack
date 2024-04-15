@@ -41,5 +41,3 @@ also prefer a much simpler implementation.
   - https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen
 - Structures:
   - https://legacy.curseforge.com/minecraft/mc-mods/explorify
-- Difficulty
-  - https://www.curseforge.com/minecraft/mc-mods/true-darkness-forge-updated-fork

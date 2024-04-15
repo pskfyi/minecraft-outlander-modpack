@@ -9,6 +9,12 @@ Added a Curios charm slot to hold the thermometer.
 These are configured to remove their custom menu icons because I find them
 cluttersome and distracting.
 
+## Embeddium
+
+- Disabled FPS display.
+
+- Enabled Darkness Mode, set to Dark.
+
 ## Forge
 
 Disabled the version check, which otherwise adds distraction to the landing page

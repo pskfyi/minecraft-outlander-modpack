@@ -5,6 +5,10 @@ file = "config/create-client.toml"
 hash = "034c927c093ed960408e10866f1dad0963a4b703af12520150a337736aac439f"
 
 [[files]]
+file = "config/embeddium++.toml"
+hash = "8ebc06e1c2c3f321a01eaee95c261d93a03fc226f346f7010d8f676490a55c0f"
+
+[[files]]
 file = "config/fml.toml"
 hash = "c5a62e3f2d7b91aaff7977d02db34b45f800ccd553678d86e77b5c110f46d60b"
 
