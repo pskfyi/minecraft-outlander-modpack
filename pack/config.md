@@ -1,5 +1,9 @@
 # Notes on Mod Configurations
 
+## Cold Sweat
+
+Added a Curios charm slot to hold the thermometer.
+
 ## Create and Quark
 
 These are configured to remove their custom menu icons because I find them
@@ -29,6 +33,18 @@ This is a rare setting and is likely to be polarizing.
 Configured to hide coords and biome names which IMO violate the vanilla
 aesthetic, and to prevent the map from rotating with the player which I found
 distracting and divergent from vanilla map behavior.
+
+## Natural Progression
+
+- Removed the ability to place pebbles because it has a bad interaction when you
+  have a pebble in hand and right-click on a pebble on the ground, destroying
+  the one on the ground. Removed placing sticks for parity.
+
+- Disabled the nagging popup that you don't have the right tool. It's on me to
+  make sure pack players understand this, not a constant popup.
+
+- Disabled the damage effect when trying to mine an unmineable block because it
+  triggers at inappropriate times when playing with a trackpad.
 
 ## Paragliders
 

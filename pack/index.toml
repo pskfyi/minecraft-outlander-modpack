@@ -25,6 +25,10 @@ file = "config/map_atlases-common.toml"
 hash = "8bb8b8c0a91e3cf033fff59a462f3b4450b6b2bb87b137ce6d6a04a8408e8b71"
 
 [[files]]
+file = "config/natprog-common.toml"
+hash = "c5bc96303ddf745340ccc7d8a9a694b0da833075b34ce8a0df15f3d02ec0d1a9"
+
+[[files]]
 file = "config/openloader/data/ctov-chefs-delight-add-on-v2-0.zip"
 hash = "5e1bbd335b0e384169e3e4e8d251111eb233c39d6d98a6ab026e918394d26716"
 
@@ -35,6 +39,14 @@ hash = "5e2c46941644f263c9076affd07eef0b408d3c145e36ddb2e4c20c469433ab35"
 [[files]]
 file = "config/openloader/data/ctov-wares-add-on-v1-0a.zip"
 hash = "9bed956cfbc3f10e178ac14f07c663bb881e834c6ea3e6c955065d9f1af0252a"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/curios/entities/charm.json"
+hash = "4cf9197c5c20802117500bf5796c2a2ef8c9eec17205b15b5d7ef26a08482489"
+
+[[files]]
+file = "config/openloader/data/modpack/pack.mcmeta"
+hash = "69fb64b4f16b254f7283b44f27aca82e376e6c05150a1d77edaa677b4a40c887"
 
 [[files]]
 file = "config/packmenu.cfg"
