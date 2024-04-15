@@ -139,6 +139,11 @@ hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
 metafile = true
 
 [[files]]
+file = "mods/cold-sweat.pw.toml"
+hash = "0290f035db4a36e45887b67c19edfa9e0c3285a0806d28207782621036979a32"
+metafile = true
+
+[[files]]
 file = "mods/colorful-hearts.pw.toml"
 hash = "bbd37c0148855bc6aaac27bdc7aef5acef2f29180da52adfa5818573924135f1"
 metafile = true
