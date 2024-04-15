@@ -200,6 +200,11 @@ hash = "d4751daea2a174a7bea8efb15eb8191be3be00426c8c316ca45254bb9d12dced"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "5a6bf8b7d22a4356c5d0fb26d0a4c7fbc65723d5accc8edf88248e3575a64876"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "92e7c209d5ed32174844e106e473397f393efb4949fa38d7475601c1135bd0f9"
 metafile = true
