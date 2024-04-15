@@ -419,6 +419,11 @@ hash = "a8195e39831da3b5532265589c9e9b5011208bdfa1a8c0e298910463505c3bfa"
 metafile = true
 
 [[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "c2e05016968c20cd6e7d7395daa52b2c39192272898c678469c2aa28c2daf896"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "6be79c8aeb5bddbe5957a1292a7977d8e03926c3126472edeaa906ef54f51b58"
 metafile = true
@@ -506,6 +511,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "2702a1a7d6ebac7853d6e7ebb5dcf68e2edf4b54702ccb745c5d452b5d4df6cf"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "570d8ea67256d5fdcbba9504cb77c49dac326c1116d84e3c48ae5a6113fdf8a7"
 metafile = true
 
 [[files]]
