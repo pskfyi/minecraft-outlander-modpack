@@ -334,6 +334,11 @@ hash = "6661419906a990bdbc3f2de5cb8ca395c15fd1d9a38ebc4ea35059e9596a8f00"
 metafile = true
 
 [[files]]
+file = "mods/natural-progressions.pw.toml"
+hash = "906227da2401d8f095334819fb4eb2649ee003d16ec4cf4d2ce8f9554a694f98"
+metafile = true
+
+[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "57f6793fdca748db18eb33a34344f68804e881af07c5e032073d8b33ee683a54"
 metafile = true
