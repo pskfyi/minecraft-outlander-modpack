@@ -23,8 +23,6 @@ also prefer a much simpler implementation.
 ## Mods Under Consideration
 
 - [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons)
-- Expanded Agriculture
-  - [Farmer's Delight Expansions](https://www.curseforge.com/minecraft/search?page=1&pageSize=20&sortBy=total+downloads&class=mc-mods&search=delight&version=1.20.1&gameVersionTypeId=1)
 - [Mob Capturing Tool](https://www.curseforge.com/minecraft/mc-mods/mob-capturing-tool)
 - Modpack Tools (Mostly new recipe/crafting mechanisms)
   - [V-Tweaks](https://www.curseforge.com/minecraft/mc-mods/v-tweaks) has Anvil
