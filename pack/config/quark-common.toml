@@ -1422,7 +1422,7 @@
 
 	[mobs.stonelings]
 		"Max Y Level" = 0
-		"Enable Diamond Heart" = true
+		"Enable Diamond Heart" = false
 		#When enabled, stonelings are much more aggressive in checking for players
 		"Cautious Stonelings" = false
 		"Tamable Stonelings" = true
