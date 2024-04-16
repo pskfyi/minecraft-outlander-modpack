@@ -18,8 +18,8 @@ configuration is particularly notable.
 
 | Mod | Primary Purpose |
 | :-- | :----------- |
-| [Create](https://curseforge.com/minecraft/mc-mods/create), [Supplementaries](https://curseforge.com/minecraft/mc-mods/supplementaries) ([Squared](https://curseforge.com/minecraft/mc-mods/supplementaries-squared)), [Quark](https://curseforge.com/minecraft/mc-mods/quark) ([Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities)), [Lychee](https://curseforge.com/minecraft/mc-mods/lychee), [Map Atlases](https://curseforge.com/minecraft/mc-mods/map-atlases-forge), [Storage Drawers](https://curseforge.com/minecraft/mc-mods/storage-drawers) | [French vanilla](design.md#1-french-vanilla) foundation |
-| [FTB Quests](https://curseforge.com/minecraft/mc-mods/ftb-quests-forge), [Cold Sweat](https://www.curseforge.com/minecraft/mc-mods/cold-sweat), [Natural Progression](https://www.curseforge.com/minecraft/mc-mods/natural-progressions), [Sawmill](https://curseforge.com/minecraft/mc-mods/sawmill), [Spice of Life: Carrot Edition](https://curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) | [Altered progression](design.md#2-altered-progression) |
+| [Create](https://curseforge.com/minecraft/mc-mods/create), [Supplementaries](https://curseforge.com/minecraft/mc-mods/supplementaries) ([Squared](https://curseforge.com/minecraft/mc-mods/supplementaries-squared)), [Quark](https://curseforge.com/minecraft/mc-mods/quark) ([Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities)), [Map Atlases](https://curseforge.com/minecraft/mc-mods/map-atlases-forge), [Storage Drawers](https://curseforge.com/minecraft/mc-mods/storage-drawers) | [French vanilla](design.md#1-french-vanilla) foundation |
+| [FTB Quests](https://curseforge.com/minecraft/mc-mods/ftb-quests-forge), [Cold Sweat](https://www.curseforge.com/minecraft/mc-mods/cold-sweat), [Natural Progression](https://www.curseforge.com/minecraft/mc-mods/natural-progressions), [Spice of Life: Carrot Edition](https://curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) | [Altered progression](design.md#2-altered-progression) |
 | [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons), [Regions Unexplored](https://www.curseforge.com/minecraft/mc-mods/regions-unexplored), [Aquaculture](https://curseforge.com/minecraft/mc-mods/aquaculture), [Musket](https://www.curseforge.com/minecraft/mc-mods/ewewukeks-musket-mod), [Paragliders](https://curseforge.com/minecraft/mc-mods/paragliders) [⚙️](config.md#paragliders), [Parcool](https://curseforge.com/minecraft/mc-mods/parcool) [⚙️](config.md#parcool), [Spyglass Improvements](https://curseforge.com/minecraft/mc-mods/spyglass-improvements), [Waystones](https://curseforge.com/minecraft/mc-mods/waystones) | [Adventure](design.md#3-adventure) and [Expanded Travel Options](design.md#expanded-travel-options) |
 | [Botany Pots](https://www.curseforge.com/minecraft/mc-mods/botany-pots) (plus [Trees](https://www.curseforge.com/minecraft/mc-mods/botany-trees) and [Tiers](https://www.curseforge.com/minecraft/mc-mods/botany-pots-tiers)), [Domum Ornamentum](https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum), [Rechiseled](https://www.curseforge.com/minecraft/mc-mods/rechiseled) | [Settlement](design.md#4-settlement) |
 | [Integrated Dungeons and Structures](https://curseforge.com/minecraft/mc-mods/idas), [Create Slice & Dice](https://www.curseforge.com/minecraft/mc-mods/slice-and-dice), [Aquaculture Delight](https://www.curseforge.com/minecraft/mc-mods/aquaculture-delight), [Quark Delight](https://www.curseforge.com/minecraft/mc-mods/quark-delight) | [Integration](design.md#5-integration) |
@@ -32,9 +32,11 @@ configuration is particularly notable.
 
 - [Cagerium](https://curseforge.com/minecraft/mc-mods/cagerium)
 - [KubeJS](https://curseforge.com/minecraft/mc-mods/jubejs) plus integrations
+- [Lychee](https://curseforge.com/minecraft/mc-mods/lychee)
 - [Mob Capturing Tool](https://curseforge.com/minecraft/mc-mods/mob-capturing-tool)
 - [Open Loader](https://curseforge.com/minecraft/mc-mods/open-loader)
 - [PackMenu](https://curseforge.com/minecraft/mc-mods/packmenu)
+- [Sawmill](https://curseforge.com/minecraft/mc-mods/sawmill)
 
 ### Utility
 
