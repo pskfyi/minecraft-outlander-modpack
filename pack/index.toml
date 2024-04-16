@@ -245,6 +245,11 @@ hash = "b4fc21a94115c0044b9c7bf79b5b5eddef5034361039a1cbc1af4afc47662f46"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
 file = "mods/fruits-delight.pw.toml"
 hash = "601876869b0820672f254b8eb3a827c75ecc464bf7eb603d12be92c8f4268ce0"
 metafile = true
@@ -347,6 +352,11 @@ metafile = true
 [[files]]
 file = "mods/map-atlases-forge.pw.toml"
 hash = "5f774bed83562d6f96a83b182deaec8e980e751d13692465bcfa85db1a40d286"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "f5f2e45041e4e559e1631cd99eaf273609ca39c0dee3c6030590992968b04620"
 metafile = true
 
 [[files]]
@@ -551,6 +561,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "5f7c7bb29895141d57fdc32823a169e3a851176760f8ceed6c00bc109b4288df"
+metafile = true
+
+[[files]]
+file = "mods/yeetusexperimentus.pw.toml"
+hash = "7dbe376c64d52ddc3e52ca6ce6b07d8c5d76bf9ef68d58267bb9e9c6d8fb2c09"
 metafile = true
 
 [[files]]

@@ -42,16 +42,22 @@ configuration is particularly notable.
   [Lanterns](https://curseforge.com/minecraft/mc-mods/curious-lanterns))
 - [Embeddium](https://curseforge.com/minecraft/mc-mods/embeddium)
   ([TexTrue's Options](https://curseforge.com/minecraft/mc-mods/textrues-embeddium-options))
-- [Fastload](https://curseforge.com/minecraft/mc-mods/fastload)
 - [Fast Leaf Decay](https://curseforge.com/minecraft/mc-mods/fast-leaf-decay)
-- [ImmediatelyFast](https://curseforge.com/minecraft/mc-mods/immediatelyfast)
 - [Inventory Sorter](https://curseforge.com/minecraft/mc-mods/inventory-sorter)
 - [Mouse Tweaks](https://curseforge.com/minecraft/mc-mods/mouse-tweaks)
 - [Open Loader](https://curseforge.com/minecraft/mc-mods/open-loader)
-- [Smooth Boot Reloaded](https://curseforge.com/minecraft/mc-mods/smooth-boot-reloaded)
-- [Structure Essentials](https://curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric)
 - [Toast Control](https://curseforge.com/minecraft/mc-mods/toast-control)
 - [Visual Workbench](https://curseforge.com/minecraft/mc-mods/visual-workbench)
+
+#### Performance
+
+- [Fastload](https://curseforge.com/minecraft/mc-mods/fastload)
+- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
+- [ImmediatelyFast](https://curseforge.com/minecraft/mc-mods/immediatelyfast)
+- [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)
+- [Smooth Boot Reloaded](https://curseforge.com/minecraft/mc-mods/smooth-boot-reloaded)
+- [Structure Essentials](https://curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric)
+- [Yeetus Experimentus](https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus)
 
 ### Modpack Tools
 
