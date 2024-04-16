@@ -360,6 +360,11 @@ hash = "5f774bed83562d6f96a83b182deaec8e980e751d13692465bcfa85db1a40d286"
 metafile = true
 
 [[files]]
+file = "mods/mob-capturing-tool.pw.toml"
+hash = "12c3514e7e2ed86359f7127ed5c1e83e35ef8ef93fbb8e3bf72255759bfcad0b"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "f5f2e45041e4e559e1631cd99eaf273609ca39c0dee3c6030590992968b04620"
 metafile = true

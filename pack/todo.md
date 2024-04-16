@@ -27,7 +27,6 @@ also prefer a much simpler implementation.
 
 ## Mods Under Consideration
 
-- [Mob Capturing Tool](https://www.curseforge.com/minecraft/mc-mods/mob-capturing-tool)
 - Modpack Tools (Mostly new recipe/crafting mechanisms)
   - [V-Tweaks](https://www.curseforge.com/minecraft/mc-mods/v-tweaks) has Anvil
     recipes and the ability to toss items into fuids to convert them

@@ -32,6 +32,7 @@ configuration is particularly notable.
 
 - [Cagerium](https://curseforge.com/minecraft/mc-mods/cagerium)
 - [KubeJS](https://curseforge.com/minecraft/mc-mods/jubejs) plus integrations
+- [Mob Capturing Tool](https://curseforge.com/minecraft/mc-mods/mob-capturing-tool)
 - [Open Loader](https://curseforge.com/minecraft/mc-mods/open-loader)
 - [PackMenu](https://curseforge.com/minecraft/mc-mods/packmenu)
 
