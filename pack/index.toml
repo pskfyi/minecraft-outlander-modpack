@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/create-client.toml"
-hash = "034c927c093ed960408e10866f1dad0963a4b703af12520150a337736aac439f"
+hash = "1156f045c7f21eea4d02d50b85dfcf053d14939ed9ae023a25d8fafe752a06b9"
 
 [[files]]
 file = "config/embeddium++.toml"
