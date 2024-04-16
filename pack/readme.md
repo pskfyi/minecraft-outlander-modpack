@@ -37,6 +37,7 @@ configuration is particularly notable.
 
 ### Utility
 
+- [Chunky](https://curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge)
 - [Configured](https://curseforge.com/minecraft/mc-mods/configured)
 - [Curios](https://curseforge.com/minecraft/mc-mods/curios)
   ([Quark Oddities Backpack](https://curseforge.com/minecraft/mc-mods/curios-quark-oddities-backpack),

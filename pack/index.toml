@@ -150,6 +150,11 @@ hash = "d5d15e9ecea179026322633a340e6bf2668d5a7a66cf666829ffc3c732378380"
 metafile = true
 
 [[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "761d64faaf22c81387d674fcb45cf6e8cc5bc055117a0ba959a316075414e6f1"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
 metafile = true
