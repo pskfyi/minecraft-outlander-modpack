@@ -35,18 +35,14 @@ configuration is particularly notable.
 - [Open Loader](https://curseforge.com/minecraft/mc-mods/open-loader)
 - [PackMenu](https://curseforge.com/minecraft/mc-mods/packmenu)
 
-### Utility & Quality of Life
+### Utility
 
-- [Carry On](https://curseforge.com/minecraft/mc-mods/carry-on)
 - [Configured](https://curseforge.com/minecraft/mc-mods/configured)
 - [Curios](https://curseforge.com/minecraft/mc-mods/curios)
   ([Quark Oddities Backpack](https://curseforge.com/minecraft/mc-mods/curios-quark-oddities-backpack),
   [Lanterns](https://curseforge.com/minecraft/mc-mods/curious-lanterns))
 - [Embeddium](https://curseforge.com/minecraft/mc-mods/embeddium)
   ([TexTrue's Options](https://curseforge.com/minecraft/mc-mods/textrues-embeddium-options))
-- [Fast Leaf Decay](https://curseforge.com/minecraft/mc-mods/fast-leaf-decay)
-- [Inventory Sorter](https://curseforge.com/minecraft/mc-mods/inventory-sorter)
-- [Mouse Tweaks](https://curseforge.com/minecraft/mc-mods/mouse-tweaks)
 - [Toast Control](https://curseforge.com/minecraft/mc-mods/toast-control)
 
 #### GUI & Graphics
@@ -67,3 +63,10 @@ configuration is particularly notable.
 - [Smooth Boot Reloaded](https://curseforge.com/minecraft/mc-mods/smooth-boot-reloaded)
 - [Structure Essentials](https://curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric)
 - [Yeetus Experimentus](https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus)
+
+#### Quality of Life
+
+- [Carry On](https://curseforge.com/minecraft/mc-mods/carry-on)
+- [Fast Leaf Decay](https://curseforge.com/minecraft/mc-mods/fast-leaf-decay)
+- [Inventory Sorter](https://curseforge.com/minecraft/mc-mods/inventory-sorter)
+- [Mouse Tweaks](https://curseforge.com/minecraft/mc-mods/mouse-tweaks)
