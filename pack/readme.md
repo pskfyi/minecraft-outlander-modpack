@@ -28,6 +28,13 @@ configuration is particularly notable.
 | [ChoiceTheorem's Overhauled Village](https://www.curseforge.com/minecraft/mc-mods/choicetheorems-overhauled-village) and addons, [Bountiful](https://www.curseforge.com/minecraft/mc-mods/bountiful), [Chef's Delight](https://www.curseforge.com/minecraft/mc-mods/chefs-delight-forge), [Golems Are Friends](https://www.curseforge.com/minecraft/mc-mods/golemsarefriends), [Smarter Farmers](https://legacy.curseforge.com/minecraft/mc-mods/smarter-farmers-farmers-replant), [Wares](https://www.curseforge.com/minecraft/mc-mods/wares) | [Expanded Villages](design.md#expanded-villages) and [Integration](design.md#5-integration) |
 | [Paragliders](https://curseforge.com/minecraft/mc-mods/paragliders) [⚙️](config.md#paragliders), [Parcool](https://curseforge.com/minecraft/mc-mods/parcool) [⚙️](config.md#parcool), [Waystones](https://curseforge.com/minecraft/mc-mods/waystones) | [Expanded Travel Options](design.md#expanded-travel-options) |
 
+### Modpack Tools
+
+- [Cagerium](https://curseforge.com/minecraft/mc-mods/cagerium)
+- [KubeJS](https://curseforge.com/minecraft/mc-mods/jubejs) plus integrations
+- [Open Loader](https://curseforge.com/minecraft/mc-mods/open-loader)
+- [PackMenu](https://curseforge.com/minecraft/mc-mods/packmenu)
+
 ### Utility & Quality of Life
 
 - [REI](https://curseforge.com/minecraft/mc-mods/roughly-enough-items)
@@ -45,7 +52,6 @@ configuration is particularly notable.
 - [Fast Leaf Decay](https://curseforge.com/minecraft/mc-mods/fast-leaf-decay)
 - [Inventory Sorter](https://curseforge.com/minecraft/mc-mods/inventory-sorter)
 - [Mouse Tweaks](https://curseforge.com/minecraft/mc-mods/mouse-tweaks)
-- [Open Loader](https://curseforge.com/minecraft/mc-mods/open-loader)
 - [Toast Control](https://curseforge.com/minecraft/mc-mods/toast-control)
 - [Visual Workbench](https://curseforge.com/minecraft/mc-mods/visual-workbench)
 
@@ -58,9 +64,3 @@ configuration is particularly notable.
 - [Smooth Boot Reloaded](https://curseforge.com/minecraft/mc-mods/smooth-boot-reloaded)
 - [Structure Essentials](https://curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric)
 - [Yeetus Experimentus](https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus)
-
-### Modpack Tools
-
-- [Cagerium](https://curseforge.com/minecraft/mc-mods/cagerium)
-- [KubeJS](https://curseforge.com/minecraft/mc-mods/jubejs) plus integrations
-- [PackMenu](https://curseforge.com/minecraft/mc-mods/packmenu)
