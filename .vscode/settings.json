@@ -4,5 +4,8 @@
   },
   "[json]": {
     "editor.defaultFormatter": "denoland.vscode-deno"
+  },
+  "[toml]": {
+    "editor.formatOnSave": false
   }
 }
