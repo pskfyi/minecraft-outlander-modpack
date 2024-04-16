@@ -37,12 +37,7 @@ configuration is particularly notable.
 
 ### Utility & Quality of Life
 
-- [REI](https://curseforge.com/minecraft/mc-mods/roughly-enough-items)
-- [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) [⚙️](config.md#jade)
-  ([Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons))
-- [AppleSkin](https://curseforge.com/minecraft/mc-mods/apple-skin)
 - [Carry On](https://curseforge.com/minecraft/mc-mods/carry-on)
-- [Colorful Hearts](https://curseforge.com/minecraft/mc-mods/colorful-hearts)
 - [Configured](https://curseforge.com/minecraft/mc-mods/configured)
 - [Curios](https://curseforge.com/minecraft/mc-mods/curios)
   ([Quark Oddities Backpack](https://curseforge.com/minecraft/mc-mods/curios-quark-oddities-backpack),
@@ -53,6 +48,14 @@ configuration is particularly notable.
 - [Inventory Sorter](https://curseforge.com/minecraft/mc-mods/inventory-sorter)
 - [Mouse Tweaks](https://curseforge.com/minecraft/mc-mods/mouse-tweaks)
 - [Toast Control](https://curseforge.com/minecraft/mc-mods/toast-control)
+
+#### GUI & Graphics
+
+- [AppleSkin](https://curseforge.com/minecraft/mc-mods/apple-skin)
+- [Colorful Hearts](https://curseforge.com/minecraft/mc-mods/colorful-hearts)
+- [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) [⚙️](config.md#jade)
+  ([Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons))
+- [REI](https://curseforge.com/minecraft/mc-mods/roughly-enough-items)
 - [Visual Workbench](https://curseforge.com/minecraft/mc-mods/visual-workbench)
 
 #### Performance
