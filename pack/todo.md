@@ -41,8 +41,6 @@ needs to be slightly more proven before I dive in.
 - https://www.curseforge.com/minecraft/mc-mods/completionists-index
 - https://www.curseforge.com/minecraft/mc-mods/tool-progression
 - https://www.curseforge.com/minecraft/mc-mods/simple-magnets
-- https://www.curseforge.com/minecraft/mc-mods/tiny-coal
-- https://www.curseforge.com/minecraft/mc-mods/tiny-redstone
 - Modpack Tools (Mostly new recipe/crafting mechanisms)
   - https://www.curseforge.com/minecraft/mc-mods/exnihilosequentia
   - [V-Tweaks](https://www.curseforge.com/minecraft/mc-mods/v-tweaks) has Anvil
