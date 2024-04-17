@@ -36,19 +36,15 @@ needs to be slightly more proven before I dive in.
 - https://www.curseforge.com/minecraft/mc-mods/tool-belt
   - https://www.curseforge.com/minecraft/mc-mods/sewing-kit
   - https://www.curseforge.com/minecraft/texture-packs/tool-belt-retextured
-- https://www.curseforge.com/minecraft/mc-mods/minerally
-- https://www.curseforge.com/minecraft/mc-mods/completionists-index
-- https://www.curseforge.com/minecraft/mc-mods/tool-progression
 - Modpack Tools (Mostly new recipe/crafting mechanisms)
   - https://www.curseforge.com/minecraft/mc-mods/exnihilosequentia
   - [V-Tweaks](https://www.curseforge.com/minecraft/mc-mods/v-tweaks) has Anvil
     recipes and the ability to toss items into fuids to convert them
   - [Custom Fluid Mixin](https://www.curseforge.com/minecraft/mc-mods/custom-fluid-mixin)
     allows for fluid interactions like cobble generators
+  - [Tool Progression](https://www.curseforge.com/minecraft/mc-mods/tool-progression)
 - Visuals & Branding
   - Possible alternative to Packmenu:
     https://legacy.curseforge.com/minecraft/mc-mods/its-the-little-things
   - https://www.curseforge.com/minecraft/mc-mods/custom-skyboxes
   - https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen
-- Structures:
-  - https://legacy.curseforge.com/minecraft/mc-mods/explorify
