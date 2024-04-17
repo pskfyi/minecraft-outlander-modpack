@@ -39,6 +39,9 @@ needs to be slightly more proven before I dive in.
   - [Custom Fluid Mixin](https://www.curseforge.com/minecraft/mc-mods/custom-fluid-mixin)
     allows for fluid interactions like cobble generators
   - [Tool Progression](https://www.curseforge.com/minecraft/mc-mods/tool-progression)
+  - [Skill Slots](https://www.curseforge.com/minecraft/mc-mods/skill-slots), the
+    Jade and Lychee author's newest mod, allows for items to grant skills via
+    KubeJS.
 - Visuals & Branding
   - Possible alternative to Packmenu:
     https://legacy.curseforge.com/minecraft/mc-mods/its-the-little-things
