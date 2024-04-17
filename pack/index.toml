@@ -213,6 +213,11 @@ hash = "1613f68b9bdd242a957a3a20c5193b640672d11087abcb5c3abe5da45b235e35"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
+metafile = true
+
+[[files]]
 file = "mods/copper-amulets.pw.toml"
 hash = "66dc179e3aeb3e2eadd8140539e0f29c1b799ab335722f3fc599ec2814b06693"
 metafile = true
@@ -564,6 +569,11 @@ metafile = true
 [[files]]
 file = "mods/sawmill.pw.toml"
 hash = "f9a5ab1207c217049a8c9497b3a7131c0eccab324f3096cec7e1af0d3a0d7004"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "5a1192528bb03cab00ab6d81bffd6f89faa653b5385b8e1c03963c4d78e287e3"
 metafile = true
 
 [[files]]

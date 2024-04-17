@@ -45,6 +45,7 @@ configuration is particularly notable.
 
 - [Chunky](https://curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge)
 - [Configured](https://curseforge.com/minecraft/mc-mods/configured)
+- [Controlling](https://curseforge.com/minecraft/mc-mods/controlling)
 - [Curios](https://curseforge.com/minecraft/mc-mods/curios)
   ([Quark Oddities Backpack](https://curseforge.com/minecraft/mc-mods/curios-quark-oddities-backpack),
   [Lanterns](https://curseforge.com/minecraft/mc-mods/curious-lanterns))
