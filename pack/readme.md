@@ -54,6 +54,8 @@ configuration is particularly notable.
 #### GUI & Graphics
 
 - [AppleSkin](https://curseforge.com/minecraft/mc-mods/apple-skin)
+- [Auto Third Person](https://curseforge.com/minecraft/mc-mods/auto-third-person)
+- [Better Third Person](https://curseforge.com/minecraft/mc-mods/better-third-person)
 - [Colorful Hearts](https://curseforge.com/minecraft/mc-mods/colorful-hearts)
 - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) [⚙️](config.md#jade)
   ([Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons))

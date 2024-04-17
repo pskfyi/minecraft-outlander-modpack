@@ -44,8 +44,6 @@ is stuck on 1.19.3.
 - https://www.curseforge.com/minecraft/mc-mods/wooden-hopper
 - https://www.curseforge.com/minecraft/mc-mods/wooden-bucket
 - https://www.curseforge.com/minecraft/mc-mods/simple-magnets
-- https://www.curseforge.com/minecraft/mc-mods/auto-third-person
-- https://www.curseforge.com/minecraft/mc-mods/better-third-person
 - https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft
   - https://www.curseforge.com/minecraft/texture-packs/create-immersive-aircrafts-resource-pack
 - https://www.curseforge.com/minecraft/mc-mods/tiny-coal
