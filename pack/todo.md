@@ -36,7 +36,6 @@ needs to be slightly more proven before I dive in.
 - https://www.curseforge.com/minecraft/mc-mods/tool-belt
   - https://www.curseforge.com/minecraft/mc-mods/sewing-kit
   - https://www.curseforge.com/minecraft/texture-packs/tool-belt-retextured
-- https://www.curseforge.com/minecraft/mc-mods/lets-do-vinery
 - https://www.curseforge.com/minecraft/mc-mods/minerally
 - https://www.curseforge.com/minecraft/mc-mods/completionists-index
 - https://www.curseforge.com/minecraft/mc-mods/tool-progression

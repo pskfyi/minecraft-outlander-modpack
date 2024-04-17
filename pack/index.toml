@@ -73,6 +73,10 @@ file = "config/supplementaries-client.toml"
 hash = "371a5b7e472913d5c278944f260d9afacd291855d9b9025e33d601fa2f37daee"
 
 [[files]]
+file = "config/vintageimprovements-client.toml"
+hash = "ebd197eb9de1c82ad91e3fe510eda233509a9d83968e35f0e0f4cd6ff2b14e79"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "1f27ecf41f4f0fadbc670bb2b88e9e21dcb1ac9c8e0778b70d990888b08b3d6f"
 
@@ -255,6 +259,11 @@ hash = "5a6bf8b7d22a4356c5d0fb26d0a4c7fbc65723d5accc8edf88248e3575a64876"
 metafile = true
 
 [[files]]
+file = "mods/do-api.pw.toml"
+hash = "5140f31eb89561edb7250136f74b801f738d77ac64910b65951ce561f79f4d41"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "92e7c209d5ed32174844e106e473397f393efb4949fa38d7475601c1135bd0f9"
 metafile = true
@@ -387,6 +396,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "1c579abc5087a9fefa92484a76a2c9a7bef46ba14fb431d452aad806be15fd3a"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "a4e41310af593e1fb23cc3f2a17dbbf6f26c6a25fbb58cbd631bc5c4915e6d1a"
 metafile = true
 
 [[files]]
