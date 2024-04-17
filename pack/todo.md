@@ -16,6 +16,9 @@ reconciled.
 is stuck on an old version of Forge and I'm not willing to downgrade for it. I'd
 also prefer a much simpler implementation.
 
+[Create Style Modded Compats](https://www.curseforge.com/minecraft/texture-packs/create-style-modded-compats)
+is stuck on 1.19.3.
+
 ## Open Issues
 
 - HUD Compass does not support:
@@ -40,8 +43,6 @@ also prefer a much simpler implementation.
 - https://www.curseforge.com/minecraft/mc-mods/copper-hopper
 - https://www.curseforge.com/minecraft/mc-mods/wooden-hopper
 - https://www.curseforge.com/minecraft/mc-mods/wooden-bucket
-- https://www.curseforge.com/minecraft/mc-mods/toms-storage
-  - https://www.curseforge.com/minecraft/texture-packs/create-style-modded-compats
 - https://www.curseforge.com/minecraft/mc-mods/simple-magnets
 - https://www.curseforge.com/minecraft/mc-mods/auto-third-person
 - https://www.curseforge.com/minecraft/mc-mods/better-third-person

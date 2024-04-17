@@ -599,6 +599,11 @@ hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "f29648fa88935462151aeb43e377f99226130f1181d9dfa53279a1801c9d3cee"
+metafile = true
+
+[[files]]
 file = "mods/uppers.pw.toml"
 hash = "7d4883117ff8ab8e5d54204a7b5fa9ebbc4a8fae3f6cb5e8c1484d5c4b682705"
 metafile = true
