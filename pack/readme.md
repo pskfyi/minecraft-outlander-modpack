@@ -33,6 +33,7 @@ configuration is particularly notable.
 - [Ceramic Bucket](https://www.curseforge.com/minecraft/mc-mods/ceramic-bucket)
 - [Ceramic Shears](https://www.curseforge.com/minecraft/mc-mods/ceramic-shears)
 - [Cagerium](https://curseforge.com/minecraft/mc-mods/cagerium)
+- [Ex Nihilo: Sequentia](https://curseforge.com/minecraft/mc-mods/exnihilosequentia)
 - [KubeJS](https://curseforge.com/minecraft/mc-mods/jubejs) plus integrations
 - [Lychee](https://curseforge.com/minecraft/mc-mods/lychee)
 - [Mob Capturing Tool](https://curseforge.com/minecraft/mc-mods/mob-capturing-tool)

@@ -293,6 +293,11 @@ hash = "718b91b6de3a6692e32c9035eb6c63560a460663eaef8a27406b1b0eb49157d7"
 metafile = true
 
 [[files]]
+file = "mods/exnihilosequentia.pw.toml"
+hash = "0a63404e5850115bf6c98a0a78ef8ad65fa92c62d45430a390e5ea0f5d14f17f"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
 metafile = true
@@ -455,6 +460,11 @@ metafile = true
 [[files]]
 file = "mods/new-thin-air.pw.toml"
 hash = "c9cfca434463c3b28e48630ad1b350f516a30527532977347fd4b0cfa1a8a919"
+metafile = true
+
+[[files]]
+file = "mods/novacore.pw.toml"
+hash = "593899fa3133de24cdd943513530a0612ebf9ac48f0bc9b9da705744a7f4429f"
 metafile = true
 
 [[files]]
