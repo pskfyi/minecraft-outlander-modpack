@@ -549,6 +549,11 @@ hash = "9e62033c569248a2a9b316747e7cc3e16347e93e0a6311d4b37a8d7e909b8a46"
 metafile = true
 
 [[files]]
+file = "mods/simple-magnets.pw.toml"
+hash = "da27aa6a2ccd5ec9dd462baf62efd9e09abbecf927d7b3e27c6079d8b41fde66"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "5b8044347814e2099c47058c60680376c5acf64f6e87124d1734ae23aeb183fc"
 metafile = true
