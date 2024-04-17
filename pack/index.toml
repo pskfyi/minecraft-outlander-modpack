@@ -130,6 +130,11 @@ hash = "79e8f00ded5245e95e096c1b764ebd8bb4dd1b5eeeae6ce89d97d5d07e662ed3"
 metafile = true
 
 [[files]]
+file = "mods/bucketlib.pw.toml"
+hash = "e6a4818269adf46d8560227fa699278cf06a344ac9fb9a343bec720153b4b174"
+metafile = true
+
+[[files]]
 file = "mods/cagerium.pw.toml"
 hash = "b0d0499228aeaa2a50af4b8213fbace833e3c7abca757c8d93adcc719d1536a2"
 metafile = true
@@ -137,6 +142,16 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
+metafile = true
+
+[[files]]
+file = "mods/ceramic-bucket.pw.toml"
+hash = "18193b1940bf94e37b96e2c5dd64a8ccb2fc2a3ace4e05ec0910870c66f8fa40"
+metafile = true
+
+[[files]]
+file = "mods/ceramic-shears.pw.toml"
+hash = "ca1515c558e30cb3d65424b16ae2d71e3d82aec60c819a882ca07e89798186e7"
 metafile = true
 
 [[files]]
@@ -172,6 +187,16 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "1613f68b9bdd242a957a3a20c5193b640672d11087abcb5c3abe5da45b235e35"
+metafile = true
+
+[[files]]
+file = "mods/copper-amulets.pw.toml"
+hash = "66dc179e3aeb3e2eadd8140539e0f29c1b799ab335722f3fc599ec2814b06693"
 metafile = true
 
 [[files]]
@@ -571,6 +596,11 @@ metafile = true
 [[files]]
 file = "mods/toast-control.pw.toml"
 hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
+metafile = true
+
+[[files]]
+file = "mods/uppers.pw.toml"
+hash = "7d4883117ff8ab8e5d54204a7b5fa9ebbc4a8fae3f6cb5e8c1484d5c4b682705"
 metafile = true
 
 [[files]]
