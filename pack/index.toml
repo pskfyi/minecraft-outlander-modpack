@@ -73,6 +73,10 @@ file = "config/supplementaries-client.toml"
 hash = "371a5b7e472913d5c278944f260d9afacd291855d9b9025e33d601fa2f37daee"
 
 [[files]]
+file = "config/toolbelt-client.toml"
+hash = "e0f4ed988283222cd1cc83a1fda6edffb40b280cc0de61da77c600c5f2df1229"
+
+[[files]]
 file = "config/vintageimprovements-client.toml"
 hash = "ebd197eb9de1c82ad91e3fe510eda233509a9d83968e35f0e0f4cd6ff2b14e79"
 
@@ -558,6 +562,11 @@ hash = "344d03a97fa0bf67aece64aceb5256b05493387366764f389b6350d8c41c497f"
 metafile = true
 
 [[files]]
+file = "mods/sewing-kit.pw.toml"
+hash = "8e0bcde933e672c15afc8f0e6c1807426fc9961c5ea3acde85b5434922b01deb"
+metafile = true
+
+[[files]]
 file = "mods/shetiphiancore.pw.toml"
 hash = "9e62033c569248a2a9b316747e7cc3e16347e93e0a6311d4b37a8d7e909b8a46"
 metafile = true
@@ -650,6 +659,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "f29648fa88935462151aeb43e377f99226130f1181d9dfa53279a1801c9d3cee"
+metafile = true
+
+[[files]]
+file = "mods/tool-belt.pw.toml"
+hash = "fc609c2c8e3d9ce340a79e7cc1c81da7168e982f1c5a37705bbe4fcf89d06d47"
 metafile = true
 
 [[files]]
@@ -750,4 +764,9 @@ hash = "db4ba9188052b75c67fe536e5e7fc127499611abcb98b3542cf79a450fa13ece"
 [[files]]
 file = "resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
 hash = "f3a4bb5d89c7d9a554aca934d729611a3bad37c01ab374caf7af6cbc1de4fab0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tool-belt-retextured.pw.toml"
+hash = "447a75920192f1e57ad35fc30c7803396bddbbb0cd0ac190443568c8917dddf5"
 metafile = true

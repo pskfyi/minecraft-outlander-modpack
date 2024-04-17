@@ -33,9 +33,6 @@ needs to be slightly more proven before I dive in.
 
 ## Mods Under Consideration
 
-- https://www.curseforge.com/minecraft/mc-mods/tool-belt
-  - https://www.curseforge.com/minecraft/mc-mods/sewing-kit
-  - https://www.curseforge.com/minecraft/texture-packs/tool-belt-retextured
 - Modpack Tools (Mostly new recipe/crafting mechanisms)
   - https://www.curseforge.com/minecraft/mc-mods/exnihilosequentia
   - [V-Tweaks](https://www.curseforge.com/minecraft/mc-mods/v-tweaks) has Anvil

@@ -16,6 +16,8 @@ transfer.
 ### 2 - Preparation
 
 - Find string.
+  - Sewing Kit mod.
+    - Tool Belt.
   - Make rope.
   - Make canvas.
     - Make a sack.
