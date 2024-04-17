@@ -27,7 +27,6 @@ also prefer a much simpler implementation.
 
 ## Mods Under Consideration
 
-- https://www.curseforge.com/minecraft/mc-mods/platforms
 - https://www.curseforge.com/minecraft/mc-mods/tool-belt
   - https://www.curseforge.com/minecraft/mc-mods/sewing-kit
   - https://www.curseforge.com/minecraft/texture-packs/tool-belt-retextured
