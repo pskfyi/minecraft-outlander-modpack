@@ -19,6 +19,9 @@ also prefer a much simpler implementation.
 [Create Style Modded Compats](https://www.curseforge.com/minecraft/texture-packs/create-style-modded-compats)
 is stuck on 1.19.3.
 
+[Simply Ceramics](https://www.curseforge.com/minecraft/mc-mods/simply-ceramics)
+needs to be slightly more proven before I dive in.
+
 ## Open Issues
 
 - HUD Compass does not support:
@@ -37,11 +40,6 @@ is stuck on 1.19.3.
 - https://www.curseforge.com/minecraft/mc-mods/minerally
 - https://www.curseforge.com/minecraft/mc-mods/completionists-index
 - https://www.curseforge.com/minecraft/mc-mods/tool-progression
-- https://www.curseforge.com/minecraft/mc-mods/more-useful-copper-2-0
-- https://www.curseforge.com/minecraft/mc-mods/simply-ceramics
-- https://www.curseforge.com/minecraft/mc-mods/copper-hopper
-- https://www.curseforge.com/minecraft/mc-mods/wooden-hopper
-- https://www.curseforge.com/minecraft/mc-mods/wooden-bucket
 - https://www.curseforge.com/minecraft/mc-mods/simple-magnets
 - https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft
   - https://www.curseforge.com/minecraft/texture-packs/create-immersive-aircrafts-resource-pack
