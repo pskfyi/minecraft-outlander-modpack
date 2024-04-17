@@ -220,6 +220,11 @@ hash = "84bc5f323d3cc4f735e75158bd810f3ea886d3f4bc4d3eb472c68368650ce1ff"
 metafile = true
 
 [[files]]
+file = "mods/create-vintage-improvements.pw.toml"
+hash = "71726fb8207d7440ed0f53153fc5e67a3c54a120b7bcf3f374681e26e50cc974"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
 metafile = true

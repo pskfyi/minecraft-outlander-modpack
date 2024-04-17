@@ -35,7 +35,6 @@ is stuck on 1.19.3.
   - https://www.curseforge.com/minecraft/texture-packs/tool-belt-retextured
 - https://www.curseforge.com/minecraft/mc-mods/lets-do-vinery
 - https://www.curseforge.com/minecraft/mc-mods/minerally
-- https://www.curseforge.com/minecraft/mc-mods/create-vintage-improvements
 - https://www.curseforge.com/minecraft/mc-mods/completionists-index
 - https://www.curseforge.com/minecraft/mc-mods/tool-progression
 - https://www.curseforge.com/minecraft/mc-mods/more-useful-copper-2-0
