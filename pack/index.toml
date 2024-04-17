@@ -345,6 +345,11 @@ hash = "2135f2ac7c199434a604b8ef89a09eb1e7e2d6a26c5dbdb2af158b9c71366280"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "1b306db61f5f2b5ca38146736fdd395f3b16b27956feb7d02326343e8f019e35"
+metafile = true
+
+[[files]]
 file = "mods/integrated-api.pw.toml"
 hash = "f4c2da6dca3b98278e50c31f15ee95f1af75e27e98bea5a68e7f1e6aaff952f0"
 metafile = true
@@ -712,3 +717,8 @@ hash = "c92d7a6dc58ca7168bda2dfc3cc0a5acde7af7a4d2134ec54d2014ecf47d9928"
 [[files]]
 file = "packmenu/resources/pack.png"
 hash = "db4ba9188052b75c67fe536e5e7fc127499611abcb98b3542cf79a450fa13ece"
+
+[[files]]
+file = "resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
+hash = "f3a4bb5d89c7d9a554aca934d729611a3bad37c01ab374caf7af6cbc1de4fab0"
+metafile = true
