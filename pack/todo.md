@@ -22,6 +22,10 @@ is stuck on 1.19.3.
 [Simply Ceramics](https://www.curseforge.com/minecraft/mc-mods/simply-ceramics)
 needs to be slightly more proven before I dive in.
 
+[Item Obliterator](https://www.curseforge.com/minecraft/mc-mods/item-obliterator)
+currently does not perform and of the desired functions in the Forge release.
+(Can't ban items throughout REI.)
+
 ## Open Issues
 
 - HUD Compass does not support:
