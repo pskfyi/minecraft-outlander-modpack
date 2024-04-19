@@ -98,7 +98,7 @@ hash = "41971f5c9dc5f90c28c4796072a75b22443bc71195330ec109bd21d583e445dc"
 
 [[files]]
 file = "kubejs/startup_scripts/globals.js"
-hash = "90a91792aa003f54c88264163166c03b462a80c9f4089c2c503216acf545f19d"
+hash = "77eb22226d200926c81ce9269d3154555bc9924d709e3e9a433cb670695f9c00"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
