@@ -89,6 +89,18 @@ file = "defaultconfigs/paraglider-server.toml"
 hash = "7cf884d4898e67d096c555304368a5682fd9768fab61a9ef1d0232cb69453358"
 
 [[files]]
+file = "kubejs/client_scripts/rei.js"
+hash = "c074d3c961fd4133fbb8dbf65a5bda79d3d3993b63058ecfaacee20fbf75fc83"
+
+[[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "41971f5c9dc5f90c28c4796072a75b22443bc71195330ec109bd21d583e445dc"
+
+[[files]]
+file = "kubejs/startup_scripts/globals.js"
+hash = "90a91792aa003f54c88264163166c03b462a80c9f4089c2c503216acf545f19d"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
