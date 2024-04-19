@@ -19,7 +19,7 @@
 	#Make disabled tools completely useless - can't even break grass.
 	toolNeutering = false
 	#Setting this to true prevents the ability to use stone tools, though you can still craft them for compatibility.
-	removeStoneToolFunctionality = true
+	removeStoneToolFunctionality = false
 	#Setting this to true will allow you to replace pebbles like tall grass (more convenient for building, but loses the block forever
 	arePebblesReplaceable = false
 	#Setting this to true will damage players that attempt to break blocks with the incorrect tool

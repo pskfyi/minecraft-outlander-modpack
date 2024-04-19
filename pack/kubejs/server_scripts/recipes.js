@@ -7,12 +7,22 @@ const REPLACEMENTS = [
   [{ id: "tinyredstone:block_chopper" }, "minecraft:wooden_axe", "minecraft:flint"],
 ]
 
-ServerEvents.tags('item', event => {
-  global.items.remove.map(id => event.removeAllTagsFrom(id))
-})
-
 ServerEvents.recipes((event) => {
   global.items.remove.map(id => event.remove({ id: id }))
 
   REPLACEMENTS.map(r => event.replaceInput(r[0], r[1], r[2]))
+
+  event.remove("exnihilosequentia:ens_stone_hammer")
+  event.shaped(
+    'exnihilosequentia:stone_hammer',
+    [
+      ' T ',
+      ' ST',
+      'S  '
+    ],
+    {
+      S: 'minecraft:stick',
+      T: ['#forge:stone','#forge:cobblestone']
+    }
+  )
 })

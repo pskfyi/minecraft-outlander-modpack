@@ -30,7 +30,7 @@ hash = "8bb8b8c0a91e3cf033fff59a462f3b4450b6b2bb87b137ce6d6a04a8408e8b71"
 
 [[files]]
 file = "config/natprog-common.toml"
-hash = "c5bc96303ddf745340ccc7d8a9a694b0da833075b34ce8a0df15f3d02ec0d1a9"
+hash = "48e5bd8b06107374dca8574588080b0bb175389a4202f393690e0d62ba811001"
 
 [[files]]
 file = "config/openloader/data/ctov-chefs-delight-add-on-v2-0.zip"
@@ -94,11 +94,15 @@ hash = "c074d3c961fd4133fbb8dbf65a5bda79d3d3993b63058ecfaacee20fbf75fc83"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "41971f5c9dc5f90c28c4796072a75b22443bc71195330ec109bd21d583e445dc"
+hash = "e241bffdbd39c54bf017be814284d2b117affde58b6195f96189c29e9616da06"
+
+[[files]]
+file = "kubejs/server_scripts/tags.js"
+hash = "9bd76c02acd0b5d7f80abc8893f740fb1210a7916f5efb6bd9c6eee9fe071d09"
 
 [[files]]
 file = "kubejs/startup_scripts/globals.js"
-hash = "77eb22226d200926c81ce9269d3154555bc9924d709e3e9a433cb670695f9c00"
+hash = "63cf302e8daea8a93a2194954a9f47ceb0becd3f2bf3392f33398edd4b731259"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
