@@ -22,19 +22,5 @@ ServerEvents.recipes((event) => {
   INPUT_REPLACEMENTS.map(r => event.replaceInput(r[0], r[1], r[2]))
   OUTPUT_REPLACEMENTS.map(r => event.replaceOutput(r[0], r[1], r[2]))
 
-  event.remove("exnihilosequentia:ens_stone_hammer")
-  event.shaped(
-    'exnihilosequentia:stone_hammer',
-    [
-      ' T ',
-      ' ST',
-      'S  '
-    ],
-    {
-      S: 'minecraft:stick',
-      T: ['#forge:stone','#forge:cobblestone']
-    }
-  )
-
   global.items.remove.map(id => event.remove({ id: id }))
 })

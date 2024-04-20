@@ -28,22 +28,6 @@ global.items = {
     "natprog:bronze_saw", // No bronze in the pack
     "natprog:steel_saw",  // No steel in the pack
 
-    "exnihilosequentia:andesite_hammer",
-    "exnihilosequentia:bamboo_hammer",
-    "exnihilosequentia:basalt_hammer",
-    "exnihilosequentia:bone_hammer",
-    "exnihilosequentia:blackstone_hammer",
-    "exnihilosequentia:calcite_hammer",
-    "exnihilosequentia:cherry_hammer",
-    "exnihilosequentia:deepslate_hammer",
-    "exnihilosequentia:diorite_hammer",
-    "exnihilosequentia:dripstone_hammer",
-    "exnihilosequentia:granite_hammer",
-    "exnihilosequentia:wooden_hammer",
-    // "exnihilosequentia:stone_hammer", intentionally allowed
-    "exnihilosequentia:terracotta_hammer",
-    "exnihilosequentia:tuff_hammer",
-
     "ftbquests:loot_crate_opener",
   ]
 }
