@@ -15,6 +15,9 @@ global.items = {
     "minecraft:stone_hoe",
 
     "aquaculture:wooden_fillet_knife",
+
+    "bettercopper:copper_heart",
+    "bettercopper:copper_nugget",
     
     "natprog:quark_marble_pebble",
     "natprog:quark_basalt_pebble",

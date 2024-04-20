@@ -94,7 +94,7 @@ hash = "3e42a7b9dc713e6dba4812f1c3f4439eec156270b972072fe6fef91abcb70809"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "e241bffdbd39c54bf017be814284d2b117affde58b6195f96189c29e9616da06"
+hash = "39e5b53831f84353bb7b0e05b4729e3c243bf86184ba45dcdf3383f01c8d2fd4"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
@@ -102,7 +102,7 @@ hash = "9bd76c02acd0b5d7f80abc8893f740fb1210a7916f5efb6bd9c6eee9fe071d09"
 
 [[files]]
 file = "kubejs/startup_scripts/globals.js"
-hash = "662b31ec8f9419e0d0e3ad8bb9cc7952208ced7e15cfc6df98311720e674dfa2"
+hash = "3a92d8daf09fe07a72cb67f253d5377e8a93149997721d6abf9fba88ef0e9f9e"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -131,6 +131,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "d02b891b8549c4bacda20466c941001255efd7f184f5ff6bd662ef90c9f6de95"
+metafile = true
+
+[[files]]
+file = "mods/better-copper-armor-and-tools.pw.toml"
+hash = "9f11b9c798f5a85fc5c4fb24bef0773f766357c0175876d4db1b8ae0dd5ed9d1"
 metafile = true
 
 [[files]]
