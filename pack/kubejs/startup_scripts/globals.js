@@ -13,7 +13,18 @@ global.items = {
     "minecraft:stone_pickaxe",
     "minecraft:stone_axe",
     "minecraft:stone_hoe",
+
     "aquaculture:wooden_fillet_knife",
+    
+    "natprog:quark_marble_pebble",
+    "natprog:quark_basalt_pebble",
+    "natprog:quark_slate_pebble",
+    "natprog:bone_shard", // Skipping bone tools
+    "natprog:bone_knife",
+    "natprog:bone_pickaxe",
+    "natprog:bronze_saw", // No bronze in the pack
+    "natprog:steel_saw",  // No steel in the pack
+
     "exnihilosequentia:andesite_hammer",
     "exnihilosequentia:bamboo_hammer",
     "exnihilosequentia:basalt_hammer",
@@ -29,6 +40,7 @@ global.items = {
     // "exnihilosequentia:stone_hammer", intentionally allowed
     "exnihilosequentia:terracotta_hammer",
     "exnihilosequentia:tuff_hammer",
+
     "ftbquests:loot_crate_opener",
   ]
 }
