@@ -90,7 +90,7 @@ hash = "7cf884d4898e67d096c555304368a5682fd9768fab61a9ef1d0232cb69453358"
 
 [[files]]
 file = "kubejs/client_scripts/rei.js"
-hash = "c074d3c961fd4133fbb8dbf65a5bda79d3d3993b63058ecfaacee20fbf75fc83"
+hash = "3e42a7b9dc713e6dba4812f1c3f4439eec156270b972072fe6fef91abcb70809"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
