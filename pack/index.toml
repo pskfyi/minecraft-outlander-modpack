@@ -69,6 +69,10 @@ file = "config/roughlyenoughitems/config.json5"
 hash = "59db6d571d9dc9b1c6968dbaed24bb1b361a2712e9074bf1c795c72fb4cb9db4"
 
 [[files]]
+file = "config/solcarrot-client.toml"
+hash = "8fdf2e8b3f1b6e3f44fa18d608128ad535751b148c27528f1c1dc706a31801cb"
+
+[[files]]
 file = "config/supplementaries-client.toml"
 hash = "371a5b7e472913d5c278944f260d9afacd291855d9b9025e33d601fa2f37daee"
 
@@ -87,6 +91,10 @@ hash = "1f27ecf41f4f0fadbc670bb2b88e9e21dcb1ac9c8e0778b70d990888b08b3d6f"
 [[files]]
 file = "defaultconfigs/paraglider-server.toml"
 hash = "7cf884d4898e67d096c555304368a5682fd9768fab61a9ef1d0232cb69453358"
+
+[[files]]
+file = "defaultconfigs/solcarrot-server.toml"
+hash = "28c3b6608361aff8e44169491e092e3bffbe820971b4cecd3a0aef83a1dffacd"
 
 [[files]]
 file = "kubejs/client_scripts/rei.js"
