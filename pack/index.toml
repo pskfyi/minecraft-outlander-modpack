@@ -419,8 +419,18 @@ hash = "826c59a1e607641acb85f1e23a2bb7183a2f0a9ccd19ea4f01bbc9d94d480acf"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-additions.pw.toml"
+hash = "b7388c79458f172f4fe9ea1b7bbf374052aa60279f05c730aca682f6bfdfaf4a"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-botany-pots.pw.toml"
 hash = "1923934e70e6c3ea996b9f263ba35fa95a2249aa366ab4d3d64d5a0d4793f54e"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "432015ce62e9acfd7f305102eb0aa8423e3d424f06193c333b71dc21f1fba29e"
 metafile = true
 
 [[files]]
@@ -436,6 +446,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "20b9ccddbc62a654c50431d6eb109c656c874b634cce32968faf04710cfdf1b5"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "e529665cfda65f7532a0cf52feac55eda02040f26f9ddaf2dfb4cdabe51332f4"
 metafile = true
 
 [[files]]
