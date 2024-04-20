@@ -563,6 +563,11 @@ hash = "8a03ffa080335bee4e2943880128171d8fbc13c624df70102d68e2c2b93d2eab"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled-create.pw.toml"
+hash = "46ea9007d32c553d56bfa1bbd8f070a99f1c82eeb8dbd326dc07df9512df41e3"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "a8195e39831da3b5532265589c9e9b5011208bdfa1a8c0e298910463505c3bfa"
 metafile = true
