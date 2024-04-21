@@ -17,6 +17,26 @@ file = "config/fml.toml"
 hash = "c5a62e3f2d7b91aaff7977d02db34b45f800ccd553678d86e77b5c110f46d60b"
 
 [[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/0_introduction.snbt"
+hash = "8b58b83129f39e7c983e182eb28c0d0758e151e69e94b1223672d6b9b604ee97"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/i_preparation.snbt"
+hash = "e56c032d861df3371d9044fd6e672d1a3170774c3f72bc6f5e2e4693765b34c2"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ii_jaunt.snbt"
+hash = "c0d47d23abc7fa4b42cc3372e613d2342f314ad2b9903d0f4e83fe41d2dc0d07"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "bf669ef52bce440bfa3dd30b02259527a63fdf864263c900245fce8af6ae650d"
+
+[[files]]
 file = "config/ftbultimine.snbt"
 hash = "838e7e4c0550c94db975e02cd0ce9f680abeba20edaa777203e44d691b36dcdd"
 
@@ -106,7 +126,7 @@ hash = "bb605c0c33e7b785b04a9575175d8e425717d21b16f3f974b6673c6825d0f9aa"
 
 [[files]]
 file = "kubejs/client_scripts/rei.js"
-hash = "34ef1b182ba75c3416be10b69f880856b971e980798f7fad6fabfcc517fbc4c4"
+hash = "542a19ce20f0062bf788712350b888b2b24991afe6dcd1024521e0d3584e282f"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
@@ -420,6 +440,11 @@ hash = "dcab54200a705f5a74544011849f8d77e73776124e7b144a2d27d6117c949b84"
 metafile = true
 
 [[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "1e17d92e2843cdb01a229d4987b0ef456c8a759d1e02e18f5265fd8179cbf7c2"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "59d22263e36313c43ad7c5e4179cb3554d414f701442b0784d94c0ba2384edfd"
 metafile = true
@@ -457,6 +482,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
+metafile = true
+
+[[files]]
+file = "mods/item-filters.pw.toml"
+hash = "ff92eddb2bf6f1afe9fa7fc73d63ea9419e0cff77fbd4fd2936b51525fe9340c"
 metafile = true
 
 [[files]]

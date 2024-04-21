@@ -1,0 +1,118 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "0_introduction"
+	group: ""
+	id: "2C77CAA45CB560DC"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["This is a questing, exploration, and automation modpack."]
+			id: "4D57F5FA6F9E36C1"
+			tasks: [{
+				id: "232CA480F39E570B"
+				title: "Greetings, outlander."
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4D57F5FA6F9E36C1"]
+			description: ["Early game progression is heavily altered and more difficult to constrain exploration."]
+			id: "0422A8712AA8FCEB"
+			tasks: [{
+				id: "1EAD923729C3C8F7"
+				title: "Unnatural Progression"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4D57F5FA6F9E36C1"]
+			description: ["The pack contains Cold Sweat and Thin Air, which add temperature and air mechanics. Make sure you manage temperature early, otherwise it will prevent you from sleeping."]
+			id: "5EDF411A4B9EC871"
+			tasks: [{
+				id: "71CE72EF4DBB8A8C"
+				title: "Air & Temperature"
+				type: "checkmark"
+			}]
+			title: "Air \\& Temperature"
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4D57F5FA6F9E36C1"]
+			description: ["Links will go here."]
+			id: "66BA1426D48E5368"
+			tasks: [{
+				id: "5A5D0EAC363CA084"
+				title: "TBD Links"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4D57F5FA6F9E36C1"]
+			description: ["You should always spawn in a village, and in a meadow or plains-like biome. Villages come in many sizes, with larger villages proving a significant head start. If you don't like your starting village, make a new world to re-roll."]
+			id: "7198641A830DBC63"
+			tasks: [{
+				id: "7F60F3A058DA1B9D"
+				title: "Home Town"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4D57F5FA6F9E36C1"]
+			description: ["Ultimine is in the pack, but tools are required. No more punching down whole jungle trees and avoiding axes completely."]
+			id: "5B83B2E28E192E63"
+			tasks: [{
+				id: "4C5C141B5E361743"
+				title: "Impatient"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4D57F5FA6F9E36C1"]
+			description: ["Distant Horizons is in the pack, but disabled by default. You can turn it on in the options menu - look for the icon in the upper left."]
+			id: "28587D7B68C2726E"
+			tasks: [{
+				id: "542CD78F8E6C633A"
+				title: "As Far As the Eye Can See"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4D57F5FA6F9E36C1"]
+			id: "4950D92A5C2C4159"
+			tasks: [{
+				id: "76F2A18D355A3F82"
+				title: "TBD"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4D57F5FA6F9E36C1"]
+			id: "0CEB559752557738"
+			tasks: [{
+				id: "74AF8330B09E2840"
+				title: "TBD"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+	]
+	title: "0. Introduction"
+}

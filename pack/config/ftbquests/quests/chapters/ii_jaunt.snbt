@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ii_jaunt"
+	group: ""
+	id: "2F54E46C22884CB5"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "II. Jaunt"
+}
