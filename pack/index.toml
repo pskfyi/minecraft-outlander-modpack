@@ -110,15 +110,35 @@ hash = "3e42a7b9dc713e6dba4812f1c3f4439eec156270b972072fe6fef91abcb70809"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "a7143860f261ea60efec6d250a9e9c10dcf548563a2e45bcd4c91ce924d25577"
+hash = "d23bedac7817e936efbb6ab56cad81af5e34645997ce616df4a25c7b9cbcf91b"
+
+[[files]]
+file = "kubejs/server_scripts/stage1/bark.js"
+hash = "1f989c745c4b2ac9af5205cceb1d005dd7c7d90107415e55e6ef80edf306a591"
+
+[[files]]
+file = "kubejs/server_scripts/stage1/campfire.js"
+hash = "7e7fbe00005aa365327b2a1ab24073d69013190b615d815e6d5156ae1cad1718"
+
+[[files]]
+file = "kubejs/server_scripts/stage1/copper.js"
+hash = "c574de888a96371b7b58aa171a93796c761251b13cdde7625fe0da938f1276ba"
+
+[[files]]
+file = "kubejs/server_scripts/stage1/flint.js"
+hash = "8ced140c1914ed50d26b8fd7174e27c518b123682f0b75e2d2f3799a1dcaecfb"
+
+[[files]]
+file = "kubejs/server_scripts/stage1/woodAndStoneTools.js"
+hash = "97af2531feb4a9d9ad8137b2458eae815e2d5667855827e3fe2e3d649eef33b6"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "cdd80d7e84d054a7c6bdf3c0d8b2eee6910bc404312248f910cfb29b7666bdfa"
+hash = "e949e6e337b89623087d26c3eaa302c51b6199dd396118086f7794e9940af4ab"
 
 [[files]]
 file = "kubejs/startup_scripts/globals.js"
-hash = "d090db07c1e9f26ce9f50b2fc02fdcb0cd364311ae6e2628fbaa1fe1c4ab8354"
+hash = "bc1bd2e19146b25a6cce89ac0d1099c6923a9069a52fce950214d677c666010e"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
