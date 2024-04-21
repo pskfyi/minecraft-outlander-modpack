@@ -30,15 +30,18 @@ configuration is particularly notable.
 
 ### Modpack Tools
 
+- [Biome Spawn Point](https://www.curseforge.com/minecraft/mc-mods/biome-spawn-point)
 - [Ceramic Bucket](https://www.curseforge.com/minecraft/mc-mods/ceramic-bucket)
 - [Ceramic Shears](https://www.curseforge.com/minecraft/mc-mods/ceramic-shears)
 - [Cagerium](https://curseforge.com/minecraft/mc-mods/cagerium)
+- [Global GameRules](https://www.curseforge.com/minecraft/mc-mods/global-gamerules)
 - [KubeJS](https://curseforge.com/minecraft/mc-mods/jubejs) plus integrations
 - [Lychee](https://curseforge.com/minecraft/mc-mods/lychee)
 - [Mob Capturing Tool](https://curseforge.com/minecraft/mc-mods/mob-capturing-tool)
 - [Open Loader](https://curseforge.com/minecraft/mc-mods/open-loader)
 - [PackMenu](https://curseforge.com/minecraft/mc-mods/packmenu)
 - [Sawmill](https://curseforge.com/minecraft/mc-mods/sawmill)
+- [Village Spawn Point](https://www.curseforge.com/minecraft/mc-mods/village-spawn-point)
 
 ### Utility
 
