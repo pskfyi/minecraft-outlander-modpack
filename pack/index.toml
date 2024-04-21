@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/biomespawnpoint/spawnbiomes.txt"
+hash = "79733ed17cb588bb8cafad0cc3c62802b598a895ea66fb63d6f416aec9eb445c"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "1156f045c7f21eea4d02d50b85dfcf053d14939ed9ae023a25d8fafe752a06b9"
 
@@ -15,6 +19,10 @@ hash = "c5a62e3f2d7b91aaff7977d02db34b45f800ccd553678d86e77b5c110f46d60b"
 [[files]]
 file = "config/ftbultimine.snbt"
 hash = "838e7e4c0550c94db975e02cd0ce9f680abeba20edaa777203e44d691b36dcdd"
+
+[[files]]
+file = "config/globalgamerules-common.toml"
+hash = "b86336fc09e5dbab29399be1752883c6115382c833e702191ef55059e9e67f29"
 
 [[files]]
 file = "config/jade/jade.json"
@@ -62,7 +70,7 @@ hash = "c91312875a70cfd13eb1cdec393e0ddb646b810d729d1958ef769063c765febc"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "77c8a28924312bf4e53fd9fa0c78b130d4a721124ff158e0c0dc8201442ae0c4"
+hash = "892beb79cc4cf71271fd43051a608aebc0c754ce1737b9dedbf88ca028670b3c"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -94,7 +102,7 @@ hash = "7cf884d4898e67d096c555304368a5682fd9768fab61a9ef1d0232cb69453358"
 
 [[files]]
 file = "defaultconfigs/solcarrot-server.toml"
-hash = "28c3b6608361aff8e44169491e092e3bffbe820971b4cecd3a0aef83a1dffacd"
+hash = "bb605c0c33e7b785b04a9575175d8e425717d21b16f3f974b6673c6825d0f9aa"
 
 [[files]]
 file = "kubejs/client_scripts/rei.js"
@@ -102,15 +110,15 @@ hash = "3e42a7b9dc713e6dba4812f1c3f4439eec156270b972072fe6fef91abcb70809"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "d2567a203759294ca4d243b4c60739033278f37d1b071f8e305082d85f23cccc"
+hash = "a7143860f261ea60efec6d250a9e9c10dcf548563a2e45bcd4c91ce924d25577"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "5745aeefa86a8b55170525c06685c9275264a527cfa01211f15f3fae71dfa950"
+hash = "cdd80d7e84d054a7c6bdf3c0d8b2eee6910bc404312248f910cfb29b7666bdfa"
 
 [[files]]
 file = "kubejs/startup_scripts/globals.js"
-hash = "c27e6290609577a2b328b969b981d9694569f15a74c27e8859e627e69b8273c7"
+hash = "d090db07c1e9f26ce9f50b2fc02fdcb0cd364311ae6e2628fbaa1fe1c4ab8354"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -149,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "350515eff162272fc4424ae014aa2d86bbe3ad4ded6c2139f352fa88bb522098"
+metafile = true
+
+[[files]]
+file = "mods/biome-spawn-point.pw.toml"
+hash = "e54f57a2bc0b43728aef2a35dfc923c1b2283d3027ab0a6900dd94ceaef1c288"
 metafile = true
 
 [[files]]
@@ -224,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/cold-sweat.pw.toml"
 hash = "0290f035db4a36e45887b67c19edfa9e0c3285a0806d28207782621036979a32"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "cac734d930b38ce4b9519d73159f9cbede99476fdfce6160de6a186b6f81b402"
 metafile = true
 
 [[files]]
@@ -379,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "59d22263e36313c43ad7c5e4179cb3554d414f701442b0784d94c0ba2384edfd"
+metafile = true
+
+[[files]]
+file = "mods/global-gamerules.pw.toml"
+hash = "69e21a8de3b798f251ad5476e97eab6714a1b01e264bc105ac636a444df54162"
 metafile = true
 
 [[files]]
@@ -738,6 +761,11 @@ metafile = true
 [[files]]
 file = "mods/uppers.pw.toml"
 hash = "7d4883117ff8ab8e5d54204a7b5fa9ebbc4a8fae3f6cb5e8c1484d5c4b682705"
+metafile = true
+
+[[files]]
+file = "mods/village-spawn-point.pw.toml"
+hash = "03fd990ffc95bf5931d922d2ef0543608017932af58e9529b576baa548d83ed2"
 metafile = true
 
 [[files]]

@@ -9,6 +9,13 @@ reconciled.
 
 - Parcool
 - Cold Sweat
+- Thin Air
+- Natural Progression recipes
+  - Axes, saws, and shears should be able to strip bark in-inventory
+  - All logs should use natprog-style plank recipes
+    - Account for the Sawmill in the progression path
+- More uses for tree bark
+- Remove paraglider buildings from villages
 
 ## Mods Not Yet Ready
 
