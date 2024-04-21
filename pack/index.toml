@@ -275,11 +275,6 @@ hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
 metafile = true
 
 [[files]]
-file = "mods/cold-sweat.pw.toml"
-hash = "0290f035db4a36e45887b67c19edfa9e0c3285a0806d28207782621036979a32"
-metafile = true
-
-[[files]]
 file = "mods/collective.pw.toml"
 hash = "cac734d930b38ce4b9519d73159f9cbede99476fdfce6160de6a186b6f81b402"
 metafile = true

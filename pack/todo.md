@@ -1,5 +1,11 @@
 # TODO
 
+## Temporarily Removed
+
+- Cond Sweat, pending release of bugfix which impacts Supplementaries Sack items
+  w/ Quark's renderer.
+  - https://github.com/Momo-Softworks/Cold-Sweat/issues/267
+
 ## Compatibility Issues
 
 Salt and associated systems added by The Salt and Vintage Delight need to be
