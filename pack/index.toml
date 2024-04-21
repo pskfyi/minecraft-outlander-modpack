@@ -70,7 +70,7 @@ hash = "c91312875a70cfd13eb1cdec393e0ddb646b810d729d1958ef769063c765febc"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "892beb79cc4cf71271fd43051a608aebc0c754ce1737b9dedbf88ca028670b3c"
+hash = "cbd9ab6970fe95402e41ba3db82d347fcc0650dde7b4668cca0390589b020452"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -106,7 +106,7 @@ hash = "bb605c0c33e7b785b04a9575175d8e425717d21b16f3f974b6673c6825d0f9aa"
 
 [[files]]
 file = "kubejs/client_scripts/rei.js"
-hash = "3e42a7b9dc713e6dba4812f1c3f4439eec156270b972072fe6fef91abcb70809"
+hash = "34ef1b182ba75c3416be10b69f880856b971e980798f7fad6fabfcc517fbc4c4"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
@@ -362,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/epherolib.pw.toml"
 hash = "fadaae47087ff0af2442bed6c9978eaa14f2926990738d81b5ce382d4c4a86fa"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "f9b6af6db91dc37a8c3e072dda19b0c8a0bbd0a7f901053250259f569ed5c0e5"
 metafile = true
 
 [[files]]

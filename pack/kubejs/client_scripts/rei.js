@@ -43,4 +43,7 @@ JEIAddedEvents.registerRecipes((event) => {
 
 REIEvents.hide('item', event => {
   global.items.remove.map(id => event.hide(id))
+
+  event.hide("#quark:posts") // Everycompat issue fix
+  event.hide("quark:stripped_cherry_post") // Quark issue fix
 })
