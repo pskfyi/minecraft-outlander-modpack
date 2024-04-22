@@ -16,6 +16,10 @@ global.items = {
 
     "aquaculture:wooden_fillet_knife",
 
+    "bettercopper:copper_helmet",
+    "bettercopper:copper_chestplate",
+    "bettercopper:copper_leggings",
+    "bettercopper:copper_boots",
     "bettercopper:copper_heart",
     "bettercopper:copper_nugget",
     
