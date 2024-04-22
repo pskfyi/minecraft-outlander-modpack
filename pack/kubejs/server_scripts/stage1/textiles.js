@@ -6,6 +6,7 @@ const STRAW = "farmersdelight:straw"
 const ROPE = "farmersdelight:rope"
 const SACK = "supplementaries:sack"
 const FLAX = "supplementaries:flax"
+const LOOM = "minecraft:loom"
 
 ServerEvents.recipes((event) => {
   // TODO: Pick 1 rope and get all recipes to use it.
@@ -14,6 +15,7 @@ ServerEvents.recipes((event) => {
   // These recipes have the same ID as the items they produce.
   event.remove({ id: ROPE })
   event.remove({ id: SACK })
+  event.remove({ id: LOOM })
 
   event.shaped( // TODO: Remove this when changing Canvas crafting.
     CANVAS,
@@ -23,6 +25,19 @@ ServerEvents.recipes((event) => {
     ],
     {
       F: FLAX,
+    }
+  )
+
+  event.shaped(
+    LOOM,
+    [
+      "SS ",
+      "PP ",
+      "PP ",
+    ],
+    {
+      S: STRING,
+      P: "#minecraft:planks",
     }
   )
 

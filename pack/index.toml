@@ -154,7 +154,7 @@ hash = "8ced140c1914ed50d26b8fd7174e27c518b123682f0b75e2d2f3799a1dcaecfb"
 
 [[files]]
 file = "kubejs/server_scripts/stage1/textiles.js"
-hash = "723687e0675f633f67994a84e8cf20dc6672f032026519e6825e146171760ab6"
+hash = "06adb2a713e8459ef4a8be9eb427f592bba5b6e3c91791c396cea1740f153fe6"
 
 [[files]]
 file = "kubejs/server_scripts/stage1/woodAndStoneTools.js"
