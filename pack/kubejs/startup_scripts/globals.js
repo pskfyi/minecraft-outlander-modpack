@@ -29,6 +29,9 @@ global.items = {
     "natprog:steel_saw",  // No steel in the pack
 
     "ftbquests:loot_crate_opener",
+
+    "vinery:flower_box",
+    "vinery:flower_pot"
   ],
   planks: {
     minecraft: [ // these are all already handled by NatProg

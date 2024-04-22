@@ -321,24 +321,19 @@
 			y: 1.0d
 		}
 		{
-			description: ["TBD pick one or rename"]
+			dependencies: ["63FEE87D2BC2BA7B"]
+			description: ["A charming and flexible decorative block that can hold 3 flowers and/or saplings."]
 			id: "67E5BF0A3C491752"
-			tasks: [
-				{
-					id: "5DCCD64BBC2545F1"
-					item: "vinery:flower_box"
-					type: "item"
-				}
-				{
-					id: "55D21AA3A0ABCDE8"
-					item: "supplementaries:flower_box"
-					type: "item"
-				}
-			]
+			tasks: [{
+				id: "55D21AA3A0ABCDE8"
+				item: "supplementaries:flower_box"
+				type: "item"
+			}]
 			x: 2.0d
 			y: 2.0d
 		}
 		{
+			dependencies: ["63FEE87D2BC2BA7B"]
 			description: ["TBD tag"]
 			id: "5A03EF44CC690FEA"
 			tasks: [{

@@ -22,7 +22,7 @@ hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/craftsmans_workshop.snbt"
-hash = "2436c8185f09986fcded00b3cbf43d426b9e553b97a6e3765424af294ab5cebc"
+hash = "6110805da622f79a74fd820fe209bdeb243b65b7761e4d0e7f974cd0f650c486"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/i_preparation.snbt"
@@ -166,7 +166,7 @@ hash = "e949e6e337b89623087d26c3eaa302c51b6199dd396118086f7794e9940af4ab"
 
 [[files]]
 file = "kubejs/startup_scripts/globals.js"
-hash = "bc1bd2e19146b25a6cce89ac0d1099c6923a9069a52fce950214d677c666010e"
+hash = "bb8d85d1473d469f6eca75e83d4294744854d170d7ccd74f0c9eca61ba24bfd1"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
