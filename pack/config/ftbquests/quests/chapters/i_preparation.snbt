@@ -13,7 +13,7 @@
 				""
 				"Grab some sticks off the ground while you're at it."
 			]
-			icon: "natprog:andesite_pebble"
+			icon: "natprog:stone_pebble"
 			id: "0381E79E775B6B92"
 			tasks: [
 				{
@@ -86,7 +86,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 0.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["4694123C947171C5"]
@@ -122,8 +122,8 @@
 				title: "RightClickHarvest"
 				type: "checkmark"
 			}]
-			x: 0.5d
-			y: -2.0d
+			x: 0.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["4694123C947171C5"]
@@ -150,8 +150,8 @@
 				title: "Husbandry"
 				type: "checkmark"
 			}]
-			x: 2.5d
-			y: -2.0d
+			x: 3.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["30F37F1CB6461704"]
@@ -222,8 +222,8 @@
 				item: "farmersdelight:tree_bark"
 				type: "item"
 			}]
-			x: 4.5d
-			y: 1.5d
+			x: 3.0d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -237,18 +237,18 @@
 			]
 			id: "5EA2D51E14BB5F1C"
 			tasks: [{
-				id: "0870ED8686961C0D"
+				id: "23CC4FA865743F1F"
 				item: {
 					Count: 1b
 					id: "itemfilters:tag"
 					tag: {
-						value: "forge:planks"
+						value: "minecraft:planks"
 					}
 				}
 				type: "item"
 			}]
 			title: "Planks"
-			x: 6.0d
+			x: 4.5d
 			y: 1.5d
 		}
 		{
@@ -269,6 +269,254 @@
 			}]
 			x: 4.5d
 			y: -1.5d
+		}
+		{
+			dependencies: ["5EA2D51E14BB5F1C"]
+			description: ["Finally a proper workspace."]
+			id: "79A5ED3E822B2977"
+			tasks: [{
+				id: "06CF549D0AD128A7"
+				item: "minecraft:crafting_table"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["79A5ED3E822B2977"]
+			description: ["Combine a saw with a log to get many more planks than the hatchet provides."]
+			id: "669328F23ED010AE"
+			tasks: [{
+				id: "00EFE505B2FC6C19"
+				item: {
+					Count: 1b
+					id: "natprog:flint_saw"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["79A5ED3E822B2977"]
+			description: [
+				"Now that you have a larger workspace, you need a furnace to make clay bricks and to smelt stones and metals. Gather more pebbles and combine them into cobblestone."
+				""
+				"NOTE: Try not to use any Andesite you gather. You're going to need it for other recipes very soon."
+			]
+			id: "1C5458777FA3EB4C"
+			tasks: [{
+				id: "033CD75A70D78F00"
+				item: "minecraft:furnace"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["79A5ED3E822B2977"]
+			description: ["Niche tool in adventuring, farming, and machinery. 6 straw makes 3 rope."]
+			id: "02500FF345A10DA5"
+			tasks: [{
+				id: "7A6C4F240E9687FD"
+				item: "farmersdelight:rope"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["79A5ED3E822B2977"]
+			description: ["3 straw can make string, when you have enough room to work on it."]
+			id: "488E0E3D97E42A3F"
+			tasks: [{
+				id: "6ED37F048F2C45C8"
+				item: "minecraft:string"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"3F9E3B55FB528354"
+				"06CDF89FFEB3A114"
+			]
+			description: ["A square of straw makes this sturdy textile."]
+			id: "1800F2377AF7AAB5"
+			tasks: [{
+				id: "60D13589F7CB6CE2"
+				item: "farmersdelight:canvas"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["1800F2377AF7AAB5"]
+			id: "463CDDA5E9E72730"
+			tasks: [{
+				id: "4C18FE1DA3018A2D"
+				item: "supplementaries:sack"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["79A5ED3E822B2977"]
+			description: ["TBD, should be an item filter for #tag"]
+			id: "0F1052E526D8CA98"
+			tasks: [{
+				id: "2DCF850A9DC398A7"
+				item: "minecraft:oak_slab"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0F1052E526D8CA98"]
+			description: ["Make textiles and clothing."]
+			id: "3F9E3B55FB528354"
+			tasks: [{
+				id: "7CDDF23189E47756"
+				item: "sewingkit:sewing_station"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			description: ["Bones can be obtained from killing both animals and skeletons."]
+			id: "4DB293996AF58152"
+			tasks: [{
+				id: "46A63A6FAB295E83"
+				item: "minecraft:bone"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"4DB293996AF58152"
+				"6DCC9D213A007925"
+			]
+			description: ["TBD Use your knife to sharpen a bone into a sewing needle."]
+			id: "06CDF89FFEB3A114"
+			tasks: [{
+				id: "5FF08086704EBAD4"
+				item: {
+					Count: 1b
+					id: "sewingkit:bone_sewing_needle"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"488E0E3D97E42A3F"
+				"3F9E3B55FB528354"
+			]
+			description: ["Useful for sifting through aggregates to find traces of precious materials."]
+			id: "75804622F8773C41"
+			tasks: [{
+				id: "6BCD91A89ED2ACAA"
+				item: {
+					Count: 1b
+					id: "createsifter:string_mesh"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["79A5ED3E822B2977"]
+			description: ["TDB should be tag. Drawers only for this phase."]
+			id: "40028F681F769027"
+			tasks: [{
+				id: "0171AB87CB149ABC"
+				item: "storagedrawers:oak_full_drawers_4"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["31A936DEC1ADF6B6"]
+			description: ["You'll need a lot of paper for maps."]
+			id: "09F01971E5B5DDA6"
+			tasks: [{
+				id: "45BF9990F7D8F628"
+				item: "minecraft:paper"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"09F01971E5B5DDA6"
+				"79A5ED3E822B2977"
+			]
+			id: "35B51453941B24FD"
+			tasks: [{
+				id: "0B619C4401C2479C"
+				item: "minecraft:cartography_table"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1C5458777FA3EB4C"]
+			id: "2DD3B92D6F225AE4"
+			tasks: [{
+				id: "387AF4D98778B041"
+				item: "tinycoal:tinycharcoal"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["1C5458777FA3EB4C"]
+			id: "4F2B9DDD21CB61BA"
+			tasks: [{
+				id: "1D2EAE4B903AFBF9"
+				item: "minecraft:torch"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["488E0E3D97E42A3F"]
+			id: "450D2B051AB9BA2C"
+			tasks: [{
+				id: "3E04BD9BB91791FD"
+				item: {
+					Count: 1b
+					id: "minecraft:fishing_rod"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.5d
 		}
 	]
 	title: "I. Preparation"

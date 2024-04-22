@@ -1,7 +1,7 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "0_introduction"
+	filename: "introduction"
 	group: ""
 	id: "2C77CAA45CB560DC"
 	order_index: 0
@@ -20,7 +20,7 @@
 		}
 		{
 			dependencies: ["4D57F5FA6F9E36C1"]
-			description: ["Early game progression is heavily altered and more difficult to constrain exploration."]
+			description: ["Early game progression is heavily altered and more difficult. This is to constrain exploration and encourage base building and preparation."]
 			id: "0422A8712AA8FCEB"
 			tasks: [{
 				id: "1EAD923729C3C8F7"
@@ -104,15 +104,17 @@
 		}
 		{
 			dependencies: ["4D57F5FA6F9E36C1"]
+			description: ["Spice of Life: Carrot Edition is used to strongly nerf starting health, and to permanently increase it as you try new foods found in your travels."]
 			id: "0CEB559752557738"
 			tasks: [{
 				id: "74AF8330B09E2840"
 				title: "TBD"
 				type: "checkmark"
 			}]
+			title: "Spicy"
 			x: -1.0d
 			y: 1.0d
 		}
 	]
-	title: "0. Introduction"
+	title: "Introduction"
 }

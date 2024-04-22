@@ -6,6 +6,492 @@
 	id: "2F54E46C22884CB5"
 	order_index: 2
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			dependencies: ["5243F41DE8D111E7"]
+			description: ["Sifting gravel by hand is tedious but occasionally yields zinc nuggets, which you sorely need."]
+			id: "7777C0BBC1626BA1"
+			tasks: [{
+				id: "4255B22789ACC8C2"
+				item: "minecraft:gravel"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7777C0BBC1626BA1"]
+			id: "6F111F20FE42C10A"
+			tasks: [{
+				id: "54C7987EEF48D319"
+				item: "create:zinc_nugget"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			id: "4C5E814025C7F4A4"
+			tasks: [{
+				id: "7BA600D5958EAFEC"
+				item: "minecraft:andesite"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6F111F20FE42C10A"
+				"4C5E814025C7F4A4"
+			]
+			id: "415059815EFBDB8F"
+			tasks: [{
+				id: "563635D57E9CC41B"
+				item: "create:andesite_alloy"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			id: "5243F41DE8D111E7"
+			tasks: [{
+				id: "76E95A8DA04C010D"
+				title: "Adventure Time"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5243F41DE8D111E7"]
+			description: ["Flax is common in the wild. It will greatly improve your string production."]
+			id: "7229A2BB10156BE0"
+			tasks: [{
+				id: "2B86D37D4754DE74"
+				item: "supplementaries:wild_flax"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5243F41DE8D111E7"]
+			id: "673F1E0B1BA9F8D3"
+			tasks: [{
+				id: "0F2475E533A74431"
+				item: "minecraft:clay_ball"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["673F1E0B1BA9F8D3"]
+			id: "757EF969DB90C420"
+			tasks: [{
+				id: "13976DA7C8665658"
+				item: "ceramicshears:clay_shears_part"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["673F1E0B1BA9F8D3"]
+			id: "3F2D1333950CDE9D"
+			tasks: [{
+				id: "5D803535508B30D9"
+				item: "ceramicbucket:unfired_clay_bucket"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5243F41DE8D111E7"]
+			id: "19EFF1B4B1059462"
+			tasks: [{
+				id: "31420EFB457A5509"
+				item: "minecraft:leather"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"19EFF1B4B1059462"
+				"6F111F20FE42C10A"
+			]
+			id: "60FCEAC4815DA5C6"
+			tasks: [{
+				id: "228F94D80CDD2DC8"
+				item: "toolbelt:belt"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5243F41DE8D111E7"]
+			id: "4231532D3ABC77B0"
+			tasks: [{
+				id: "557D714F88553315"
+				item: "minecraft:sand"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4231532D3ABC77B0"]
+			id: "54C95D9B45824464"
+			tasks: [{
+				id: "7ACE767474D0B232"
+				item: "minecraft:glass"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["673F1E0B1BA9F8D3"]
+			id: "1AB4276487BF0ABB"
+			tasks: [{
+				id: "0842F7E809C7E5A1"
+				item: "minecraft:brick"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["415059815EFBDB8F"]
+			id: "1605F228B16A407F"
+			tasks: [{
+				id: "54C98A6B4694FBA6"
+				item: "create:cogwheel"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["415059815EFBDB8F"]
+			id: "441C95A04CFE4E81"
+			tasks: [{
+				id: "3A2F45384D3174AE"
+				item: "create:andesite_casing"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"441C95A04CFE4E81"
+				"1605F228B16A407F"
+				"233CDD85A7813BA8"
+			]
+			id: "19A0A31BC2BE585A"
+			tasks: [{
+				id: "7450A8F614843787"
+				item: "createsifter:sifter"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["19A0A31BC2BE585A"]
+			id: "2503B9A04852E360"
+			tasks: [{
+				id: "3BC6C1E3788E13A4"
+				item: "create:copper_nugget"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["19EFF1B4B1059462"]
+			description: ["Needed to make an atlas."]
+			id: "063AE615A5640F49"
+			tasks: [{
+				id: "36F8D22C5714680E"
+				item: "minecraft:book"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"063AE615A5640F49"
+				"5F49CD238ECD736C"
+			]
+			id: "1B8D33A31F70D36A"
+			tasks: [{
+				id: "20CBFC9F952EB5EB"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						Parent: {
+							maps: [I; ]
+						}
+					}
+					id: "map_atlases:atlas"
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3F2D1333950CDE9D"]
+			id: "0DF650DD539E9625"
+			tasks: [{
+				id: "4A25D7FF1E9C75DA"
+				item: {
+					Count: 1b
+					id: "ceramicbucket:ceramic_bucket"
+					tag: {
+						Fluid: {
+							Amount: 1000
+							FluidName: "minecraft:water"
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1AB4276487BF0ABB"]
+			id: "07451D6891F3EB08"
+			tasks: [{
+				id: "78A4369F48F92726"
+				item: "botanypots:terracotta_botany_pot"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5243F41DE8D111E7"]
+			id: "2B10579D41AA39A5"
+			tasks: [{
+				id: "1733F509B1C0EA20"
+				item: "minecraft:feather"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2B10579D41AA39A5"]
+			id: "3E2AD195B33BD1F5"
+			tasks: [{
+				id: "3F864B98075CFDEF"
+				item: "minecraft:arrow"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3E2AD195B33BD1F5"]
+			id: "569A078253DE499E"
+			tasks: [{
+				id: "6A9E767E957E1159"
+				item: "quark:torch_arrow"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["54C95D9B45824464"]
+			id: "0E899CE8F000785A"
+			tasks: [{
+				id: "4883353DB1E8B2B8"
+				item: "supplementaries:jar"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2503B9A04852E360"]
+			id: "14CA13CC43C19501"
+			tasks: [{
+				id: "4B5EE56023972509"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["14CA13CC43C19501"]
+			id: "776C65FF7A181C0C"
+			tasks: [{
+				id: "10328273EE0B85D2"
+				item: {
+					Count: 1b
+					id: "bettercopper:copper_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["14CA13CC43C19501"]
+			id: "677B56C21EB90E15"
+			tasks: [{
+				id: "53BD2CD26DB7B743"
+				item: {
+					Count: 1b
+					id: "bettercopper:copper_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["14CA13CC43C19501"]
+			id: "2C7C89E515242517"
+			tasks: [{
+				id: "2070E91280B64C67"
+				item: {
+					Count: 1b
+					id: "bettercopper:copper_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["14CA13CC43C19501"]
+			id: "6A80E1D5245EA7C8"
+			tasks: [{
+				id: "390F0BC58C50212C"
+				item: {
+					Count: 1b
+					id: "bettercopper:copper_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["14CA13CC43C19501"]
+			id: "6D594AAC7F0600DF"
+			tasks: [{
+				id: "1768D7AE38480541"
+				item: "suppsquared:copper_lantern"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["14CA13CC43C19501"]
+			id: "7EA79CF1FAC8400F"
+			tasks: [{
+				id: "6A0DFB1C3129B244"
+				item: "copper_amulets:empty_amulet"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["14CA13CC43C19501"]
+			id: "461257B3BBF84201"
+			tasks: [{
+				id: "3C8D94D4AA51FA05"
+				item: "quark:pipe"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["1605F228B16A407F"]
+			id: "233CDD85A7813BA8"
+			tasks: [{
+				id: "59EC50E3701FC515"
+				item: "create:hand_crank"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5243F41DE8D111E7"]
+			id: "57C5CD7532ABDC2B"
+			tasks: [{
+				id: "0A380DE23EDDAF2A"
+				item: "vintagedelight:salt_dust"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5243F41DE8D111E7"]
+			description: ["TBD any dyes"]
+			id: "4F00A6FA1E5461B1"
+			tasks: [{
+				id: "15CD4B2404B2D899"
+				item: "minecraft:white_dye"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4F00A6FA1E5461B1"]
+			id: "5F49CD238ECD736C"
+			tasks: [{
+				id: "0666CDDB1B52AEEB"
+				item: "minecraft:filled_map"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5F49CD238ECD736C"]
+			id: "654CFD5D8B10195A"
+			tasks: [{
+				id: "73F13E3DA8AD78B3"
+				item: "minecraft:cartography_table"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+	]
 	title: "II. Jaunt"
 }

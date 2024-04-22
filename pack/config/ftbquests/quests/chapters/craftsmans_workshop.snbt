@@ -1,0 +1,354 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "craftsmans_workshop"
+	group: ""
+	id: "3733FD215C7B8030"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["63FEE87D2BC2BA7B"]
+			id: "7016B0AA5D0E0127"
+			tasks: [{
+				id: "4F6ED1D2A0D4438E"
+				item: {
+					Count: 1b
+					id: "constructionwand:stone_wand"
+					tag: {
+						Damage: 0
+						wand_options: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["63FEE87D2BC2BA7B"]
+			id: "1D77242F674ACFE2"
+			tasks: [{
+				id: "6E730E79B9C05E1A"
+				item: "vinery:calendar"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["63FEE87D2BC2BA7B"]
+			id: "432F25CB421DA54C"
+			tasks: [{
+				id: "733268BBCDC3D697"
+				item: "minecraft:composter"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["63FEE87D2BC2BA7B"]
+			id: "76056F58A08FB94B"
+			tasks: [{
+				id: "43DF36A450BE89A8"
+				title: "Storage Options"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["76056F58A08FB94B"]
+			id: "6B0509C0DE5A31C1"
+			tasks: [{
+				id: "686AB726B92CA94A"
+				item: "minecraft:barrel"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["76056F58A08FB94B"]
+			id: "28A8537C25671C38"
+			tasks: [{
+				id: "6143D9650DE2B313"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["76056F58A08FB94B"]
+			id: "0A48476276AF901F"
+			tasks: [{
+				id: "4A2E62E15B7A1622"
+				item: "storagedrawers:oak_full_drawers_4"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["76056F58A08FB94B"]
+			id: "317AEC0B59F54927"
+			tasks: [{
+				id: "4056DDC1CD22CBAE"
+				item: "quark:crate"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["1F3DA9F3034E439F"]
+			description: ["TBD tag"]
+			id: "4E69B67375008439"
+			tasks: [{
+				id: "60793BF98AB47721"
+				item: "minecraft:oak_sign"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1F3DA9F3034E439F"]
+			description: ["TBD tag"]
+			id: "076DC7546AB01951"
+			tasks: [{
+				id: "5B90A145EA046461"
+				item: "farmersdelight:canvas_sign"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1F3DA9F3034E439F"]
+			description: ["TBD Tag"]
+			id: "785221FE7542DC85"
+			tasks: [{
+				id: "4766509D89CEC034"
+				item: "supplementaries:sign_post_oak"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1F3DA9F3034E439F"]
+			id: "12FCF4587B68A026"
+			tasks: [{
+				id: "29C7951A11B8AB4A"
+				item: "supplementaries:notice_board"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["76056F58A08FB94B"]
+			description: ["TBD tag"]
+			id: "35B8FA2447116E9F"
+			tasks: [{
+				id: "38B714952EAF50B8"
+				item: "farmersdelight:oak_cabinet"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["76056F58A08FB94B"]
+			id: "2484E6BCE0CEEF29"
+			tasks: [{
+				id: "5EFC21C35DEBC1F1"
+				item: "minecraft:chiseled_bookshelf"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["63FEE87D2BC2BA7B"]
+			description: ["TBD tag"]
+			id: "74FAF1756FBF1E8D"
+			tasks: [{
+				id: "52B8073CF50E8B0F"
+				item: "minecraft:ladder"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["63FEE87D2BC2BA7B"]
+			description: ["TBD tag"]
+			id: "06332D47858BF109"
+			tasks: [{
+				id: "0CDF93F739EB8DE3"
+				item: "minecraft:oak_door"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["63FEE87D2BC2BA7B"]
+			id: "6C114CD27E348CC2"
+			tasks: [{
+				id: "034F8D58EC3A686E"
+				item: "farmersdelight:cutting_board"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			description: ["The 3x3 crafting grid opens up many new recipes, even just with the basic wood, flint, bark, straw, and stone materials."]
+			id: "63FEE87D2BC2BA7B"
+			tasks: [{
+				id: "7C35AD5446CFD696"
+				item: "minecraft:crafting_table"
+				type: "item"
+			}]
+			title: "Roll Up Your Sleeves"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["63FEE87D2BC2BA7B"]
+			id: "7805AACD0C06E890"
+			tasks: [{
+				id: "14F38C22D3E9DCC6"
+				item: "quark:feeding_trough"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["76056F58A08FB94B"]
+			id: "1DF557BB85EEDC68"
+			tasks: [{
+				id: "52932EAB5A6D09D1"
+				item: "supplementaries:present"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["76056F58A08FB94B"]
+			id: "5B1DB76AA0E6E627"
+			tasks: [{
+				id: "2952AE620D28EC0D"
+				item: "wares:cardboard_box"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["63FEE87D2BC2BA7B"]
+			description: ["TBD tag"]
+			id: "42D4431E12473CC1"
+			tasks: [{
+				id: "5145E4CCB3590300"
+				item: "aquaculture:oak_fish_mount"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["63FEE87D2BC2BA7B"]
+			id: "1F3DA9F3034E439F"
+			tasks: [{
+				id: "71301C3E4E2638B4"
+				title: "Signage"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["63FEE87D2BC2BA7B"]
+			id: "18615C35CB00A1AE"
+			tasks: [{
+				id: "1837628EFF1D56FD"
+				item: "aquaculture:worm_farm"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["63FEE87D2BC2BA7B"]
+			id: "272F5A810CEE69E5"
+			tasks: [{
+				id: "5EC89954A55DDB22"
+				item: "minecraft:bowl"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["63FEE87D2BC2BA7B"]
+			id: "3DCBE31BB2B873CA"
+			tasks: [{
+				id: "78A2414D7CF1B362"
+				item: "quark:chute"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["63FEE87D2BC2BA7B"]
+			description: ["TBD tag"]
+			id: "7958F07F8240C4EA"
+			tasks: [{
+				id: "53C67DF1AD1DD1C1"
+				item: "supplementaries:item_shelf"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			description: ["TBD pick one or rename"]
+			id: "67E5BF0A3C491752"
+			tasks: [
+				{
+					id: "5DCCD64BBC2545F1"
+					item: "vinery:flower_box"
+					type: "item"
+				}
+				{
+					id: "55D21AA3A0ABCDE8"
+					item: "supplementaries:flower_box"
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			description: ["TBD tag"]
+			id: "5A03EF44CC690FEA"
+			tasks: [{
+				id: "7A70442826A33C2A"
+				item: "vinery:oak_lattice"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.5d
+		}
+	]
+	title: "Carpentry"
+}
