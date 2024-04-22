@@ -1,6 +1,7 @@
 {
 	chapter_groups: [
 		{ id: "3022A853C332AE6A", title: "Main" }
-		{ id: "7C4028F2E1D7E9A2", title: "Appendix" }
+		{ id: "7C4028F2E1D7E9A2", title: "Appendix A: Tech" }
+		{ id: "34F90E12AE47936B", title: "Appendix B: Life" }
 	]
 }

@@ -1,0 +1,42 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "iv_exploration"
+	group: "3022A853C332AE6A"
+	icon: "minecraft:raw_iron"
+	id: "05BF47AAF442FAEC"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "497158F6C19136EB"
+			size: 1.5d
+			tasks: [{
+				id: "238281345AA5ACCF"
+				item: {
+					Count: 1b
+					id: "bettercopper:copper_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "2FC42D0419273CB9"
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "1E54F7A65DF3C522"
+				item: "minecraft:raw_iron"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+	]
+	title: "IV. Spelunking"
+}

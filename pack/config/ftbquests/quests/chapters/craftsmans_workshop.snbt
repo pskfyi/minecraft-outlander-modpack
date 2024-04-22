@@ -3,6 +3,7 @@
 	default_quest_shape: ""
 	filename: "craftsmans_workshop"
 	group: "7C4028F2E1D7E9A2"
+	icon: "minecraft:oak_planks"
 	id: "3733FD215C7B8030"
 	order_index: 0
 	quest_links: [ ]

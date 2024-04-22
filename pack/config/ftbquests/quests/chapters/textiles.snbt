@@ -1,0 +1,89 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "textiles"
+	group: "7C4028F2E1D7E9A2"
+	icon: {
+		Count: 1b
+		id: "sewingkit:bone_sewing_needle"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "43446A8B7768FA9B"
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["79A5ED3E822B2977"]
+			id: "3B95D031E0A69FC8"
+			size: 1.5d
+			tasks: [{
+				id: "3ED91B17F54E5563"
+				item: "sewingkit:sewing_station"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: ["Bones can be obtained from killing both animals and skeletons."]
+			id: "4DB293996AF58152"
+			tasks: [{
+				id: "46A63A6FAB295E83"
+				item: "minecraft:bone"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"4DB293996AF58152"
+				"6DCC9D213A007925"
+			]
+			description: ["TBD Use your knife to sharpen a bone into a sewing needle."]
+			id: "06CDF89FFEB3A114"
+			tasks: [{
+				id: "5FF08086704EBAD4"
+				item: {
+					Count: 1b
+					id: "sewingkit:bone_sewing_needle"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"3B95D031E0A69FC8"
+				"06CDF89FFEB3A114"
+			]
+			description: ["A square of straw makes this sturdy textile."]
+			id: "1800F2377AF7AAB5"
+			tasks: [{
+				id: "60D13589F7CB6CE2"
+				item: "farmersdelight:canvas"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1800F2377AF7AAB5"]
+			id: "463CDDA5E9E72730"
+			tasks: [{
+				id: "4C18FE1DA3018A2D"
+				item: "supplementaries:sack"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+	]
+	title: "Textiles"
+}

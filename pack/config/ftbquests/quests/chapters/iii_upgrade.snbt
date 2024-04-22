@@ -1,0 +1,234 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "iii_upgrade"
+	group: "3022A853C332AE6A"
+	icon: "create:copper_nugget"
+	id: "69DFEB2715737874"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4C5E814025C7F4A4"
+			tasks: [{
+				id: "7BA600D5958EAFEC"
+				item: "minecraft:andesite"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"3EA6F54BDD842CF8"
+				"4C5E814025C7F4A4"
+			]
+			id: "415059815EFBDB8F"
+			tasks: [{
+				id: "563635D57E9CC41B"
+				item: "create:andesite_alloy"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["415059815EFBDB8F"]
+			id: "441C95A04CFE4E81"
+			tasks: [{
+				id: "3A2F45384D3174AE"
+				item: "create:andesite_casing"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"441C95A04CFE4E81"
+				"1605F228B16A407F"
+				"233CDD85A7813BA8"
+			]
+			id: "19A0A31BC2BE585A"
+			tasks: [{
+				id: "7450A8F614843787"
+				item: "createsifter:sifter"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1605F228B16A407F"]
+			id: "233CDD85A7813BA8"
+			tasks: [{
+				id: "59EC50E3701FC515"
+				item: "create:hand_crank"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["415059815EFBDB8F"]
+			id: "1605F228B16A407F"
+			tasks: [{
+				id: "54C98A6B4694FBA6"
+				item: "create:cogwheel"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["19A0A31BC2BE585A"]
+			id: "2503B9A04852E360"
+			tasks: [{
+				id: "3BC6C1E3788E13A4"
+				item: "create:copper_nugget"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["2503B9A04852E360"]
+			id: "14CA13CC43C19501"
+			tasks: [{
+				id: "4B5EE56023972509"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["14CA13CC43C19501"]
+			id: "461257B3BBF84201"
+			tasks: [{
+				id: "3C8D94D4AA51FA05"
+				item: "quark:pipe"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["14CA13CC43C19501"]
+			id: "7EA79CF1FAC8400F"
+			tasks: [{
+				id: "6A0DFB1C3129B244"
+				item: "copper_amulets:empty_amulet"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["14CA13CC43C19501"]
+			id: "6D594AAC7F0600DF"
+			tasks: [{
+				id: "1768D7AE38480541"
+				item: "suppsquared:copper_lantern"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["14CA13CC43C19501"]
+			id: "6A80E1D5245EA7C8"
+			tasks: [{
+				id: "390F0BC58C50212C"
+				item: {
+					Count: 1b
+					id: "bettercopper:copper_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["14CA13CC43C19501"]
+			id: "2C7C89E515242517"
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				id: "2070E91280B64C67"
+				item: {
+					Count: 1b
+					id: "bettercopper:copper_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["14CA13CC43C19501"]
+			id: "677B56C21EB90E15"
+			shape: "diamond"
+			size: 1.75d
+			tasks: [{
+				id: "53BD2CD26DB7B743"
+				item: {
+					Count: 1b
+					id: "bettercopper:copper_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["14CA13CC43C19501"]
+			id: "776C65FF7A181C0C"
+			tasks: [{
+				id: "10328273EE0B85D2"
+				item: {
+					Count: 1b
+					id: "bettercopper:copper_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0EB8FBF4C6A216B5"]
+			id: "3EA6F54BDD842CF8"
+			tasks: [{
+				id: "5D45BDDDC0CC8CBA"
+				item: "create:zinc_nugget"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "0EB8FBF4C6A216B5"
+			size: 1.5d
+			tasks: [{
+				id: "659BCCCA7046F79B"
+				item: "minecraft:gravel"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+	]
+	title: "III. Copper Age"
+}

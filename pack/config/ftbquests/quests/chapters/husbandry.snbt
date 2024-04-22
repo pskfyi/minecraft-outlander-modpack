@@ -1,0 +1,21 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "husbandry"
+	group: "34F90E12AE47936B"
+	icon: "minecraft:egg"
+	id: "2227C59A684568EC"
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		id: "548662A0186EB56D"
+		tasks: [{
+			id: "42F821CA8725D1F3"
+			item: "minecraft:egg"
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Husbandry"
+}

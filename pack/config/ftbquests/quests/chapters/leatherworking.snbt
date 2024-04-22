@@ -1,0 +1,35 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "leatherworking"
+	group: "7C4028F2E1D7E9A2"
+	icon: "minecraft:leather"
+	id: "427470A6F39CCFDE"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			id: "31A0689784C0DA00"
+			size: 1.5d
+			tasks: [{
+				id: "5D8D0B6F3CBCBF35"
+				item: "minecraft:leather"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["31A0689784C0DA00"]
+			id: "60FCEAC4815DA5C6"
+			tasks: [{
+				id: "228F94D80CDD2DC8"
+				item: "toolbelt:belt"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+	]
+	title: "Leatherworking"
+}

@@ -1,0 +1,22 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "v_iron_age"
+	group: "3022A853C332AE6A"
+	icon: "minecraft:iron_ingot"
+	id: "700A79B589197359"
+	order_index: 4
+	quest_links: [ ]
+	quests: [{
+		id: "4311A39689256136"
+		size: 1.5d
+		tasks: [{
+			id: "6BDFC31F1A0EB0BE"
+			item: "minecraft:raw_iron"
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "V. Iron Age"
+}

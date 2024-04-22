@@ -1,0 +1,28 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "oceanography"
+	group: "34F90E12AE47936B"
+	icon: "aquaculture:jellyfish"
+	id: "45A2F5B02A2D8602"
+	order_index: 3
+	quest_links: [ ]
+	quests: [{
+		dependencies: ["79A5ED3E822B2977"]
+		id: "2C6D00B506147BB3"
+		tasks: [{
+			id: "6D7695787B76A577"
+			item: {
+				Count: 1b
+				id: "minecraft:fishing_rod"
+				tag: {
+					Damage: 0
+				}
+			}
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Oceanography"
+}

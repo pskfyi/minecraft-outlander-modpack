@@ -1,0 +1,47 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "agriculture"
+	group: "34F90E12AE47936B"
+	icon: "farmersdelight:tomato"
+	id: "6FC81810B319CE27"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "15959FC1C0079DA0"
+			tasks: [{
+				id: "25298ADE96D83F93"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:crops"
+					}
+				}
+				title: "Any #forge:crops"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "08EECA659B844560"
+			size: 1.5d
+			tasks: [{
+				id: "544BD7FDB6589D00"
+				item: {
+					Count: 1b
+					id: "bettercopper:copper_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+	title: "Agriculture"
+}

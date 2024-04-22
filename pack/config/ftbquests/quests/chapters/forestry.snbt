@@ -1,0 +1,28 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "forestry"
+	group: "34F90E12AE47936B"
+	icon: "regions_unexplored:golden_larch_sapling"
+	id: "27D2741DC2D0A85E"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		id: "740A6B0563F55190"
+		tasks: [{
+			id: "70C6AEDB28AD6724"
+			item: {
+				Count: 1b
+				id: "itemfilters:tag"
+				tag: {
+					value: "minecraft:saplings"
+				}
+			}
+			title: "Any #minecraft:saplings"
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Forestry"
+}
