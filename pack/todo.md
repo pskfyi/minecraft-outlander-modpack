@@ -61,6 +61,8 @@ currently does not perform and of the desired functions in the Forge release.
   - [Skill Slots](https://www.curseforge.com/minecraft/mc-mods/skill-slots), the
     Jade and Lychee author's newest mod, allows for items to grant skills via
     KubeJS.
+  - [Capsule](https://www.curseforge.com/minecraft/mc-mods/capsule) for
+    deployable, thematic structures.
 - Visuals & Branding
   - Possible alternative to Packmenu:
     https://legacy.curseforge.com/minecraft/mc-mods/its-the-little-things
