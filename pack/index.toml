@@ -18,19 +18,23 @@ hash = "c5a62e3f2d7b91aaff7977d02db34b45f800ccd553678d86e77b5c110f46d60b"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
+hash = "790a69403134a8e8c5b8b1284fbb33d05c5448871fc2ab75bcffec693ba1986f"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/cartography.snbt"
+hash = "801eea87a0cd6125729613e79ba1af09c83c86c2b5a58f403c0f365171b9e687"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/craftsmans_workshop.snbt"
-hash = "6110805da622f79a74fd820fe209bdeb243b65b7761e4d0e7f974cd0f650c486"
+hash = "6da0b8e5610b133748467f9f0923e92c586f2ed4d8eb56e391a7c19ced275806"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/i_preparation.snbt"
-hash = "494cd5d28641de858f90bf5eb3eb1e755db4cc71cffdf6ea9482f213b6a87736"
+hash = "31a37228088d2f1d71f1e05d6a77382d4591f60d0b3c1a78fe6e1b08fa7163d5"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ii_jaunt.snbt"
-hash = "29d23ba8dbc7bc98965bee9a6ecd70bdcd86351f4aced3c5a118bbc5dbba4b7a"
+hash = "4c37a551d52c95050f77cd2c9654bf0d68d6483c11c5b628472a542c7b306466"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/introduction.snbt"
@@ -155,6 +159,10 @@ hash = "c574de888a96371b7b58aa171a93796c761251b13cdde7625fe0da938f1276ba"
 [[files]]
 file = "kubejs/server_scripts/stage1/flint.js"
 hash = "8ced140c1914ed50d26b8fd7174e27c518b123682f0b75e2d2f3799a1dcaecfb"
+
+[[files]]
+file = "kubejs/server_scripts/stage1/maps.js"
+hash = "a18382f0696b2f7ab7648c0b72a09fcffdfbeeed7b995ff6a58967b487444eee"
 
 [[files]]
 file = "kubejs/server_scripts/stage1/textiles.js"

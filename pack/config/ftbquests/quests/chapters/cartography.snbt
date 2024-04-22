@@ -1,0 +1,204 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cartography"
+	group: "7C4028F2E1D7E9A2"
+	id: "6BC2C0CF2079AEF5"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["First we need maps, and maps require paper."]
+			id: "3F92AF561F3DDBF2"
+			size: 1.5d
+			tasks: [{
+				id: "12C7F99DD268D3D7"
+				item: "minecraft:paper"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: ["Maps require any 4 dyes. Dyes are much more plentiful in this pack, with more uses too. Try gathering a lot of them, and gather colorful plants wherever you go."]
+			id: "0CBEEDEA03FCA460"
+			tasks: [{
+				count: 4L
+				id: "3F28B62528EBD9DD"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:dyes"
+					}
+				}
+				title: "Any #forge:dyes"
+				type: "item"
+			}]
+			title: "Dyes"
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"0CBEEDEA03FCA460"
+				"3F92AF561F3DDBF2"
+			]
+			id: "4FAA2419EE509A80"
+			tasks: [{
+				id: "1CE443C2B8540438"
+				item: "minecraft:map"
+				type: "item"
+			}]
+			title: "Map"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"An atlas is a book of maps. First we need a book."
+				""
+				"You may not be able to make this right away, depending on your starting biome and village."
+			]
+			id: "0B5463919A44CEBB"
+			tasks: [{
+				id: "6FFF8EE731411F9E"
+				item: "minecraft:book"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"4FAA2419EE509A80"
+				"0B5463919A44CEBB"
+			]
+			id: "20E94DCC909B666A"
+			tasks: [{
+				id: "6AB751A69D56CED1"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						Parent: {
+							maps: [I; ]
+						}
+					}
+					id: "map_atlases:atlas"
+				}
+				match_nbt: false
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4FAA2419EE509A80"]
+			description: [
+				"This table makes it cheaper to expand your atlas and to change the zoom level of maps."
+				""
+				"Villagers who interact with it may become Cartographers, who sell interesting and useful map-related items."
+			]
+			id: "7E1D126872E3D43A"
+			tasks: [{
+				id: "330CC99106DAD030"
+				item: "minecraft:cartography_table"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4FAA2419EE509A80"]
+			description: ["This map depicts a slice of the world at the Y-level where it is first activated. Great for mapping underground areas. Can be combined into the Map Atlas."]
+			id: "2DDB24EBE28F331C"
+			tasks: [{
+				id: "042DF74AF2F8989C"
+				item: "supplementaries:slice_map"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["20E94DCC909B666A"]
+			id: "0B6C9BD3FB7ACBD3"
+			tasks: [{
+				id: "51F2A5AE19CB0931"
+				title: "Minimap vs World Map"
+				type: "checkmark"
+			}]
+			x: 5.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["20E94DCC909B666A"]
+			id: "28D6C6A6098FBC39"
+			tasks: [{
+				id: "49F1BCD2E57A747E"
+				title: "Waypoints"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["20E94DCC909B666A"]
+			id: "714638AFEF593BAE"
+			tasks: [{
+				id: "4B7E63E88BB34E3C"
+				title: "Map Refills"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["20E94DCC909B666A"]
+			id: "6CD9072AA3B464BA"
+			tasks: [{
+				id: "231903E47BDA1CF8"
+				title: "Waystones"
+				type: "checkmark"
+			}]
+			x: 5.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["20E94DCC909B666A"]
+			id: "5FF16D5C6BE50E6F"
+			tasks: [{
+				id: "7189BEDB2DDDE898"
+				title: "Banners"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			description: ["These items, the the similar Pathfinder's Quills, can be found in dungeons and as quest rewards. Use it to locate a particular location nearby and create a map for it."]
+			icon: "supplementaries:cartographers_quill"
+			id: "64F8C7D358B072FE"
+			tasks: [{
+				id: "439F794798C14577"
+				title: "Cartographer's Quills"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			description: ["You might find it useful to be able to zoom in on faraway objects while mapmaking. The spyglass has been upgraded to help: it can be placed in a Curio slot, it has a custom hotkey (Z by default), it has a new immersive effect when used, and scrolling while use changes the zoom level."]
+			icon: "minecraft:spyglass"
+			id: "3259CB3117240683"
+			tasks: [{
+				id: "040CEB98A05244B7"
+				title: "Spyglass"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+	]
+	title: "Cartography"
+}

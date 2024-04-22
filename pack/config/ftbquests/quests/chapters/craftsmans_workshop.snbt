@@ -2,9 +2,9 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "craftsmans_workshop"
-	group: ""
+	group: "7C4028F2E1D7E9A2"
 	id: "3733FD215C7B8030"
-	order_index: 3
+	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{
@@ -210,6 +210,7 @@
 		{
 			description: ["The 3x3 crafting grid opens up many new recipes, even just with the basic wood, flint, bark, straw, and stone materials."]
 			id: "63FEE87D2BC2BA7B"
+			size: 2.0d
 			tasks: [{
 				id: "7C35AD5446CFD696"
 				item: "minecraft:crafting_table"

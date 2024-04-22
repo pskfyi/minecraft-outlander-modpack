@@ -2,9 +2,9 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "ii_jaunt"
-	group: ""
+	group: "3022A853C332AE6A"
 	id: "2F54E46C22884CB5"
-	order_index: 2
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
@@ -22,6 +22,8 @@
 		{
 			dependencies: ["7777C0BBC1626BA1"]
 			id: "6F111F20FE42C10A"
+			shape: "octagon"
+			size: 1.5d
 			tasks: [{
 				id: "54C7987EEF48D319"
 				item: "create:zinc_nugget"
@@ -74,7 +76,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 3.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["5243F41DE8D111E7"]
@@ -112,13 +114,15 @@
 		{
 			dependencies: ["5243F41DE8D111E7"]
 			id: "19EFF1B4B1059462"
+			shape: "octagon"
+			size: 1.5d
 			tasks: [{
 				id: "31420EFB457A5509"
 				item: "minecraft:leather"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 0.0d
+			x: -1.5d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -131,8 +135,8 @@
 				item: "toolbelt:belt"
 				type: "item"
 			}]
-			x: 1.5d
-			y: 0.0d
+			x: -1.5d
+			y: 4.5d
 		}
 		{
 			dependencies: ["5243F41DE8D111E7"]
@@ -175,7 +179,7 @@
 				item: "create:cogwheel"
 				type: "item"
 			}]
-			x: 3.0d
+			x: 4.5d
 			y: 3.0d
 		}
 		{
@@ -186,7 +190,7 @@
 				item: "create:andesite_casing"
 				type: "item"
 			}]
-			x: 1.5d
+			x: 3.0d
 			y: 3.0d
 		}
 		{
@@ -212,42 +216,8 @@
 				item: "create:copper_nugget"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 4.5d
-		}
-		{
-			dependencies: ["19EFF1B4B1059462"]
-			description: ["Needed to make an atlas."]
-			id: "063AE615A5640F49"
-			tasks: [{
-				id: "36F8D22C5714680E"
-				item: "minecraft:book"
-				type: "item"
-			}]
-			x: 0.0d
-			y: -1.5d
-		}
-		{
-			dependencies: [
-				"063AE615A5640F49"
-				"5F49CD238ECD736C"
-			]
-			id: "1B8D33A31F70D36A"
-			tasks: [{
-				id: "20CBFC9F952EB5EB"
-				item: {
-					Count: 1b
-					ForgeCaps: {
-						Parent: {
-							maps: [I; ]
-						}
-					}
-					id: "map_atlases:atlas"
-				}
-				type: "item"
-			}]
-			x: 0.0d
-			y: -3.0d
+			x: 3.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["3F2D1333950CDE9D"]
@@ -332,8 +302,8 @@
 				item: "minecraft:copper_ingot"
 				type: "item"
 			}]
-			x: -1.5d
-			y: 6.0d
+			x: 1.5d
+			y: 7.5d
 		}
 		{
 			dependencies: ["14CA13CC43C19501"]
@@ -349,8 +319,8 @@
 				}
 				type: "item"
 			}]
-			x: 0.0d
-			y: 6.0d
+			x: 3.0d
+			y: 7.5d
 		}
 		{
 			dependencies: ["14CA13CC43C19501"]
@@ -366,8 +336,8 @@
 				}
 				type: "item"
 			}]
-			x: 0.0d
-			y: 7.5d
+			x: 3.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["14CA13CC43C19501"]
@@ -383,8 +353,8 @@
 				}
 				type: "item"
 			}]
-			x: -1.5d
-			y: 7.5d
+			x: 1.5d
+			y: 9.0d
 		}
 		{
 			dependencies: ["14CA13CC43C19501"]
@@ -400,8 +370,8 @@
 				}
 				type: "item"
 			}]
-			x: -3.0d
-			y: 7.5d
+			x: 0.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["14CA13CC43C19501"]
@@ -411,8 +381,8 @@
 				item: "suppsquared:copper_lantern"
 				type: "item"
 			}]
-			x: -3.0d
-			y: 6.0d
+			x: 0.0d
+			y: 7.5d
 		}
 		{
 			dependencies: ["14CA13CC43C19501"]
@@ -422,8 +392,8 @@
 				item: "copper_amulets:empty_amulet"
 				type: "item"
 			}]
-			x: -3.0d
-			y: 4.5d
+			x: 0.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["14CA13CC43C19501"]
@@ -433,8 +403,8 @@
 				item: "quark:pipe"
 				type: "item"
 			}]
-			x: -1.5d
-			y: 4.5d
+			x: 1.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["1605F228B16A407F"]
@@ -445,7 +415,7 @@
 				type: "item"
 			}]
 			x: 4.5d
-			y: 3.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["5243F41DE8D111E7"]
@@ -456,41 +426,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: 3.0d
-		}
-		{
-			dependencies: ["5243F41DE8D111E7"]
-			description: ["TBD any dyes"]
-			id: "4F00A6FA1E5461B1"
-			tasks: [{
-				id: "15CD4B2404B2D899"
-				item: "minecraft:white_dye"
-				type: "item"
-			}]
-			x: -1.5d
 			y: 0.0d
-		}
-		{
-			dependencies: ["4F00A6FA1E5461B1"]
-			id: "5F49CD238ECD736C"
-			tasks: [{
-				id: "0666CDDB1B52AEEB"
-				item: "minecraft:filled_map"
-				type: "item"
-			}]
-			x: -1.5d
-			y: -1.5d
-		}
-		{
-			dependencies: ["5F49CD238ECD736C"]
-			id: "654CFD5D8B10195A"
-			tasks: [{
-				id: "73F13E3DA8AD78B3"
-				item: "minecraft:cartography_table"
-				type: "item"
-			}]
-			x: -1.5d
-			y: -3.0d
 		}
 	]
 	title: "II. Jaunt"
