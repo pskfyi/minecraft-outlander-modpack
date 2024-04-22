@@ -57,7 +57,13 @@
 		}
 		{
 			dependencies: ["4D57F5FA6F9E36C1"]
-			description: ["You should always spawn in a village, and in a meadow or plains-like biome. Villages come in many sizes, with larger villages proving a significant head start. If you don't like your starting village, make a new world to re-roll."]
+			description: [
+				"You should always spawn in a village, and in a meadow-like or plains-like biome."
+				""
+				"Villages come in many sizes, with larger villages proving a significant head start. If you don't like your starting village, make a new world to re-roll."
+				""
+				"Zombie Sieges are disabled to make villages more peaceful and rejuvenating places."
+			]
 			id: "7198641A830DBC63"
 			tasks: [{
 				id: "7F60F3A058DA1B9D"
