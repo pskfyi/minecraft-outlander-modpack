@@ -74,8 +74,11 @@ intends to treat as removed.
 
 ## Supplementaries
 
-This version of the mod has a splash screen to warn about some items which were
-separated into a companion mod. I've configured this screen not to appear.
+- This version of the mod has a splash screen to warn about some items which
+  were separated into a companion mod. I've configured this screen not to
+  appear.
+- Disabled trapped presents. I don't have a user for them in the pack and they
+  add clutter in REI.
 
 ## Waystones
 

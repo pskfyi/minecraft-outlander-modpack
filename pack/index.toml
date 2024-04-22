@@ -109,6 +109,10 @@ file = "config/supplementaries-client.toml"
 hash = "371a5b7e472913d5c278944f260d9afacd291855d9b9025e33d601fa2f37daee"
 
 [[files]]
+file = "config/supplementaries-common.toml"
+hash = "5f6935a27d1532d321e01897c3df2799b7c1674588d8face5e5323eedd70c1c5"
+
+[[files]]
 file = "config/toolbelt-client.toml"
 hash = "e0f4ed988283222cd1cc83a1fda6edffb40b280cc0de61da77c600c5f2df1229"
 
