@@ -1,10 +1,16 @@
 # Notes on Mod Configurations
 
+## Better Copper
+
+Most of the items have been removed. This is in the pack primarily so that
+copper shovels, hoes, and picks can precede iron and serve as the first metal
+tools.
+
 ## Cold Sweat
 
 Added a Curios charm slot to hold the thermometer.
 
-## Create and Quark
+## Create, Create Vintage Improvements, and Quark
 
 These are configured to remove their custom menu icons because I find them
 cluttersome and distracting.
@@ -42,15 +48,13 @@ distracting and divergent from vanilla map behavior.
 
 ## Natural Progression
 
-- Removed the ability to place pebbles because it has a bad interaction when you
-  have a pebble in hand and right-click on a pebble on the ground, destroying
-  the one on the ground. Removed placing sticks for parity.
-
 - Disabled the nagging popup that you don't have the right tool. It's on me to
   make sure pack players understand this, not a constant popup.
 
 - Disabled the damage effect when trying to mine an unmineable block because it
   triggers at inappropriate times when playing with a trackpad.
+
+- Skipped the entire bone tier of tools.
 
 ## Paragliders
 
@@ -64,13 +68,24 @@ TBD
 
 ## Quark
 
-Disabled emotes. They add many entries to the Controls screeen and cause clutter
-in the in-game talk GUI.
+- Disabled emotes. They add many entries to the Controls screeen and cause
+  clutter in the in-game talk GUI.
+- Disabled Limestone in favor of Create's variant.
 
 ## REI
 
 Using configuration to hide uncraftable items and items which the modpack
 intends to treat as removed.
+
+## Spice of Life: Carrot Edition
+
+- Player starting health set exceptionally low - just 2 hearts. However, eating
+  just 1 food meets the first milestone to unlock more hearts.
+- Milestones grant 1 heart.
+- There are enough milestones to get a double health bar, roughly every 10 foods
+  eaten.
+- All foods count, no matter how trivial to craft. (May be reconfigured only to
+  count foods that restore 2-3+ pips.)
 
 ## Supplementaries
 
@@ -84,3 +99,8 @@ intends to treat as removed.
 
 Enabled feature to force Waystones to spawn in villages because I love them and
 I feel they support the Adventure, Convenience, and Integration design pillars.
+
+## Vinery
+
+Scrubbed out the flower box and flower pot items. The ones that Supplementaries
+added are functionally superior.
