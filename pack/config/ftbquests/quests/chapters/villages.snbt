@@ -1,0 +1,24 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "villages"
+	group: "2A4DD4B2E1B4ADF6"
+	icon: "minecraft:bell"
+	id: "6A49D12F40BE4F3F"
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		description: ["You'll know it by its prominent lighthouse."]
+		id: "56EB819B30F11D8D"
+		tasks: [{
+			icon: "waystones:sandy_waystone"
+			id: "64F14F8188DDB82A"
+			structure: "ctov:large/village_beach"
+			title: "Visit a Beach Village"
+			type: "structure"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Villages"
+}

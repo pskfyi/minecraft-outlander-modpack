@@ -5,24 +5,43 @@
 	group: "34F90E12AE47936B"
 	icon: "regions_unexplored:golden_larch_sapling"
 	id: "27D2741DC2D0A85E"
-	order_index: 1
+	order_index: 2
 	quest_links: [ ]
-	quests: [{
-		id: "740A6B0563F55190"
-		tasks: [{
-			id: "70C6AEDB28AD6724"
-			item: {
-				Count: 1b
-				id: "itemfilters:tag"
-				tag: {
-					value: "minecraft:saplings"
+	quests: [
+		{
+			id: "740A6B0563F55190"
+			tasks: [{
+				id: "70C6AEDB28AD6724"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:saplings"
+					}
 				}
-			}
-			title: "Any #minecraft:saplings"
-			type: "item"
-		}]
-		x: 0.0d
-		y: 0.0d
-	}]
+				title: "Any #minecraft:saplings"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "39EB52CA38EF9D9C"
+			tasks: [{
+				id: "11E751B4D1DDDC24"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:leaves"
+					}
+				}
+				title: "Any #minecraft:leaves"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+	]
 	title: "Forestry"
 }

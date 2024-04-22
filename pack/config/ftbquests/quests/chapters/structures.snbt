@@ -1,0 +1,23 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "structures"
+	group: "2A4DD4B2E1B4ADF6"
+	icon: "supplementaries:cartographers_quill"
+	id: "39322EFC4C738E09"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		icon: "vinery:wine_bottle"
+		id: "7106F829750A0D6A"
+		tasks: [{
+			id: "62814BAA6B1D320F"
+			structure: "idas:treetop_tavern"
+			title: "Treetop Tavern"
+			type: "structure"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Landmarks"
+}

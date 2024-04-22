@@ -128,6 +128,20 @@
 			x: 1.5d
 			y: -1.5d
 		}
+		{
+			dependencies: ["5243F41DE8D111E7"]
+			description: ["Talk with your neighbors and figure out what they want, then bring it to them."]
+			id: "383104F1BED97F6E"
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				id: "4C5E9B9919D20C87"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
 	]
 	title: "II. Scouting"
 }

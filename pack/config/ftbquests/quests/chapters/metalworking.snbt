@@ -1,0 +1,98 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "metalworking"
+	group: "7C4028F2E1D7E9A2"
+	id: "6EDA84C3292B82F7"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7DF6C8BD822B18E7"
+			tasks: [{
+				id: "399DA5F28AF0D9CD"
+				item: "create:zinc_nugget"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "22036CECDA7A8677"
+			tasks: [{
+				id: "01AF29A4EF3F5191"
+				item: "create:copper_nugget"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			id: "683842D49801F559"
+			tasks: [{
+				id: "2832AE30F4B23EEB"
+				item: "minecraft:iron_nugget"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "438C4B42CCFEACDF"
+			tasks: [{
+				id: "0DF57E6998AF95B4"
+				item: "minecraft:gold_nugget"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			id: "56CAA637EB8073D6"
+			tasks: [{
+				id: "709045999AC5F342"
+				item: "aquaculture:neptunium_nugget"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "5E1AE18DD98CFD6A"
+			tasks: [{
+				id: "2EBE874114CD8171"
+				item: "create:brass_nugget"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			id: "74E6AE62E129FF6A"
+			tasks: [{
+				id: "4013A9719C97818A"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			id: "7DB510CFF5336F07"
+			tasks: [{
+				id: "16F976658BFF0A9D"
+				item: {
+					Count: 1b
+					id: "supplementaries:wrench"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+	]
+	title: "Metalworking"
+}

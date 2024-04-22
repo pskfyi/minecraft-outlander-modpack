@@ -28,6 +28,7 @@
 							value: "forge:pebbles"
 						}
 					}
+					title: "Pebbles"
 					type: "item"
 				}
 				{
@@ -80,7 +81,11 @@
 		}
 		{
 			dependencies: ["6DCC9D213A007925"]
-			description: ["With a knife in hand, left-click or right-click on grass and other grass-like plants (such as corn) to obtain straw in addition to the regular drops. Some recipes use straw as an alternative to string."]
+			description: [
+				"With a knife in hand, break grass and other grass-like plants (such as corn) to obtain straw in addition to their regular drops."
+				""
+				"Some recipes use straw as an alternative to string."
+			]
 			id: "30F37F1CB6461704"
 			tasks: [{
 				id: "455BDE6A50E2DFA1"
@@ -235,7 +240,7 @@
 			description: [
 				"Craft planks with a piece of stripped wood and your hatchet."
 				""
-				"Making planks with this small hatchet is very inefficient. Let's work towards a better solution right away."
+				"Making planks with this small hatchet is very inefficient. We'll work towards a better solution right away."
 			]
 			id: "5EA2D51E14BB5F1C"
 			tasks: [{
@@ -288,7 +293,7 @@
 		}
 		{
 			dependencies: ["79A5ED3E822B2977"]
-			description: ["Combine a saw with a log to get many more planks than the hatchet provides."]
+			description: ["Combine a saw with a log to get many more planks than the hatchet provides. The saw is also a fair weapon and is able to strip and cut logs just like a hatchet."]
 			id: "669328F23ED010AE"
 			tasks: [{
 				id: "00EFE505B2FC6C19"
@@ -330,13 +335,21 @@
 		}
 		{
 			dependencies: ["79A5ED3E822B2977"]
-			description: ["TBD, should be an item filter for #tag"]
+			description: ["With a larger work surface available, you can now do carpentry."]
 			id: "0F1052E526D8CA98"
 			tasks: [{
 				id: "2DCF850A9DC398A7"
-				item: "minecraft:oak_slab"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:wooden_slabs"
+					}
+				}
+				title: "Any #minecraft:wooden_slabs"
 				type: "item"
 			}]
+			title: "Slabs"
 			x: 1.5d
 			y: 4.5d
 		}
@@ -380,7 +393,11 @@
 				"79A5ED3E822B2977"
 				"31A936DEC1ADF6B6"
 			]
-			description: ["You'll need a lot of paper for maps."]
+			description: [
+				"Three bark is an inefficient recipe for paper that gets the job done in a pinch."
+				""
+				"You'll need a lot of paper for maps and other items in this pack."
+			]
 			id: "09F01971E5B5DDA6"
 			shape: "octagon"
 			size: 1.5d
@@ -423,6 +440,18 @@
 			}]
 			x: 4.5d
 			y: 6.0d
+		}
+		{
+			dependencies: ["4694123C947171C5"]
+			description: ["Knives aren't any faster than your hands for digging, but because they're a tool they'll let you dig with Ultimine to excavate large areas quickly."]
+			id: "40D43E48C0C060EB"
+			tasks: [{
+				id: "5936EC0C2710839F"
+				title: "Digging"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -3.5d
 		}
 	]
 	title: "I. Preparation"

@@ -1,0 +1,25 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ecology"
+	group: "34F90E12AE47936B"
+	icon: "minecraft:grass_block"
+	id: "47B28864B0BCB9CF"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		description: ["Be sure to bring back some Willow saplings."]
+		icon: "regions_unexplored:willow_sapling"
+		id: "1882A6336D08E30B"
+		tasks: [{
+			biome: "regions_unexplored:willow_forest"
+			icon: "regions_unexplored:willow_sapling"
+			id: "1386924E727E0B7E"
+			title: "Visit a Willow Forest"
+			type: "biome"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Ecology"
+}

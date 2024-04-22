@@ -5,7 +5,7 @@
 	group: "34F90E12AE47936B"
 	icon: "aquaculture:jellyfish"
 	id: "45A2F5B02A2D8602"
-	order_index: 3
+	order_index: 4
 	quest_links: [ ]
 	quests: [{
 		dependencies: ["79A5ED3E822B2977"]

@@ -1,0 +1,46 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "economics"
+	group: "2A4DD4B2E1B4ADF6"
+	icon: "minecraft:emerald"
+	id: "63D94AA68D3D408E"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "13B81CC1211F875E"
+			size: 1.5d
+			tasks: [{
+				id: "52CE461F1457802E"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["13B81CC1211F875E"]
+			id: "06A19F02B8AE7558"
+			tasks: [{
+				id: "118853E8715E063B"
+				item: "wares:delivery_table"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["13B81CC1211F875E"]
+			id: "5C1888DF36CAE2E6"
+			tasks: [{
+				id: "6A7A72DEB1331041"
+				item: "bountiful:bountyboard"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+	]
+	title: "Economics"
+}

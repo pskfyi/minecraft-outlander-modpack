@@ -346,6 +346,66 @@
 			x: 1.0d
 			y: 2.5d
 		}
+		{
+			id: "469FC990E7067DE5"
+			tasks: [{
+				id: "052897AA097A8C10"
+				item: "minecraft:bamboo"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["469FC990E7067DE5"]
+			id: "49D1535BC2B485BE"
+			tasks: [{
+				id: "70BD2AA803DE95C3"
+				item: "minecraft:scaffolding"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["469FC990E7067DE5"]
+			id: "6695150978671724"
+			tasks: [{
+				id: "69F9EEC8214E1553"
+				item: {
+					Count: 1b
+					id: "supplementaries:flute"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["469FC990E7067DE5"]
+			id: "1833FDEF376012B8"
+			tasks: [{
+				id: "6C765C898B24A019"
+				item: "supplementaries:bamboo_spikes"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["469FC990E7067DE5"]
+			id: "3BDD8D5F94E8CD83"
+			tasks: [{
+				id: "289CB3B7BDFD1BFF"
+				item: "farmersdelight:basket"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -4.0d
+		}
 	]
 	title: "Carpentry"
 }

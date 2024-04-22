@@ -18,7 +18,7 @@ hash = "c5a62e3f2d7b91aaff7977d02db34b45f800ccd553678d86e77b5c110f46d60b"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "62ce29cce7b44932df5d6c014ded121f5bc10e9e7f0962d32c643ef81f5760ac"
+hash = "40e82a1e2079ed345e121d6db3225016ef2a3dcf7d292e58de358c4e243d0dff"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/agriculture.snbt"
@@ -34,15 +34,27 @@ hash = "9dbe65bc3c39c647256a63535c702aaeefe4e170ec6a117b97c53db09f9f696e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/craftsmans_workshop.snbt"
-hash = "acd66e930eadede1930cea789a19e6c8d8d8da227f726007f4765fca0d38222e"
+hash = "164877bb1f285f18f56370f26fe427c8e1040d2080a11860825816ae90cb4f09"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ecology.snbt"
+hash = "5d1782f938facf23b03339eb06781a3fac7e04b8f5cf313d8fb9b910dff672f8"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/economics.snbt"
+hash = "dcff77de3ea83bf89c74c95279b5b27e836c1c0c28cb392970e89b87cdd86599"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/engineering.snbt"
 hash = "e56ac5e653106ef8bb9c5c26945fe5f1fbd1e7e954fbe4894c9a739d464007c7"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/etc.snbt"
+hash = "93a1904563bf06737db8c41bcd2f1d42a9374d678a1864fd74e699a9167649a7"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/forestry.snbt"
-hash = "0476cc479d1edbf6d77bb5b08fb77ac0d8a4e1c3be402c2e354aa8939855f8c7"
+hash = "0ad1b196d45d9a68f59e67626186c7762d1285586585da6ba726a59c06c21350"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/glassworking.snbt"
@@ -50,15 +62,15 @@ hash = "365a21c33e19846136792088d571fb2403c58e270b2c5367f5f6e50e124cfcf3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/husbandry.snbt"
-hash = "6061be4c53765038b1bc131481b3fe05a42eeee3b457d562de7a347875a0a9de"
+hash = "953e570550a8e409a70128228cca730cbe10f7289e49ddb95e6f7f9b7605189e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/i_preparation.snbt"
-hash = "43ebbbb15aabe4145ba09bb86a65883f6a0c04828737b1bab4331a1334639503"
+hash = "140153605b4c492a15d87092b78818d62ba707c319b2467de6b2a9481ff9f70d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ii_jaunt.snbt"
-hash = "58c4b934aa7780f714060e0aacb96a4ae1a1b6e10370954c5ad4aef194f34871"
+hash = "8de0c91378dcb3ea1ffbcdc49011505f02db921fccb97b6f48bd88a701122e7f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/iii_upgrade.snbt"
@@ -66,7 +78,7 @@ hash = "9d4573721743dab9a1e6ec61c6d7c569656608e32a6be9ff520137f454b5ea62"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/introduction.snbt"
-hash = "293704aa0e854eddc62de3ef2a28ec0001786e240550a6940b1ef630baa4b3a2"
+hash = "5b592b88cc0ac9ce7bbaea06023d3b19b04d164a209cb19fe1b7056fb8936d8a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/iv_exploration.snbt"
@@ -77,20 +89,32 @@ file = "config/ftbquests/quests/chapters/leatherworking.snbt"
 hash = "270b3e6a77f98006093913ff2f252fe4a5d4a424c2985e580ea3934b145fea09"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/metalworking.snbt"
+hash = "521ff86d9d88b92a152f24efae2591df232c643d89b6b05b86cea512e1b8d207"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/oceanography.snbt"
-hash = "9db4be23ae657256bf5daf8073e6912b43680d1019d570ab7f0cc27b1be59520"
+hash = "ea07dcb741e72df7811fc0d780868537d41593490e0e2efa95d3d9c1341071a3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/smelting.snbt"
-hash = "337547cac40f1050004efa0a5a6933cb41a21cd53af64a9b6faa35ec1483b2fd"
+hash = "71843cf634d97613130a00a3ea0640745612bf8368a82b3d054aa8ddefbbf63b"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/structures.snbt"
+hash = "1c2c460ca8f54d62f03d51b592cdbd9c92c616604039491c47bea742340190cf"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/textiles.snbt"
-hash = "ef0d40867aef143e39eb71f43ad8436576c77222dccd159d604bb8b9072924dc"
+hash = "3e58f6a9b2afdc673e72afddf343d3160debb1d8acdce92220eeb8733582ae81"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/v_iron_age.snbt"
 hash = "cae696d568fbdbe7344530a2737622cadda00b7c31a92b4064514b3989b0bb26"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/villages.snbt"
+hash = "31f22b05e1b3bb4325182c264cd38d200968375c42fa20e7321302a40fddb251"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -150,7 +174,7 @@ hash = "c91312875a70cfd13eb1cdec393e0ddb646b810d729d1958ef769063c765febc"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "cbd9ab6970fe95402e41ba3db82d347fcc0650dde7b4668cca0390589b020452"
+hash = "c8e1da38cde0b91e7d719cf6ee1d0d263033a835efdb92b46abda1ee9a27e9c3"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"

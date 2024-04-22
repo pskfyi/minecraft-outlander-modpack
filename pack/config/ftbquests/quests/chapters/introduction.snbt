@@ -36,7 +36,7 @@
 			id: "5EDF411A4B9EC871"
 			tasks: [{
 				id: "71CE72EF4DBB8A8C"
-				title: "Air & Temperature"
+				title: "Air \\& Temperature"
 				type: "checkmark"
 			}]
 			title: "Air \\& Temperature"
@@ -60,7 +60,7 @@
 			description: [
 				"You should always spawn in a village, and in a meadow-like or plains-like biome."
 				""
-				"Villages come in many sizes, with larger villages proving a significant head start. If you don't like your starting village, make a new world to re-roll."
+				"Villages come in many sizes, with larger villages providing a significant head start. If you don't like your starting village, make a new world to re-roll."
 				""
 				"Zombie Sieges are disabled to make villages more peaceful and rejuvenating places."
 			]
@@ -99,12 +99,18 @@
 		}
 		{
 			dependencies: ["4D57F5FA6F9E36C1"]
+			description: [
+				"Darkness is intentionally much darker, but light sources held in hand or dropped on the floor still emit light. Try throwing a torch into a mineshaft and see what happens."
+				""
+				"Lanterns can be equipped in a curio slot to free up your offhand while working in the dark."
+			]
 			id: "4950D92A5C2C4159"
 			tasks: [{
 				id: "76F2A18D355A3F82"
 				title: "TBD"
 				type: "checkmark"
 			}]
+			title: "Dynamic Lighting"
 			x: -1.5d
 			y: 0.0d
 		}
