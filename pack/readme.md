@@ -63,6 +63,7 @@ configuration is particularly notable.
 - [Colorful Hearts](https://curseforge.com/minecraft/mc-mods/colorful-hearts)
 - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) [⚙️](config.md#jade)
   ([Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons))
+- [Panorama Screens](https://www.curseforge.com/minecraft/mc-mods/panorama-screens)
 - [REI](https://curseforge.com/minecraft/mc-mods/roughly-enough-items)
 - [Visual Workbench](https://curseforge.com/minecraft/mc-mods/visual-workbench)
 
