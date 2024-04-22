@@ -233,6 +233,11 @@ file = "kubejs/startup_scripts/globals.js"
 hash = "41efc817ca37d6eb59031c3a48790867a8675f3e3dd78a692a2fea896350dc0c"
 
 [[files]]
+file = "mods/alwayseat.pw.toml"
+hash = "482873e1d75c8d55f2d2164c839be5729e5d4c41561f1f6198cc19c4b16f7b6c"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
