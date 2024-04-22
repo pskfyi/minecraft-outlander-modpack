@@ -727,7 +727,7 @@
 		#Can bones be smelted down to bone meal?
 		"Bone Meal Utility" = true
 		#Can Charcoal be crafted into Black Dye?
-		"Charcoal To Black Dye" = true
+		"Charcoal To Black Dye" = false
 		#Can two Logs be used instead of a Chest to make a Hopper?
 		"Easy Hopper" = true
 		#Can two Logs be used to craft 16 sticks?
