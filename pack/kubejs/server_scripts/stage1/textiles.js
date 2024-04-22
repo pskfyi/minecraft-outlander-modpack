@@ -1,14 +1,14 @@
 // priority: 10
 
-const STRING = "minecraft:string"
-const CANVAS = "farmersdelight:canvas"
-const STRAW = "farmersdelight:straw"
-const ROPE = "farmersdelight:rope"
-const SACK = "supplementaries:sack"
-const FLAX = "supplementaries:flax"
-const LOOM = "minecraft:loom"
-
 ServerEvents.recipes((event) => {
+  const STRING = "minecraft:string"
+  const CANVAS = "farmersdelight:canvas"
+  const STRAW = "farmersdelight:straw"
+  const ROPE = "farmersdelight:rope"
+  const SACK = "supplementaries:sack"
+  const FLAX = "supplementaries:flax"
+  const LOOM = "minecraft:loom"
+
   // TODO: Pick 1 rope and get all recipes to use it.
   // TODO: Canvas should be craftable at a sewing table.
 

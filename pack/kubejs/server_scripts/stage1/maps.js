@@ -1,10 +1,10 @@
 // priority: 10
 
-const MAP = "minecraft:map"
-const CARTOGRAPHY_TABLE = "minecraft:cartography_table"
-
 ServerEvents.recipes((event) => {
   // Note: Map Atlas mod's recipe cannot be modified!
+
+  const MAP = "minecraft:map"
+  const CARTOGRAPHY_TABLE = "minecraft:cartography_table"
 
   event.remove({ id: MAP })
   event.remove({ id: CARTOGRAPHY_TABLE })

@@ -1,17 +1,24 @@
 // priority: 10
 
+// See startup script that alters durability of flint items
+
 ServerEvents.recipes((event) => {
+  const FLINT = "minecraft:flint"
+  const STICK = "minecraft:stick"
+  const STRAW = "farmersdelight:straw"
+  const HATCHET = "natprog:flint_hatchet"
+
   event.remove({ id: "natprog:crafting/flint_hatchet" })
   event.shaped(
-    "natprog:flint_hatchet",
+    HATCHET,
     [
       "FT",
       "FS"
     ],
     {
-      F: "minecraft:flint",
-      S: "minecraft:stick",
-      T: "farmersdelight:straw",
+      F: FLINT,
+      S: STICK,
+      T: STRAW,
     }
   )
 })
