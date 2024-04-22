@@ -8,12 +8,18 @@
 - [Compost](https://www.curseforge.com/minecraft/mc-mods/compost) is broken w/
   REI: [Compost/#7](https://github.com/yurisuika/Compost/issues/7)
 
-## Compatibility Issues
+## Action Items
 
-Salt and associated systems added by The Salt and Vintage Delight need to be
-reconciled.
+- Use
+  [KubeJS default options handling](https://kubejs.com/wiki/tutorials/default-options)
+  for keybinds.
 
-## To Be Configured
+### Compatibility Issues
+
+- Salt and associated systems added by The Salt and Vintage Delight need to be
+  reconciled.
+
+### To Be Configured
 
 - Parcool
 - Cold Sweat
