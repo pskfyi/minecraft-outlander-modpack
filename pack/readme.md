@@ -69,6 +69,7 @@ configuration is particularly notable.
 
 #### Performance
 
+- [CullLessLeaves Reforged](https://www.curseforge.com/minecraft/mc-mods/culllessleaves-reforged)
 - [Fastload](https://curseforge.com/minecraft/mc-mods/fastload)
 - [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
 - [ImmediatelyFast](https://curseforge.com/minecraft/mc-mods/immediatelyfast)
