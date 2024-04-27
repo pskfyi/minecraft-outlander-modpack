@@ -125,7 +125,7 @@
 	Thatch = true
 	"Variant Bookshelves" = true
 	"Variant Chests" = true
-	"Variant Furnaces" = true
+	"Variant Furnaces" = false
 	"Variant Ladders" = true
 	"Vertical Planks" = false
 	"Vertical Slabs" = false
@@ -717,7 +717,7 @@
 		#Can Coral be crafted into dye?
 		"Coral To Dye" = true
 		#Can cookies, paper, and bread be crafted in a 2x2 crafting table?
-		"Bent Recipes" = true
+		"Bent Recipes" = false
 		#Can Rotten Flesh and Poisonous Potatoes be composted?
 		"Compostable Toxins" = true
 		#Does Dragon Breath return a bottle when used as a reagent or material?
@@ -729,9 +729,9 @@
 		#Can Charcoal be crafted into Black Dye?
 		"Charcoal To Black Dye" = false
 		#Can two Logs be used instead of a Chest to make a Hopper?
-		"Easy Hopper" = true
+		"Easy Hopper" = false
 		#Can two Logs be used to craft 16 sticks?
-		"Easy Sticks" = true
+		"Easy Sticks" = false
 		#Can raw ore blocks be smelted, taking 9x the time a normal item?
 		"Smelt Raw Ore Blocks" = true
 
