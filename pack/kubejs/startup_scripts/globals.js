@@ -35,7 +35,7 @@ global.items = {
     "ftbquests:loot_crate_opener",
   ],
   planks: {
-    minecraft: [ // these are all already handled by NatProg
+    minecraft: [
       "oak",
       "spruce",
       "birch",
@@ -44,9 +44,9 @@ global.items = {
       "cherry",
       "dark_oak",
       "mangrove",
-      "bamboo", // wants special ratios
-      "crimson", // mushroom blocks
-      "warped", // mushroom blocks
+      // "bamboo", // wants special ratios
+      // "crimson", // mushroom blocks
+      // "warped", // mushroom blocks
     ],
     aquaculture: [
       "driftwood" // special blocks, oak planks
