@@ -8,14 +8,14 @@
 	order_index: 1
 	quest_links: [ ]
 	quests: [{
-		description: ["Be sure to bring back some Willow saplings."]
-		icon: "regions_unexplored:willow_sapling"
+		description: ["Be sure to bring back some saplings."]
+		icon: "minecraft:oak_sapling"
 		id: "1882A6336D08E30B"
 		tasks: [{
-			biome: "regions_unexplored:willow_forest"
-			icon: "regions_unexplored:willow_sapling"
+			biome: "minecraft:meadow"
+			icon: "minecraft:oak_sapling"
 			id: "1386924E727E0B7E"
-			title: "Visit a Willow Forest"
+			title: "Visit a Meadow"
 			type: "biome"
 		}]
 		x: 0.0d

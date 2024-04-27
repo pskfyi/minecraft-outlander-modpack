@@ -3,7 +3,7 @@
 	default_quest_shape: ""
 	filename: "forestry"
 	group: "34F90E12AE47936B"
-	icon: "regions_unexplored:golden_larch_sapling"
+	icon: "minecraft:oak_sapling"
 	id: "27D2741DC2D0A85E"
 	order_index: 2
 	quest_links: [ ]

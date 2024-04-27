@@ -51,31 +51,6 @@ global.items = {
     aquaculture: [
       "driftwood" // special blocks, oak planks
     ],
-    "regions_unexplored": [
-      "alpha", // no stripped variant
-      "baobab",
-      "blackwood",
-      "blue_bioshroom", // mushroom blocks
-      "brimwood",
-      "cobalt",
-      "cypress",
-      "dead",
-      "eucalyptus",
-      "green_bioshroom", // mushroom blocks
-      "joshua",
-      "kapok",
-      "larch",
-      "magnolia",
-      "maple",
-      "mauve",
-      "palm",
-      "pine",
-      "pink_bioshroom", // mushroom blocks
-      "redwood",
-      "socotra",
-      "willow",
-      "yellow_bioshroom", // mushroom blocks
-    ],
     quark: [
       "ancient",
       "azalea",
