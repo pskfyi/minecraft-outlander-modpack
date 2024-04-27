@@ -28,17 +28,6 @@
 		}
 		{
 			dependencies: ["63FEE87D2BC2BA7B"]
-			id: "1D77242F674ACFE2"
-			tasks: [{
-				id: "6E730E79B9C05E1A"
-				item: "vinery:calendar"
-				type: "item"
-			}]
-			x: -1.0d
-			y: -2.5d
-		}
-		{
-			dependencies: ["63FEE87D2BC2BA7B"]
 			id: "432F25CB421DA54C"
 			tasks: [{
 				id: "733268BBCDC3D697"
@@ -333,18 +322,6 @@
 			}]
 			x: 2.0d
 			y: 2.0d
-		}
-		{
-			dependencies: ["63FEE87D2BC2BA7B"]
-			description: ["TBD tag"]
-			id: "5A03EF44CC690FEA"
-			tasks: [{
-				id: "7A70442826A33C2A"
-				item: "vinery:oak_lattice"
-				type: "item"
-			}]
-			x: 1.0d
-			y: 2.5d
 		}
 		{
 			id: "469FC990E7067DE5"

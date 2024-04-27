@@ -33,9 +33,6 @@ global.items = {
     "natprog:steel_saw",  // No steel in the pack
 
     "ftbquests:loot_crate_opener",
-
-    "vinery:flower_box",
-    "vinery:flower_pot"
   ],
   planks: {
     minecraft: [ // these are all already handled by NatProg
@@ -53,10 +50,6 @@ global.items = {
     ],
     aquaculture: [
       "driftwood" // special blocks, oak planks
-    ],
-    vinery: [
-      "apple", // all oak except unstripped log
-      "cherry"
     ],
     "regions_unexplored": [
       "alpha", // no stripped variant

@@ -52,8 +52,6 @@ const STRIPPABLE_LOGS = [ // for editing bark stripping
   "minecraft:cherry_log",
   "minecraft:dark_oak_log",
   "minecraft:mangrove_log",
-  // "vinery:apple_log", // no stripped variant
-  "vinery:cherry_log",
   // "regions_unexplored:alpha_log", // no stripped variant
   // "regions_unexplored:ashen_log", // no stripped variant
   "regions_unexplored:baobab_log",
@@ -94,5 +92,4 @@ ServerEvents.tags('item', event => {
 
 ServerEvents.recipes((event) => {
   STRIPPABLE_LOGS.map(log => event.custom(stripAndDropBark(log)))
-  event.custom(stripAndDropBark("vinery:apple_log", "minecraft:stripped_oak_log"))
 })
