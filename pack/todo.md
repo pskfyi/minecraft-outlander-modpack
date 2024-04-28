@@ -52,6 +52,12 @@ needs to be slightly more proven before I dive in.
 currently does not perform and of the desired functions in the Forge release.
 (Can't ban items throughout REI.)
 
+Both
+[Roughly Enough Loot Tables](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-loot-tables)
+and
+[Roughly Enough Trades](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-trades)
+are stuck on 1.19.x.
+
 ## Open Issues
 
 - HUD Compass does not support:

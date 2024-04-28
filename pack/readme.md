@@ -65,6 +65,11 @@ configuration is particularly notable.
   ([Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons))
 - [Panorama Screens](https://www.curseforge.com/minecraft/mc-mods/panorama-screens)
 - [REI](https://curseforge.com/minecraft/mc-mods/roughly-enough-items)
+  ([Breeding](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding),
+  [Effects](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed),
+  [Paintings](https://www.curseforge.com/minecraft/mc-mods/jepp),
+  [Professions](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-professions-rep),
+  [Resources](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources))
 - [Visual Workbench](https://curseforge.com/minecraft/mc-mods/visual-workbench)
 
 #### Performance

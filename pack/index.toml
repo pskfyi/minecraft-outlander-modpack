@@ -613,6 +613,21 @@ hash = "33466bb8e4a189bc2fc7e456f0f06c94979b87141fb064706f96b1ff7ead74d3"
 metafile = true
 
 [[files]]
+file = "mods/jepp.pw.toml"
+hash = "3295b7cafc8aeb38fc13eecab409677c6e520e72e7c5b2a38923b181f05cafda"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "1d71247c860cc4caabc969bca182eb3325db0729886a6491e8f805880f45b2c8"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "25b3c82d7391ed2289b0d769f509740db74ba47505c75d8b90db39094d2c72f9"
+metafile = true
+
+[[files]]
 file = "mods/kambrik.pw.toml"
 hash = "b7d3d553250955d3b3a669647e66ef6c4c7a31ee07f04e308432acdebb87adb0"
 metafile = true
@@ -794,6 +809,16 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "14844c4a19f022dde2276f2d57b2a83ae3c6d8025d33a173045c6318c848995b"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "8eaa51d7f63c6abb594354921b8acb246bc5b7b6955cc98720fd36ae4f5b44be"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "afbc1b044e9a53bc2db3686bdc4b8e8d099972de2bd802482a569594c209b471"
 metafile = true
 
 [[files]]
