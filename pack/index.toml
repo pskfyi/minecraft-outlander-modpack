@@ -518,6 +518,11 @@ hash = "4da758690c2a7ac4d0e17283203d0b1bac670edfaf42f1863cd624941d3a0145"
 metafile = true
 
 [[files]]
+file = "mods/fast-paintings.pw.toml"
+hash = "5ca243c219a35f3c74bcf61c8ed9936240c292dbef7faf779fe98ba4989fef0d"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 hash = "b4fc21a94115c0044b9c7bf79b5b5eddef5034361039a1cbc1af4afc47662f46"
 metafile = true
@@ -680,6 +685,11 @@ metafile = true
 [[files]]
 file = "mods/map-atlases-forge.pw.toml"
 hash = "5f774bed83562d6f96a83b182deaec8e980e751d13692465bcfa85db1a40d286"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-style-paintings.pw.toml"
+hash = "b259716fe57d76753e73615c0f0867b477844138ba24f10955a2aa2183f58162"
 metafile = true
 
 [[files]]
