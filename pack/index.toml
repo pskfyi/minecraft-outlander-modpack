@@ -927,6 +927,16 @@ hash = "ae4956baa7bfc8a7d596169d256eba7ed2e2961b55e4ad331b50d3dc6c72baeb"
 metafile = true
 
 [[files]]
+file = "mods/time-in-a-bottle-curio-support.pw.toml"
+hash = "d2459a69c30d8097f378c4c0c211f324fa3450b35bff6e57d99e36b620058d15"
+metafile = true
+
+[[files]]
+file = "mods/time-in-a-bottle-forge.pw.toml"
+hash = "72ced7ade7b22637f28e2786e93e0e8afad3b7c3fd402998e08d8c688a93af6e"
+metafile = true
+
+[[files]]
 file = "mods/tiny-coal.pw.toml"
 hash = "6d84cb5ff8701b17fc6f5e8cdd2c87b55561a1c4b4c752d093c7fdfb7bcb9a9c"
 metafile = true
