@@ -339,11 +339,6 @@ hash = "475a3bafbd5a7b6e8a7f8008f9a137e25a7c0d3474cca99eaa8bfa313899b408"
 metafile = true
 
 [[files]]
-file = "mods/botany-pots-tiers.pw.toml"
-hash = "d77df24d693e08236ad1fbf5177f266d0da906b9cac2595e18bdddfef04f0c39"
-metafile = true
-
-[[files]]
 file = "mods/botany-pots.pw.toml"
 hash = "fa2e9854b4ba351582bae25550b45e9c43305a2597c8b373bf033f471686f174"
 metafile = true
