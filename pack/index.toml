@@ -157,12 +157,24 @@ file = "config/openloader/data/ctov-wares-add-on-v1-0a.zip"
 hash = "9bed956cfbc3f10e178ac14f07c663bb881e834c6ea3e6c955065d9f1af0252a"
 
 [[files]]
+file = "config/openloader/data/modpack/data/farmersdelight/recipes/cutting_board.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/openloader/data/modpack/data/outlander/curios/entities/charm.json"
 hash = "4cf9197c5c20802117500bf5796c2a2ef8c9eec17205b15b5d7ef26a08482489"
 
 [[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/cutting_board.json"
+hash = "eaf204ef1db9e19768485579c4cde7128136e1cb848ac27119a85bb263282654"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/straw_to_string.json"
+hash = "1c473389618fc60e7be125a77db18b976267c913d27c277eaf7762ec5b2e6b24"
+
+[[files]]
 file = "config/openloader/data/modpack/pack.mcmeta"
-hash = "69fb64b4f16b254f7283b44f27aca82e376e6c05150a1d77edaa677b4a40c887"
+hash = "aac2266e5acb9cb76deb6c4e0cc376a11903879d40d901c05d669a27ccf15172"
 
 [[files]]
 file = "config/packmenu.cfg"

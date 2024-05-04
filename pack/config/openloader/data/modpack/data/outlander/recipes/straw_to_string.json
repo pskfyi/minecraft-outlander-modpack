@@ -1,0 +1,22 @@
+{
+  "type": "natprog:damage_tools",
+  "ingredients": [
+    {
+      "item": "farmersdelight:straw"
+    },
+    {
+      "item": "farmersdelight:straw"
+    },
+    {
+      "item": "farmersdelight:straw"
+    },
+    {
+      "tag": "farmersdelight:tools/knives"
+    }
+  ],
+  "result": {
+    "item": "minecraft:string",
+    "count": 1
+  },
+  "group": "string"
+}
