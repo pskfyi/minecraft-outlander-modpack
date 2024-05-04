@@ -186,7 +186,7 @@ hash = "c91312875a70cfd13eb1cdec393e0ddb646b810d729d1958ef769063c765febc"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "0c3b8d333f00f73dbdaf189fae3b62c86188fac21cc3fabe00be6078ea56f868"
+hash = "6ffe1b98180b2afd419e26e2b1a056d0e8fa527b8d1139c299185d1fa0df4abc"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
