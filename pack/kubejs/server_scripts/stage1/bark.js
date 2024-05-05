@@ -24,7 +24,11 @@ function stripAndDropBark(log, strippedLog) {
     [
         {
           type: "drop_item",
-          item: "farmersdelight:tree_bark"
+          item: "farmersdelight:tree_bark",
+          contextual: {
+            type: "chance",
+            chance: 0.25
+          }
         },
         {
           type: "place",
