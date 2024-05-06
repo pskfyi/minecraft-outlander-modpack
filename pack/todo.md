@@ -27,12 +27,8 @@
 
 ### To Be Configured
 
-- Parcool
 - Cold Sweat
-- Thin Air
-- Natural Progression recipes
-  - All logs should use natprog-style plank recipes
-    - Account for the Sawmill in the progression path
+- Sawmill recipes
 
 ## Mods Not Yet Ready
 
