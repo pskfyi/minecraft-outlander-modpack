@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DS",
+    "SD"
+  ],
+  "key": {
+    "D": { "item": "natprog:diorite_pebble" },
+    "S": { "item": "natprog:stone_pebble" }
+  },
+  "result": { "item": "natprog:cobbled_andesite", "count": 1 }
+}
