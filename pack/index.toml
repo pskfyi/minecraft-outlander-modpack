@@ -161,6 +161,86 @@ file = "config/openloader/data/modpack/data/createsifter/recipes/string_mesh.jso
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier/paraglider/beach.json"
+hash = "c885c207e35676fed5b16fe4227618be169e51951ff66e20bdf5c27652b3a47f"
+
+[[files]]
+file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier/paraglider/christmas.json"
+hash = "c885c207e35676fed5b16fe4227618be169e51951ff66e20bdf5c27652b3a47f"
+
+[[files]]
+file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier/paraglider/dark_forest.json"
+hash = "c885c207e35676fed5b16fe4227618be169e51951ff66e20bdf5c27652b3a47f"
+
+[[files]]
+file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier/paraglider/desert.json"
+hash = "c885c207e35676fed5b16fe4227618be169e51951ff66e20bdf5c27652b3a47f"
+
+[[files]]
+file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier/paraglider/desert_oasis.json"
+hash = "c885c207e35676fed5b16fe4227618be169e51951ff66e20bdf5c27652b3a47f"
+
+[[files]]
+file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier/paraglider/jungle.json"
+hash = "c885c207e35676fed5b16fe4227618be169e51951ff66e20bdf5c27652b3a47f"
+
+[[files]]
+file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier/paraglider/jungle_tree.json"
+hash = "c885c207e35676fed5b16fe4227618be169e51951ff66e20bdf5c27652b3a47f"
+
+[[files]]
+file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier/paraglider/mesa.json"
+hash = "c885c207e35676fed5b16fe4227618be169e51951ff66e20bdf5c27652b3a47f"
+
+[[files]]
+file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier/paraglider/mesa_fortified.json"
+hash = "c885c207e35676fed5b16fe4227618be169e51951ff66e20bdf5c27652b3a47f"
+
+[[files]]
+file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier/paraglider/mountain.json"
+hash = "c885c207e35676fed5b16fe4227618be169e51951ff66e20bdf5c27652b3a47f"
+
+[[files]]
+file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier/paraglider/mountain_alpine.json"
+hash = "c885c207e35676fed5b16fe4227618be169e51951ff66e20bdf5c27652b3a47f"
+
+[[files]]
+file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier/paraglider/mushroom.json"
+hash = "c885c207e35676fed5b16fe4227618be169e51951ff66e20bdf5c27652b3a47f"
+
+[[files]]
+file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier/paraglider/plains.json"
+hash = "c885c207e35676fed5b16fe4227618be169e51951ff66e20bdf5c27652b3a47f"
+
+[[files]]
+file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier/paraglider/plains_fortified.json"
+hash = "c885c207e35676fed5b16fe4227618be169e51951ff66e20bdf5c27652b3a47f"
+
+[[files]]
+file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier/paraglider/savanna.json"
+hash = "c885c207e35676fed5b16fe4227618be169e51951ff66e20bdf5c27652b3a47f"
+
+[[files]]
+file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier/paraglider/savanna_na.json"
+hash = "c885c207e35676fed5b16fe4227618be169e51951ff66e20bdf5c27652b3a47f"
+
+[[files]]
+file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier/paraglider/snowy.json"
+hash = "c885c207e35676fed5b16fe4227618be169e51951ff66e20bdf5c27652b3a47f"
+
+[[files]]
+file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier/paraglider/swamp_fortified.json"
+hash = "c885c207e35676fed5b16fe4227618be169e51951ff66e20bdf5c27652b3a47f"
+
+[[files]]
+file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier/paraglider/taiga.json"
+hash = "c885c207e35676fed5b16fe4227618be169e51951ff66e20bdf5c27652b3a47f"
+
+[[files]]
+file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier/paraglider/taiga_fortified.json"
+hash = "c885c207e35676fed5b16fe4227618be169e51951ff66e20bdf5c27652b3a47f"
+
+[[files]]
 file = "config/openloader/data/modpack/data/farmersdelight/recipes/book_from_canvas.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
@@ -459,6 +539,30 @@ hash = "4993a651034b58b6c7e7194cd89259083562a3c8e4f5e9a3ad0cb3c517f85b37"
 [[files]]
 file = "config/openloader/data/modpack/data/paraglider/recipes/paraglider.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/paraglider/tags/worldgen/biome/has_structure/nether_horned_statue.json"
+hash = "b83114c23eeec820ce7eca52011f13013fb6c64002254be7aebe1e4b36244d48"
+
+[[files]]
+file = "config/openloader/data/modpack/data/paraglider/tags/worldgen/biome/has_structure/tarrey_town_goddess_statue.json"
+hash = "b83114c23eeec820ce7eca52011f13013fb6c64002254be7aebe1e4b36244d48"
+
+[[files]]
+file = "config/openloader/data/modpack/data/paraglider/tags/worldgen/biome/has_structure/underground_horned_statue.json"
+hash = "b83114c23eeec820ce7eca52011f13013fb6c64002254be7aebe1e4b36244d48"
+
+[[files]]
+file = "config/openloader/data/modpack/data/paraglider/worldgen/structure/nether_horned_statue.json"
+hash = "d48a999c696aa0050cff19a7f2f7de24e45c20daa8b55f101b6fc6ada8006ff9"
+
+[[files]]
+file = "config/openloader/data/modpack/data/paraglider/worldgen/structure/tarrey_town_goddess_statue.json"
+hash = "81643967c612cbd6c821425b734f1b558b59d2045ca1411b25b06e439aadd583"
+
+[[files]]
+file = "config/openloader/data/modpack/data/paraglider/worldgen/structure/underground_horned_statue.json"
+hash = "bfb096ee92b0cd76dbce5a6f015628373ef33a9364992edd749ef207550c014d"
 
 [[files]]
 file = "config/openloader/data/modpack/data/quark/recipes/building/crafting/rope.json"
