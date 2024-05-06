@@ -1,0 +1,59 @@
+{
+  "type": "lychee:block_clicking",
+  "comment": "Gravel has an alternate loot table when broken with a mesh.",
+  "item_in": { "tag": "createsifter:meshes" },
+  "block_in": "minecraft:gravel",
+  "ghost": true,
+  "post": [
+    {
+      "type": "drop_item",
+      "item": "minecraft:gravel"
+    },
+    {
+      "type": "random",
+      "rolls": 2,
+      "entries": [
+        {
+          "type": "drop_item",
+          "item": "minecraft:flint",
+          "weight": 1
+        },
+        {
+          "type": "drop_item",
+          "item": "create:zinc_nugget",
+          "weight": 1
+        },
+        {
+          "type": "drop_item",
+          "item": "natprog:tuff_pebble",
+          "weight": 2
+        },
+        {
+          "type": "drop_item",
+          "item": "natprog:deepslate_pebble",
+          "weight": 2
+        },
+        {
+          "type": "drop_item",
+          "item": "natprog:diorite_pebble",
+          "weight": 3
+        },
+        {
+          "type": "drop_item",
+          "item": "natprog:granite_pebble",
+          "weight": 3
+        },
+        {
+          "type": "drop_item",
+          "item": "natprog:andesite_pebble",
+          "weight": 4
+        },
+        {
+          "type": "drop_item",
+          "item": "natprog:stone_pebble",
+          "weight": 4
+        }
+      ]
+    }
+  ]
+}

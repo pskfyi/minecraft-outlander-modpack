@@ -56,13 +56,10 @@
 			}]
 			title: "Knapping"
 			x: 0.0d
-			y: 1.5d
+			y: -1.5d
 		}
 		{
-			dependencies: [
-				"149EA41770920036"
-				"0381E79E775B6B92"
-			]
+			dependencies: ["149EA41770920036"]
 			description: ["1 flint over 1 stick makes a Flint Knife. Very useful tool and starting weapon."]
 			id: "6DCC9D213A007925"
 			tasks: [{
@@ -77,7 +74,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: 0.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["6DCC9D213A007925"]
@@ -93,7 +90,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 0.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["4694123C947171C5"]
@@ -105,7 +102,7 @@
 				type: "checkmark"
 			}]
 			x: 0.5d
-			y: -3.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["6DCC9D213A007925"]
@@ -118,7 +115,7 @@
 				type: "checkmark"
 			}]
 			x: 1.5d
-			y: -2.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["4694123C947171C5"]
@@ -130,11 +127,11 @@
 				type: "checkmark"
 			}]
 			x: 0.0d
-			y: -2.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["4694123C947171C5"]
-			description: ["Knives are your best weapon for quite a while, given your low starting health and the lack of wood and stone swords in the pack. Thankfully they are fast weapons that pack a punch."]
+			description: ["A knife is a great and affordable melee weapon. They are fast, and they pack a punch."]
 			id: "1590351846D225CD"
 			tasks: [{
 				id: "694DC3631D37855A"
@@ -142,7 +139,7 @@
 				type: "checkmark"
 			}]
 			x: 2.5d
-			y: -3.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["4694123C947171C5"]
@@ -158,10 +155,10 @@
 				type: "checkmark"
 			}]
 			x: 3.0d
-			y: -2.0d
+			y: -3.0d
 		}
 		{
-			dependencies: ["30F37F1CB6461704"]
+			dependencies: ["2B1BF58F9020DD2A"]
 			description: ["Two flint, some straw, and a stick makes a simple hatchet that can gather and refine wood."]
 			id: "0D12F3191E2E3436"
 			tasks: [{
@@ -176,14 +173,17 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 1.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["0D12F3191E2E3436"]
 			description: [
 				"Logs have to be stripped before they can be turned into planks."
 				""
-				"You can strip the logs from your crafting grid, but it's better to strip them before you cut them down so that you can collect the bark."
+				"- Axes and saws can strip bark."
+				"- Stripping a log in the world has a 25% chance to drop tree bark as an item."
+				"- Logs can be stripped in the crafting grid, but won't drop tree bark."
+				"- Stripping on a cutting board has a 100% chance to drop tree bark."
 			]
 			id: "11910033A587F51C"
 			tasks: [{
@@ -217,11 +217,11 @@
 				type: "item"
 			}]
 			title: "Stripped Log"
-			x: 4.5d
+			x: 3.0d
 			y: 1.5d
 		}
 		{
-			dependencies: ["0D12F3191E2E3436"]
+			dependencies: ["11910033A587F51C"]
 			description: ["A useful byproduct of the logging process."]
 			id: "31A936DEC1ADF6B6"
 			tasks: [{
@@ -229,18 +229,15 @@
 				item: "farmersdelight:tree_bark"
 				type: "item"
 			}]
-			x: 1.5d
+			x: 4.5d
 			y: 1.5d
 		}
 		{
-			dependencies: [
-				"0D12F3191E2E3436"
-				"11910033A587F51C"
-			]
+			dependencies: ["11910033A587F51C"]
 			description: [
-				"Craft planks with a piece of stripped wood and your hatchet."
+				"Craft planks with stripped wood and an axe."
 				""
-				"Making planks with this small hatchet is very inefficient. We'll work towards a better solution right away."
+				"An an axe is not a precise tool. It's not very efficient at producing planks."
 			]
 			id: "5EA2D51E14BB5F1C"
 			tasks: [{
@@ -259,10 +256,7 @@
 			y: 3.0d
 		}
 		{
-			dependencies: [
-				"30F37F1CB6461704"
-				"11910033A587F51C"
-			]
+			dependencies: ["79A5ED3E822B2977"]
 			description: [
 				"The campfire no longer requires charcoal, just some straw as kindling."
 				""
@@ -275,7 +269,7 @@
 				type: "item"
 			}]
 			x: 4.5d
-			y: 0.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["5EA2D51E14BB5F1C"]
@@ -293,7 +287,11 @@
 		}
 		{
 			dependencies: ["79A5ED3E822B2977"]
-			description: ["Combine a saw with a log to get many more planks than the hatchet provides. The saw is also a fair weapon and is able to strip and cut logs just like a hatchet."]
+			description: [
+				"Combine a saw with a log to get more planks than an axe provides."
+				""
+				"You can get even more planks on a crafting table by placing two stripped logs under a saw."
+			]
 			id: "669328F23ED010AE"
 			tasks: [{
 				id: "00EFE505B2FC6C19"
@@ -307,30 +305,6 @@
 				type: "item"
 			}]
 			x: 4.5d
-			y: 3.0d
-		}
-		{
-			dependencies: ["79A5ED3E822B2977"]
-			description: ["Niche tool in adventuring, farming, and machinery. 6 straw makes 3 rope."]
-			id: "02500FF345A10DA5"
-			tasks: [{
-				id: "7A6C4F240E9687FD"
-				item: "farmersdelight:rope"
-				type: "item"
-			}]
-			x: 4.5d
-			y: 4.5d
-		}
-		{
-			dependencies: ["79A5ED3E822B2977"]
-			description: ["3 straw can make string, when you have enough room to work on it."]
-			id: "488E0E3D97E42A3F"
-			tasks: [{
-				id: "6ED37F048F2C45C8"
-				item: "minecraft:string"
-				type: "item"
-			}]
-			x: 1.5d
 			y: 6.0d
 		}
 		{
@@ -350,32 +324,50 @@
 				type: "item"
 			}]
 			title: "Slabs"
-			x: 1.5d
-			y: 4.5d
+			x: 3.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["0F1052E526D8CA98"]
-			description: ["Make textiles and clothing."]
+			description: [
+				"A sewing table is required to work with textiles."
+				""
+				"Make sure to craft a sewing needle, too. You can whittle a needle from a stick with your knife."
+			]
 			id: "3F9E3B55FB528354"
 			shape: "octagon"
 			size: 1.5d
-			tasks: [{
-				id: "7CDDF23189E47756"
-				item: "sewingkit:sewing_station"
-				type: "item"
-			}]
-			x: 0.0d
-			y: 4.5d
+			tasks: [
+				{
+					id: "7CDDF23189E47756"
+					item: "sewingkit:sewing_station"
+					type: "item"
+				}
+				{
+					id: "3636D4420D2109A2"
+					item: {
+						Count: 1b
+						id: "sewingkit:wood_sewing_needle"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 7.5d
 		}
 		{
-			dependencies: [
-				"488E0E3D97E42A3F"
-				"3F9E3B55FB528354"
+			dependencies: ["3F9E3B55FB528354"]
+			description: [
+				"Useful for sifting through aggregates to find traces of precious materials."
+				""
+				"Most sifting requires machinery, but gravel can be sifted with just the mesh."
 			]
-			description: ["Useful for sifting through aggregates to find traces of precious materials."]
 			id: "75804622F8773C41"
 			shape: "diamond"
-			size: 1.5d
+			size: 2.0d
 			tasks: [{
 				id: "6BCD91A89ED2ACAA"
 				item: {
@@ -385,19 +377,15 @@
 				}
 				type: "item"
 			}]
-			x: 0.0d
-			y: 6.0d
+			x: 3.0d
+			y: 9.5d
 		}
 		{
 			dependencies: [
-				"79A5ED3E822B2977"
 				"31A936DEC1ADF6B6"
+				"79A5ED3E822B2977"
 			]
-			description: [
-				"Three bark is an inefficient recipe for paper that gets the job done in a pinch."
-				""
-				"You'll need a lot of paper for maps and other items in this pack."
-			]
+			description: ["Three bark is an inefficient recipe for paper that gets the job done in a pinch."]
 			id: "09F01971E5B5DDA6"
 			shape: "octagon"
 			size: 1.5d
@@ -406,11 +394,11 @@
 				item: "minecraft:paper"
 				type: "item"
 			}]
-			x: 1.5d
+			x: 4.5d
 			y: 3.0d
 		}
 		{
-			dependencies: ["488E0E3D97E42A3F"]
+			dependencies: ["2B1BF58F9020DD2A"]
 			id: "450D2B051AB9BA2C"
 			shape: "octagon"
 			size: 1.5d
@@ -425,21 +413,8 @@
 				}
 				type: "item"
 			}]
-			x: 3.0d
-			y: 6.0d
-		}
-		{
-			dependencies: ["79A5ED3E822B2977"]
-			id: "57535CF89DCB83E2"
-			shape: "octagon"
-			size: 1.5d
-			tasks: [{
-				id: "685A52458E930877"
-				item: "minecraft:furnace"
-				type: "item"
-			}]
 			x: 4.5d
-			y: 6.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["4694123C947171C5"]
@@ -451,7 +426,137 @@
 				type: "checkmark"
 			}]
 			x: 1.5d
-			y: -3.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["30F37F1CB6461704"]
+			description: ["Use your knife with 3 straw to refine them into string."]
+			id: "2B1BF58F9020DD2A"
+			tasks: [{
+				id: "00CD0A8B9EAABE13"
+				item: "minecraft:string"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"669328F23ED010AE"
+				"0F1052E526D8CA98"
+			]
+			description: ["The cutting board facilitates new culinary and utility recipes."]
+			id: "25398D71DBB79582"
+			tasks: [{
+				id: "444D4CCB7A8F918D"
+				item: "farmersdelight:cutting_board"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["0381E79E775B6B92"]
+			description: ["Pebbles can be combined into cobbled stone variants. Mining most stones also produces cobbled variants."]
+			id: "1C9CC11A7AEEE3BB"
+			tasks: [{
+				id: "25D83187B962BB85"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:cobblestone"
+					}
+				}
+				title: "Any #forge:cobblestone"
+				type: "item"
+			}]
+			title: "Cobble"
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			id: "735F949ED2837B66"
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				id: "42A8F4933C21A028"
+				item: "minecraft:clay_ball"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"1C9CC11A7AEEE3BB"
+				"735F949ED2837B66"
+				"79A5ED3E822B2977"
+			]
+			description: [""]
+			id: "1740043B30B77A68"
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				id: "6D5F63EF6DFA3177"
+				item: "minecraft:furnace"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1740043B30B77A68"]
+			id: "4AD1CDF1ED032BBB"
+			tasks: [{
+				id: "71CCBFCAEFB1E6E0"
+				item: "minecraft:andesite"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"1740043B30B77A68"
+				"79A5ED3E822B2977"
+			]
+			description: ["Two sticks and some stone creates this conventient building tool."]
+			id: "6047A4CCF9C9F517"
+			tasks: [{
+				id: "75CAA21F6F06A448"
+				item: {
+					Count: 1b
+					id: "constructionwand:stone_wand"
+					tag: {
+						Damage: 0
+						wand_options: { }
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["79A5ED3E822B2977"]
+			description: ["Water travel is safer, and closer to sand, gravel, and clay."]
+			id: "56F336A462EF57A9"
+			tasks: [{
+				id: "6D74A0F1C528841A"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:boats"
+					}
+				}
+				title: "Any #minecraft:boats"
+				type: "item"
+			}]
+			title: "Boat"
+			x: 1.5d
+			y: 6.0d
 		}
 	]
 	title: "I. Preparation"

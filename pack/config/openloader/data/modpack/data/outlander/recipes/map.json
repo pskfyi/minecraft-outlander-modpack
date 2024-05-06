@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " D ",
+    "DPD",
+    " D "
+  ],
+  "key": {
+    "D": { "tag": "forge:dyes" },
+    "P": { "item": "minecraft:paper" }
+  },
+  "result": { "item": "minecraft:map", "count": 1 }
+}

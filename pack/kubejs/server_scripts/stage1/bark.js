@@ -41,6 +41,22 @@ function stripAndDropBark(log, strippedLog) {
   )
 }
 
+function stripInCraftingGrid(log, strippedLog) {
+  if (!strippedLog) strippedLog = stripped(log)
+
+  return {
+    type: "natprog:damage_tools",
+    ingredients: [
+      { item: log },
+      { tag: "outlander:strips_bark" }
+    ],
+    result: {
+      item: strippedLog
+    },
+    group: "carpentry"
+  }
+}
+
 const MISSING_NATPROG_AXES = [
   "minecraft:golden_axe",
   "bettercopper:copper_axe",
@@ -75,4 +91,5 @@ ServerEvents.tags('item', event => {
 
 ServerEvents.recipes((event) => {
   STRIPPABLE_LOGS.map(log => event.custom(stripAndDropBark(log)))
+  STRIPPABLE_LOGS.map(log => event.custom(stripInCraftingGrid(log)))
 })

@@ -7,15 +7,27 @@
 	id: "2227C59A684568EC"
 	order_index: 3
 	quest_links: [ ]
-	quests: [{
-		id: "548662A0186EB56D"
-		tasks: [{
-			id: "42F821CA8725D1F3"
-			item: "minecraft:egg"
-			type: "item"
-		}]
-		x: 0.0d
-		y: 0.0d
-	}]
+	quests: [
+		{
+			id: "548662A0186EB56D"
+			tasks: [{
+				id: "42F821CA8725D1F3"
+				item: "minecraft:egg"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "69D7B9D9D0344B39"
+			tasks: [{
+				id: "366FB41FC066D60C"
+				item: "minecraft:lead"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+	]
 	title: "Husbandry"
 }

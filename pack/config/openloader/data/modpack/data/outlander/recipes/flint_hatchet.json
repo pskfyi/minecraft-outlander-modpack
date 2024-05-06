@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FS",
+    "F|"
+  ],
+  "key": {
+    "F": { "item": "minecraft:flint" },
+    "S": { "item": "minecraft:string" },
+    "|": { "item": "minecraft:stick" }
+  },
+  "result": { "item": "natprog:flint_hatchet", "count": 1 }
+}

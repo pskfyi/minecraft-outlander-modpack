@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "B": { "item": "farmersdelight:tree_bark" }
+  },
+  "result": { "item": "minecraft:paper", "count": 1 }
+}

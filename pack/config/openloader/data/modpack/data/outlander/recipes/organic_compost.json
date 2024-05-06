@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:dirt" },
+    { "item": "minecraft:rotten_flesh" },
+    { "item": "minecraft:bone_meal" },
+    { "item": "farmersdelight:straw" },
+    { "item": "farmersdelight:tree_bark" },
+    { "item": "vintagedelight:organic_mash" },
+    { "item": "supplementaries:ash" },
+    { "item": "aquaculture:worm" },
+    { "item": "tinycoal:tinycharcoal" }
+  ],
+  "result": {
+    "item": "farmersdelight:organic_compost"
+  }
+}

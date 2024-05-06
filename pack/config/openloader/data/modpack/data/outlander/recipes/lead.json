@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RR ",
+    "RR",
+    "  R"
+  ],
+  "key": {
+    "R": { "tag": "supplementaries:ropes" }
+  },
+  "result": { "item": "minecraft:lead", "count": 1 }
+}
