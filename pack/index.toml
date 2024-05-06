@@ -249,6 +249,26 @@ file = "config/openloader/data/modpack/data/minecraft/recipes/painting.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "config/openloader/data/modpack/data/minecraft/worldgen/structure/village_desert.json"
+hash = "e70a11b280fd8341075a8c090ff4017dea6a8bc470ef14c40ed353c559518a80"
+
+[[files]]
+file = "config/openloader/data/modpack/data/minecraft/worldgen/structure/village_plains.json"
+hash = "12d77fe6a704f87a0c41f9c2c8ac3402665019f5651b69928cf1ed947ac4ca45"
+
+[[files]]
+file = "config/openloader/data/modpack/data/minecraft/worldgen/structure/village_savanna.json"
+hash = "086e5f2cebd0ec15eda93996e0568afdf8241dda02429b607b2658f11c540b63"
+
+[[files]]
+file = "config/openloader/data/modpack/data/minecraft/worldgen/structure/village_snowy.json"
+hash = "1c227298f60054a68bcf6c8ed5929219b0b8e19cbad1194c51f7ed9e2d3e7866"
+
+[[files]]
+file = "config/openloader/data/modpack/data/minecraft/worldgen/structure/village_taiga.json"
+hash = "228b11e7bb59ebcd17597ae8bdc30877ed65c35ade9405a21243b34c865c5911"
+
+[[files]]
 file = "config/openloader/data/modpack/data/natprog/recipes/crafting/flint_hatchet.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
@@ -343,6 +363,14 @@ hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 [[files]]
 file = "config/openloader/data/modpack/data/supplementaries/recipes/sack.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/terralith/worldgen/structure/fortified_desert_village.json"
+hash = "2ae8734cbd481215538773944ea44b443070fd1f4b97110a3b9ac3c77354f37d"
+
+[[files]]
+file = "config/openloader/data/modpack/data/terralith/worldgen/structure/fortified_village.json"
+hash = "cbefc400d3cfb27f029f16b6901a470e7e662f55579b5eaa6973821e124409f2"
 
 [[files]]
 file = "config/openloader/data/modpack/data/vintagedelight/recipes/organic_compost_from_rotten_flesh_mash.json"
