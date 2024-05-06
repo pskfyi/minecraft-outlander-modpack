@@ -67,11 +67,6 @@ are stuck on 1.19.x.
   - [Custom Fluid Mixin](https://www.curseforge.com/minecraft/mc-mods/custom-fluid-mixin)
     allows for fluid interactions like cobble generators
   - [Tool Progression](https://www.curseforge.com/minecraft/mc-mods/tool-progression)
-  - [Skill Slots](https://www.curseforge.com/minecraft/mc-mods/skill-slots), the
-    Jade and Lychee author's newest mod, allows for items to grant skills via
-    KubeJS.
-  - [Capsule](https://www.curseforge.com/minecraft/mc-mods/capsule) for
-    deployable, thematic structures.
 - Visuals & Branding
   - Possible alternative to Packmenu:
     https://legacy.curseforge.com/minecraft/mc-mods/its-the-little-things
