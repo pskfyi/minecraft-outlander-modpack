@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "F ",
+    "| "
+  ],
+  "key": {
+    "F": { "item": "minecraft:flint" },
+    "|": { "item": "minecraft:stick" }
+  },
+  "result": { "item": "all_the_flint_tools:flintshovel", "count": 1 }
+}

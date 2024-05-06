@@ -66,7 +66,7 @@ hash = "4cb7980240ab70cf2872b625fe960490c2f0d5d3ef052c166e9d452e095ff17b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/i_preparation.snbt"
-hash = "292fa734af330987ea559b2cde0a3d9b62bb1a9346b4dd9a40b71561485efc11"
+hash = "3d389c96d8fdda4bc4e94fd9b17d8af1ab69bb69338fc003eee1befa36344872"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ii_jaunt.snbt"
@@ -151,6 +151,14 @@ hash = "5e2c46941644f263c9076affd07eef0b408d3c145e36ddb2e4c20c469433ab35"
 [[files]]
 file = "config/openloader/data/ctov-wares-add-on-v1-0a.zip"
 hash = "9bed956cfbc3f10e178ac14f07c663bb881e834c6ea3e6c955065d9f1af0252a"
+
+[[files]]
+file = "config/openloader/data/modpack/data/all_the_flint_tools/recpies/flinthoe.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/all_the_flint_tools/recpies/flintshovel.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "config/openloader/data/modpack/data/bountiful/recipes/crafting/bountyboard.json"
@@ -259,6 +267,10 @@ hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 [[files]]
 file = "config/openloader/data/modpack/data/farmersdelight/recipes/cutting_board.json"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/data/modpack/data/farmersdelight/recipes/flint_knife.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "config/openloader/data/modpack/data/farmersdelight/recipes/lead_from_straw.json"
@@ -449,12 +461,24 @@ file = "config/openloader/data/modpack/data/outlander/recipes/flint_hatchet.json
 hash = "f6549c092be1cdeff11ff55506e28a92ea39162ae3a08eac2f6f3a1c396dea25"
 
 [[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/flint_knife.json"
+hash = "e580b8f3a97f7df2e94651b5248458da94549670403aeffcd8e83c7054787bd9"
+
+[[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/furnace.json"
 hash = "053755f376417aa0504ba18d5b868b83c521d8dab2cfa5feb7b1cf28fd687331"
 
 [[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/garden_trowel.json"
+hash = "31d2ad38c3cdd8a6d70ede8e2c5689ddfa08460ba83872b1352ea2c9ce5400f3"
+
+[[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/hand_crank.json"
 hash = "ab3be89e6871ebbdfb5efeccad323d2e6c4f8088e3459f0e95d3917031ce101a"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/hand_hoe.json"
+hash = "02a8e7772cdda9b16d888e1994f59e5fee2be2ec9024a5724bb2db396749c740"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/item_frame.json"
@@ -681,6 +705,14 @@ file = "config/openloader/data/modpack/pack.mcmeta"
 hash = "aac2266e5acb9cb76deb6c4e0cc376a11903879d40d901c05d669a27ccf15172"
 
 [[files]]
+file = "config/openloader/resources/modpack/assets/all_the_flint_tools/lang/en_us.json"
+hash = "4a7b7ad2cbe9533af07d16e22b5525697c8b7a74f23e26e552001e69d3533a8e"
+
+[[files]]
+file = "config/openloader/resources/modpack/pack.mcmeta"
+hash = "a48e9e532bbe5737429b50a7fa5a1b12a5501190b11f30c9af216af62f135f90"
+
+[[files]]
 file = "config/packmenu.cfg"
 hash = "65f530d15bc34408fdf6f55acc27579892b7cfe9651a511675709fccb05fce47"
 
@@ -770,15 +802,20 @@ hash = "e949e6e337b89623087d26c3eaa302c51b6199dd396118086f7794e9940af4ab"
 
 [[files]]
 file = "kubejs/startup_scripts/flint.js"
-hash = "85c43478b1784947b153f47f7fdfbf347d90b95746cb57fdc84d5e88ac012118"
+hash = "e417142047ee9b937cea61138ae0161d777ad76f32f3b3bcd30451d02739b847"
 
 [[files]]
 file = "kubejs/startup_scripts/globals.js"
-hash = "cc53378cea6d864f636ba65a54a6083923e8419d7a7118bb136c129a4f53b80f"
+hash = "d583dd7425adf77a4e12766980cd30b1daa6e365526fcd363945ca987abdc815"
 
 [[files]]
 file = "kubejs/startup_scripts/name.js"
 hash = "059bbf634b0e86706c0aa101091c5e32248a7ba22ebc9a01a027d4263e5a68b7"
+
+[[files]]
+file = "mods/all-the-flint-tools.pw.toml"
+hash = "3da61de891e03b31c39e7b47623f0e6daffbb025bc17d489583f91658fedfcfd"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"

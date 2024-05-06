@@ -14,6 +14,10 @@ global.items = {
     "minecraft:stone_axe",
     "minecraft:stone_hoe",
 
+    "all_the_flint_tools:flintshears",
+    "all_the_flint_tools:flintaxe",
+    "all_the_flint_tools:flintpickaxe",
+
     "aquaculture:wooden_fillet_knife",
     "aquaculture:stone_fillet_knife",
 
