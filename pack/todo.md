@@ -57,8 +57,6 @@ are stuck on 1.19.x.
 ## Mods Under Consideration
 
 - Modpack Tools (Mostly new recipe/crafting mechanisms)
-  - [V-Tweaks](https://www.curseforge.com/minecraft/mc-mods/v-tweaks) has Anvil
-    recipes and the ability to toss items into fuids to convert them
   - [Custom Fluid Mixin](https://www.curseforge.com/minecraft/mc-mods/custom-fluid-mixin)
     allows for fluid interactions like cobble generators
   - [Tool Progression](https://www.curseforge.com/minecraft/mc-mods/tool-progression)
