@@ -565,10 +565,6 @@ file = "config/supplementaries-common.toml"
 hash = "5f6935a27d1532d321e01897c3df2799b7c1674588d8face5e5323eedd70c1c5"
 
 [[files]]
-file = "config/thinair-common.toml"
-hash = "c6be6608fdcdc56e9b78a82eb28b0a52aa744692d96dc52c789117bd04b23467"
-
-[[files]]
 file = "config/toolbelt-client.toml"
 hash = "e0f4ed988283222cd1cc83a1fda6edffb40b280cc0de61da77c600c5f2df1229"
 
@@ -1283,11 +1279,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "2702a1a7d6ebac7853d6e7ebb5dcf68e2edf4b54702ccb745c5d452b5d4df6cf"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "66e091a1aa7ee6fd986931a99914cb9f3133957bd99454b7d768350d5c54b312"
 metafile = true
 
 [[files]]
