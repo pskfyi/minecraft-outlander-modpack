@@ -31,7 +31,6 @@
 - Cold Sweat
 - Thin Air
 - Natural Progression recipes
-  - Axes, saws, and shears should be able to strip bark in-inventory
   - All logs should use natprog-style plank recipes
     - Account for the Sawmill in the progression path
 

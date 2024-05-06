@@ -9,15 +9,7 @@ function lycheeBlockInteract(hand, target, then) {
   }
 }
 
-function stripped(id) {
-  const [mod, log] = id.split(":")
-
-  return `${mod}:stripped_${log}`
-}
-
-function stripAndDropBark(log, strippedLog) {
-  if (!strippedLog) strippedLog = stripped(log)
-
+function stripAndDropBarkRecipe(log, strippedLog) {
   return lycheeBlockInteract(
     { tag: "outlander:strips_bark" },
     log,
@@ -41,18 +33,14 @@ function stripAndDropBark(log, strippedLog) {
   )
 }
 
-function stripInCraftingGrid(log, strippedLog) {
-  if (!strippedLog) strippedLog = stripped(log)
-
+function stripInCraftingGridRecipe(input, output) {
   return {
     type: "natprog:damage_tools",
     ingredients: [
-      { item: log },
+      { item: input },
       { tag: "outlander:strips_bark" }
     ],
-    result: {
-      item: strippedLog
-    },
+    result: { item: output },
     group: "carpentry"
   }
 }
@@ -63,19 +51,23 @@ const MISSING_NATPROG_AXES = [
   "aquaculture:neptunium_axe"
 ]
 
-const STRIPPABLE_LOGS = [ // for editing bark stripping
-  "minecraft:oak_log",
-  "minecraft:spruce_log",
-  "minecraft:birch_log",
-  "minecraft:jungle_log",
-  "minecraft:acacia_log",
-  "minecraft:cherry_log",
-  "minecraft:dark_oak_log",
-  "minecraft:mangrove_log",
-  "quark:ancient_log",
-  "quark:azalea_log",
-  "quark:blossom_log",
-]
+const STRIPPABLE_WOODS = {
+  minecraft: [
+    "oak",
+    "spruce",
+    "birch",
+    "jungle",
+    "acacia",
+    "cherry",
+    "dark_oak",
+    "mangrove"
+  ],
+  quark: [
+    "ancient",
+    "azalea",
+    "blossom"
+  ]
+}
 
 ServerEvents.tags('item', event => {
   MISSING_NATPROG_AXES.map(id => event.add("natprog:axe", id))
@@ -90,6 +82,24 @@ ServerEvents.tags('item', event => {
 })
 
 ServerEvents.recipes((event) => {
-  STRIPPABLE_LOGS.map(log => event.custom(stripAndDropBark(log)))
-  STRIPPABLE_LOGS.map(log => event.custom(stripInCraftingGrid(log)))
+  for (const mod in STRIPPABLE_WOODS) {
+    STRIPPABLE_WOODS[mod].map(wood => {
+      const log = `${mod}:${wood}_log`
+      const strippedLog = `${mod}:stripped_${wood}_log`
+
+      if (mod === "minecraft") {
+        // remove builtin natprog stripping recipes,
+        // which are erroneously under the minecraft namespace
+        event.remove({ id: `minecraft:saw/${wood}_wood_to_stripped_${wood}_wood` })
+        event.remove({ id: `minecraft:saw/${wood}_log_to_stripped_${wood}_log` })
+      }
+        
+      event.custom(stripAndDropBarkRecipe(log, strippedLog))
+      event.custom(stripInCraftingGridRecipe(log, strippedLog))
+      event.custom(stripInCraftingGridRecipe(
+        `${mod}:${wood}_wood`,
+        `${mod}:stripped_${wood}_wood`
+      ))
+    })
+  }
 })

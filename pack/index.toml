@@ -446,7 +446,7 @@ hash = "d23bedac7817e936efbb6ab56cad81af5e34645997ce616df4a25c7b9cbcf91b"
 
 [[files]]
 file = "kubejs/server_scripts/stage1/bark.js"
-hash = "5af9baef63e462379da819cc320193b92a1ea0743b7f29dcd32cf65542202efe"
+hash = "8c35b15ea8cf0808494222087fb05428c5b206ab3a5be8237d8e987445299368"
 
 [[files]]
 file = "kubejs/server_scripts/stage1/copper.js"
