@@ -9,7 +9,7 @@
     { "item": "vintagedelight:organic_mash" },
     { "item": "supplementaries:ash" },
     { "item": "aquaculture:worm" },
-    { "item": "tinycoal:tinycharcoal" }
+    { "item": "quark:moss_paste" }
   ],
   "result": {
     "item": "farmersdelight:organic_compost"
