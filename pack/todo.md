@@ -23,10 +23,6 @@
   metal nugget as a "nose piece" and some textile rather than paper. To make
   this work thematically, I want to tweak the graphic.
 
-### To Be Configured
-
-- Cold Sweat
-
 ## Mods Not Yet Ready
 
 [Grappling Hook Mod](https://www.curseforge.com/minecraft/mc-mods/grappling-hook-mod)
