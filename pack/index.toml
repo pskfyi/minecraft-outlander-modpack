@@ -425,11 +425,6 @@ file = "kubejs/startup_scripts/name.js"
 hash = "059bbf634b0e86706c0aa101091c5e32248a7ba22ebc9a01a027d4263e5a68b7"
 
 [[files]]
-file = "mods/alwayseat.pw.toml"
-hash = "482873e1d75c8d55f2d2164c839be5729e5d4c41561f1f6198cc19c4b16f7b6c"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
