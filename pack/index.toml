@@ -153,6 +153,10 @@ file = "config/openloader/data/ctov-wares-add-on-v1-0a.zip"
 hash = "9bed956cfbc3f10e178ac14f07c663bb881e834c6ea3e6c955065d9f1af0252a"
 
 [[files]]
+file = "config/openloader/data/modpack/data/bountiful/recipes/crafting/bountyboard.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
 file = "config/openloader/data/modpack/data/create/recipes/crafting/kinetics/hand_crank.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
