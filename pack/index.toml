@@ -365,6 +365,10 @@ file = "config/openloader/data/modpack/data/minecraft/recipes/painting.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "config/openloader/data/modpack/data/minecraft/recipes/torch.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
 file = "config/openloader/data/modpack/data/minecraft/recipes/white_wool_from_string.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
@@ -555,6 +559,10 @@ hash = "e8060c5b4dd432625e275c7b297539fa3fee2677182a2b03d9b5db5d225bac56"
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/stuffed_cod.json"
 hash = "d9c68114a5b102b2ddf6064eedb32ec03251c68e6284d5ece2c2ab420fd5a442"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/torch.json"
+hash = "0d16a82892ec4fafc79f49d2391dfce628a66c62af606b3ebd352eaafe0c69ca"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/wood_sewing_needle.json"
