@@ -165,6 +165,10 @@ file = "config/openloader/data/modpack/data/createsifter/recipes/string_mesh.jso
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "config/openloader/data/modpack/data/farmersdelight/recipes/book_from_canvas.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
 file = "config/openloader/data/modpack/data/farmersdelight/recipes/canvas.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
@@ -209,6 +213,10 @@ file = "config/openloader/data/modpack/data/minecraft/recipes/andesite.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "config/openloader/data/modpack/data/minecraft/recipes/book.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
 file = "config/openloader/data/modpack/data/minecraft/recipes/campfire.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
@@ -237,12 +245,20 @@ file = "config/openloader/data/modpack/data/minecraft/recipes/packed_mud.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "config/openloader/data/modpack/data/minecraft/recipes/painting.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
 file = "config/openloader/data/modpack/data/natprog/recipes/crafting/flint_hatchet.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/curios/entities/charm.json"
 hash = "4cf9197c5c20802117500bf5796c2a2ef8c9eec17205b15b5d7ef26a08482489"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/book.json"
+hash = "bcead75ada40671d8c900161257cecb7f129ee1a7f757e3ee7b98fc81acda178"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/campfire.json"
