@@ -26,7 +26,6 @@
 ### To Be Configured
 
 - Cold Sweat
-- Sawmill recipes
 
 ## Mods Not Yet Ready
 

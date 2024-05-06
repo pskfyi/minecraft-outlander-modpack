@@ -1,0 +1,8 @@
+{
+  "type": "sawmill:woodcutting",
+  "ingredient": {
+    "tag": "minecraft:logs"
+  },
+  "result": "toms_storage:ts.inventory_proxy",
+  "count": 1
+}
