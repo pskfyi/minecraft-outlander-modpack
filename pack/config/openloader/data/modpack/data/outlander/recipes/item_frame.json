@@ -3,14 +3,14 @@
   "materials": [
     {
       "count": 1,
-      "ingredient": { "item": "supplementaries:rope" }
+      "ingredient": { "item": "sewingkit:leather_sheet" }
     },
     {
-      "count": 9,
-      "ingredient": { "item": "farmersdelight:canvas" }
+      "count": 4,
+      "ingredient": { "item": "minecraft:stick" }
     }
   ],
-  "result": { "item": "supplementaries:sack" },
+  "result": { "item": "minecraft:item_frame" },
   "tool": {
     "type": "sewingkit:tool_ingredient",
     "tool_type": "sewingkit_sew"

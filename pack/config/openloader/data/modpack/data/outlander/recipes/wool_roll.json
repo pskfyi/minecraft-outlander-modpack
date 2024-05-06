@@ -1,0 +1,14 @@
+{
+  "type": "sewingkit:sewing",
+  "materials": [
+    {
+      "count": 1,
+      "ingredient": { "tag": "minecraft:wool" }
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "sewingkit:wool_roll"
+  },
+  "tool": { "tag": "forge:shears" }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "sewingkit:sewing",
+  "materials": [
+    {
+      "count": 1,
+      "ingredient": { "item": "sewingkit:leather_sheet" }
+    },
+    {
+      "count": 1,
+      "ingredient": { "item": "sewingkit:leather_strip" }
+    },
+    {
+      "count": 3,
+      "ingredient": { "item": "minecraft:string" }
+    }
+  ],
+  "result": { "item": "supplementaries:quiver" },
+  "tool": {
+    "type": "sewingkit:tool_ingredient",
+    "tool_type": "sewingkit_sew"
+  }
+}

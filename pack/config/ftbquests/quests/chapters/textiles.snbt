@@ -11,7 +11,7 @@
 		}
 	}
 	id: "43446A8B7768FA9B"
-	order_index: 8
+	order_index: 7
 	quest_links: [ ]
 	quests: [
 		{
@@ -23,66 +23,627 @@
 				item: "sewingkit:sewing_station"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 0.0d
-		}
-		{
-			description: ["Bones can be obtained from killing both animals and skeletons."]
-			id: "4DB293996AF58152"
-			tasks: [{
-				id: "46A63A6FAB295E83"
-				item: "minecraft:bone"
-				type: "item"
-			}]
-			x: 0.0d
-			y: -1.5d
+			x: -3.5d
+			y: -0.5d
 		}
 		{
 			dependencies: [
-				"4DB293996AF58152"
 				"6DCC9D213A007925"
+				"3B95D031E0A69FC8"
 			]
-			description: ["TBD Use your knife to sharpen a bone into a sewing needle."]
+			description: ["A knife can whittle a stick into a sewing needle."]
 			id: "06CDF89FFEB3A114"
 			tasks: [{
-				id: "5FF08086704EBAD4"
+				id: "52BDE3AE650829D2"
 				item: {
 					Count: 1b
-					id: "sewingkit:bone_sewing_needle"
+					id: "sewingkit:wood_sewing_needle"
 					tag: {
 						Damage: 0
 					}
 				}
 				type: "item"
 			}]
-			x: 1.5d
-			y: -1.5d
+			x: -3.5d
+			y: 1.0d
 		}
 		{
-			dependencies: [
-				"3B95D031E0A69FC8"
-				"06CDF89FFEB3A114"
-			]
+			dependencies: ["70FE13BC733A2971"]
 			description: ["A square of straw makes this sturdy textile."]
 			id: "1800F2377AF7AAB5"
+			size: 1.5d
 			tasks: [{
 				id: "60D13589F7CB6CE2"
 				item: "farmersdelight:canvas"
 				type: "item"
 			}]
 			x: 1.5d
-			y: 0.0d
+			y: -0.5d
 		}
 		{
-			dependencies: ["1800F2377AF7AAB5"]
+			dependencies: [
+				"1800F2377AF7AAB5"
+				"13EAC8719F2F2181"
+				"622392AADB7268B6"
+				"4132B6C053A0203B"
+			]
+			description: ["Critical storage device that can hold 9 stacks of items in a single slot."]
 			id: "463CDDA5E9E72730"
 			tasks: [{
 				id: "4C18FE1DA3018A2D"
-				item: "supplementaries:sack"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "supplementaries:sacks"
+					}
+				}
+				title: "Any #supplementaries:sacks"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1800F2377AF7AAB5"]
+			id: "46C2ECD9A2901D9D"
+			tasks: [{
+				id: "3C135B2A169F2BB3"
+				item: "quark:seed_pouch"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1800F2377AF7AAB5"]
+			id: "3CCA7F5B85D8CA98"
+			tasks: [{
+				id: "099AA5667276DF41"
+				item: "minecraft:painting"
 				type: "item"
 			}]
 			x: 3.0d
-			y: -1.5d
+			y: -2.0d
+		}
+		{
+			description: ["Carrying more than 2 non-empty sacks will prevent you from sprinting, and carrying more than 3 will prevent you from jumping."]
+			id: "13EAC8719F2F2181"
+			tasks: [{
+				id: "4214190A89AFFB27"
+				title: "Encumberance"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			description: ["Try playing with a sack in your inventory using both right click and left click to drop items into it and out of it."]
+			id: "622392AADB7268B6"
+			tasks: [{
+				id: "75A6A4EDD2E2A88E"
+				title: "Controls"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			description: ["Flax can be found in the wild. It's the most efficient source of string."]
+			id: "0B4D54246E6B358D"
+			tasks: [{
+				id: "47D5F726E216F6AE"
+				item: "supplementaries:flax"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			id: "4132B6C053A0203B"
+			tasks: [{
+				id: "3EE2013ADEFB1671"
+				item: "supplementaries:rope"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4376506320BA918E"]
+			id: "02F90BCAA58E1413"
+			tasks: [{
+				id: "3F2254262B4A0E60"
+				item: "minecraft:leather_horse_armor"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["7BA6336B3661356B"]
+			id: "4376506320BA918E"
+			size: 1.5d
+			tasks: [{
+				id: "7E29821F6CC1AC75"
+				item: "sewingkit:leather_sheet"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.5d
+		}
+		{
+			id: "70FE13BC733A2971"
+			tasks: [{
+				id: "5CDE1A3189511803"
+				item: "minecraft:string"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"4132B6C053A0203B"
+				"4376506320BA918E"
+			]
+			description: ["A bundle holds a stack's worth of unstackable items."]
+			id: "61361F5CC202E1F2"
+			tasks: [{
+				id: "28FAACE64FE83D8D"
+				item: "minecraft:bundle"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["4376506320BA918E"]
+			description: ["A simple backpack that doubles the size of your regular inventory."]
+			id: "196C4171AABF366F"
+			tasks: [{
+				id: "1C37B0127C1F9BF7"
+				item: {
+					Count: 1b
+					id: "quark:backpack"
+					tag: {
+						Inventory: [
+							{ }
+							{ }
+							{ }
+							{ }
+							{ }
+							{ }
+							{ }
+							{ }
+							{ }
+							{ }
+							{ }
+							{ }
+							{ }
+							{ }
+							{ }
+							{ }
+							{ }
+							{ }
+							{ }
+							{ }
+							{ }
+							{ }
+							{ }
+							{ }
+							{ }
+							{ }
+							{ }
+						]
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["4376506320BA918E"]
+			description: ["Early game protection that can also be sewn into metal armors to protect from the elements."]
+			id: "5C6A38911D2558B8"
+			tasks: [
+				{
+					id: "1A03C58002866EE1"
+					item: {
+						Count: 1b
+						id: "minecraft:leather_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6F6A9CD83FE60D54"
+					item: {
+						Count: 1b
+						id: "minecraft:leather_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2551CCA969A372FF"
+					item: {
+						Count: 1b
+						id: "minecraft:leather_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "48F798B655E85A4B"
+					item: {
+						Count: 1b
+						id: "minecraft:leather_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Leather Armor"
+			x: 3.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["06CDF89FFEB3A114"]
+			description: ["You'll need a file to make stronger needles."]
+			id: "6376A1D1862582F3"
+			tasks: [{
+				id: "16B1D30EC714C4AC"
+				item: {
+					Count: 1b
+					id: "sewingkit:file"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4132B6C053A0203B"]
+			id: "707621350BD08EF3"
+			tasks: [{
+				id: "2A4113F8D24FB3CD"
+				item: "farmersdelight:safety_net"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["70FE13BC733A2971"]
+			description: ["The gateway to sifting."]
+			id: "2C1D595753916E95"
+			tasks: [{
+				id: "30622E8C16DA31EB"
+				item: {
+					Count: 1b
+					id: "createsifter:string_mesh"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4376506320BA918E"]
+			id: "0508FECF5EC0A2D5"
+			tasks: [{
+				id: "501FD700B207FDA0"
+				item: "paraglider:paraglider"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["4376506320BA918E"]
+			id: "26C8464820D556DB"
+			tasks: [{
+				id: "2E22662407ED83AD"
+				item: "toolbelt:belt"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["4376506320BA918E"]
+			id: "0882BF9FED85D80C"
+			tasks: [{
+				id: "5C7CFCDCC269A6C6"
+				item: "minecraft:book"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["4376506320BA918E"]
+			id: "74D834B95EA7D307"
+			tasks: [{
+				id: "2288880C4C24E4C6"
+				item: {
+					Count: 1b
+					id: "thinair:air_bladder"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["4376506320BA918E"]
+			id: "2618821C6EE38881"
+			tasks: [{
+				id: "53318A73B220B93B"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							SelectedSlot: 0
+							Size: 6
+						}
+					}
+					id: "supplementaries:quiver"
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["4376506320BA918E"]
+			id: "7535C606F9BF71C6"
+			tasks: [{
+				id: "0484115F62205D10"
+				item: "minecraft:item_frame"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["3B95D031E0A69FC8"]
+			description: ["Add a chest and the table will retain its inventory."]
+			id: "7DC2BD1639426058"
+			tasks: [{
+				id: "67515AD988F4BE23"
+				item: "sewingkit:storing_sewing_station"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			id: "73F9E2D87301C683"
+			size: 1.5d
+			tasks: [{
+				id: "1B0C991EA11B72CC"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:wool"
+					}
+				}
+				title: "Any #minecraft:wool"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"0508FECF5EC0A2D5"
+				"2618821C6EE38881"
+				"5C6A38911D2558B8"
+				"196C4171AABF366F"
+				"02F90BCAA58E1413"
+			]
+			description: ["Express yourself by dyeing these items."]
+			id: "4A3579457E28797F"
+			tasks: [{
+				id: "24A202E100883BAD"
+				title: "Dyable Backpack"
+				type: "checkmark"
+			}]
+			title: "Colorful"
+			x: 1.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["4376506320BA918E"]
+			id: "67996C832F33521E"
+			tasks: [{
+				id: "1521C055EE62C6B1"
+				item: "sewingkit:leather_strip"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 6.5d
+		}
+		{
+			id: "7BA6336B3661356B"
+			tasks: [{
+				id: "00D40606B372C00A"
+				item: "minecraft:leather"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["73F9E2D87301C683"]
+			id: "16716535EB599208"
+			tasks: [{
+				id: "6DB0B68C74D44AC9"
+				item: "sewingkit:wool_roll"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["1851A7BB9F160F79"]
+			id: "1172A2BE9D005BA3"
+			tasks: [
+				{
+					id: "0BB439950705BFC8"
+					item: {
+						Count: 1b
+						id: "sewingkit:wool_hat"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "301DB0E05C31B454"
+					item: {
+						Count: 1b
+						id: "sewingkit:wool_shirt"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5EE1139CE39052D7"
+					item: {
+						Count: 1b
+						id: "sewingkit:wool_pants"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "03933BA707DFAB2C"
+					item: {
+						Count: 1b
+						id: "sewingkit:wool_shoes"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["73F9E2D87301C683"]
+			id: "02A4EA28894D22FA"
+			tasks: [{
+				id: "2826F12DD474E60B"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:wool_carpets"
+					}
+				}
+				title: "Any #minecraft:wool_carpets"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["16716535EB599208"]
+			id: "1851A7BB9F160F79"
+			tasks: [{
+				id: "15FF6F7DD3717C13"
+				item: "sewingkit:wool_trim"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["02A4EA28894D22FA"]
+			id: "1ED8C902E2088FA7"
+			tasks: [{
+				id: "176D233088EA7D52"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "supplementaries:flags"
+					}
+				}
+				title: "Any #supplementaries:flags"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["1ED8C902E2088FA7"]
+			id: "520F67A1BBDA6058"
+			tasks: [{
+				id: "7034C098D3DD589F"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:banners"
+					}
+				}
+				title: "Any #minecraft:banners"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["1172A2BE9D005BA3"]
+			description: ["Wool clothing can be colored, too."]
+			id: "33E1AD3666C7148F"
+			tasks: [{
+				id: "024C3BFF3B55FBBA"
+				title: "Threads"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["4132B6C053A0203B"]
+			id: "1BC75AC439658C30"
+			tasks: [{
+				id: "0F20159BEE8A2FD0"
+				item: "minecraft:lead"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
 		}
 	]
 	title: "Textiles"

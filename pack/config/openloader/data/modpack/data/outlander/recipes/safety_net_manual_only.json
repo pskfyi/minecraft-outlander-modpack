@@ -1,12 +1,11 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "RR ",
-    "RR ",
-    "  R"
+    "RR",
+    "RR"
   ],
   "key": {
     "R": { "item": "supplementaries:rope" }
   },
-  "result": { "item": "minecraft:lead", "count": 1 }
+  "result": { "item": "farmersdelight:safety_net", "count": 1 }
 }

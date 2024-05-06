@@ -50,7 +50,7 @@ hash = "e56ac5e653106ef8bb9c5c26945fe5f1fbd1e7e954fbe4894c9a739d464007c7"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/etc.snbt"
-hash = "93a1904563bf06737db8c41bcd2f1d42a9374d678a1864fd74e699a9167649a7"
+hash = "d641993050b2bdbbc08814f9c68c85bcd8c9717ba1efbf872970497e168c15c0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/forestry.snbt"
@@ -85,12 +85,8 @@ file = "config/ftbquests/quests/chapters/iv_exploration.snbt"
 hash = "89e3daca7ada7846e09ff90c5ef699792f9a3ac15b0d7a6c87ede656dc433d02"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/leatherworking.snbt"
-hash = "270b3e6a77f98006093913ff2f252fe4a5d4a424c2985e580ea3934b145fea09"
-
-[[files]]
 file = "config/ftbquests/quests/chapters/metalworking.snbt"
-hash = "521ff86d9d88b92a152f24efae2591df232c643d89b6b05b86cea512e1b8d207"
+hash = "575e17430f2b78f6412c2a59d31eefb3d1c6c251fd8beaf9c54421f49ab77951"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/oceanography.snbt"
@@ -98,7 +94,7 @@ hash = "ea07dcb741e72df7811fc0d780868537d41593490e0e2efa95d3d9c1341071a3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/smelting.snbt"
-hash = "71843cf634d97613130a00a3ea0640745612bf8368a82b3d054aa8ddefbbf63b"
+hash = "337547cac40f1050004efa0a5a6933cb41a21cd53af64a9b6faa35ec1483b2fd"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/structures.snbt"
@@ -106,7 +102,7 @@ hash = "3a378eaeff065bd913a61028859a276f52aae6df5ab1caeea4adcd57f6108dd3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/textiles.snbt"
-hash = "3e58f6a9b2afdc673e72afddf343d3160debb1d8acdce92220eeb8733582ae81"
+hash = "84c68db88e4d1b0d07978e8d30bf1e5033657e86c137637fead9a7d16d858b22"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/v_iron_age.snbt"
@@ -205,6 +201,14 @@ file = "config/openloader/data/modpack/data/farmersdelight/recipes/rope.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "config/openloader/data/modpack/data/farmersdelight/recipes/rope_from_safety_net.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/farmersdelight/recipes/safety_net.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
 file = "config/openloader/data/modpack/data/minecraft/loot_tables/blocks/gravel.json"
 hash = "31f6ca84c17b91303abc597593e806834d09629248ab66beabed4708f56f665c"
 
@@ -229,7 +233,35 @@ file = "config/openloader/data/modpack/data/minecraft/recipes/furnace.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "config/openloader/data/modpack/data/minecraft/recipes/item_frame.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
 file = "config/openloader/data/modpack/data/minecraft/recipes/lead.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/minecraft/recipes/leather.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/minecraft/recipes/leather_boots.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/minecraft/recipes/leather_chestplate.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/minecraft/recipes/leather_helmet.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/minecraft/recipes/leather_horse_armor.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/minecraft/recipes/leather_leggings.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
@@ -246,6 +278,10 @@ hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "config/openloader/data/modpack/data/minecraft/recipes/painting.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/minecraft/recipes/white_wool_from_string.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
@@ -273,12 +309,32 @@ file = "config/openloader/data/modpack/data/natprog/recipes/crafting/flint_hatch
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "config/openloader/data/modpack/data/oceansdelight/recipes/stuffed_cod.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
 file = "config/openloader/data/modpack/data/outlander/curios/entities/charm.json"
 hash = "4cf9197c5c20802117500bf5796c2a2ef8c9eec17205b15b5d7ef26a08482489"
 
 [[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/air_bladder.json"
+hash = "70d45e2a53a667ff803d99c50133ef3ce5a71d5f0df464f6ba0c3f37c13b5169"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/backpack.json"
+hash = "5a71890c9ea4a566a1d7aff48b9c8b437a6928b55391bcc38be0f124dbd2d4bc"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/bellows.json"
+hash = "dca8d041af30acdc29853b4833f03053cf85c4daad62435c02162de3a26cca53"
+
+[[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/book.json"
 hash = "bcead75ada40671d8c900161257cecb7f129ee1a7f757e3ee7b98fc81acda178"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/bundle.json"
+hash = "fd7585f9a70c9c6ecbda70fb86fd38b5a56756dfe22750934692c4e74a586223"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/campfire.json"
@@ -313,8 +369,20 @@ file = "config/openloader/data/modpack/data/outlander/recipes/hand_crank.json"
 hash = "ab3be89e6871ebbdfb5efeccad323d2e6c4f8088e3459f0e95d3917031ce101a"
 
 [[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/item_frame.json"
+hash = "3d54532a4050baf342ccd18dce1fdd849ed36086f58df3317e10de16583e1b65"
+
+[[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/lead.json"
-hash = "36a81b1c91ac4809cb4988b8351a70745dd82a7759f5c522559017022e9e29a4"
+hash = "bb46a5694575996f851aecaad02a5eba8ac5f11ab0e2fcf6c7bdf6db03008b72"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/leather_sheet.json"
+hash = "f3b702fe6e624c1b721479efd286a3679308a4165f7d4920f33192470f3f83f8"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/leather_strip.json"
+hash = "b016bcccce1876a1cab9aeb467029663c581ae90af347e6bc6d3915ebfe19e93"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/loom.json"
@@ -341,8 +409,28 @@ file = "config/openloader/data/modpack/data/outlander/recipes/paper_from_tree_ba
 hash = "aa97a3ed1afd8b2b7e0c7a4d7fd098e8a61264f82c8e0080390f650fa0bed439"
 
 [[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/paraglider.json"
+hash = "f7b6d05960e1078b3a98b075b037780ee2a890722f7467f8bc566b2c73e1ce73"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/quiver.json"
+hash = "f31431c538f454c6c9b77cd978ad5ffb871b6a69e5437bc42c7c27f29834de16"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/rope.json"
+hash = "063d0942384d4bf3c8277496059a631c096b0fe6ff5fef53381254fc938c84b1"
+
+[[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/sack.json"
-hash = "68abe013f496350f35070c0b3b3469d01fad405e31485b5f46fd522767502d42"
+hash = "6032a118cd5945b41a1f2b1c6264876c8dba6926732401de37bb3b253fb1deb4"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/safety_net_manual_only.json"
+hash = "cc98d8b9674a75d0dde7ba0ae5c7eb3e17a3ffb7558aa70fce6948f301d3a807"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/seed_pouch.json"
+hash = "35d8a58798dc1da096a55a11f08d24b5ae2ae09c6e4fa70078bdfe8716e9b5fa"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/straw_to_string.json"
@@ -353,11 +441,71 @@ file = "config/openloader/data/modpack/data/outlander/recipes/string_mesh.json"
 hash = "e8060c5b4dd432625e275c7b297539fa3fee2677182a2b03d9b5db5d225bac56"
 
 [[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/stuffed_cod.json"
+hash = "d9c68114a5b102b2ddf6064eedb32ec03251c68e6284d5ece2c2ab420fd5a442"
+
+[[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/wood_sewing_needle.json"
 hash = "fc216440d8d521a5e9bbdca8922c3050f351f736998c416c41fb8c2bb75c7714"
 
 [[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/wool_roll.json"
+hash = "69ed64532dc720d71e9fe3e0a6b096aa62b296558023a0cc487d302d64d1f300"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/wool_trim.json"
+hash = "4993a651034b58b6c7e7194cd89259083562a3c8e4f5e9a3ad0cb3c517f85b37"
+
+[[files]]
+file = "config/openloader/data/modpack/data/paraglider/recipes/paraglider.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/quark/recipes/building/crafting/rope.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/quark/recipes/oddities/crafting/backpack_no_hide.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/quark/recipes/tools/crafting/seed_pouch.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/quarkdelight/recipes/rope.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/quarkdelight/recipes/safety_net.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/sewingkit/recipes/leather_sheet_from_leather.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/sewingkit/recipes/leather_strip_from_leather.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
 file = "config/openloader/data/modpack/data/sewingkit/recipes/wood_sewing_needle.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/sewingkit/recipes/wool_trim_from_carpet.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/sewingkit/recipes/wool_trim_from_wool.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/supplementaries/recipes/bellows.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/supplementaries/recipes/rope.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
@@ -371,6 +519,10 @@ hash = "2ae8734cbd481215538773944ea44b443070fd1f4b97110a3b9ac3c77354f37d"
 [[files]]
 file = "config/openloader/data/modpack/data/terralith/worldgen/structure/fortified_village.json"
 hash = "cbefc400d3cfb27f029f16b6901a470e7e662f55579b5eaa6973821e124409f2"
+
+[[files]]
+file = "config/openloader/data/modpack/data/thinair/recipes/air_bladder.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/openloader/data/modpack/data/vintagedelight/recipes/organic_compost_from_rotten_flesh_mash.json"
@@ -438,7 +590,7 @@ hash = "bb605c0c33e7b785b04a9575175d8e425717d21b16f3f974b6673c6825d0f9aa"
 
 [[files]]
 file = "kubejs/client_scripts/rei.js"
-hash = "542a19ce20f0062bf788712350b888b2b24991afe6dcd1024521e0d3584e282f"
+hash = "cd9e301ad7499f6cfd1ed4c4060eb07a9b4f9a39dd4d09be7c1daa4ddf24b067"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
@@ -457,6 +609,10 @@ file = "kubejs/server_scripts/stage1/planks.js"
 hash = "7b1bfdc9db59a5dcb80a80b410fd68cd3e1b8198d40de2848ad7ce4637a5e104"
 
 [[files]]
+file = "kubejs/server_scripts/stage1/textiles.js"
+hash = "8bc914b8a90f35828a7f5ffb760a7c5c61adba754613f835c7926d6493daf05e"
+
+[[files]]
 file = "kubejs/server_scripts/stage1/woodAndStoneTools.js"
 hash = "97af2531feb4a9d9ad8137b2458eae815e2d5667855827e3fe2e3d649eef33b6"
 
@@ -470,7 +626,7 @@ hash = "85c43478b1784947b153f47f7fdfbf347d90b95746cb57fdc84d5e88ac012118"
 
 [[files]]
 file = "kubejs/startup_scripts/globals.js"
-hash = "bb76f1c8dbd78366de9a0a79c4ad609b0d988283c34c556bb27df91376c3a1b3"
+hash = "cc53378cea6d864f636ba65a54a6083923e8419d7a7118bb136c129a4f53b80f"
 
 [[files]]
 file = "kubejs/startup_scripts/name.js"
