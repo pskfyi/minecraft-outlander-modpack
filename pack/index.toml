@@ -713,7 +713,7 @@ file = "config/waystones-common.toml"
 hash = "1f27ecf41f4f0fadbc670bb2b88e9e21dcb1ac9c8e0778b70d990888b08b3d6f"
 
 [[files]]
-file = "defaultconfigs/ftbultimine-server.snbt"
+file = "defaultconfigs/ftbultimine/ftbultimine-server.snbt"
 hash = "4f02f94f7c8722f86de54c9860ef66909a0215de2590642d19b87233ea720d45"
 
 [[files]]
