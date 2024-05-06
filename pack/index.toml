@@ -574,6 +574,11 @@ hash = "78f38ddc4c204f2a82062d532d98266546a168aeeddbd53fdaa8fb1af4ceb030"
 metafile = true
 
 [[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "78cacc203857570841308fa2b833f50b5bec688dd326ac2f3be50d3b4c60f3cd"
+metafile = true
+
+[[files]]
 file = "mods/create-air-forge.pw.toml"
 hash = "84bc5f323d3cc4f735e75158bd810f3ea886d3f4bc4d3eb472c68368650ce1ff"
 metafile = true
