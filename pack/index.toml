@@ -457,6 +457,10 @@ file = "config/openloader/data/modpack/data/outlander/recipes/cutting_board.json
 hash = "eaf204ef1db9e19768485579c4cde7128136e1cb848ac27119a85bb263282654"
 
 [[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/dripstone_pebble.json"
+hash = "317510c02d69948db7153f16687c09be001e03c4f60f3b75a7f8182a86cb583c"
+
+[[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/flint_hatchet.json"
 hash = "f6549c092be1cdeff11ff55506e28a92ea39162ae3a08eac2f6f3a1c396dea25"
 
@@ -802,7 +806,7 @@ hash = "e949e6e337b89623087d26c3eaa302c51b6199dd396118086f7794e9940af4ab"
 
 [[files]]
 file = "kubejs/startup_scripts/flint.js"
-hash = "e417142047ee9b937cea61138ae0161d777ad76f32f3b3bcd30451d02739b847"
+hash = "337ec62cfbe93ab2a33a57c4fa5d021b7eabb6b335455f68cbfb88045bf133ef"
 
 [[files]]
 file = "kubejs/startup_scripts/globals.js"
