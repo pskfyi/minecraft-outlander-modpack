@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    { "tag": "forge:pebbles" },
+    { "tag": "forge:pebbles" },
+    { "tag": "forge:pebbles" },
+    { "tag": "forge:pebbles" },
+    { "item": "flint" },
+    { "tag": "forge:pebbles" },
+    { "tag": "forge:pebbles" },
+    { "tag": "forge:pebbles" },
+    { "tag": "forge:pebbles" }
+  ],
+  "result": { "item": "gravel" }
+}
