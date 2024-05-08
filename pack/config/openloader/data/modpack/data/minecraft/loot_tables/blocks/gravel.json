@@ -1,45 +1,40 @@
 {
-  "type": "minecraft:block",
+  "type": "block",
   "pools": [
     {
       "bonus_rolls": 0.0,
       "conditions": [
         {
-          "condition": "minecraft:inverted",
+          "condition": "inverted",
           "term": {
-            "condition": "minecraft:match_tool",
+            "condition": "match_tool",
             "predicate": { "tag": "createsifter:meshes" }
           }
         }
       ],
       "entries": [
         {
-          "type": "minecraft:alternatives",
+          "type": "alternatives",
           "children": [
             {
-              "type": "minecraft:item",
+              "type": "item",
               "conditions": [
                 {
-                  "condition": "minecraft:match_tool",
+                  "condition": "match_tool",
                   "predicate": {
                     "enchantments": [
-                      {
-                        "enchantment": "minecraft:silk_touch",
-                        "levels": {
-                          "min": 1
-                        }
-                      }
+                      { "enchantment": "silk_touch", "levels": { "min": 1 } }
                     ]
                   }
                 }
               ],
-              "name": "minecraft:gravel"
+              "name": "gravel"
             },
             {
-              "type": "minecraft:alternatives",
+              "type": "alternatives",
               "children": [
                 {
-                  "type": "minecraft:item",
+                  "type": "item",
                   "conditions": [
                     {
                       "chances": [
@@ -48,21 +43,16 @@
                         0.25,
                         1.0
                       ],
-                      "condition": "minecraft:table_bonus",
-                      "enchantment": "minecraft:fortune"
+                      "condition": "table_bonus",
+                      "enchantment": "fortune"
                     }
                   ],
-                  "name": "minecraft:flint"
+                  "name": "flint"
                 },
-                {
-                  "type": "minecraft:item",
-                  "name": "minecraft:gravel"
-                }
+                { "type": "item", "name": "gravel" }
               ],
               "conditions": [
-                {
-                  "condition": "minecraft:survives_explosion"
-                }
+                { "condition": "survives_explosion" }
               ]
             }
           ]
@@ -72,72 +62,24 @@
     },
     {
       "bonus_rolls": 0.0,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:gravel"
-        }
-      ],
       "conditions": [
         {
-          "condition": "minecraft:match_tool",
-          "predicate": { "tag": "createsifter:meshes" }
-        }
-      ],
-      "rolls": 1.0
-    },
-    {
-      "bonus_rolls": 0.0,
-      "conditions": [
-        {
-          "condition": "minecraft:match_tool",
+          "condition": "match_tool",
           "predicate": { "tag": "createsifter:meshes" }
         }
       ],
       "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:flint",
-          "weight": 1
-        },
-        {
-          "type": "minecraft:item",
-          "name": "create:zinc_nugget",
-          "weight": 1
-        },
-        {
-          "type": "minecraft:item",
-          "name": "natprog:tuff_pebble",
-          "weight": 2
-        },
-        {
-          "type": "minecraft:item",
-          "name": "natprog:deepslate_pebble",
-          "weight": 2
-        },
-        {
-          "type": "minecraft:item",
-          "name": "natprog:diorite_pebble",
-          "weight": 3
-        },
-        {
-          "type": "minecraft:item",
-          "name": "natprog:granite_pebble",
-          "weight": 3
-        },
-        {
-          "type": "minecraft:item",
-          "name": "natprog:stone_pebble",
-          "weight": 4
-        },
-        {
-          "type": "minecraft:item",
-          "name": "natprog:andesite_pebble",
-          "weight": 4
-        }
+        { "type": "item", "name": "create:zinc_nugget", "weight": 2 },
+        { "type": "item", "name": "natprog:andesite_pebble", "weight": 2 },
+        { "type": "item", "name": "flint", "weight": 3 },
+        { "type": "item", "name": "natprog:tuff_pebble", "weight": 3 },
+        { "type": "item", "name": "natprog:deepslate_pebble", "weight": 5 },
+        { "type": "item", "name": "natprog:diorite_pebble", "weight": 5 },
+        { "type": "item", "name": "natprog:granite_pebble", "weight": 5 },
+        { "type": "item", "name": "natprog:stone_pebble", "weight": 75 }
       ],
-      "rolls": 2.0
+      "rolls": 4.0
     }
   ],
-  "random_sequence": "minecraft:blocks/gravel"
+  "random_sequence": "blocks/gravel"
 }

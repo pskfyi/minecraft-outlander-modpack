@@ -317,8 +317,12 @@ file = "config/openloader/data/modpack/data/farmersdelight/recipes/safety_net.js
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "config/openloader/data/modpack/data/forge/tags/items/pebbles.json"
+hash = "1d8a439ef571b89225bb746fd298c9d32d7ff6a2dff15e8964c9db68e729fab9"
+
+[[files]]
 file = "config/openloader/data/modpack/data/minecraft/loot_tables/blocks/gravel.json"
-hash = "31f6ca84c17b91303abc597593e806834d09629248ab66beabed4708f56f665c"
+hash = "78cb1010a2ab44d8c77bf077991586385ba32f90e7498b31c8530742015df068"
 
 [[files]]
 file = "config/openloader/data/modpack/data/minecraft/recipes/andesite.json"
@@ -517,6 +521,10 @@ file = "config/openloader/data/modpack/data/outlander/recipes/granite_pebble.jso
 hash = "82fc2b38399403de5c16c544a37bee60e34347f6b779d3cd9208b0539475186c"
 
 [[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/gravel.json"
+hash = "24df295f217e9b3522371487f80a2f14a7037792925b5ed80530cde89e032467"
+
+[[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/hand_crank.json"
 hash = "c6890cd61e1c9e81e7273e97dc452ca2c20d6cacf56538186be1e282366127a2"
 
@@ -550,7 +558,7 @@ hash = "d01614e62e1787b4c3ddb117f08922e66f5baefc0a67261c186f4d9b3a0fd8c3"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/manual_gravel_sifting.json"
-hash = "cf56607454d5d2bb365b5fbce4d0fe8fa0149ae99c99ef106e53810dfbb160e6"
+hash = "7e581d67e6099e0babdfe0d722058dcb08e835250d182043ac70156ef63bea6e"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/map.json"
