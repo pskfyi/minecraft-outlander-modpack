@@ -469,6 +469,10 @@ file = "config/openloader/data/modpack/data/outlander/recipes/cartography_table.
 hash = "6f3399619f9cfb30a0aff87397dda33b6a5b9b169e94845d74ff1fa31fa88f60"
 
 [[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/charcoal.json"
+hash = "9504d900a1704cd781252bb742040972c7530eb6d9aa38bdfacb836c10b67f51"
+
+[[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/cobbled_andesite.json"
 hash = "33d3e829e1ecfc3f5b2ac86ffb163f27efef14b1ed98f1ceb179ae59d0d88085"
 
@@ -661,6 +665,10 @@ file = "config/openloader/data/modpack/data/outlander/recipes/stuffed_cod.json"
 hash = "d9c68114a5b102b2ddf6064eedb32ec03251c68e6284d5ece2c2ab420fd5a442"
 
 [[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/tinycharcoal.json"
+hash = "3b75e4b8fb7cac1da84a2d502ff7a0bd8bcf7e805e1883f736c18f4cdef7aa49"
+
+[[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/torch.json"
 hash = "0d16a82892ec4fafc79f49d2391dfce628a66c62af606b3ebd352eaafe0c69ca"
 
@@ -771,6 +779,14 @@ hash = "cbefc400d3cfb27f029f16b6901a470e7e662f55579b5eaa6973821e124409f2"
 [[files]]
 file = "config/openloader/data/modpack/data/thinair/recipes/air_bladder.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/openloader/data/modpack/data/tinycoal/recipes/charcoal.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/tinycoal/recipes/tinycharcoal.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "config/openloader/data/modpack/data/vintagedelight/recipes/organic_compost_from_rotten_flesh_mash.json"
