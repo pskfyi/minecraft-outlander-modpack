@@ -1,0 +1,15 @@
+{
+  "values": [
+    "natprog:tuff_pebble",
+    "natprog:deepslate_pebble",
+    "natprog:dripstone_block_pebble",
+    "natprog:quark_jasper_pebble",
+    "natprog:create_asurine_pebble",
+    "natprog:create_crimsite_pebble",
+    "natprog:create_limestone_pebble",
+    "natprog:create_ochrum_pebble",
+    "natprog:create_scorchia_pebble",
+    "natprog:create_scoria_pebble",
+    "natprog:create_veridium_pebble"
+  ]
+}
