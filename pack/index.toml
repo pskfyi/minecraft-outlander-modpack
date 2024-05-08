@@ -165,7 +165,19 @@ file = "config/openloader/data/modpack/data/bountiful/recipes/crafting/bountyboa
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "config/openloader/data/modpack/data/constructionwand/recipes/stone_wand.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/create/recipes/crafting/kinetics/cogwheel.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
 file = "config/openloader/data/modpack/data/create/recipes/crafting/kinetics/hand_crank.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/create/recipes/crafting/kinetics/large_cogwheel.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
@@ -457,6 +469,10 @@ file = "config/openloader/data/modpack/data/outlander/recipes/cobbled_andesite.j
 hash = "33d3e829e1ecfc3f5b2ac86ffb163f27efef14b1ed98f1ceb179ae59d0d88085"
 
 [[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/cogwheel.json"
+hash = "a667b6a5c740d285bed1e4bb28fa01ee7960eb0e45beec42b55bfabc16282f60"
+
+[[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/cutting_board.json"
 hash = "eaf204ef1db9e19768485579c4cde7128136e1cb848ac27119a85bb263282654"
 
@@ -502,7 +518,7 @@ hash = "82fc2b38399403de5c16c544a37bee60e34347f6b779d3cd9208b0539475186c"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/hand_crank.json"
-hash = "ab3be89e6871ebbdfb5efeccad323d2e6c4f8088e3459f0e95d3917031ce101a"
+hash = "c6890cd61e1c9e81e7273e97dc452ca2c20d6cacf56538186be1e282366127a2"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/hand_hoe.json"
@@ -511,6 +527,10 @@ hash = "02a8e7772cdda9b16d888e1994f59e5fee2be2ec9024a5724bb2db396749c740"
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/item_frame.json"
 hash = "3d54532a4050baf342ccd18dce1fdd849ed36086f58df3317e10de16583e1b65"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/large_cogwheel.json"
+hash = "19936ade03d55cd6c7815adf83dace3356ccd22e49b28d8c4db4fd52b183d984"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/lead.json"
@@ -615,6 +635,10 @@ hash = "35d8a58798dc1da096a55a11f08d24b5ae2ae09c6e4fa70078bdfe8716e9b5fa"
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/stone_pebble.json"
 hash = "ebaef3ce4fa7526bc3de887f333e2ba5b21db20650aacd94bf5afe71e0b9bead"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/stone_wand.json"
+hash = "8649abaca5633d77d2f4318ed9637dcf1826c03239e1fa2502021efa4ca19639"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/straw_to_string.json"
@@ -847,6 +871,10 @@ hash = "601a1daf29db120c12674a920c5920dc268aa366bc188f1607f051c6897ed160"
 [[files]]
 file = "kubejs/server_scripts/tags.js"
 hash = "e949e6e337b89623087d26c3eaa302c51b6199dd396118086f7794e9940af4ab"
+
+[[files]]
+file = "kubejs/startup_scripts/dontRequireTool.js"
+hash = "6ba805abd0a1fa35c0835dd80d4a752d13337910f6d57919a637b97d7d1d775a"
 
 [[files]]
 file = "kubejs/startup_scripts/flint.js"
@@ -1666,6 +1694,11 @@ hash = "db4ba9188052b75c67fe536e5e7fc127499611abcb98b3542cf79a450fa13ece"
 [[files]]
 file = "resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
 hash = "f3a4bb5d89c7d9a554aca934d729611a3bad37c01ab374caf7af6cbc1de4fab0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/no-villager-idle-sounds.pw.toml"
+hash = "511179981ca924ffdde5686e0dbc817ba87aae448fc480bb7a339afeae2932f0"
 metafile = true
 
 [[files]]
