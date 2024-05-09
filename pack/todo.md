@@ -45,14 +45,11 @@ and
 [Roughly Enough Trades](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-trades)
 are stuck on 1.19.x.
 
-## Open Issues
-
-- HUD Compass does not support:
-  - Map Atlases: https://github.com/gigaherz/HudCompass/issues/14
-  - Curios: https://github.com/gigaherz/HudCompass/issues/21
-    - I created
-      [functioning data and resource packs](https://github.com/pskfyi/minecraft-compass-curio)
-      to test this.
+[HUD Compass] does not support
+[Map Atlases](https://github.com/gigaherz/HudCompass/issues/14) or
+[Curios](https://github.com/gigaherz/HudCompass/issues/21). I created
+[data and resource packs](https://github.com/pskfyi/minecraft-compass-curio) to
+test this.
 
 ## Mods Under Consideration
 
