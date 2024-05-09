@@ -9,6 +9,14 @@
 - [Compost](https://www.curseforge.com/minecraft/mc-mods/compost) is broken w/
   REI: [Compost/#7](https://github.com/yurisuika/Compost/issues/7)
 
+## Known Issues
+
+- When hunger drops to 3 shanks, the player moves exceptionally slowly.
+- The vanilla furnace recipe cannot be removed, neither with data packs nor
+  KubeJS.
+- Loot tables contain OP items, especially in villages. This warps the early
+  game too much.
+
 ## Action Items
 
 - Use
