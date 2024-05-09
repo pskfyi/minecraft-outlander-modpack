@@ -693,6 +693,10 @@ file = "config/openloader/data/modpack/data/minecraft/recipes/painting.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "config/openloader/data/modpack/data/minecraft/recipes/scaffolding.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
 file = "config/openloader/data/modpack/data/minecraft/recipes/torch.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
@@ -1317,96 +1321,212 @@ file = "config/openloader/data/recyclersdelight/data/farmersdelight/recipes/cutt
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/acacia_planks_from_container.json"
+hash = "611e059e5a54a1d61b06f89976e34dcbfd1f7ada8ed5fe12d0fdd5c8dcd82eb7"
+
+[[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/acacia_planks_from_furniture.json"
-hash = "8da68ba451620652355ee7fb99f8985f05665b7d5b341a0baf269b61af2f5ea3"
+hash = "a1bbee753edcfa9285ab594cf9714d9cd37c0090f0b5c2d1811936279c187359"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/ancient_planks_from_container.json"
+hash = "5c3d592118c8171f1ceffba8138794c3b81cf34fed17a603ed70d5905ef3094f"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/ancient_planks_from_furniture.json"
-hash = "b7400621c3764e70c30d6ad6bdf4348fd12a6f7f6f518482d0e2377dae4d9162"
+hash = "13f77b2885293d2417551fb6376cdb0fd1bb973f2d5f1ebc0968ec47b54463d1"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/azalea_planks_from_container.json"
+hash = "b9d9303ebbc9d21e1c399123c16d3ded1cb5d26d4d5e2b25b90d188d754573c6"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/azalea_planks_from_furniture.json"
-hash = "850a40fe0abbf99ed54a7f8039ffca5b1d81588be3e0690a5b265731f2d53f6d"
+hash = "993cfb68728fb63311dc9bb4b690a7959f6754c8ded4b29247cbd34dbb55cc71"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/bamboo_planks_from_container.json"
+hash = "c80383667c2cdec255f75f9636698efe46585afe7001a281bc122dd10436769a"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/bamboo_planks_from_furniture.json"
-hash = "9ae24688ee06a915a6a4444613d238c43a80e42f37b1a92c508fd62439fcbe79"
+hash = "ef4cddf524bd515fbda8e5547a524bf68f3e56a671e3a66ae9269877a4ab1dfe"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/birch_planks_from_container.json"
+hash = "50b0c9497c3c305bb222e3bbe99a890272084108bcc2b629ae62ec653abdfc76"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/birch_planks_from_furniture.json"
-hash = "270926d0d04b0127f3cbeaeabf918c3f1bfa06024e31f368060ec39bc8120003"
+hash = "5eaed03722bb340f9b528d090c9975a489347174bdf4d42a0efb6996408e27c4"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/blossom_planks_from_container.json"
+hash = "6515686ade6f10f2b40da2095f7ac3027979fdd006cc3df85bf4b678a88a4cd6"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/blossom_planks_from_furniture.json"
-hash = "70b9779c803389c3ac5bc5e0351b1639377713e81ab748deacd159722fbfe6a7"
+hash = "cc77124ddb429fead62c4d7551d6e47c558a11368941b3c130333898ad18f085"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/cherry_planks_from_container.json"
+hash = "c1c537c65b5be424e6ae9b7a2556377797f8a9204c3be92751d929ef16461d66"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/cherry_planks_from_furniture.json"
-hash = "2d562d3ea04183babfd08eeb38799c7adc71a9bad2569c04189df6f9b026c440"
+hash = "336d79e2322b93af620f844b7d893b58cd7b906e0ac8bc1c3a2c88716d6dbe1e"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/crimson_planks_from_container.json"
+hash = "358ade21b1a051c3655833220b7f075d27abfb8fa5f05b0ed52d792b6246e107"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/crimson_planks_from_furniture.json"
-hash = "f980e732b7e2c3b5006959ecca79e51f3b7410335f88d25e2e5f3d8974baf5eb"
+hash = "1812f87381860a1c43a238fcd71b8ffec66c1ad12c40ee5042a916a1134f051d"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/dark_oak_planks_from_container.json"
+hash = "d32a4bb063b8e26868796439777fa39f880ab720133678af279ccbdaf4cbc916"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/dark_oak_planks_from_furniture.json"
-hash = "9c7f15603b6608c7f5c5f96cf7ac335aaee534c69ac926c0cb69a329f214bf2d"
+hash = "e1a993d912bebe322ed1fe46bd008c21afb1afa148e7cd18c975754afe99fc56"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/jungle_planks_from_container.json"
+hash = "311a141230668d8d478adae8339b1c03c8e3872feaf35073f759933a5bfcaef8"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/jungle_planks_from_furniture.json"
-hash = "69dc0e6ea0dba5e85a0132bf6d0b3345dc1d63a7d5d398227debee0063a2c5c5"
+hash = "105ddfce775b12787753f98518171722bc533eec03f883aa53d52778897d8efd"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/mangrove_planks_from_container.json"
+hash = "fb8ffe888a70b4d53fa1e39173869415708716bb5b8d1a670827bceb6ff6105a"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/mangrove_planks_from_furniture.json"
-hash = "b65edab9a539619d2ce64ac9212bb5d3ea25f428a4f058626acee41bbef46b15"
+hash = "7ea3ff74cb520caf893fef88b5dd1031924a2c783d098f1e07dab0535c237134"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/oak_planks_from_container.json"
+hash = "010767a4acccd7bfe3970a23f85fbe6d67f003f338a73184ca3404835177c76c"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/oak_planks_from_furniture.json"
-hash = "c1111d65228146d9900c461f5676945ae9cf3d3fb831b1e9e418cba0f9a0ae4e"
+hash = "6082c8751e4ac956e0de223d940302b6b584805ccd8f5872b3531dd71e3d6a0a"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/recycle_acacia_bookshelf.json"
+hash = "9a345f3c9261f1759385dccd35473ab8b099f53e40a258ee6f0b300613c6c7f4"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/recycle_ancient_bookshelf.json"
+hash = "547a36edff1bb720dd97a05fd6006407f3200b080207a0702f5d09fc45c9dcc7"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/recycle_azalea_bookshelf.json"
+hash = "780237c04379eba91ef171171bda7a168689f880761a90825f4af5d3ebbd8319"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/recycle_bamboo_bookshelf.json"
+hash = "e939be00e6255779e62fc17493bbcc5c26ab6080c345dbfd1def9746e5dc7b49"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/recycle_birch_bookshelf.json"
+hash = "1ce6125da2d220f37520a0d5c8cb8d8498d63f3e2c01d43322ac7740c1f00efd"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/recycle_blossom_bookshelf.json"
+hash = "68ac804138ce32d5244b77c193563e1026c98d3a97e0308913c787204749a654"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/recycle_cherry_bookshelf.json"
+hash = "bc36754d27610e98e59d8ba3d4c6d440b000b4365e4261edf6543eade0e5387f"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/recycle_crimson_bookshelf.json"
+hash = "71f5cc4b588b47618a466f3bb004a1bce29857b4b75ebea9984d3ec6d46c6d25"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/recycle_dark_oak_bookshelf.json"
+hash = "91b101bdc47cd8fd05d50b110ef5247a7f67cef7bef16a74bbb871d28e76a86e"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/recycle_jungle_bookshelf.json"
+hash = "55f674809ea38fa4280610d8bc041a48b2991d1e421705b7de8becf856e93a86"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/recycle_mangrove_bookshelf.json"
+hash = "72567575850b1577b67c13fdadbebeb48b6b1b39a3374833bde72f073eacf0d4"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/recycle_oak_bookshelf.json"
+hash = "20912882ecececa18bf2ab29ce0120c86a634426ab66ba1c976c4d1b7cd32a06"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/recycle_spruce_bookshelf.json"
+hash = "4faf0832dc250a91cf041fe082abdf1025ef32d144695d0de6644f2364386b27"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/recycle_warped_bookshelf.json"
+hash = "c62603d8d5158c99c07a21312a2c7f34251120e6cf1b5b0b04f4109e25ed5320"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/spruce_planks_from_container.json"
+hash = "e5f026b77cc2ede87ff5e0915fbec030ad45b25bd06771a35f53f80eae1a4ffc"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/spruce_planks_from_furniture.json"
-hash = "f92c68ab3e4473f07fd3c043e1e2e7b594b915871a7bad48e44f87da2ec56f51"
+hash = "b184f64973616042f1ba17c80adcee13e6b34cdd0114b788af4897366fa94976"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/sticks_from_knicknacks.json"
+hash = "183a017d22d1d95984ee94555e278e81b40a40bc5a316efd61e459ec2b653b43"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/warped_planks_from_container.json"
+hash = "7330f1d865b982be7e4c197519a1fcf276dedbc4d35945317665ad3edda9e2a8"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/recipes/cutting/warped_planks_from_furniture.json"
-hash = "948535d36887efaadac31f55d7b06bb02fe66c64587686cc2b12605190808ff4"
+hash = "f0a683d52ecca91f19c49fc0b31d8b97d5d8111547e7b6ec6ee169d5c6e48f9d"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/acacia_furniture.json"
-hash = "a99863d38d8fb8c9d69239b44292a41328dac9876c81ab6461f38f9052bb8f07"
+hash = "2efc9f68db26c08b83fc9f6db9f602b8a8c66ce24287b02e9ebdc138e2ac57e6"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/ancient_furniture.json"
-hash = "6c864922767c1b53a0c7e935ad079e568099ec91d65cb18163aca68e05601214"
+hash = "2fca3fe692fcb71bf9055665388b63ea70e8971634629b2785e003e2aeb81ec7"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/azalea_furniture.json"
-hash = "30123f14650773b89f0e7e3af1cdde9b88465081533a860bcd09e9962146b832"
+hash = "f5241bde0a7e2ce9eedd253b7c39f3c660c15423a7804cdbc80cfb28183d0b20"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/bamboo_furniture.json"
-hash = "a79451a8a8b471032c713884dae010d4f2e49ee0497aa0d8a8e09a7b764b8ce4"
+hash = "2f84681bfd3e89472c944f9119d173c57abeec4caf3d8a576cb98265628f6500"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/birch_furniture.json"
-hash = "e5e8457dd2446466060a17721942bb3c35e60dfd137f40fa13db33c8647f79b9"
+hash = "5e6656f626ab0bec14bc71a4181eb4eb0a6756d7ef29c02daa85c3664abcf996"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/blossom_furniture.json"
-hash = "12a1557ae21f5d47fd0bc541ef14bbd607fd08dcd6f0893d14d3b81117767d98"
+hash = "367becd86d04669ce126e8067f320c7d8cd4c2d03b374da857a428fd70eb85e4"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/cherry_furniture.json"
-hash = "1b684cc4475650c6ee1f929b832ce3f78a2be22314f0e483864851e63143e290"
+hash = "1398b9402b30fcb470f14856d9b7d809ae3eeef22f7ad680262ea22da259ebbf"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/crimson_furniture.json"
-hash = "1c0afba4f61cc23a6950320ba09910077053549070aab93b188b5b3fe6977f6a"
+hash = "dfb05ac26a956fe5ec02c380cb9bc8eb2a2b6654de82ba6d4a35e5cbe89b7d1c"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/dark_oak_furniture.json"
-hash = "e2488b718cd2e45218b62d614203c151d3d20ae681daf53d61e3e48085ba2f93"
+hash = "82575e84358f703c4bd6adc49dbf9a246d29dbe6fe5110e3a4633bc7c01d696a"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/furniture.json"
@@ -1414,79 +1534,143 @@ hash = "e12ba1bda8303dad76dafed4bad4834fa0056f45bf10a248e66090bbda9b167a"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/jungle_furniture.json"
-hash = "7d414f3277e60fde6e0e0314c53a1f72c4900db6ce0edd598ea429710cefb856"
+hash = "c3a6db4797851fe1604235530d142532aeddf247b78d291ff70f9aa0f235e108"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/ladders.json"
+hash = "71146c18714945de963407b96174df3bcd0e5016a49c845e2195447a50c2e261"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/mangrove_furniture.json"
-hash = "867583ca60131831ec84e9c538f884a56a66200ca8a2334e2b2993c3419c8f65"
+hash = "d17eb8d171ada9fd20ce4d7c3c889ca5205056bafa5333e8ed9c9f704b442f75"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/oak_furniture.json"
-hash = "c21e0da2a2fee03ab5f2ff287605fe5c7c68ab9459c5ce6a1591473e1c7ad803"
+hash = "ece0d763299718c4107886eee27c9c2498c270529656ccf7ec57c84d5e352697"
 
 [[files]]
-file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_planks/acacia.json"
-hash = "db263353612c5aa1f149ac7fade6e342d9f8fcbd5024f83508387d5678c5e1af"
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_container/acacia.json"
+hash = "d83dc7d0d7c7cb27c42164443953c497961c87bb47038357237e72b9b76d3426"
 
 [[files]]
-file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_planks/ancient.json"
-hash = "56d31709fc3e1bbb394d12450c727ecb907ca71378f82935a146fb3c774bec71"
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_container/ancient.json"
+hash = "0e817cf81f5ac3f45b6cae66850f77a6d7d0ba4d588d536039d4dfe694fc8306"
 
 [[files]]
-file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_planks/azalea.json"
-hash = "28398627bbc7a5ed5189ef0d88631b6b8defb80dd7591b270d389041179ac0b1"
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_container/azalea.json"
+hash = "546486d2634aac8aa16514f6109248344fc8d4285978159d89dfa828f75811d8"
 
 [[files]]
-file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_planks/bamboo.json"
-hash = "a67c3273b70efe4de3c9d2aa5bc35287ea1f45c55fdc05645e7ef32cb9b4488b"
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_container/bamboo.json"
+hash = "c03450e6a5bd2e5335201966f7250379d1692c99026606fbad9a50e9c8fd6b2b"
 
 [[files]]
-file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_planks/birch.json"
-hash = "cb82813e9f755f6bc2fdb4193cf5292d7b9aa6e1c02cf3e7ceb8665757396b46"
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_container/birch.json"
+hash = "2c8d6dcf676fee8c72ad1a4309dccf4e053cf44e76dd5dccc9b6e8a17ebca85f"
 
 [[files]]
-file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_planks/blossom.json"
-hash = "bad1c72ed4e1ee6a94d7dac1f3b9f96f47d274ed711a2149572b1e4324f8f3a0"
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_container/blossom.json"
+hash = "608d2c4471981da484a0291de887314a2ab40ed25498374f246a479a819a8761"
 
 [[files]]
-file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_planks/cherry.json"
-hash = "97a30098ddbd4749181399d94ac411b51d783088c204af61fa0c4fc7334de11e"
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_container/cherry.json"
+hash = "b1d7bc28878230bf2c64eb863636fd62c4d4328db48eccd5b2ea02d1deec04e3"
 
 [[files]]
-file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_planks/crimson.json"
-hash = "354c3e7bf1665ae90d14bb5f94ae3df0bff98490f7acdd4069f9ea7bb1d18ab5"
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_container/crimson.json"
+hash = "8c5b8fa54128a3ad1e739f374abb524078e51358de4becfd59ca88d08c31cfd5"
 
 [[files]]
-file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_planks/dark_oak.json"
-hash = "c4b7951497816ade3eab590c155eaaae7d4691ff6bf619ca2ba952be2d07c807"
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_container/dark_oak.json"
+hash = "033992657d105534cd465c7f283864358a6618edf9f4969361be4a3d11fd07ff"
 
 [[files]]
-file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_planks/jungle.json"
-hash = "5dd031ecd5f3c53f0a055f9ae1bad0141c7baf946689835a7870a7374bb0ef02"
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_container/jungle.json"
+hash = "a8be94bc2406e844e348a39205677c656e5b59847a5808c9df870af0c1e4f2e1"
 
 [[files]]
-file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_planks/mangrove.json"
-hash = "e34cd6c36db93e6fc7c07fbda6cfd7807501289760ec3ccbdfe954ccb21a15ec"
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_container/mangrove.json"
+hash = "464b5c3e0ef001a8b4e215472cdc99890c04fdb7979537d58e822b0c41306a59"
 
 [[files]]
-file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_planks/oak.json"
-hash = "6d5365bf454b7a909b67dc91f0468908040e3cc9dc9f3cd75284935d4b89d5e9"
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_container/oak.json"
+hash = "79827c80bf38eeb381d955f36c0545d56f8ea8a4cabb50650591657188c33d14"
 
 [[files]]
-file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_planks/spruce.json"
-hash = "b0eb8affac0ad11334f2c5d0b075744e5cbfe97038368aec3d7ad01be152c30d"
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_container/spruce.json"
+hash = "8795d690507eb447e8021420cc9e6da1769acb59608aa38ef5c5dee2b2f26a8c"
 
 [[files]]
-file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_planks/warped.json"
-hash = "df8c6389bf9395a0eb4ec4b3dfa80fe1e525d2ccc8e0571ebd5b194b870555c0"
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_container/warped.json"
+hash = "107b23f9bfe7ff9f01ce6faac0a8aeee1ae7ed628823b7bc7d3c52e0f77c053d"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_plank/acacia.json"
+hash = "659d3802c060c7683d4372a1452fe742c1a2fbb98180deb651d72db9352801aa"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_plank/ancient.json"
+hash = "ec8c2817d674fbae5bcdc667c8e7bde9d68863771e531d3c100f014f470ae657"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_plank/azalea.json"
+hash = "e690aa4493f5ce345c76368fe586bc1c4b2e644c9c06c31e5cfa1ed500f4eb1d"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_plank/bamboo.json"
+hash = "4eb1a08c255e83883a1a1b9cdd5a1da6d1d4ffa7a1c5b55f7bed854ca8649d49"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_plank/birch.json"
+hash = "b15f10f3ed136bbb7197477bcc3f3c95d1510986fdd546b39196a80c9f6cda27"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_plank/blossom.json"
+hash = "2960d1885173d7bb11382dec9f60f610b4e486bb1d9d847114e2bec0eb58d3eb"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_plank/cherry.json"
+hash = "7c1c8569994c5c53c0c069ba5a9249d114d56c5eb0daf1741cb17978019e21ac"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_plank/crimson.json"
+hash = "104a8da5f6358855365a3cf9d4b1e9aa71eab9c61b9f143d5ec5b8fd57504ec2"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_plank/dark_oak.json"
+hash = "b21c30f99b9f1a7020f71f932fcb2ea452c8ba170d05e27dbca46004349081e9"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_plank/jungle.json"
+hash = "580d574540b9469cc69b676f6eca33727cd1b46f0bf553133c68b5919b92c278"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_plank/mangrove.json"
+hash = "329751c7a8c3f54fa9fe89eed98755eb23bcad0a51809ef40412146d5e2747ca"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_plank/oak.json"
+hash = "d05dcc78d6e06c6a726e4fabbd1f502f6b16244a0976abae1b2068bcdcb939db"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_plank/spruce.json"
+hash = "434b6f8190907ee891e3bf46ab3a3572844c1b42be331136aa1c8fe8d1bf0dbf"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_plank/warped.json"
+hash = "5343e0044f4d5849f2027b15c7eb59e3ddbc253d1a14a7cd0054cbe9c413c12b"
+
+[[files]]
+file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/salvage_sticks.json"
+hash = "800c2aff940eec3a9594a9da4ca8bf1589eb1cfa27786ee41ea8560a0b8a6c41"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/spruce_furniture.json"
-hash = "0510e367eca6e0e5be35a68a9dcd5f8bd00756eb11a96766fa6c8361ffdd6bf3"
+hash = "e8490a7b4800f418329d07da596e0a68fad6604559dc2425c25175eb629c0ea5"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/data/recyclersdelight/tags/items/warped_furniture.json"
-hash = "e578aed8c739b1b439bf4f21cd859a5e25a98635c821d393208f2734fe6ab189"
+hash = "bbfe17132815b70e780cf2ce9f0c614016fe83329e085c1b4664f19d7afd5819"
 
 [[files]]
 file = "config/openloader/data/recyclersdelight/pack.mcmeta"
