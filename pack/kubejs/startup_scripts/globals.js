@@ -40,6 +40,18 @@ global.items = {
 
     "ftbquests:loot_crate_opener",
 
+    "paraglider:deku_leaf",
+    "paraglider:heart_container",
+    "paraglider:stamina_vessel",
+    "paraglider:spirit_orb",
+    "paraglider:anti_vessel",
+    "paraglider:paraglider_essence",
+    "paraglider:goddess_status",
+    "paraglider:kakariko_goddess_status",
+    "paraglider:goron_goddess_status",
+    "paraglider:rito_goddess_status",
+    "paraglider:horned_goddess_status",
+
     "quark:limestone",
     "quark:polished_limestone",
     "quark:limestone_bricks",
