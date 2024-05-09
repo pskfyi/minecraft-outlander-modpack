@@ -23,14 +23,6 @@
   [KubeJS default options handling](https://kubejs.com/wiki/tutorials/default-options)
   for keybinds.
 
-### Compatibility Issues
-
-- Salt and associated systems added by The Salt and Vintage Delight need to be
-  reconciled.
-- Thin Air's respirator is too easy to craft. I want to redo its recipe with a
-  metal nugget as a "nose piece" and some textile rather than paper. To make
-  this work thematically, I want to tweak the graphic.
-
 ## Mods Not Yet Ready
 
 [Grappling Hook Mod](https://www.curseforge.com/minecraft/mc-mods/grappling-hook-mod)
