@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "type": "forge:partial_nbt",
+    "item": "ceramicbucket:ceramic_bucket",
+    "nbt": { "Fluid": { "FluidName": "minecraft:water", "Amount": 1000 } }
+  },
+  "display": { "block": "minecraft:water", "renderFluid": true },
+  "categories": ["water"],
+  "growthModifier": 1
+}
