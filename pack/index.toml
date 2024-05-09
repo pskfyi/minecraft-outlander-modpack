@@ -153,11 +153,11 @@ file = "config/openloader/data/ctov-wares-add-on-v1-0a.zip"
 hash = "9bed956cfbc3f10e178ac14f07c663bb881e834c6ea3e6c955065d9f1af0252a"
 
 [[files]]
-file = "config/openloader/data/modpack/data/all_the_flint_tools/recpies/flinthoe.json"
+file = "config/openloader/data/modpack/data/all_the_flint_tools/recipes/flinthoe.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
-file = "config/openloader/data/modpack/data/all_the_flint_tools/recpies/flintshovel.json"
+file = "config/openloader/data/modpack/data/all_the_flint_tools/recipes/flintshovel.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
@@ -1666,7 +1666,7 @@ hash = "337ec62cfbe93ab2a33a57c4fa5d021b7eabb6b335455f68cbfb88045bf133ef"
 
 [[files]]
 file = "kubejs/startup_scripts/globals.js"
-hash = "d583dd7425adf77a4e12766980cd30b1daa6e365526fcd363945ca987abdc815"
+hash = "a319f81a3dcc276d027f262a678b30a69399384ee6985fcaafa9471ce4747dca"
 
 [[files]]
 file = "kubejs/startup_scripts/name.js"
@@ -2383,6 +2383,11 @@ metafile = true
 [[files]]
 file = "mods/village-spawn-point.pw.toml"
 hash = "03fd990ffc95bf5931d922d2ef0543608017932af58e9529b576baa548d83ed2"
+metafile = true
+
+[[files]]
+file = "mods/villager-names.pw.toml"
+hash = "d8eb681d517629cae251ead8e41c0de98c4f6d13663090f09661e3bdc4d4ba1c"
 metafile = true
 
 [[files]]
