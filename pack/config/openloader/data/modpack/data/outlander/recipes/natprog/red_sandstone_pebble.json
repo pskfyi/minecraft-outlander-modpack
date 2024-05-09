@@ -1,8 +1,6 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    { "item": "natprog:cobbled_red_sandstone" }
-  ],
+  "ingredients": [{ "item": "natprog:cobbled_red_sandstone" }],
   "result": {
     "item": "natprog:red_sandstone_pebble",
     "count": 4

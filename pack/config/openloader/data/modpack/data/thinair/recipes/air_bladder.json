@@ -1,1 +1,12 @@
-{}
+{
+  "type": "sewingkit:sewing",
+  "materials": [
+    { "count": 2, "ingredient": { "item": "sewingkit:leather_sheet" } },
+    { "count": 2, "ingredient": { "item": "string" } }
+  ],
+  "result": { "item": "thinair:air_bladder" },
+  "tool": {
+    "type": "sewingkit:tool_ingredient",
+    "tool_type": "sewingkit_sew"
+  }
+}

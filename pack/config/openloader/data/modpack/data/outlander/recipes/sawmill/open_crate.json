@@ -1,8 +1,6 @@
 {
   "type": "sawmill:woodcutting",
-  "ingredient": {
-    "tag": "minecraft:logs"
-  },
+  "ingredient": { "tag": "minecraft:logs" },
   "result": "toms_storage:ts.open_crate",
   "count": 1
 }

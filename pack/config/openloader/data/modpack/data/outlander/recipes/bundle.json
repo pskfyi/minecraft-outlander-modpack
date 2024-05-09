@@ -10,7 +10,7 @@
       "ingredient": { "item": "supplementaries:rope" }
     }
   ],
-  "result": { "item": "minecraft:bundle" },
+  "result": { "item": "bundle" },
   "tool": {
     "type": "sewingkit:tool_ingredient",
     "tool_type": "sewingkit_sew"

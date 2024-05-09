@@ -11,11 +11,11 @@
     },
     {
       "count": 10,
-      "ingredient": { "item": "minecraft:string" }
+      "ingredient": { "item": "string" }
     },
     {
       "count": 2,
-      "ingredient": { "item": "minecraft:iron_nugget" }
+      "ingredient": { "item": "iron_nugget" }
     }
   ],
   "result": { "item": "quark:backpack" },

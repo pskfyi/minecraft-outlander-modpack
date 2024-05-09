@@ -1,1 +1,15 @@
-{}
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    { "item": "tinycoal:tinycharcoal" },
+    { "item": "tinycoal:tinycharcoal" },
+    { "item": "tinycoal:tinycharcoal" },
+    { "item": "tinycoal:tinycharcoal" },
+    { "item": "tinycoal:tinycharcoal" },
+    { "item": "tinycoal:tinycharcoal" },
+    { "item": "tinycoal:tinycharcoal" },
+    { "item": "tinycoal:tinycharcoal" },
+    { "item": "tinycoal:tinycharcoal" }
+  ],
+  "result": { "item": "charcoal" }
+}

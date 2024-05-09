@@ -1,8 +1,6 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    { "item": "natprog:cobbled_netherrack" }
-  ],
+  "ingredients": [{ "item": "natprog:cobbled_netherrack" }],
   "result": {
     "item": "natprog:netherrack_pebble",
     "count": 4

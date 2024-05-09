@@ -1,1 +1,14 @@
-{}
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "kelp" },
+    { "item": "farmersdelight:onion" },
+    { "item": "farmersdelight:tomato" },
+    { "item": "brown_mushroom" },
+    { "item": "cod" },
+    { "item": "string" }
+  ],
+  "result": {
+    "item": "oceansdelight:stuffed_cod"
+  }
+}

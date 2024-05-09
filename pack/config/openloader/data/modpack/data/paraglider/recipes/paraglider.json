@@ -1,1 +1,13 @@
-{}
+{
+  "type": "sewingkit:sewing",
+  "materials": [
+    { "count": 4, "ingredient": { "item": "sewingkit:leather_sheet" } },
+    { "count": 8, "ingredient": { "item": "stick" } },
+    { "count": 8, "ingredient": { "item": "string" } }
+  ],
+  "result": { "item": "paraglider:paraglider" },
+  "tool": {
+    "type": "sewingkit:tool_ingredient",
+    "tool_type": "sewingkit_sew"
+  }
+}

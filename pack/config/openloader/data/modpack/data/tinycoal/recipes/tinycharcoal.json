@@ -1,1 +1,5 @@
-{}
+{
+  "type": "crafting_shapeless",
+  "ingredients": [{ "item": "charcoal" }],
+  "result": { "item": "tinycoal:tinycharcoal", "count": 9 }
+}

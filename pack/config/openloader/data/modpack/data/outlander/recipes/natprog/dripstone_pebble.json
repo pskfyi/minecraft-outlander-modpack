@@ -1,8 +1,6 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    { "item": "natprog:cobbled_dripstone_block" }
-  ],
+  "ingredients": [{ "item": "natprog:cobbled_dripstone_block" }],
   "result": {
     "item": "natprog:dripstone_block_pebble",
     "count": 4

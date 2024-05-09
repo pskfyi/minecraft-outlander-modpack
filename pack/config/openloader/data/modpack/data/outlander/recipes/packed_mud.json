@@ -1,9 +1,0 @@
-{
-  "type": "create:pressing",
-  "ingredients": [
-    { "item": "minecraft:mud" }
-  ],
-  "results": [
-    { "item": "minecraft:packed_mud" }
-  ]
-}

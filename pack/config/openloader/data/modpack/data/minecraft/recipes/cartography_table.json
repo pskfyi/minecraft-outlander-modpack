@@ -1,1 +1,13 @@
-{}
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MM",
+    "PP",
+    "PP"
+  ],
+  "key": {
+    "M": { "item": "minecraft:map" },
+    "P": { "tag": "minecraft:planks" }
+  },
+  "result": { "item": "minecraft:cartography_table", "count": 1 }
+}

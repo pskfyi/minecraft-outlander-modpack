@@ -1,1 +1,15 @@
-{}
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "PSP",
+    "   "
+  ],
+  "key": {
+    "S": { "item": "create:shaft" },
+    "P": { "tag": "minecraft:planks" }
+  },
+  "result": {
+    "item": "create:cogwheel"
+  }
+}
