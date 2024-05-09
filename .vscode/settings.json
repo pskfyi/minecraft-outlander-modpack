@@ -12,5 +12,11 @@
   },
   "[toml]": {
     "editor.formatOnSave": false
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
   }
 }
