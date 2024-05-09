@@ -1,0 +1,20 @@
+{
+  "values": [
+    "warped_door",
+    "warped_trapdoor",
+    "warped_sign",
+    "warped_hanging_sign",
+    "warped_fence",
+    "warped_fence_gate",
+    "warped_stairs",
+    "warped_pressure_plate",
+    {
+      "id": "create:warped_window",
+      "required": false
+    },
+    {
+      "id": "storagedrawers:warped_trim",
+      "required": false
+    }
+  ]
+}

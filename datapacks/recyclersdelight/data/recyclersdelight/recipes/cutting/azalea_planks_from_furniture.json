@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "tag": "recyclersdelight:salvage_plank/azalea"
+    }
+  ],
+  "result": [
+    {
+      "item": "quark:azalea_planks"
+    }
+  ],
+  "tool": {
+    "type": "farmersdelight:tool_action",
+    "action": "axe_dig"
+  }
+}

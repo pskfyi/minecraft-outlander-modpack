@@ -1,0 +1,20 @@
+{
+  "values": [
+    "jungle_door",
+    "jungle_trapdoor",
+    "jungle_sign",
+    "jungle_hanging_sign",
+    "jungle_fence",
+    "jungle_fence_gate",
+    "jungle_stairs",
+    "jungle_pressure_plate",
+    {
+      "id": "create:jungle_window",
+      "required": false
+    },
+    {
+      "id": "storagedrawers:jungle_trim",
+      "required": false
+    }
+  ]
+}

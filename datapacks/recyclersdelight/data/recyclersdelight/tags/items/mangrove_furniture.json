@@ -1,0 +1,24 @@
+{
+  "values": [
+    "#recyclersdelight:salvage_plank/mangrove",
+    "#recyclersdelight:salvage_container/mangrove",
+    {
+      "id": "quark:mangrove_ladder",
+      "required": false
+    },
+    {
+      "id": "quark:mangrove_bookshelf",
+      "required": false
+    },
+    "mangrove_boat",
+    "mangrove_chest_boat",
+    {
+      "id": "supplementaries:sign_post_mangrove",
+      "required": false
+    },
+    {
+      "id": "suppsquared:item_shelf_mangrove",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "values": [
+    "#recyclersdelight:ladders",
+    {
+      "id": "#supplementaries:sign_posts",
+      "required": false
+    },
+    {
+      "id": "#suppsquared:item_shelves",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "values": [
+    "#recyclersdelight:salvage_plank/oak",
+    "#recyclersdelight:salvage_container/oak",
+    "ladder",
+    "bookshelf",
+    "oak_boat",
+    "oak_chest_boat",
+    {
+      "id": "supplementaries:sign_post_oak",
+      "required": false
+    },
+    {
+      "id": "suppsquared:item_shelf_oak",
+      "required": false
+    }
+  ]
+}

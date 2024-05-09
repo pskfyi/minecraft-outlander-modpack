@@ -1,0 +1,18 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "tag": "recyclersdelight:salvage_sticks"
+    }
+  ],
+  "result": [
+    {
+      "item": "stick",
+      "count": 2
+    }
+  ],
+  "tool": {
+    "type": "farmersdelight:tool_action",
+    "action": "axe_dig"
+  }
+}

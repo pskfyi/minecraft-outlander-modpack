@@ -1,0 +1,24 @@
+{
+  "values": [
+    "#recyclersdelight:salvage_plank/birch",
+    "#recyclersdelight:salvage_container/birch",
+    {
+      "id": "quark:birch_ladder",
+      "required": false
+    },
+    {
+      "id": "quark:birch_bookshelf",
+      "required": false
+    },
+    "birch_boat",
+    "birch_chest_boat",
+    {
+      "id": "supplementaries:sign_post_birch",
+      "required": false
+    },
+    {
+      "id": "suppsquared:item_shelf_birch",
+      "required": false
+    }
+  ]
+}

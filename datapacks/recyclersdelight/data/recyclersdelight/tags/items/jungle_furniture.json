@@ -1,0 +1,24 @@
+{
+  "values": [
+    "#recyclersdelight:salvage_plank/jungle",
+    "#recyclersdelight:salvage_container/jungle",
+    {
+      "id": "quark:jungle_ladder",
+      "required": false
+    },
+    {
+      "id": "quark:jungle_bookshelf",
+      "required": false
+    },
+    "jungle_boat",
+    "jungle_chest_boat",
+    {
+      "id": "supplementaries:sign_post_jungle",
+      "required": false
+    },
+    {
+      "id": "suppsquared:item_shelf_jungle",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "values": [
+    "crimson_door",
+    "crimson_trapdoor",
+    "crimson_sign",
+    "crimson_hanging_sign",
+    "crimson_fence",
+    "crimson_fence_gate",
+    "crimson_stairs",
+    "crimson_pressure_plate",
+    {
+      "id": "create:crimson_window",
+      "required": false
+    },
+    {
+      "id": "storagedrawers:crimson_trim",
+      "required": false
+    }
+  ]
+}
