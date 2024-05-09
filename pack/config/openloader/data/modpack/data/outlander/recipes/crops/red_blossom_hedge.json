@@ -1,0 +1,13 @@
+{
+  "bookshelf:load_conditions": [
+    { "type": "bookshelf:item_exists", "values": ["quark:red_blossom_hedge"] }
+  ],
+  "type": "botanypots:crop",
+  "seed": { "item": "quark:red_blossom_hedge" },
+  "categories": ["dirt"],
+  "growthTicks": 1800,
+  "display": { "block": "quark:red_blossom_hedge" },
+  "drops": [
+    { "chance": 1, "output": { "item": "quark:red_blossom_leaves" } }
+  ]
+}
