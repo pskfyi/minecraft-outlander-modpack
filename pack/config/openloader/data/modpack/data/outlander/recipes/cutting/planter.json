@@ -1,0 +1,12 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [{ "item": "supplementaries:planter" }],
+  "result": [
+    { "item": "flower_pot" },
+    { "item": "dirt" }
+  ],
+  "tool": {
+    "type": "farmersdelight:tool_action",
+    "action": "shovel_dig"
+  }
+}
