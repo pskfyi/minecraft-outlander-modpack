@@ -781,6 +781,34 @@ file = "config/openloader/data/modpack/data/outlander/recipes/cogwheel.json"
 hash = "a667b6a5c740d285bed1e4bb28fa01ee7960eb0e45beec42b55bfabc16282f60"
 
 [[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/crops/ancient_hedge.json"
+hash = "0eed3107bf73cda8501e4319236d9adbd75b013aaf0db5417ab0921751a76b6d"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/crops/blue_blossom_hedge.json"
+hash = "d5f18523bb77f3c336802ead91ef5b1e59ceaf8413dc99242f182a30ec061add"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/crops/lavender_blossom_hedge.json"
+hash = "374bb8369aa63b04a5f15d7069d75275a6704750c89fd940e4c3578aa2b29764"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/crops/orange_blossom_hedge.json"
+hash = "af36f00cbea8ab49c2b03c86b353bd281a6bdf320a333428c03db97532b0a0ab"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/crops/red_blossom_hedge.json"
+hash = "eb5955777ef22bd0b476e72d1ffd047bce57bc8dd467916b383104b5e069b93f"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/crops/yellow_blossom_hedge.json"
+hash = "866b5fa6fb5d512ec26b867e94a3513d6db7c3828aa6c5d9c840146d961b1981"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/cutting/planter.json"
+hash = "091d4b2c3674d9fe43e007e46d9f9a0f26835c3cd22683757ab5793a40519f4f"
+
+[[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/cutting_board.json"
 hash = "eaf204ef1db9e19768485579c4cde7128136e1cb848ac27119a85bb263282654"
 
@@ -889,6 +917,10 @@ file = "config/openloader/data/modpack/data/outlander/recipes/paraglider.json"
 hash = "f7b6d05960e1078b3a98b075b037780ee2a890722f7467f8bc566b2c73e1ce73"
 
 [[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/planter.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/quiver.json"
 hash = "f31431c538f454c6c9b77cd978ad5ffb871b6a69e5437bc42c7c27f29834de16"
 
@@ -943,6 +975,10 @@ hash = "fe51d929642f43c4900456727b517d83393bf93b82c01732a7ee5a5769e36774"
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/seed_pouch.json"
 hash = "35d8a58798dc1da096a55a11f08d24b5ae2ae09c6e4fa70078bdfe8716e9b5fa"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/soils/ceramic_water_bucket.json"
+hash = "0feb7d2c2359e97d823ebbb9d23bef9e933f245d8200be294b885379f22b0da4"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/stone_pebble.json"
@@ -1059,6 +1095,10 @@ hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 [[files]]
 file = "config/openloader/data/modpack/data/supplementaries/recipes/bellows.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/supplementaries/recipes/planter_rich.json"
+hash = "e87913a266d7629cc5ae86dfbe6f3a0c810caf3c3610303e5bdc28f630fe8e28"
 
 [[files]]
 file = "config/openloader/data/modpack/data/supplementaries/recipes/rope.json"
