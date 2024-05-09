@@ -161,6 +161,306 @@ file = "config/openloader/data/modpack/data/all_the_flint_tools/recpies/flintsho
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/farmersdelight/pot_interaction/till_rich_soil.json"
+hash = "f6e0ef01d92282534635e33508d490e836d517e0232b15b5f5adfbf2930dbbbd"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/farmersdelight/soil/rich_soil.json"
+hash = "bb4312ea03cc10d8cd64c71e8fcd559fa45650a06c13c40882faf045a9e9a4b4"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/farmersdelight/soil/rich_soil_farmland.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/crop/glow_lichen.json"
+hash = "9a7d14e304bb6d7ed22de033963f5b56f58a738caa17bc4a089e0665de339f18"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/crop/grass.json"
+hash = "277db13bee7bba9b618b4b86d1a970e03c95e518a3dc4b18080c408dcdfe5982"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/crop/moss.json"
+hash = "5d64c843281853d9f582b8c37f4d0b68034ebadfd334f406974584ec4c80b38b"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/pot_interaction/flatten_dirt_path.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/pot_interaction/lava_to_obsidian.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/pot_interaction/till_coarse_dirt_to_dirt.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/pot_interaction/till_farmland.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/pot_interaction/till_rooted_dirt_to_dirt.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/pot_interaction/water_to_stone.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/acacia_wood.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/andesite.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/basalt.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/birch_wood.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/blackstone.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/bone.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/brown_mushroom.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/clay.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/coal_ore.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/coarse_dirt.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/cobblestone.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/cod_bucket.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/copper_ore.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/crimson_nylium.json"
+hash = "98da70fecf668d5221bd3b8f8700708f63fd57f62b55ebeed81ff48cbfa53e1d"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/dark_oak_wood.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/deepslate.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/deepslate_coal_ore.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/deepslate_copper_ore.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/deepslate_diamond_ore.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/deepslate_emerald_ore.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/deepslate_gold_ore.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/deepslate_iron_ore.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/deepslate_lapis_ore.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/deepslate_redstone_ore.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/diamond_ore.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/diorite.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/dirt.json"
+hash = "69375a983a52de15c90bc3bfd2b30e225a778d5e2990b863b67de7bc22d278c1"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/dirt_path.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/dried_kelp.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/dripstone.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/emerald_ore.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/farmland.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/gold_ore.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/granite.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/grass.json"
+hash = "faa1a2c190aaa7869ddf3802e443faed3a1f95583e6615de90eb5650ae1f1fea"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/gravel.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/hay_bale.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/iron_ore.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/jungle_wood.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/lapis_ore.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/lava.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/magma_block.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/moss.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/mossy_cobblestone.json"
+hash = "136834a52ce4968b25e5d9fc3848a2c1e5e09c653dae05af104d2f70c2defd76"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/mushroom_stem.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/mycelium.json"
+hash = "8ffb41fe63f3c57188270b9059742b193a25448665e2bed8611e0ef20e77ec04"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/nether_gold_ore.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/nether_quartz_ore.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/netherrack.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/oak_wood.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/obsidian.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/podzol.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/red_mushroom.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/redstone_ore.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/rooted_dirt.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/salmon_bucket.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/snow_block.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/soul_sand.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/soul_soil.json"
+hash = "0579b363e2e400a0780acb93e689cdc2286016c8cdfbab0b90d8f2439ac372bc"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/spruce_wood.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/stone.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/tropical_fish_bucket.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/warped_nylium.json"
+hash = "252c795666514c13fd910c5de1a4c1f60b777830085880e8e57722b110f2a328"
+
+[[files]]
 file = "config/openloader/data/modpack/data/bountiful/recipes/crafting/bountyboard.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
@@ -574,7 +874,7 @@ hash = "234cab1c90ecc94bf03ce9e59f10db3e06f2cdb88322554b80bf9768bf59673f"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/organic_compost.json"
-hash = "f3eee2cbebbe1b2fe3b79f3fe33038dd39a55943e44040b5d48f2aff4da9c405"
+hash = "0cfc4269b749a45a387ae53e7ee23a04d1202afaff8245a1e508d99236d51350"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/packed_mud.json"
@@ -1722,7 +2022,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/no-villager-idle-sounds.pw.toml"
-hash = "511179981ca924ffdde5686e0dbc817ba87aae448fc480bb7a339afeae2932f0"
+hash = "4199af072bbeaab85027af92fe27e43f766252be4392a0b57d604063c0b75544"
 metafile = true
 
 [[files]]

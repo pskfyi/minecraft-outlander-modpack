@@ -1,0 +1,7 @@
+{
+  "type": "botanypots:soil",
+  "input": { "item": "minecraft:mycelium" },
+  "display": { "block": "minecraft:mycelium" },
+  "categories": ["mycelium", "mushroom"],
+  "growthModifier": 1
+}
