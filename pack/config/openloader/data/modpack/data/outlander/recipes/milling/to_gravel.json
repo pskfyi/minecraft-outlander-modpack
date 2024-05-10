@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    [
+      { "item": "cobblestone" },
+      { "item": "cobbled_deepslate" },
+      { "item": "natprog:cobbled_andesite" },
+      { "item": "natprog:cobbled_diorite" },
+      { "item": "natprog:cobbled_tuff" },
+      { "item": "natprog:cobbled_dripstone_block" }
+    ]
+  ],
+  "results": [{ "item": "gravel" }]
+}

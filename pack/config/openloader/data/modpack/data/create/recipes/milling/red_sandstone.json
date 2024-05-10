@@ -1,0 +1,5 @@
+{
+  "type": "create:milling",
+  "ingredients": [{ "item": "red_sandstone" }],
+  "results": [{ "count": 1, "item": "natprog:cobbled_red_sandstone" }]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    [
+      { "item": "natprog:cobbled_granite" },
+      { "item": "terracotta" }
+    ]
+  ],
+  "results": [{ "count": 1, "item": "red_sand" }]
+}

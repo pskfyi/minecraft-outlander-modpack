@@ -1,0 +1,5 @@
+{
+  "type": "create:milling",
+  "ingredients": [{ "item": "andesite" }],
+  "results": [{ "count": 1, "item": "natprog:cobbled_andesite" }]
+}

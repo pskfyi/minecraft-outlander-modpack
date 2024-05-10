@@ -1,0 +1,5 @@
+{
+  "type": "create:milling",
+  "ingredients": [{ "item": "dripstone_block" }],
+  "results": [{ "count": 1, "item": "natprog:cobbled_dripstone_block" }]
+}

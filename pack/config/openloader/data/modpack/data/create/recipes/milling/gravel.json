@@ -1,0 +1,8 @@
+{
+  "type": "create:milling",
+  "ingredients": [{ "item": "gravel" }],
+  "results": [
+    { "count": 1, "item": "sand" },
+    { "count": 1, "item": "flint", "chance": 0.1 }
+  ]
+}

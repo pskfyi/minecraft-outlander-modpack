@@ -1,0 +1,5 @@
+{
+  "type": "create:milling",
+  "ingredients": [{ "item": "diorite" }],
+  "results": [{ "count": 1, "item": "natprog:cobbled_diorite" }]
+}
