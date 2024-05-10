@@ -39,6 +39,8 @@ const BLOCKS_THAT_REQUIRE_TOOLS = [
   "create:display_board",
 
   "createsifter:sifter",
+
+  /additional_lights:/
 ]
 
 BlockEvents.modification(event => {
