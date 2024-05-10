@@ -1,0 +1,20 @@
+{
+  "type": "createsifter:sifting",
+  "ingredients": [
+    { "item": "createsifter:string_mesh" },
+    { "item": "gravel" }
+  ],
+  "results": [
+    { "item": "natprog:stone_pebble", "chance": 1.0 },
+    { "item": "natprog:stone_pebble", "chance": 0.5 },
+    { "item": "gravel", "chance": 0.5 },
+    { "item": "natprog:tuff_pebble", "chance": 0.15 },
+    { "item": "natprog:deepslate_pebble", "chance": 0.25 },
+    { "item": "natprog:diorite_pebble", "chance": 0.25 },
+    { "item": "natprog:granite_pebble", "chance": 0.25 },
+    { "item": "flint", "chance": 0.1 },
+    { "item": "natprog:andesite_pebble", "chance": 0.1 },
+    { "item": "create:zinc_nugget", "chance": 0.05 }
+  ],
+  "processingTime": 500
+}
