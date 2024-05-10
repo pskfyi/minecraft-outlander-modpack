@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " C ",
+    " A ",
+    " C "
+  ],
+  "key": {
+    "C": { "item": "create:large_cogwheel" },
+    "A": { "item": "create:andesite_casing" }
+  },
+  "result": { "item": "create:water_wheel" }
+}
