@@ -4,6 +4,7 @@
     "add": "cd pack && ./packwiz curseforge add",
     "refresh": "cd pack && ./packwiz refresh",
     "dev": "cd pack && ./packwiz serve",
+    "install:datapack": "deno run --allow-read --allow-write scripts/pack/installDatapack.ts",
     "gen:recyclersdelight": "deno run --allow-write --allow-read scripts/recyclersdelight/refresh.ts",
     "gen": "deno task gen:recyclersdelight"
   }
