@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "z  ",
+    "P  ",
+    "C  "
+  ],
+  "key": {
+    "z": { "item": "create:zinc_nugget" },
+    "P": { "item": "paper" },
+    "C": { "item": "farmersdelight:cutting_board" }
+  },
+  "result": { "item": "create:clipboard" }
+}
