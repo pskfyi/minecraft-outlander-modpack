@@ -1,1 +1,9 @@
-{}
+{
+  "type": "natprog:damage_tools",
+  "ingredients": [
+    { "item": "stick" },
+    [{ "tag": "farmersdelight:tools/knives" }, { "item": "sewingkit:file" }]
+  ],
+  "result": { "item": "sewingkit:wood_sewing_needle" },
+  "group": "sewing"
+}

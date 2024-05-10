@@ -1,10 +1,11 @@
 {
   "type": "crafting_shaped",
   "pattern": [
-    "F ",
-    "| "
+    "SF",
+    " |"
   ],
   "key": {
+    "S": { "item": "string" },
     "F": { "item": "flint" },
     "|": { "item": "stick" }
   },
