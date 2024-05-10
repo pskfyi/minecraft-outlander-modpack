@@ -3,5 +3,5 @@
   "input": { "item": "dirt" },
   "display": { "block": "dirt" },
   "categories": ["dirt"],
-  "growthModifier": 0.5
+  "growthModifier": 0.1
 }

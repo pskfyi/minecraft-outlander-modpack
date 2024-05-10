@@ -3,5 +3,5 @@
   "input": { "item": "grass_block" },
   "display": { "block": "grass_block" },
   "categories": ["grass"],
-  "growthModifier": 1
+  "growthModifier": 0.2
 }

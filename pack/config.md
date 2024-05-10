@@ -6,6 +6,55 @@ Most of the items have been removed. This is in the pack primarily so that
 copper shovels, hoes, and picks can precede iron and serve as the first metal
 tools.
 
+## Botany Pots
+
+### Growth Speed
+
+The role of this mod within this pack is to provide early game tech that leads
+into automation. One of this pack's goals is that automation should be slow - it
+should be churning away while the player is off exploring or tending to other
+concerns. In the default configuration, most crops are harvestable every 1min or
+2mins, meaning that a single weat seed can be harvested 20 times per day.
+Compare to a vanilla plot of farmland with wheat, which is lucky to yield a
+harvest every day and a half. In addition to speed, the pots add predictability,
+convenience by being untramplable and self-replanting, and in the early midgame
+they become trivially automateable.
+
+For these reasons I have nerfed soils so that harvests are once per day by
+default. Some crops have special soils which will double this rate. Rich Soil
+from Farmers Delight quadruples the base rate, making it of central importance,
+it has been made more complex to craft to balance against this.
+
+### Soil Varieties
+
+The great number of soil varieties and lack of tag-based recipes led to several
+hundred JEI entries, making the recipe screen almost unusable and daunting. I
+have opted to remove almost all soils to declutter this. Most of them were
+functionally redundant and merely aesthetic, ex. being able to use any wood as a
+soil for any fungus, and each pairing taking up a separate recipe entry.
+
+Importantly, I have also removed the ability to till dirt in-pot and the ability
+for farmland to be used as potted soil. Partly this was about decluttering, but
+functionally only acted as a small idiot tax, penalizing players who did not
+realize that this could be done by depriving them of a 5% efficiency bonus.
+
+Now almost all crops support just 2 soils: vanilla Dirt, and Farmer's Delight
+Rich Soil.
+
+### Tiers
+
+Due to clutter in JEI's crafting catalyst view (the items in the box on the left
+side of a recipe screen) this mod outstayed its welcome almost immediately.
+Additionally it makes no sense. This has instead been replanced by tweaking Rich
+Soil from Farmer's Delight to act as the speed tier bottleneck.
+
+It's possible that unique, magical soils will be added to represent additional
+tiers.
+
+(Note: Significant investigation was done to hide JEI catalysts. It's not
+possible within REI. I made a request in the REI Discord and the author
+immediately responded positively, so it's possible this issue will be resolved.)
+
 ## Cold Sweat
 
 Added a Curios charm slot to hold the thermometer.

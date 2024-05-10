@@ -3,5 +3,5 @@
   "input": { "item": "mycelium" },
   "display": { "block": "mycelium" },
   "categories": ["mycelium", "mushroom"],
-  "growthModifier": 1
+  "growthModifier": 0.2
 }

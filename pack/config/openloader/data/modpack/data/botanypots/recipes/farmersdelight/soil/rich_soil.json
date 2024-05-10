@@ -6,5 +6,5 @@
   "input": { "item": "farmersdelight:rich_soil" },
   "display": { "block": "farmersdelight:rich_soil" },
   "categories": ["dirt", "grass", "podzol", "mushroom"],
-  "growthModifier": 2
+  "growthModifier": 0.4
 }

@@ -3,5 +3,5 @@
   "input": { "item": "mossy_cobblestone" },
   "display": { "block": "mossy_cobblestone" },
   "categories": ["stone", "moss", "mossy_cobblestone"],
-  "growthModifier": 0.5
+  "growthModifier": 0.1
 }

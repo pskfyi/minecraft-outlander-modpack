@@ -3,5 +3,5 @@
   "input": { "item": "warped_nylium" },
   "display": { "block": "warped_nylium" },
   "categories": ["warped_nylium"],
-  "growthModifier": 1
+  "growthModifier": 0.2
 }

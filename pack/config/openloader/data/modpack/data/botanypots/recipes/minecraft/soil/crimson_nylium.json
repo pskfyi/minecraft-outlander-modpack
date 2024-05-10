@@ -3,5 +3,5 @@
   "input": { "item": "crimson_nylium" },
   "display": { "block": "crimson_nylium" },
   "categories": ["crimson_nylium"],
-  "growthModifier": 1
+  "growthModifier": 0.2
 }
