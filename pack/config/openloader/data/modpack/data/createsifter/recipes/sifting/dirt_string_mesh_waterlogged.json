@@ -1,0 +1,18 @@
+{
+  "type": "createsifter:sifting",
+  "ingredients": [
+    { "item": "createsifter:string_mesh" },
+    [
+      { "item": "dirt" },
+      { "item": "grass_block" },
+      { "item": "podzol" },
+      { "item": "coarse_dirt" },
+      { "item": "rooted_dirt" }
+    ]
+  ],
+  "results": [
+    { "item": "mud" }
+  ],
+  "processingTime": 500,
+  "waterlogged": true
+}

@@ -2,7 +2,13 @@
   "type": "createsifter:sifting",
   "ingredients": [
     { "item": "createsifter:string_mesh" },
-    { "item": "dirt" }
+    [
+      { "item": "dirt" },
+      { "item": "grass_block" },
+      { "item": "podzol" },
+      { "item": "coarse_dirt" },
+      { "item": "rooted_dirt" }
+    ]
   ],
   "results": [
     { "item": "natprog:stone_pebble", "chance": 0.5 },
