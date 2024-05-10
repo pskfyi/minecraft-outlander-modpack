@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "PPP",
+    " C ",
+    "PPP"
+  ],
+  "key": {
+    "C": { "item": "create:cogwheel" },
+    "P": { "tag": "planks" }
+  },
+  "result": { "item": "create:large_cogwheel" }
+}
