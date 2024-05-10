@@ -147,6 +147,20 @@ intends to treat as removed.
 - All foods count, no matter how trivial to craft. (May be reconfigured only to
   count foods that restore 2-3+ pips.)
 
+## Storage Drawers
+
+### Upgrades
+
+Upgrades are removed. This pack isn't super heavy on lategame automation and
+isn't in urgent need of a robust storage management solution. I feel these
+upgrade systems are clumsy and confusing, not fitting with the rest of the game,
+and would prefer to remove them if they aren't necessary.
+
+### Recipe Cost
+
+With a Sawmill, each drawer or trim can be fashioned from a single log. No
+microcrafting required.
+
 ## Supplementaries
 
 - This version of the mod has a splash screen to warn about some items which

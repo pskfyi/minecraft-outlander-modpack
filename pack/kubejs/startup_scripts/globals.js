@@ -68,6 +68,22 @@ global.items = {
     "quark:limestone_bricks_stairs",
     "quark:limestone_bricks_vertical_slab",
     "quark:limestone_bricks_wall",
+
+    "storagedrawers:upgrade_template",
+    "storagedrawers:illumination_upgrade",
+    "storagedrawers:fill_level_upgrade",
+    "storagedrawers:void_upgrade",
+    "storagedrawers:max_redstone_upgrade",
+    "storagedrawers:min_redstone_upgrade",
+    "storagedrawers:redstone_upgrade",
+    "storagedrawers:creative_vending_upgrade",
+    "storagedrawers:creative_storage_upgrade",
+    "storagedrawers:one_stack_upgrade",
+    "storagedrawers:emerald_storage_upgrade",
+    "storagedrawers:diamond_storage_upgrade",
+    "storagedrawers:obsidian_storage_upgrade",
+    "storagedrawers:iron_storage_upgrade",
+    "storagedrawers:gold_storage_upgrade",
   ],
   planks: {
     minecraft: [
