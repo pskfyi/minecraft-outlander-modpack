@@ -1,5 +1,17 @@
 const BLOCKS_THAT_REQUIRE_TOOLS = [
-  "minecraft:furnace",
+  "cobblestone",
+  "cobbled_deepslate",
+  "furnace",
+  
+  "natprog:cobbled_andesite",
+  "natprog:cobbled_diorite",
+  "natprog:cobbled_granite",
+  "natprog:cobbled_sanstone",
+  "natprog:cobbled_red_sandstone",
+  "natprog:cobbled_tuff",
+  "natprog:cobbled_dripstone_block",
+  "natprog:cobbled_nettherack",
+  "natprog:cobbled_end_stone",
   
   "create:cogwheel",
   "create:large_cogwheel",
