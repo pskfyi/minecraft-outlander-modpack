@@ -1,7 +1,7 @@
 {
   "type": "natprog:damage_tools",
   "ingredients": [
-    { "item": "minecraft:stick" },
+    { "item": "stick" },
     [
       { "tag": "farmersdelight:tools/knives" },
       { "item": "sewingkit:file" }

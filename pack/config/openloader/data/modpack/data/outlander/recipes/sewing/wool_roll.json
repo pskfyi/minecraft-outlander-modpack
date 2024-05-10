@@ -3,7 +3,7 @@
   "materials": [
     {
       "count": 1,
-      "ingredient": { "tag": "minecraft:wool" }
+      "ingredient": { "tag": "wool" }
     }
   ],
   "result": {

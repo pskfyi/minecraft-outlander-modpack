@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting_shaped",
   "pattern": [
     "  S",
     " P ",
@@ -7,9 +7,7 @@
   ],
   "key": {
     "S": { "item": "create:shaft" },
-    "P": { "tag": "minecraft:planks" }
+    "P": { "tag": "planks" }
   },
-  "result": {
-    "item": "create:hand_crank"
-  }
+  "result": { "item": "create:hand_crank" }
 }

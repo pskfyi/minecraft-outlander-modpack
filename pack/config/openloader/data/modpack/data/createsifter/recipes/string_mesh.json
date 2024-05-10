@@ -1,8 +1,8 @@
 {
   "type": "sewingkit:sewing",
   "materials": [
-    { "count": 8, "ingredient": { "item": "minecraft:string" } },
-    { "count": 4, "ingredient": { "item": "minecraft:stick" } }
+    { "count": 8, "ingredient": { "item": "string" } },
+    { "count": 4, "ingredient": { "item": "stick" } }
   ],
   "result": { "item": "createsifter:string_mesh" },
   "tool": {

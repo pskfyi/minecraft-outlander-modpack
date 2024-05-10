@@ -1,6 +1,6 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [{ "item": "minecraft:cobblestone" }],
+  "type": "crafting_shapeless",
+  "ingredients": [{ "item": "cobblestone" }],
   "result": {
     "item": "natprog:stone_pebble",
     "count": 4

@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting_shapeless",
   "ingredients": [
-    { "item": "minecraft:dirt" },
-    { "item": "minecraft:rotten_flesh" },
-    { "item": "minecraft:bone_meal" },
+    { "item": "dirt" },
+    { "item": "rotten_flesh" },
+    { "item": "bone_meal" },
     { "item": "farmersdelight:straw" },
     { "item": "farmersdelight:tree_bark" },
     { "item": "vintagedelight:organic_mash" },

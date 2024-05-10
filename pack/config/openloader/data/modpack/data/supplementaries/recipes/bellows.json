@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting_shaped",
   "pattern": [
     "SSS",
     "L L",
@@ -7,7 +7,7 @@
   ],
   "key": {
     "L": { "item": "sewingkit:leather_sheet" },
-    "S": { "tag": "minecraft:wooden_slabs" }
+    "S": { "tag": "wooden_slabs" }
   },
   "result": { "item": "supplementaries:bellows", "count": 1 }
 }

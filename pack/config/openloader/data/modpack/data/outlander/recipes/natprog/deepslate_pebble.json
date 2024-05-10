@@ -1,6 +1,6 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [{ "item": "minecraft:cobbled_deepslate" }],
+  "type": "crafting_shapeless",
+  "ingredients": [{ "item": "cobbled_deepslate" }],
   "result": {
     "item": "natprog:deepslate_pebble",
     "count": 4

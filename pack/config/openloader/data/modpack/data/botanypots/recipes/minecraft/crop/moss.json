@@ -1,8 +1,8 @@
 {
   "type": "botanypots:crop",
-  "seed": { "item": "minecraft:moss_block" },
+  "seed": { "item": "moss_block" },
   "categories": ["mossy_cobblestone"],
   "growthTicks": 1200,
-  "display": { "block": "minecraft:moss_block" },
+  "display": { "block": "moss_block" },
   "drops": [{ "chance": 1.00, "output": { "item": "quark:moss_paste" } }]
 }

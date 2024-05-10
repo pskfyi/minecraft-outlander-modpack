@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting_shaped",
   "pattern": [
     " F",
     "| "
   ],
   "key": {
-    "F": { "item": "minecraft:flint" },
-    "|": { "item": "minecraft:stick" }
+    "F": { "item": "flint" },
+    "|": { "item": "stick" }
   },
   "result": { "item": "farmersdelight:flint_knife", "count": 1 }
 }

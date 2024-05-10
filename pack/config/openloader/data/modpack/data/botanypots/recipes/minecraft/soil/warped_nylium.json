@@ -1,7 +1,7 @@
 {
   "type": "botanypots:soil",
-  "input": { "item": "minecraft:warped_nylium" },
-  "display": { "block": "minecraft:warped_nylium" },
+  "input": { "item": "warped_nylium" },
+  "display": { "block": "warped_nylium" },
   "categories": ["warped_nylium"],
   "growthModifier": 1
 }

@@ -3,7 +3,7 @@
   "materials": [
     {
       "count": 4,
-      "ingredient": { "item": "minecraft:string" }
+      "ingredient": { "item": "string" }
     }
   ],
   "result": {

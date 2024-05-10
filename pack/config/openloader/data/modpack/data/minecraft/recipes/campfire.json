@@ -1,14 +1,14 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting_shaped",
   "pattern": [
     " s ",
     "sSs",
     "LLL"
   ],
   "key": {
-    "s": { "item": "minecraft:stick" },
+    "s": { "item": "stick" },
     "S": { "item": "farmersdelight:straw" },
-    "L": { "tag": "minecraft:logs" }
+    "L": { "tag": "logs" }
   },
-  "result": { "item": "minecraft:campfire", "count": 1 }
+  "result": { "item": "campfire", "count": 1 }
 }

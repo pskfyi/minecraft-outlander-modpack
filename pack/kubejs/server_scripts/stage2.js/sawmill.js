@@ -9,8 +9,8 @@ function tag(wood, variant) {
   return variant === "quark"
     ? `#quark:${wood}_logs`
     : variant === "fungi"
-    ? `#minecraft:${wood}_stems`
-    : `#minecraft:${wood}_logs`
+    ? `#${wood}_stems`
+    : `#${wood}_logs`
 }
 
 function registerCabinetRecipe(event, wood, variant) {
@@ -89,8 +89,8 @@ ServerEvents.recipes((event) => {
       if (mod === "minecraft") {
         // remove builtin natprog stripping recipes,
         // which are erroneously under the minecraft namespace
-        event.remove({ id: `minecraft:saw/${wood}_wood_to_stripped_${wood}_wood` })
-        event.remove({ id: `minecraft:saw/${wood}_log_to_stripped_${wood}_log` })
+        event.remove({ id: `saw/${wood}_wood_to_stripped_${wood}_wood` })
+        event.remove({ id: `saw/${wood}_log_to_stripped_${wood}_log` })
       }
         
       event.custom(stripAndDropBarkRecipe(log, strippedLog))

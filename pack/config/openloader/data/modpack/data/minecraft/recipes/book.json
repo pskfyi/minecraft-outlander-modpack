@@ -3,11 +3,11 @@
   "materials": [
     {
       "count": 5,
-      "ingredient": { "item": "minecraft:paper" }
+      "ingredient": { "item": "paper" }
     },
     {
       "count": 1,
-      "ingredient": { "item": "minecraft:string" }
+      "ingredient": { "item": "string" }
     },
     {
       "count": 1,
@@ -15,7 +15,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:book"
+    "item": "book"
   },
   "tool": {
     "type": "sewingkit:tool_ingredient",

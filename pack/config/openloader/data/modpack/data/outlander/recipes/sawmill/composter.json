@@ -1,6 +1,6 @@
 {
   "type": "sawmill:woodcutting",
-  "ingredient": { "tag": "minecraft:logs" },
-  "result": "minecraft:composter",
+  "ingredient": { "tag": "logs" },
+  "result": "composter",
   "count": 1
 }

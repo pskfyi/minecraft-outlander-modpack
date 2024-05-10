@@ -19,14 +19,14 @@ export declare namespace Minecraft {
   export type ItemStack = { item: string; count?: number };
 
   export type ShapedRecipe = {
-    type: "minecraft:crafting_shaped";
+    type: "crafting_shaped" | "minecraft:crafting_shaped";
     pattern: [string, string, string] | [string, string];
     key: Record<string, Ingredient>;
     result: ItemStack;
   };
 
   export type ShapelessRecipe = {
-    type: "minecraft:crafting_shapeless";
+    type: "crafting_shapeless" | "minecraft:crafting_shapeless";
     ingredients: { item: string; data?: number }[];
     result: string;
   };

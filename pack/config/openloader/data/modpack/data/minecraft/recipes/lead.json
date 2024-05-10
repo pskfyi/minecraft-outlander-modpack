@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting_shaped",
   "pattern": [
     "RR ",
     "RR ",
@@ -8,5 +8,5 @@
   "key": {
     "R": { "item": "supplementaries:rope" }
   },
-  "result": { "item": "minecraft:lead", "count": 1 }
+  "result": { "item": "lead", "count": 1 }
 }

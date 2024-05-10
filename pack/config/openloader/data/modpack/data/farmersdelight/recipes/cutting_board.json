@@ -1,7 +1,7 @@
 {
   "type": "natprog:damage_tools",
   "ingredients": [
-    { "tag": "minecraft:wooden_slabs" },
+    { "tag": "wooden_slabs" },
     { "tag": "natprog:saw" }
   ],
   "result": {

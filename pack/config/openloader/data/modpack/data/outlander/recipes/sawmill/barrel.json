@@ -1,6 +1,6 @@
 {
   "type": "sawmill:woodcutting",
-  "ingredient": { "tag": "minecraft:logs" },
-  "result": "minecraft:barrel",
+  "ingredient": { "tag": "logs" },
+  "result": "barrel",
   "count": 1
 }

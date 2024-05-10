@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting_shapeless",
   "ingredients": [{ "item": "natprog:cobbled_andesite" }],
   "result": {
     "item": "natprog:andesite_pebble",

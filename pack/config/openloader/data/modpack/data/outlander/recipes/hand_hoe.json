@@ -1,13 +1,13 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting_shaped",
   "pattern": [
     "FS",
     " |"
   ],
   "key": {
-    "F": { "item": "minecraft:flint" },
-    "S": { "item": "minecraft:string" },
-    "|": { "item": "minecraft:stick" }
+    "F": { "item": "flint" },
+    "S": { "item": "string" },
+    "|": { "item": "stick" }
   },
   "result": { "item": "all_the_flint_tools:flinthoe", "count": 1 }
 }

@@ -2,7 +2,7 @@
   "type": "sewingkit:sewing",
   "materials": [
     { "count": 1, "ingredient": { "item": "farmersdelight:canvas" } },
-    { "count": 1, "ingredient": { "item": "minecraft:string" } }
+    { "count": 1, "ingredient": { "item": "string" } }
   ],
   "result": { "item": "quark:seed_pouch" },
   "tool": {

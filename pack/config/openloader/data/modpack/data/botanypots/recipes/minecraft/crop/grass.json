@@ -1,8 +1,8 @@
 {
   "type": "botanypots:crop",
-  "seed": { "item": "minecraft:grass" },
+  "seed": { "item": "grass" },
   "categories": ["grass"],
   "growthTicks": 1200,
-  "display": { "block": "minecraft:grass" },
-  "drops": [{ "chance": 1.00, "output": { "item": "minecraft:grass" } }]
+  "display": { "block": "grass" },
+  "drops": [{ "chance": 1.00, "output": { "item": "grass" } }]
 }

@@ -1,13 +1,13 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting_shaped",
   "pattern": [
     "  S",
     " / ",
     "/  "
   ],
   "key": {
-    "/": { "item": "minecraft:stick" },
-    "S": { "item": "minecraft:stone" }
+    "/": { "item": "stick" },
+    "S": { "item": "stone" }
   },
   "result": { "item": "constructionwand:stone_wand", "count": 1 }
 }

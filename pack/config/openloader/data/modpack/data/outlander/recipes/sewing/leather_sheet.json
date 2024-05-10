@@ -3,7 +3,7 @@
   "materials": [
     {
       "count": 1,
-      "ingredient": { "item": "minecraft:leather" }
+      "ingredient": { "item": "leather" }
     }
   ],
   "result": {

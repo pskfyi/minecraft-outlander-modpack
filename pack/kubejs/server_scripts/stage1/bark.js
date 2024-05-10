@@ -46,7 +46,7 @@ function stripInCraftingGridRecipe(input, output) {
 }
 
 const MISSING_NATPROG_AXES = [
-  "minecraft:golden_axe",
+  "golden_axe",
   "bettercopper:copper_axe",
   "aquaculture:neptunium_axe"
 ]
@@ -90,8 +90,8 @@ ServerEvents.recipes((event) => {
       if (mod === "minecraft") {
         // remove builtin natprog stripping recipes,
         // which are erroneously under the minecraft namespace
-        event.remove({ id: `minecraft:saw/${wood}_wood_to_stripped_${wood}_wood` })
-        event.remove({ id: `minecraft:saw/${wood}_log_to_stripped_${wood}_log` })
+        event.remove({ id: `saw/${wood}_wood_to_stripped_${wood}_wood` })
+        event.remove({ id: `saw/${wood}_log_to_stripped_${wood}_log` })
       }
         
       event.custom(stripAndDropBarkRecipe(log, strippedLog))

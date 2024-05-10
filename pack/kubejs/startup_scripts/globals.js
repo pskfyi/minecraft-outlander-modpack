@@ -3,16 +3,16 @@
 // https://kubejs.com/wiki/global-scope
 global.items = {
   remove: [
-    "minecraft:wooden_sword",
-    "minecraft:wooden_shovel",
-    "minecraft:wooden_pickaxe",
-    "minecraft:wooden_axe",
-    "minecraft:wooden_hoe",
-    "minecraft:stone_sword",
-    "minecraft:stone_shovel",
-    "minecraft:stone_pickaxe",
-    "minecraft:stone_axe",
-    "minecraft:stone_hoe",
+    "wooden_sword",
+    "wooden_shovel",
+    "wooden_pickaxe",
+    "wooden_axe",
+    "wooden_hoe",
+    "stone_sword",
+    "stone_shovel",
+    "stone_pickaxe",
+    "stone_axe",
+    "stone_hoe",
 
     "all_the_flint_tools:flintshears",
     "all_the_flint_tools:flintaxe",

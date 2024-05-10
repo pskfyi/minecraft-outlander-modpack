@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting_shapeless",
   "ingredients": [{ "item": "natprog:cobbled_end_stone" }],
   "result": {
     "item": "natprog:end_stone_pebble",

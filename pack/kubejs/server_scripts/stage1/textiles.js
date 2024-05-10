@@ -40,20 +40,20 @@ function shearsRecipe(inputs, output, outputCount) {
 }
 
 ServerEvents.recipes((event) => {
-  const stick = "minecraft:stick"
-  const string = "minecraft:string"
+  const stick = "stick"
+  const string = "string"
 
   event.remove({ id: "paraglider:cosmetic/paraglider" })
 
   global.colors.map((color) => {
-    event.remove({ id: `minecraft:${color}_carpet` });
-    event.remove({ id: `minecraft:${color}_banner` });
+    event.remove({ id: `${color}_carpet` });
+    event.remove({ id: `${color}_banner` });
     event.remove({ id: `supplementaries:flags/flag_${color}` });
 
-    const wool = `minecraft:${color}_wool`
-    const carpet = `minecraft:${color}_carpet`
+    const wool = `${color}_wool`
+    const carpet = `${color}_carpet`
     const flag = `supplementaries:flag_${color}`
-    const banner = `minecraft:${color}_banner`
+    const banner = `${color}_banner`
 
     event.custom(shearsRecipe([[wool, 1]], carpet, 4))
       .id(`outlander:${color}_carpet`);
