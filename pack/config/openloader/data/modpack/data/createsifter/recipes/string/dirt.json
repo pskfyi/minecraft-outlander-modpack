@@ -1,0 +1,18 @@
+{
+  "type": "createsifter:sifting",
+  "ingredients": [
+    { "item": "createsifter:string_mesh" },
+    { "item": "dirt" }
+  ],
+  "results": [
+    { "item": "natprog:stone_pebble", "chance": 0.5 },
+    { "item": "dirt", "chance": 0.5 },
+    { "item": "farmersdelight:straw", "chance": 0.1 },
+    { "item": "farmersdelight:tree_bark", "chance": 0.1 },
+    { "item": "stick", "chance": 0.1 },
+    { "item": "wheat_seeds", "chance": 0.1 },
+    { "item": "quark:dirty_shard", "chance": 0.1 },
+    { "item": "aquaculture:worm", "chance": 0.1 }
+  ],
+  "processingTime": 500
+}

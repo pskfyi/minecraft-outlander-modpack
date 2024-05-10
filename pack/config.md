@@ -1,5 +1,16 @@
 # Notes on Mod Configurations
 
+## Aquaculture 2
+
+### Worm Farm
+
+The worm farm is extremely efficient and not configurable, turning a handfull of
+seeds into almost as many worms. Since I want worms to be an ingredient in
+Organic Compost, which I want to become very important, I don't want worms to be
+too easy to obtain. The worm farm's recipe has been reworked to now cost worms
+itself, which explains its efficiency. The initial worms can be obtained as
+uncommon drops from sifting dirt.
+
 ## Better Copper
 
 Most of the items have been removed. This is in the pack primarily so that

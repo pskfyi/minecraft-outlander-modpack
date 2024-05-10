@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WDW",
+    "WCW"
+  ],
+  "key": {
+    "W": { "item": "aquaculture:worm" },
+    "D": { "item": "dirt" },
+    "C": { "item": "composter" }
+  },
+  "result": {
+    "item": "aquaculture:worm_farm"
+  }
+}
