@@ -1,5 +1,6 @@
 {
   "type": "create:milling",
   "ingredients": [{ "item": "diorite" }],
+  "processingTime": 250,
   "results": [{ "count": 1, "item": "natprog:cobbled_diorite" }]
 }

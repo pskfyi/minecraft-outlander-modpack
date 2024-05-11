@@ -6,5 +6,6 @@
       { "item": "terracotta" }
     ]
   ],
+  "processingTime": 250,
   "results": [{ "count": 1, "item": "red_sand" }]
 }

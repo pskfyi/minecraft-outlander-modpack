@@ -1,5 +1,6 @@
 {
   "type": "create:milling",
   "ingredients": [{ "tag": "coals" }],
+  "processingTime": 250,
   "results": [{ "count": 1, "item": "supplementaries:ash" }]
 }

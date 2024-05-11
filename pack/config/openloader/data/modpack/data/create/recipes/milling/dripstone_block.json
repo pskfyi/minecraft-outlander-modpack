@@ -1,5 +1,9 @@
 {
   "type": "create:milling",
   "ingredients": [{ "item": "dripstone_block" }],
-  "results": [{ "count": 1, "item": "natprog:cobbled_dripstone_block" }]
+  "processingTime": 250,
+  "results": [
+    { "count": 3, "item": "natprog:dripstone_block_pebble" },
+    { "count": 1, "item": "pointed_dripstone", "chance": 0.5 }
+  ]
 }

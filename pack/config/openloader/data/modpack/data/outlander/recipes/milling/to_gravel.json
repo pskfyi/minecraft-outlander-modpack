@@ -10,5 +10,6 @@
       { "item": "natprog:cobbled_dripstone_block" }
     ]
   ],
+  "processingTime": 250,
   "results": [{ "item": "gravel" }]
 }
