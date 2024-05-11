@@ -17,6 +17,7 @@ const BLOCKS_THAT_REQUIRE_TOOLS = [
   "create:andesite_encased_cogwheel",
   "create:andesite_encased_shaft",
   "create:andesite_funnel",
+  "create:andesite_belt_funnel", // not placeable
   "create:blaze_burner",
   "create:brass_casing",
   "create:brass_encased_shaft",
