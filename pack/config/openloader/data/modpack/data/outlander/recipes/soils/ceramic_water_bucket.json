@@ -7,5 +7,5 @@
   },
   "display": { "block": "water", "renderFluid": true },
   "categories": ["water"],
-  "growthModifier": 1
+  "growthModifier": 0.2
 }
