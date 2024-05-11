@@ -578,7 +578,7 @@ hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "config/openloader/data/modpack/data/createsifter/recipes/sifting/sand_string_mesh.json"
-hash = "476f724dde8fa5dca029b386bf5f99dab95c6d38a74e5732a4a4639084e43766"
+hash = "3e2e9b787b5353e8e579ec2bd0aa37cca7c85f76ee86d1a71aca337a43415c93"
 
 [[files]]
 file = "config/openloader/data/modpack/data/createsifter/recipes/sifting/sand_zinc_mesh.json"
@@ -1754,7 +1754,7 @@ hash = "e949e6e337b89623087d26c3eaa302c51b6199dd396118086f7794e9940af4ab"
 
 [[files]]
 file = "kubejs/startup_scripts/dontRequireTool.js"
-hash = "a7e43bcda9e5b249fdda305b12409bc39a74d007518fe129d6018418004de196"
+hash = "51f8423cd22c8303d571b8dcc5386197fd55614f160b5cf9f90f0e7299b7f88f"
 
 [[files]]
 file = "kubejs/startup_scripts/flint.js"
@@ -1935,11 +1935,6 @@ metafile = true
 [[files]]
 file = "mods/create-sifting.pw.toml"
 hash = "793b80b878f62dee992ee6874e8890ef398a45aa0e1fce19c93cec7e3fb4ff69"
-metafile = true
-
-[[files]]
-file = "mods/create-vintage-improvements.pw.toml"
-hash = "2c870570ac548650824d855b920aecff1ee25f68fbe2893279af846522c9695f"
 metafile = true
 
 [[files]]
