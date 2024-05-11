@@ -3,7 +3,7 @@
   "input": {
     "type": "forge:partial_nbt",
     "item": "ceramicbucket:ceramic_bucket",
-    "nbt": { "Fluid": { "FluidName": "water", "Amount": 1000 } }
+    "nbt": { "Fluid": { "FluidName": "minecraft:water", "Amount": 1000 } }
   },
   "display": { "block": "water", "renderFluid": true },
   "categories": ["water"],
