@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "C|C",
+    "D D",
+    "DDD"
+  ],
+  "key": {
+    "C": { "item": "copper_ingot" },
+    "|": { "item": "stick" },
+    "D": { "item": "outlander:deepslate_alloy" }
+  },
+  "result": { "item": "farmersdelight:cooking_pot" }
+}

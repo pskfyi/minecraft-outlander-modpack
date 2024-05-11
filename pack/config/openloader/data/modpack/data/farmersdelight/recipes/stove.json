@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "DDD",
+    "B B",
+    "BFB"
+  ],
+  "key": {
+    "D": { "item": "outlander:deepslate_alloy" },
+    "B": { "item": "bricks" },
+    "F": { "item": "campfire" }
+  },
+  "result": { "item": "farmersdelight:stove" }
+}

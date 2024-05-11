@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " d ",
+    "d d",
+    " D "
+  ],
+  "key": {
+    "d": { "item": "natprog:deepslate_pebble" },
+    "D": { "item": "outlander:deepslate_alloy" }
+  },
+  "result": { "item": "create:metal_bracket", "count": 4 }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " DD",
+    " DD",
+    "C  "
+  ],
+  "key": {
+    "D": { "item": "outlander:deepslate_alloy" },
+    "C": { "item": "copper_ingot" }
+  },
+  "result": { "item": "farmersdelight:skillet" }
+}

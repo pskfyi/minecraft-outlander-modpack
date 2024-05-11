@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "Dz",
+    "zD"
+  ],
+  "key": {
+    "D": { "item": "deepslate" },
+    "z": { "item": "create:zinc_nugget" }
+  },
+  "result": { "item": "outlander:deepslate_alloy" }
+}

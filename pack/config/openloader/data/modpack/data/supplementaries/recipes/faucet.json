@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "g  ",
+    "|  ",
+    "D  "
+  ],
+  "key": {
+    "g": { "item": "natprog:granite_pebble" },
+    "|": { "item": "create:shaft" },
+    "D": { "item": "outlander:deepslate_alloy" }
+  },
+  "result": { "item": "supplementaries:faucet" }
+}

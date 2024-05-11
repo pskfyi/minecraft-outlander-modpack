@@ -1,0 +1,23 @@
+{
+  "values": [
+    "vintagedelight:cheese_mold",
+    "supplementaries:faucet",
+    "supplementaries:cage",
+    "rechiseled:chisel",
+    "smithing_table",
+    "hopper",
+    "chain",
+    "cauldron",
+    "blast_furnace",
+    "anvil",
+    "farmersdelight:stove",
+    "farmersdelight:skillet",
+    "farmersdelight:cooking_pot",
+    "create:metal_bracket",
+    "create:depot",
+    "create:chute",
+    "create:basin",
+    "create:mechanical_press",
+    "create:encased_chain_drive"
+  ]
+}

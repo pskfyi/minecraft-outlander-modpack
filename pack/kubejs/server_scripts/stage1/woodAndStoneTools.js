@@ -2,7 +2,6 @@
 
 // Array<Filter, From, To>
 const INPUT_REPLACEMENTS = [
-  [{ id: "farmersdelight:cooking_pot" }, "wooden_shovel", "stick"],
   [{ id: "tinyredstone:trimming_panel_cover" }, "wooden_axe", "flint"],
   [{ id: "tinyredstone:block_chopper" }, "wooden_axe", "flint"],
 ]

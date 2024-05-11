@@ -17,7 +17,6 @@ const BLOCKS_THAT_REQUIRE_TOOLS = [
   "create:andesite_encased_cogwheel",
   "create:andesite_encased_shaft",
   "create:andesite_funnel",
-  "create:basin",
   "create:blaze_burner",
   "create:brass_casing",
   "create:brass_encased_shaft",
@@ -27,9 +26,7 @@ const BLOCKS_THAT_REQUIRE_TOOLS = [
   "create:copper_casing",
   "create:cogwheel",
   "create:crushing_wheel",
-  "create:depot",
   "create:display_board",
-  "create:encased_chain_drive",
   "create:gearbox",
   "create:large_cogwheel",
   "create:mechanical_bearing",
@@ -46,9 +43,43 @@ const BLOCKS_THAT_REQUIRE_TOOLS = [
   "create:smart_chute",
   "create:vertical_gearbox",
   "create:weighted_ejector",
-
+  
   "createsifter:sifter",
   "sliceanddice:slicer",
+  
+  // "#outlander:made_of/deepslate_alloy", // doesn't support tags at this time
+  // snippet to get ids in a tag:
+  //
+  //   const ids = Ingredient.of('#outlander:made_of/deepslate_alloy').itemIds
+  //  
+  //   // Some events fire multiple times, and some of those times the result
+  //   // will be empty.
+  //   if (ids.length) {
+  //     JsonIO.write(
+  //       'kubejs/config/my_file_name.json',
+  //       { values: ids }
+  //     )
+  //   }
+
+  "vintagedelight:cheese_mold",
+  "supplementaries:faucet",
+  "supplementaries:cage",
+  "rechiseled:chisel",
+  "minecraft:smithing_table",
+  "minecraft:hopper",
+  "minecraft:chain",
+  "minecraft:cauldron",
+  "minecraft:blast_furnace",
+  "minecraft:anvil",
+  "farmersdelight:stove",
+  "farmersdelight:skillet",
+  "farmersdelight:cooking_pot",
+  "create:metal_bracket",
+  "create:depot",
+  "create:chute",
+  "create:basin",
+  "create:mechanical_press",
+  "create:encased_chain_drive",
 
   /additional_lights:/
 ]

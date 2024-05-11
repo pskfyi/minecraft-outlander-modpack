@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "DD",
+    "PP",
+    "PP"
+  ],
+  "key": {
+    "D": { "item": "outlander:deepslate_alloy" },
+    "P": { "tag": "planks" }
+  },
+  "result": { "item": "smithing_table", "count": 1 }
+}

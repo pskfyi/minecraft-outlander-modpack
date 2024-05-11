@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DFD",
+    "SSS"
+  ],
+  "key": {
+    "D": { "item": "outlander:deepslate_alloy" },
+    "F": { "item": "furnace" },
+    "S": { "item": "smooth_stone" }
+  },
+  "result": { "item": "blast_furnace" }
+}

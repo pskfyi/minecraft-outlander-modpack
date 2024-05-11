@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "DDD",
+    " D ",
+    "DDD"
+  ],
+  "key": {
+    "D": { "item": "outlander:deepslate_alloy" }
+  },
+  "result": { "item": "anvil" }
+}

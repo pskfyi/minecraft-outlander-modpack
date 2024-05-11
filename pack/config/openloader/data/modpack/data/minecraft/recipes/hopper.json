@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "D D",
+    "D D",
+    " D "
+  ],
+  "key": {
+    "D": { "item": "outlander:deepslate_alloy" }
+  },
+  "result": { "item": "hopper" }
+}

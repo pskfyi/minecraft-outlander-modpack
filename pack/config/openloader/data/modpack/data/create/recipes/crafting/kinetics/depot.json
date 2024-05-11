@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "D ",
+    "A "
+  ],
+  "key": {
+    "D": { "item": "outlander:deepslate_alloy" },
+    "A": { "item": "create:andesite_casing" }
+  },
+  "result": { "item": "create:depot" }
+}

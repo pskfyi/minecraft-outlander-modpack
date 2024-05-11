@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "  D",
+    " D ",
+    "C  "
+  ],
+  "key": {
+    "C": { "item": "copper_ingot" },
+    "D": { "item": "outlander:deepslate_alloy" }
+  },
+  "result": { "item": "rechiseled:chisel" }
+}

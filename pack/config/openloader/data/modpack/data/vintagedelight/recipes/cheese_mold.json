@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "DD",
+    "  "
+  ],
+  "key": {
+    "D": { "item": "outlander:deepslate_alloy" }
+  },
+  "result": { "item": "vintagedelight:cheese_mold" }
+}

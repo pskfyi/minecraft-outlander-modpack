@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " D ",
+    "D D",
+    " C "
+  ],
+  "key": {
+    "D": { "item": "outlander:deepslate_alloy" },
+    "C": { "item": "farmersdelight:cutting_board" }
+  },
+  "result": { "item": "supplementaries:cage" }
+}
