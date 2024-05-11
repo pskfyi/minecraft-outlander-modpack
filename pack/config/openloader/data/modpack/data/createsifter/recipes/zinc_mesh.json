@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "zzz",
+    "zMz",
+    "zzz"
+  ],
+  "key": {
+    "z": { "item": "create:zinc_nugget" },
+    "M": { "item": "createsifter:string_mesh" }
+  },
+  "result": { "item": "createsifter:zinc_mesh" }
+}
