@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:grass"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "chance": 0.25,
+      "item": "minecraft:wheat_seeds"
+    },
+    {
+      "item": "farmersdelight:straw",
+      "chance": 0.25
+    }
+  ]
+}
