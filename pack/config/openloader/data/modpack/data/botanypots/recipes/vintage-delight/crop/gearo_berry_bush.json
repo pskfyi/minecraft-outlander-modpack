@@ -1,0 +1,37 @@
+{
+  "conditions": [{ "type": "forge:mod_loaded", "modid": "botanypots" }],
+  "type": "botanypots:crop",
+  "seed": { "item": "vintagedelight:gearo_berry" },
+  "categories": ["dirt"],
+  "growthTicks": 1200,
+  "lightLevel": 14,
+  "display": {
+    "type": "botanypots:transitional",
+    "phases": [
+      {
+        "block": "vintagedelight:gearo_berry_bush",
+        "properties": { "age": 0 }
+      },
+      {
+        "block": "vintagedelight:gearo_berry_bush",
+        "properties": { "age": 1 }
+      },
+      {
+        "block": "vintagedelight:gearo_berry_bush",
+        "properties": { "age": 2 }
+      },
+      {
+        "block": "vintagedelight:gearo_berry_bush",
+        "properties": { "age": 3 }
+      },
+      {
+        "block": "vintagedelight:gearo_berry_bush",
+        "properties": { "age": 4 }
+      }
+    ]
+  },
+  "drops": [
+    { "chance": 1.00, "output": { "item": "vintagedelight:gearo_berry" } },
+    { "chance": 0.05, "output": { "item": "vintagedelight:gearo_berry" } }
+  ]
+}
