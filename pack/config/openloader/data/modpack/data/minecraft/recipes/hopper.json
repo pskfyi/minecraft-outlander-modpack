@@ -1,11 +1,16 @@
 {
   "type": "crafting_shaped",
   "pattern": [
-    "D D",
-    "D D",
-    " D "
+    "C  ",
+    "H  ",
+    "D  "
   ],
   "key": {
+    "C": { "item": "create:chute" },
+    "H": [
+      { "tag": "forge:chests" },
+      { "tag": "forge:barrels" }
+    ],
     "D": { "item": "outlander:deepslate_alloy" }
   },
   "result": { "item": "hopper" }
