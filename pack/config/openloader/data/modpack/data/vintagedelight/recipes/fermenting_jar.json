@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " _ ",
+    "GWG",
+    "GGG"
+  ],
+  "key": {
+    "_": { "tag": "wooden_slabs" },
+    "G": { "tag": "forge:glass_panes/colorless" },
+    "W": [
+      { "item": "minecraft:water_bucket" },
+      {
+        "type": "forge:partial_nbt",
+        "item": "ceramicbucket:ceramic_bucket",
+        "nbt": { "Fluid": { "FluidName": "minecraft:water", "Amount": 1000 } }
+      }
+    ]
+  },
+  "result": { "item": "vintagedelight:fermenting_jar" }
+}

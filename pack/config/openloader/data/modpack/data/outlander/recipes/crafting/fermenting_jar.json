@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    { "item": "supplementaries:jar" },
+    [
+      { "item": "minecraft:water_bucket" },
+      {
+        "type": "forge:partial_nbt",
+        "item": "ceramicbucket:ceramic_bucket",
+        "nbt": { "Fluid": { "FluidName": "minecraft:water", "Amount": 1000 } }
+      }
+    ]
+  ],
+  "result": { "item": "vintagedelight:fermenting_jar" }
+}

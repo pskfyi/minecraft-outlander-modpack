@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " _ ",
+    "G G",
+    " G "
+  ],
+  "key": {
+    "_": { "tag": "wooden_buttons" },
+    "G": { "tag": "forge:glass_panes/colorless" }
+  },
+  "result": { "item": "glass_bottle" }
+}
