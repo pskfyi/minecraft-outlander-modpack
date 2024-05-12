@@ -6,6 +6,7 @@
     "dev": "cd pack && ./packwiz serve",
     "install:datapack": "deno run --allow-read --allow-write scripts/pack/installDatapack.ts",
     "gen:recyclersdelight": "deno run --allow-write --allow-read scripts/recyclersdelight/refresh.ts",
-    "gen": "deno task gen:recyclersdelight"
+    "gen": "deno task gen:recyclersdelight",
+    "instance:open": "deno run --allow-read --allow-run scripts/pack/openInstance.ts"
   }
 }
