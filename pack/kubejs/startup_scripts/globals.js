@@ -36,6 +36,13 @@ global.items = {
     "natprog:bronze_saw", // No bronze in the pack
     "natprog:steel_saw",  // No steel in the pack
 
+    "sewingkit:sewing_station",
+    "sewingkit:wood_sewing_needle",
+    "sewingkit:stone_sewing_needle",
+    "sewingkit:gold_sewing_needle",
+    "sewingkit:diamond_sewing_needle",
+    "sewingkit:netherite_sewing_needle",
+
     "ftbquests:loot_crate_opener",
 
     "paraglider:deku_leaf",

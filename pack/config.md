@@ -156,6 +156,10 @@ intends to treat as removed.
   Station with Drawers" which retains its inventory.
   - Renamed the variant to just "Sewing Station."
 
+- Disabled all needles except bone and iron.
+
+- Tweaked recipe for bone needle to allow use of knives rather than the file.
+
 ## Spice of Life: Carrot Edition
 
 - Player starting health set exceptionally low - just 2 hearts. However, eating

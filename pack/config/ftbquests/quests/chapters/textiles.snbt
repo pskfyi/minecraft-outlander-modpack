@@ -31,13 +31,13 @@
 				"6DCC9D213A007925"
 				"3B95D031E0A69FC8"
 			]
-			description: ["A knife can whittle a stick into a sewing needle."]
+			description: ["A knife can whittle a bone into a sewing needle."]
 			id: "06CDF89FFEB3A114"
 			tasks: [{
 				id: "52BDE3AE650829D2"
 				item: {
 					Count: 1b
-					id: "sewingkit:wood_sewing_needle"
+					id: "sewingkit:bone_sewing_needle"
 					tag: {
 						Damage: 0
 					}

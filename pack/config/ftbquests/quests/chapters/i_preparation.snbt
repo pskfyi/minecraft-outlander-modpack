@@ -351,7 +351,7 @@
 					id: "3636D4420D2109A2"
 					item: {
 						Count: 1b
-						id: "sewingkit:wood_sewing_needle"
+						id: "sewingkit:bone_sewing_needle"
 						tag: {
 							Damage: 0
 						}

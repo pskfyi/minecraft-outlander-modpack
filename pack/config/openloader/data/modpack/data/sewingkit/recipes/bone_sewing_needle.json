@@ -1,0 +1,9 @@
+{
+  "type": "natprog:damage_tools",
+  "ingredients": [
+    [{ "tag": "farmersdelight:tools/knives" }, { "item": "sewingkit:file" }],
+    { "item": "natprog:bone_shard" }
+  ],
+  "result": { "item": "sewingkit:bone_sewing_needle" },
+  "group": "sewing"
+}
