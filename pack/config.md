@@ -91,6 +91,10 @@ and encourages players to update deps which is dangerous.
 Configured to require tools, for better support of the Altered Progression
 design pillar.
 
+Lowered amount of blocks from 64 to 16. This quarter-stack size still feels like
+a noticeable convenience without making the pack's slow automation processes
+feel obsolete.
+
 ## Jade
 
 Configured to hide mod names. This reduces visual clutter and promotes the
