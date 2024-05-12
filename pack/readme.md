@@ -80,6 +80,7 @@ configuration is particularly notable.
 - [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
 - [ImmediatelyFast](https://curseforge.com/minecraft/mc-mods/immediatelyfast)
 - [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)
+- [Not Enough Recipe Book](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook)
 - [Smooth Boot Reloaded](https://curseforge.com/minecraft/mc-mods/smooth-boot-reloaded)
 - [Structure Essentials](https://curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric)
 - [Yeetus Experimentus](https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus)

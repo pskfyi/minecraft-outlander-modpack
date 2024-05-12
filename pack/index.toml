@@ -553,6 +553,10 @@ file = "config/openloader/data/modpack/data/create/recipes/crafting/kinetics/bas
 hash = "11ecab6fe3f0022869c80660b19d0a273709fb8196f3b5818196d1d0239d743b"
 
 [[files]]
+file = "config/openloader/data/modpack/data/create/recipes/crafting/kinetics/belt_connector.json"
+hash = "b647d24a3ae3383294b9a9bcb04b174ade563c33c9d4d2951c0d79014272533a"
+
+[[files]]
 file = "config/openloader/data/modpack/data/create/recipes/crafting/kinetics/chute.json"
 hash = "b0c3a86722f638e4e24408451c5f97c98ed263dafc3508d5859578ec32187a17"
 
@@ -2796,6 +2800,11 @@ metafile = true
 [[files]]
 file = "mods/new-thin-air.pw.toml"
 hash = "c9cfca434463c3b28e48630ad1b350f516a30527532977347fd4b0cfa1a8a919"
+metafile = true
+
+[[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "311675473084eb0f1b33dbd5bf58c8f47e6a6af88b3d9832ceaf247e6734f35d"
 metafile = true
 
 [[files]]
