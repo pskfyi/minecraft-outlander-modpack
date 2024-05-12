@@ -1,0 +1,85 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "way_of_air"
+	group: "5C0B4A2D9CD2B850"
+	icon: "minecraft:feather"
+	id: "5E14325961042928"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "natprog:stone_pebble"
+			id: "6708C72576A31970"
+			tasks: [{
+				id: "5B57C121989A4EFC"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:pebbles"
+					}
+				}
+				title: "Any #forge:pebbles"
+				type: "item"
+			}]
+			title: "Stone Age"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "345BFFA2FEA1AE12"
+			tasks: [{
+				id: "18193EFB96B858E8"
+				item: "create:zinc_nugget"
+				type: "item"
+			}]
+			title: "Zinc Age"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "1F7C3746A6E2FB03"
+			tasks: [{
+				id: "218DE4DEEF0208B0"
+				item: "create:copper_nugget"
+				type: "item"
+			}]
+			title: "Copper Age"
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			id: "0AAB0B52967B99C9"
+			tasks: [{
+				id: "3DEBEE5D5072C2FF"
+				item: "minecraft:iron_nugget"
+				type: "item"
+			}]
+			title: "Iron Age"
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			id: "5880D77EC853C69C"
+			tasks: [{
+				id: "06CEC7F61C5E5092"
+				item: "paraglider:paraglider"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "3609363BD2892D6C"
+			tasks: [{
+				id: "2590D26F356EA90B"
+				item: "minecraft:bread"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+	]
+	title: "Way of Air"
+}

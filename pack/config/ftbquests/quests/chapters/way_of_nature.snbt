@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "way_of_nature"
+	group: "5C0B4A2D9CD2B850"
+	icon: "minecraft:oak_sapling"
+	id: "404789BD504A13D5"
+	order_index: 6
+	quest_links: [ ]
+	quests: [ ]
+	title: "Way of Nature"
+}

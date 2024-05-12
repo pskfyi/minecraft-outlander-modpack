@@ -1,0 +1,135 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "way_of_earth"
+	group: "5C0B4A2D9CD2B850"
+	icon: "minecraft:dripstone_block"
+	id: "7C3DADB80F5E0256"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "natprog:stone_pebble"
+			id: "1B5B8E987464A05E"
+			tasks: [{
+				id: "5382D13320DEAE4C"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:pebbles"
+					}
+				}
+				title: "Any #forge:pebbles"
+				type: "item"
+			}]
+			title: "Stone Age"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "2776CD8EC78BB42C"
+			tasks: [{
+				id: "2EFB244706BE78CD"
+				item: "create:zinc_nugget"
+				type: "item"
+			}]
+			title: "Zinc Age"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "12213A35CC9A3D75"
+			tasks: [{
+				id: "443CCDF728E3936A"
+				item: "create:copper_nugget"
+				type: "item"
+			}]
+			title: "Copper Age"
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			id: "711AA2F4B4E1D6B6"
+			tasks: [{
+				id: "2DF67E83DED91C48"
+				item: "minecraft:iron_nugget"
+				type: "item"
+			}]
+			title: "Iron Age"
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			id: "7483D76B45C0E0E5"
+			tasks: [{
+				id: "7C27E483FD1513B8"
+				item: "vintagedelight:cheese_mold"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -4.0d
+		}
+		{
+			id: "4CD80E30298A2F61"
+			tasks: [{
+				id: "1F03CC258DA780DA"
+				item: "minecraft:pointed_dripstone"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			id: "7E5176ED58A584C6"
+			tasks: [{
+				id: "03B0C2F746BD61C7"
+				item: "minecraft:gravel"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "4CC38FAAF449FBDE"
+			tasks: [{
+				id: "70820A7C7EBC1BAF"
+				item: "minecraft:sand"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			id: "5D7CA5161682B38C"
+			tasks: [{
+				id: "73BD2A00D7C137F4"
+				item: "minecraft:dirt"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			id: "2C07D4AC2905F719"
+			tasks: [{
+				id: "61EF89BD9ADFF823"
+				item: "minecraft:copper_ore"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -4.0d
+		}
+		{
+			id: "1DE52F580F319AC0"
+			tasks: [{
+				id: "0A0C2AFC3568F82C"
+				item: "minecraft:clay"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+	]
+	title: "Way of Earth"
+}

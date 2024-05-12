@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "way_of_illagery"
+	group: "5C0B4A2D9CD2B850"
+	icon: "minecraft:emerald"
+	id: "72D5EF13997C8815"
+	order_index: 7
+	quest_links: [ ]
+	quests: [ ]
+	title: "Way of Illagery"
+}

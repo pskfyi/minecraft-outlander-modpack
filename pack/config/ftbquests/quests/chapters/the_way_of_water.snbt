@@ -1,0 +1,100 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_way_of_water"
+	group: "5C0B4A2D9CD2B850"
+	icon: {
+		Count: 1b
+		id: "minecraft:potion"
+		tag: {
+			Potion: "minecraft:water"
+		}
+	}
+	id: "7C2E0911385115EB"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "natprog:stone_pebble"
+			id: "05B7BA3F52F3FB76"
+			tasks: [{
+				id: "735E205879DE243F"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:pebbles"
+					}
+				}
+				title: "Any #forge:pebbles"
+				type: "item"
+			}]
+			title: "Stone Age"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "3621FB73560DBFB3"
+			tasks: [{
+				id: "5E4EABA5DC289CF3"
+				item: "create:zinc_nugget"
+				type: "item"
+			}]
+			title: "Zinc Age"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "141B0E244473A547"
+			tasks: [{
+				id: "41D22AE0B357BFD7"
+				item: "create:copper_nugget"
+				type: "item"
+			}]
+			title: "Copper Age"
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			id: "24C020638FA272EC"
+			tasks: [{
+				id: "73DC3C0DF175213C"
+				item: "minecraft:iron_nugget"
+				type: "item"
+			}]
+			title: "Iron Age"
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			id: "430879C1B32D51C8"
+			tasks: [{
+				id: "5F31E4043AC7B902"
+				item: {
+					Count: 1b
+					id: "ceramicbucket:ceramic_bucket"
+					tag: {
+						Fluid: {
+							Amount: 1000
+							FluidName: "minecraft:water"
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "3DD6085B75FDEEA4"
+			tasks: [{
+				id: "1A37131782D77FEA"
+				item: "vintagedelight:fermenting_jar"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+	]
+	title: "Way of Water"
+}

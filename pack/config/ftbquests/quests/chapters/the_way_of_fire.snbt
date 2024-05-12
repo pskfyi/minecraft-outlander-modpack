@@ -1,0 +1,151 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_way_of_fire"
+	group: "5C0B4A2D9CD2B850"
+	icon: "minecraft:campfire"
+	id: "4956B401CFFB6C47"
+	images: [{
+		click: ""
+		corner: false
+		dev: false
+		height: 1.0d
+		hover: [ ]
+		image: "farmersdelight:item/hamburger"
+		rotation: 0.0d
+		width: 1.0d
+		x: 2.0d
+		y: 1.5d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "natprog:stone_pebble"
+			id: "39EAA97BCED0B18C"
+			tasks: [{
+				id: "7A47192D76792DD2"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:pebbles"
+					}
+				}
+				title: "Any #forge:pebbles"
+				type: "item"
+			}]
+			title: "Stone Age"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "39B7C2F3846D2FED"
+			tasks: [{
+				id: "2C46D016FBECC424"
+				item: "create:zinc_nugget"
+				type: "item"
+			}]
+			title: "Zinc Age"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "6882C35E34C4E80A"
+			tasks: [{
+				id: "04BBE3EDCEA0A0E8"
+				item: "create:copper_nugget"
+				type: "item"
+			}]
+			title: "Copper Age"
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			id: "2E56599E80E84E4D"
+			tasks: [{
+				id: "793DCC91B58BC42B"
+				item: "minecraft:iron_nugget"
+				type: "item"
+			}]
+			title: "Iron Age"
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			id: "55E580A2E15D87C1"
+			tasks: [{
+				id: "2642D1FDEFD5444E"
+				item: "farmersdelight:cooking_pot"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -4.0d
+		}
+		{
+			id: "07F047E60F527DAE"
+			tasks: [{
+				id: "6DB34209C15A0065"
+				item: "farmersdelight:stove"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			id: "3CA9AFE6B2687FFB"
+			tasks: [{
+				id: "6E06EBB1C025636A"
+				item: "minecraft:campfire"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "0E51A684AAC824C8"
+			tasks: [{
+				id: "495F06B80629DD08"
+				item: "minecraft:smoker"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			id: "22DCE5CBCEB4F0A6"
+			tasks: [{
+				id: "34F6A45280323D38"
+				item: {
+					Count: 1b
+					id: "farmersdelight:skillet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -4.0d
+		}
+		{
+			id: "6DBEB84896931DC9"
+			tasks: [{
+				id: "09855ED245A8F9C2"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:stone"
+					}
+				}
+				title: "Any #forge:stone"
+				type: "item"
+			}]
+			title: "Stone"
+			x: 4.0d
+			y: 0.0d
+		}
+	]
+	title: "Way of Fire"
+}

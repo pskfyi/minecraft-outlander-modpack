@@ -1,0 +1,262 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "stone_age"
+	group: "5C0B4A2D9CD2B850"
+	id: "2189F62A76002D7E"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "6554B5E8F8C60544"
+			tasks: [{
+				id: "06F44F56C681A2FC"
+				item: "minecraft:flint"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "56201FF116FAAD9B"
+			tasks: [{
+				id: "019415DBB7F95884"
+				item: "minecraft:stick"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			id: "482FC0C67F7B41B5"
+			tasks: [{
+				id: "4538AF62169A9FF9"
+				item: "natprog:stone_pebble"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			id: "3504FA5097C1115D"
+			tasks: [{
+				id: "62232C83D682433D"
+				item: {
+					Count: 1b
+					id: "farmersdelight:flint_knife"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "1F971A7E13539612"
+			tasks: [{
+				id: "522FBCF17D8FAD29"
+				item: "farmersdelight:straw"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "08CEB677154BD052"
+			tasks: [{
+				id: "3E7F1D4363049825"
+				item: "minecraft:string"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			id: "4073F97529003174"
+			tasks: [{
+				id: "6B73BA73C4BA4F5D"
+				item: "farmersdelight:tree_bark"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			id: "5A3DD2919D350F69"
+			tasks: [{
+				id: "46998BE999C832AB"
+				item: "minecraft:oak_planks"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			id: "453241C52754C049"
+			tasks: [{
+				id: "0E2B8E13D4C9874D"
+				item: {
+					Count: 1b
+					id: "createsifter:string_mesh"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 14.0d
+			y: -3.0d
+		}
+		{
+			id: "5071E470C87737D9"
+			tasks: [{
+				id: "17BE0A53069E82BD"
+				item: "minecraft:gravel"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			id: "4F316F9C4E7591F6"
+			tasks: [{
+				id: "319FDFA32B80721A"
+				item: {
+					Count: 1b
+					id: "natprog:flint_hatchet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			id: "3B95757A9755805D"
+			tasks: [{
+				id: "09FC5CED020BF45F"
+				item: {
+					Count: 1b
+					id: "natprog:flint_saw"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.0d
+			y: -1.5d
+		}
+		{
+			id: "3B60AE0B06E65FD9"
+			tasks: [{
+				id: "71C370D66E65349C"
+				item: "minecraft:crafting_table"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 0.0d
+		}
+		{
+			id: "31E9E5F99223D4DA"
+			tasks: [{
+				id: "1991F728395E3368"
+				item: "create:zinc_nugget"
+				type: "item"
+			}]
+			x: 14.0d
+			y: -4.5d
+		}
+		{
+			id: "340EDB1823C2D356"
+			tasks: [{
+				id: "2F0A35417605A07D"
+				item: "farmersdelight:cutting_board"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 1.5d
+		}
+		{
+			id: "6375F1EEB7E00741"
+			tasks: [{
+				id: "33A5CD1F679D2B51"
+				item: "sewingkit:sewing_station"
+				type: "item"
+			}]
+			x: 14.0d
+			y: -1.5d
+		}
+		{
+			id: "352A2BCD22A4A8F4"
+			tasks: [{
+				id: "34F168FFD4C125A3"
+				item: {
+					Count: 1b
+					id: "minecraft:fishing_rod"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			id: "19482A6B0A58AF3E"
+			tasks: [{
+				id: "15E863FE10912C39"
+				item: "minecraft:clay_ball"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "53AEEF3769E48212"
+			tasks: [{
+				id: "0560349BBEE3A47B"
+				item: "minecraft:sand"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "0BDD2584F1416085"
+			tasks: [{
+				id: "66758FABDB18D2AE"
+				item: "minecraft:cobblestone"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			id: "630337C337A3162B"
+			optional: true
+			shape: "square"
+			tasks: [{
+				id: "00C79040FB0B7C06"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			id: "42C2DFAE8ABF2FF6"
+			tasks: [{
+				id: "0C1BD104C64DD653"
+				item: "minecraft:paper"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -1.5d
+		}
+	]
+	title: "Stone Age"
+}

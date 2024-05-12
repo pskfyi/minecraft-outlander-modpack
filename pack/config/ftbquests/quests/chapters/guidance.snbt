@@ -1,0 +1,148 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "guidance"
+	group: "5C0B4A2D9CD2B850"
+	id: "42CAE48C0ABE156D"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Dear child, we know that you are not from this place yet we have raised you as our own, and now that you have come of age it is time for you to learn the ways of our people."
+				""
+				"Your destiny leads you far beyond our town, into realms unknown. Maybe you will even find your way back to your homeland."
+			]
+			id: "3B027CBBBECCFCC2"
+			tasks: [{
+				id: "242D0F6477150F62"
+				type: "checkmark"
+			}]
+			title: "Hail, Outlander"
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			description: [
+				"Your destiny leads you far beyond our town, into realms unknown. Maybe you will even find your way back to your homeland."
+				""
+				"Yet you are still young, with much growing to do and much to learn. Before you can safely venture forth, you must learn how to take care of yourself and to know the limits of your own body. "
+			]
+			id: "33E9B6690311545B"
+			tasks: [{
+				id: "3DAC98FB8A12615B"
+				title: "Orientation"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "17B350BF6F0B8483"
+			tasks: [{
+				id: "177F8137E2BA74EF"
+				title: "Temperature"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			id: "3DEAFE4174862277"
+			tasks: [{
+				id: "2A040BA7C7CDA364"
+				title: "Air"
+				type: "checkmark"
+			}]
+			title: "Breathing"
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			id: "6C9E208732C2F53D"
+			tasks: [{
+				id: "6DD5E6BDD9E22B06"
+				title: "Hunger"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			id: "033B5F6317D113F8"
+			tasks: [{
+				id: "793A5F6EBFCE75B4"
+				title: "Health"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			id: "3E2DD26ED3E26C7C"
+			tasks: [{
+				id: "147EEB1499413E68"
+				title: "Movement"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			id: "3F134FD5D895889E"
+			tasks: [{
+				id: "44BB8D42FB0C310E"
+				title: "Carrying"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			id: "31BAD82709C0664A"
+			tasks: [{
+				id: "79924E491F3B2C2A"
+				title: "Light and Darkness"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			id: "5C9A9CACE1A1FDF2"
+			tasks: [{
+				id: "17F40E8582C88028"
+				title: "Time"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			id: "29B778AF4EDAE878"
+			tasks: [{
+				id: "60ABC26FE9E84882"
+				title: "Distance"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			description: [
+				"Stories tell of a time when illagers built grand machines and posessed many riches. That time has past. We are a simpler folk, now, but we are also crafty and we know how to make do with very little."
+				""
+				"In your journeys you will need these skills as well. We will teach you to forage, farm, fight, and much more."
+			]
+			id: "2C43AF6E85421C14"
+			tasks: [{
+				id: "50F5E363F3EABA94"
+				title: "Technology"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+	]
+	title: "Guidance"
+}
