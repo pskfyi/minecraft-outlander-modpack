@@ -22,7 +22,7 @@ hash = "c5a62e3f2d7b91aaff7977d02db34b45f800ccd553678d86e77b5c110f46d60b"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "40e82a1e2079ed345e121d6db3225016ef2a3dcf7d292e58de358c4e243d0dff"
+hash = "41c0451e71c7a9715b8e1fbeaad95b019a0aaf03d22764fadc95edb2c77794ec"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/agriculture.snbt"
@@ -65,6 +65,10 @@ file = "config/ftbquests/quests/chapters/glassworking.snbt"
 hash = "365a21c33e19846136792088d571fb2403c58e270b2c5367f5f6e50e124cfcf3"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/guidance.snbt"
+hash = "f6d6b063293c713e1ed2411121151531bd2c4c02d0510e9fa9c341ae0cb910a4"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/husbandry.snbt"
 hash = "4cb7980240ab70cf2872b625fe960490c2f0d5d3ef052c166e9d452e095ff17b"
 
@@ -101,6 +105,10 @@ file = "config/ftbquests/quests/chapters/smelting.snbt"
 hash = "337547cac40f1050004efa0a5a6933cb41a21cd53af64a9b6faa35ec1483b2fd"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/stone_age.snbt"
+hash = "c8f7e3b3f62a0f2e1ee486cd36ef42f12e8e54835d1b257fe0ef7414f372e8c3"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/structures.snbt"
 hash = "3a378eaeff065bd913a61028859a276f52aae6df5ab1caeea4adcd57f6108dd3"
 
@@ -109,12 +117,36 @@ file = "config/ftbquests/quests/chapters/textiles.snbt"
 hash = "84c68db88e4d1b0d07978e8d30bf1e5033657e86c137637fead9a7d16d858b22"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/the_way_of_fire.snbt"
+hash = "ec307d5b1bf57e72760b810457a2773499f9a9fddd9ee10e02fdd6f36849b593"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/the_way_of_water.snbt"
+hash = "9eb29bf0d071fda8b9739c519774e80c71b479a06784ee5b15b143bdd4cc0fc1"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/v_iron_age.snbt"
 hash = "cae696d568fbdbe7344530a2737622cadda00b7c31a92b4064514b3989b0bb26"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/villages.snbt"
 hash = "31f22b05e1b3bb4325182c264cd38d200968375c42fa20e7321302a40fddb251"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/way_of_air.snbt"
+hash = "bee106c39714a1763bcb952cae2c5b4a9bb755987ead71b42375ba55e0043568"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/way_of_earth.snbt"
+hash = "ac16b470f7ed0dcf61442e2bd5a09d92683e6c45794851d62e70d8c253d1df28"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/way_of_illagery.snbt"
+hash = "2240234576d25cc5845078a7a80ba9ec836abb7951c9f2c70d302ff2dde87d0c"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/way_of_nature.snbt"
+hash = "1c4f2530b8359bb0dd5b7a9bfede45dc0c829a214e07359bb7fc30e994301829"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -191,6 +223,10 @@ hash = "8c411a4384650a0c03dac7ce0dd6d90361bca68d87fb8378c2c3dcfea8f2f0a9"
 [[files]]
 file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/crop/moss.json"
 hash = "ce61ed2d6a6bb8519d92cf6878dec3c1d6bd3764e8e25f23f229d642165b887d"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/fertilizer/bonemeal.json"
+hash = "a3fbccbbab26426db28128023b4ec2a29b44c32fe87648a7529b2fe11a7b11bc"
 
 [[files]]
 file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/pot_interaction/flatten_dirt_path.json"
@@ -469,6 +505,30 @@ file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/wa
 hash = "c998eea28680a8c2985af11dd60bbfe7b531311b3b4b42ba19960180552dfd10"
 
 [[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/soil/water.json"
+hash = "5fe1a8ac17c932fea53facb1aca7c8c7f2f3087d5f90a3d92c3b4e9d913456a9"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/vintage-delight/crop/cucumber.json"
+hash = "707a944b75696c1c4789e1c2de38e8effdd43e9a4fa87b594ae11c8fc2892c5b"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/vintage-delight/crop/gearo_berry_bush.json"
+hash = "bf4923ae3081459bb5856d91e87525e63a8bfee041d949cc2adfa57816eb71c2"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/vintage-delight/crop/ghost_pepper.json"
+hash = "4ba743a123d2b8436313c9f5bba21965f8304991bf8d3f10a5fda1a36bba6447"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/vintage-delight/crop/oat.json"
+hash = "ce68781833f41813a4cd07c9b725174ead16f773e89067cff9e96b3ff4c9f23a"
+
+[[files]]
+file = "config/openloader/data/modpack/data/botanypots/recipes/vintage-delight/crop/peanut.json"
+hash = "44a1d9a0b71ac80beb7c1b7496fc78f84713b586bdaa6dd3521627daa11d7257"
+
+[[files]]
 file = "config/openloader/data/modpack/data/bountiful/recipes/crafting/bountyboard.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
@@ -477,12 +537,36 @@ file = "config/openloader/data/modpack/data/constructionwand/recipes/stone_wand.
 hash = "04065c7a8aa46dcef290534a4c9dd08f4c6ef6c6e87b11518ef43e1faa124ed6"
 
 [[files]]
+file = "config/openloader/data/modpack/data/corn_delight/recipes/integration/create/milling/wild_corn.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/create/recipes/compat/supplementaries/milling/flax.json"
+hash = "73677610ae13048532ce78d36e01562a266d148724cd2c83a82660edbcfd4783"
+
+[[files]]
 file = "config/openloader/data/modpack/data/create/recipes/crafting/appliances/clipboard.json"
 hash = "7d7ee36b20e043f047d21ee946f3dbb536c208ccdb6a589f6106ab89314b3099"
 
 [[files]]
+file = "config/openloader/data/modpack/data/create/recipes/crafting/kinetics/basin.json"
+hash = "11ecab6fe3f0022869c80660b19d0a273709fb8196f3b5818196d1d0239d743b"
+
+[[files]]
+file = "config/openloader/data/modpack/data/create/recipes/crafting/kinetics/chute.json"
+hash = "b0c3a86722f638e4e24408451c5f97c98ed263dafc3508d5859578ec32187a17"
+
+[[files]]
 file = "config/openloader/data/modpack/data/create/recipes/crafting/kinetics/cogwheel.json"
 hash = "2d1b0535e39944d8c5e6159b836fdb39d3b68b2d26debe3beef71a806c1c715c"
+
+[[files]]
+file = "config/openloader/data/modpack/data/create/recipes/crafting/kinetics/depot.json"
+hash = "bed4a97fd86eba1562a7e5a72ac8ba717ecd6871350102882ae1e1c327c17b1b"
+
+[[files]]
+file = "config/openloader/data/modpack/data/create/recipes/crafting/kinetics/encased_chain_drive.json"
+hash = "72bc896c0e0935af8e51aa151ec84d63c8856059acca92e785d5a5fbdf5c2f70"
 
 [[files]]
 file = "config/openloader/data/modpack/data/create/recipes/crafting/kinetics/hand_crank.json"
@@ -497,12 +581,20 @@ file = "config/openloader/data/modpack/data/create/recipes/crafting/kinetics/lar
 hash = "8d6f7711eb4ef0c5d9f6da5b99b444507b8c4ffdca958b3d356ad6711054d62a"
 
 [[files]]
+file = "config/openloader/data/modpack/data/create/recipes/crafting/kinetics/mechanical_press.json"
+hash = "71ae562ec3e8492fb31708063218fda806df0afb8b9c0283fe2f305318de93c9"
+
+[[files]]
+file = "config/openloader/data/modpack/data/create/recipes/crafting/kinetics/metal_bracket.json"
+hash = "bf8a5b501ed72043092bf95d14ae00634eba6e3dc872a8cea81b867efc20aabe"
+
+[[files]]
 file = "config/openloader/data/modpack/data/create/recipes/crafting/kinetics/water_wheel.json"
-hash = "835131c50c0036d043aa88d8e5e57ab87b860486a5c134b614f7a92cced08e0d"
+hash = "52a19ea9d376dc1b101007003032ffc7d5e1a40f3356b2a0610cf2a17a1d1fd4"
 
 [[files]]
 file = "config/openloader/data/modpack/data/create/recipes/milling/andesite.json"
-hash = "32649e8a0281a6a3c3d3ec35b621919bd8da2a60fbbba9cc0b7532c25b173fd5"
+hash = "e7388003c3ba31229fc798b3ff4c532edfa88080a9ab558e431dcdab322d3025"
 
 [[files]]
 file = "config/openloader/data/modpack/data/create/recipes/milling/charcoal.json"
@@ -510,7 +602,7 @@ hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "config/openloader/data/modpack/data/create/recipes/milling/coal.json"
-hash = "78fd1f3381fbe6ecaaba6cc638cf935a27f455894bece8d960714d9514004d1f"
+hash = "31894d0d68b8a3ba8ff60c002eeace88c9cdd9f1ee404c16a379d0d3f32e83d3"
 
 [[files]]
 file = "config/openloader/data/modpack/data/create/recipes/milling/cobblestone.json"
@@ -518,35 +610,47 @@ hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "config/openloader/data/modpack/data/create/recipes/milling/dripstone_block.json"
-hash = "254eea6e18f98058949fe9c2d7ea12ddba0f829926cb478841e76bf41673cb31"
+hash = "460fc5e5215b9bd83d46a4e4910268c7c894f39a1dbb098ea52ad0968413ecc8"
 
 [[files]]
 file = "config/openloader/data/modpack/data/create/recipes/milling/granite.json"
-hash = "022829784449923e1e9d07d0013dde77693f948f9093b3ead08f7370e6a02787"
+hash = "ced2a74e46058ea80e1e2f1ec317d48c136c5e2fa168dc0ee7b88349b0045c01"
+
+[[files]]
+file = "config/openloader/data/modpack/data/create/recipes/milling/grass.json"
+hash = "27c382440da2830675a3e16c2008eb721498828e6e9210dc42d5ae230826ae14"
 
 [[files]]
 file = "config/openloader/data/modpack/data/create/recipes/milling/gravel.json"
-hash = "a2a249f9507882ef9514d80829d50207590362109f8c4164ba9434e846feb339"
+hash = "53c9f66c9e226eb97fd75435eb1459483e47a126f05052f5bd24dc60b95c6a1a"
 
 [[files]]
 file = "config/openloader/data/modpack/data/create/recipes/milling/red_sandstone.json"
-hash = "6e4abd2689f9007a39792207d6dba6f87147180c1da546eb26cd1653eb2f6feb"
+hash = "ba6f6358d0d66c739dbe683f35ced0990c1af243c1d256cb10f8950a2fe536a1"
 
 [[files]]
 file = "config/openloader/data/modpack/data/create/recipes/milling/sandstone.json"
-hash = "d40bf84bb639ee0c4de6666e552b49d10180c7096aaafd4e20e82099cd80d64d"
+hash = "ea36646f1b738bf14406659b7fac40d3b29ab2dedfcba69830e408c3f57afec6"
 
 [[files]]
 file = "config/openloader/data/modpack/data/create/recipes/milling/terracotta.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "config/openloader/data/modpack/data/create/recipes/milling/wheat.json"
+hash = "75c37e8cc3e16eebbfdee60f3891ca0606f327ae4b309567a968d1e871dabd3a"
+
+[[files]]
 file = "config/openloader/data/modpack/data/createsifter/recipes/sifting/dirt_string_mesh.json"
-hash = "44cd72ea97024c94297f177b4e020c62e6b20d99aad6802434a6e05a58f3f739"
+hash = "626e1162da103f1d27bd8b13ac6d91fd0810cb9ab2eec761a2cc5c4bdbdb63a1"
 
 [[files]]
 file = "config/openloader/data/modpack/data/createsifter/recipes/sifting/dirt_string_mesh_waterlogged.json"
 hash = "f512349c915ea3ad15d3ab60292ded2a05bc328920fdc4aff78e9b1a36ac9996"
+
+[[files]]
+file = "config/openloader/data/modpack/data/createsifter/recipes/sifting/dirt_zinc_mesh.json"
+hash = "b8cc970c6e116778996ac6c9bd48c8ee2828caec7a929a186b6cdc7411e85f0c"
 
 [[files]]
 file = "config/openloader/data/modpack/data/createsifter/recipes/sifting/gravel_advanced_brass_mesh.json"
@@ -566,7 +670,7 @@ hash = "2a3fc7153ed888bb25b5fca7f2fcf830e7f002aa50029d4a413e8073143c5797"
 
 [[files]]
 file = "config/openloader/data/modpack/data/createsifter/recipes/sifting/gravel_zinc_mesh.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+hash = "934cf209058d34c87442855455ee304a2f359a44d16ff7dffae9db6b8206f66f"
 
 [[files]]
 file = "config/openloader/data/modpack/data/createsifter/recipes/sifting/sand_andesite_mesh.json"
@@ -578,11 +682,11 @@ hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "config/openloader/data/modpack/data/createsifter/recipes/sifting/sand_string_mesh.json"
-hash = "3e2e9b787b5353e8e579ec2bd0aa37cca7c85f76ee86d1a71aca337a43415c93"
+hash = "f2fefd56b9317d074534de5cd35e8ceab7a8337b2b96aa72c04195fa1e78ea95"
 
 [[files]]
 file = "config/openloader/data/modpack/data/createsifter/recipes/sifting/sand_zinc_mesh.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+hash = "fc2e330443b993a46ef6dda5e0dbe2eafc33fc2b5ebf8609ab183583205788b7"
 
 [[files]]
 file = "config/openloader/data/modpack/data/createsifter/recipes/sifting/soul_sand_brass_mesh.json"
@@ -591,6 +695,10 @@ hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 [[files]]
 file = "config/openloader/data/modpack/data/createsifter/recipes/string_mesh.json"
 hash = "ff42c993489041fb7df654df66046d3e615b51b5b781bae676bf29f2ce1c30f8"
+
+[[files]]
+file = "config/openloader/data/modpack/data/createsifter/recipes/zinc_mesh.json"
+hash = "789d646d3a4f94f56bd56aaedadfa0aa8f5b0aa59b54e6725633d3302ef25df2"
 
 [[files]]
 file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier/paraglider/beach.json"
@@ -685,12 +793,20 @@ file = "config/openloader/data/modpack/data/farmersdelight/recipes/canvas_from_c
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "config/openloader/data/modpack/data/farmersdelight/recipes/cooking_pot.json"
+hash = "50aa9b64ed1f578e09d48625795608e1e9fe0658f5d7d637ff61e3765d46a9dd"
+
+[[files]]
 file = "config/openloader/data/modpack/data/farmersdelight/recipes/cutting_board.json"
 hash = "686ba75bd21f7bcf909fbb25592ad5a8b99b61d750266fe9b4fdcc355d4b284c"
 
 [[files]]
 file = "config/openloader/data/modpack/data/farmersdelight/recipes/flint_knife.json"
 hash = "2f2803bf233e0cbd7d0a89ed1973be91da3292208272cc5a5ee1706f5f63af27"
+
+[[files]]
+file = "config/openloader/data/modpack/data/farmersdelight/recipes/integration/create/milling/wild_rice.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "config/openloader/data/modpack/data/farmersdelight/recipes/lead_from_straw.json"
@@ -725,12 +841,28 @@ file = "config/openloader/data/modpack/data/farmersdelight/recipes/safety_net.js
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "config/openloader/data/modpack/data/farmersdelight/recipes/skillet.json"
+hash = "c4a8152cd73975b295c5d53d12a815473eb64cdcdf6dc3871d08286b59b8888a"
+
+[[files]]
+file = "config/openloader/data/modpack/data/farmersdelight/recipes/stove.json"
+hash = "40614473b5ae0367dd66e89543c141595c9fb994a7f2949245ae9e1d882b4c3b"
+
+[[files]]
 file = "config/openloader/data/modpack/data/forge/tags/items/pebbles.json"
 hash = "1d8a439ef571b89225bb746fd298c9d32d7ff6a2dff15e8964c9db68e729fab9"
 
 [[files]]
 file = "config/openloader/data/modpack/data/minecraft/recipes/andesite.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/minecraft/recipes/anvil.json"
+hash = "7e1727169edb6bdd0287dcfbee06e6618556f0ae4fe5dbd2a5eb0491fee526fb"
+
+[[files]]
+file = "config/openloader/data/modpack/data/minecraft/recipes/blast_furnace.json"
+hash = "dae254b858e9e1356ffcd3ae5ffae2fb49315d3540f18d04d13459b87137d87c"
 
 [[files]]
 file = "config/openloader/data/modpack/data/minecraft/recipes/book.json"
@@ -745,8 +877,24 @@ file = "config/openloader/data/modpack/data/minecraft/recipes/cartography_table.
 hash = "0f3ed10c4cff44d05b1ed7962a903e54a88bf3feb09021d099f58d3cd4d72cf1"
 
 [[files]]
+file = "config/openloader/data/modpack/data/minecraft/recipes/caudron.json"
+hash = "9a66064d838d0d63e49015e2edacfdcb3f914c2f2f6489a7409a1531ed95ca6a"
+
+[[files]]
+file = "config/openloader/data/modpack/data/minecraft/recipes/chain.json"
+hash = "4bcc669209cbcdeb6b86ca99ede9317b31a2a37188e44fb6c6559c48cff84ccd"
+
+[[files]]
 file = "config/openloader/data/modpack/data/minecraft/recipes/furnace.json"
 hash = "f8ad04452a829100f42c307a07994ba133f8d166bb8f26fb83d4bb92e4ae848e"
+
+[[files]]
+file = "config/openloader/data/modpack/data/minecraft/recipes/glass_bottle.json"
+hash = "165a63ca49f069e1fe84c5d140d1a470cb45e7f3065c78bf17e4ef67e78a1b5c"
+
+[[files]]
+file = "config/openloader/data/modpack/data/minecraft/recipes/hopper.json"
+hash = "8d987d99cd190dab48cf0b9d4297b9992979c00d4ca81c1d309a1cdc41d23c65"
 
 [[files]]
 file = "config/openloader/data/modpack/data/minecraft/recipes/item_frame.json"
@@ -801,6 +949,10 @@ file = "config/openloader/data/modpack/data/minecraft/recipes/scaffolding.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "config/openloader/data/modpack/data/minecraft/recipes/smithing_table.json"
+hash = "0e81fc63f1f90114848e3f3b85108148a737778095b27fbb74c18a0aad82e17a"
+
+[[files]]
 file = "config/openloader/data/modpack/data/minecraft/recipes/torch.json"
 hash = "0df1c459b07f45de8013018c563fa72f772310f6be9e9f112d1b830085c2169a"
 
@@ -841,6 +993,10 @@ file = "config/openloader/data/modpack/data/outlander/curios/entities/charm.json
 hash = "4cf9197c5c20802117500bf5796c2a2ef8c9eec17205b15b5d7ef26a08482489"
 
 [[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/crafting/fermenting_jar.json"
+hash = "221f6a3821f1e3d933e484f943b9f53fd1c503204e7865acdb13d8b3fc8acdd3"
+
+[[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/crops/ancient_hedge.json"
 hash = "0eed3107bf73cda8501e4319236d9adbd75b013aaf0db5417ab0921751a76b6d"
 
@@ -869,6 +1025,10 @@ file = "config/openloader/data/modpack/data/outlander/recipes/cutting/planter.js
 hash = "091d4b2c3674d9fe43e007e46d9f9a0f26835c3cd22683757ab5793a40519f4f"
 
 [[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/deepslate_alloy.json"
+hash = "4b8023ba585d920aee6fb42ba70fc5201a9f3f8001f6be50f43365b6d3f12657"
+
+[[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/garden_trowel.json"
 hash = "eb5bac9f0a43d2f58a46171f1c8905f0d407203fabf324eddff9f747788c396b"
 
@@ -881,16 +1041,20 @@ file = "config/openloader/data/modpack/data/outlander/recipes/hand_hoe.json"
 hash = "63e3d649fd3ee2362c78081523f35cee782d0b93d0420c06a41fb3f53bee89c7"
 
 [[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/milling/cobbled_sandstone.json"
+hash = "e579aee151426d47b927da19ae35e1d74ff69258ea362a34d1ab3b374c473b83"
+
+[[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/milling/diorite.json"
-hash = "6db760b11f84c34cc46c7c3d3c5450a70235dc1bdbe1d2669a59771799d6e5b5"
+hash = "408a58df5fe30b73eb5f70d871375352c9c39c813b91ef603fc216cef1565a5d"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/milling/to_gravel.json"
-hash = "5a65b11c2f1b476834f57b5ba357d7fd24e4d287a5c20e3c17f5bf7e944b1b81"
+hash = "a14d63d9760e64077aec63ab4c476b4ac855e708c5ea216963c0f02ee2ad7d1e"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/milling/to_red_sand.json"
-hash = "ef70c102ab00411b5f379848c2caee596de520f1ff9cd984cc03d89e284e42a9"
+hash = "8f0334d110b3c3bb732de0eef4cb1fe029e238cfd6b8addcba9ca6a002d4a385"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/natprog/andesite_pebble.json"
@@ -998,11 +1162,15 @@ hash = "038a474ea67550ad0e608e95951164c2c07c6ed81c7ed4f5500c45454867d35f"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/soils/ceramic_water_bucket.json"
-hash = "93c2bb72b404f4908a9a819732d8449aae13d09b854b8cbeb0afe8e2ce4f6ef0"
+hash = "3010c257560422c47caf6fcc8c80bef20ea7ed3c023f4b6c0edbbdd11a5cd887"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/straw_to_string.json"
 hash = "f55c9669d4fa18a52846f0f29e5024e3c97ec3ee3e8bdfe53af5cea1fc01f85d"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/tags/items/made_of/deepslate_alloy.json"
+hash = "c90f6319c59f4f9bc8c7bac7d5d6fbe154161b3c90bde85a87203825ce4a16b9"
 
 [[files]]
 file = "config/openloader/data/modpack/data/paraglider/recipes/paraglider.json"
@@ -1053,6 +1221,10 @@ file = "config/openloader/data/modpack/data/quarkdelight/recipes/safety_net.json
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "config/openloader/data/modpack/data/rechiseled/recipes/chisel.json"
+hash = "a481ac1ee45168c14587d9e81400605b5d060d27f64aa021823bc64fe6e13475"
+
+[[files]]
 file = "config/openloader/data/modpack/data/sewingkit/recipes/leather_sheet_from_leather.json"
 hash = "e58ad06373a658a33fa67500d70c8bc062bc31c74d30a3a8fe8d37dc35a6a8d7"
 
@@ -1079,6 +1251,18 @@ hash = "4993a651034b58b6c7e7194cd89259083562a3c8e4f5e9a3ad0cb3c517f85b37"
 [[files]]
 file = "config/openloader/data/modpack/data/supplementaries/recipes/bellows.json"
 hash = "9d449515aa2af48f382bb123a63f0ed3a91b01b6b740cee365ee4209241c1777"
+
+[[files]]
+file = "config/openloader/data/modpack/data/supplementaries/recipes/cage.json"
+hash = "81d9555d399c89fbdb084e207b26a0c001848d32d78670eee04899eddc9da577"
+
+[[files]]
+file = "config/openloader/data/modpack/data/supplementaries/recipes/faucet.json"
+hash = "3a1ac1099bc774fefba314f45881e240925698d3d175d4f76d5cf1902c1470e6"
+
+[[files]]
+file = "config/openloader/data/modpack/data/supplementaries/recipes/jar.json"
+hash = "f5f982f66b3346a2c7ca0a04dc4dec2549e2f180c97ea2d48b3126bc223815ba"
 
 [[files]]
 file = "config/openloader/data/modpack/data/supplementaries/recipes/planter_rich.json"
@@ -1111,6 +1295,22 @@ hash = "9504d900a1704cd781252bb742040972c7530eb6d9aa38bdfacb836c10b67f51"
 [[files]]
 file = "config/openloader/data/modpack/data/tinycoal/recipes/tinycharcoal.json"
 hash = "3b75e4b8fb7cac1da84a2d502ff7a0bd8bcf7e805e1883f736c18f4cdef7aa49"
+
+[[files]]
+file = "config/openloader/data/modpack/data/vintagedelight/recipes/cheese_mold.json"
+hash = "b4e6498997ee0dcb7f826897341fb09295ea3d2df45490c4c0bcc72c1c4d4c85"
+
+[[files]]
+file = "config/openloader/data/modpack/data/vintagedelight/recipes/cutting/oat_cutting.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/vintagedelight/recipes/fermenting_jar.json"
+hash = "332c8b3978fd1a04dc8031bf868be11ee335357472822abe7a57c71a59ee3e15"
+
+[[files]]
+file = "config/openloader/data/modpack/data/vintagedelight/recipes/mason_jar.json"
+hash = "4d1eee89e07bb30b5371c1f28e42dfd0d9ec64ab9ece77a616d233f9fefc4dd0"
 
 [[files]]
 file = "config/openloader/data/modpack/data/vintagedelight/recipes/organic_compost_from_rotten_flesh_mash.json"
@@ -1705,6 +1905,10 @@ file = "config/waystones-common.toml"
 hash = "1f27ecf41f4f0fadbc670bb2b88e9e21dcb1ac9c8e0778b70d990888b08b3d6f"
 
 [[files]]
+file = "defaultconfigs/ceramicshears-server.toml"
+hash = "5319032231561e7de435ad0e54ff2cb96badb8cc4000cde94d49df36f4c5c5e7"
+
+[[files]]
 file = "defaultconfigs/ftbultimine/ftbultimine-server.snbt"
 hash = "4f02f94f7c8722f86de54c9860ef66909a0215de2590642d19b87233ea720d45"
 
@@ -1717,8 +1921,340 @@ file = "defaultconfigs/solcarrot-server.toml"
 hash = "bb605c0c33e7b785b04a9575175d8e425717d21b16f3f974b6673c6825d0f9aa"
 
 [[files]]
+file = "kubejs/assets/outlander/textures/item/deepslate_alloy.png"
+hash = "547cc434909a225e3f326f53610a46eb7d7faf9a502974dc767d66431416c6bf"
+
+[[files]]
 file = "kubejs/client_scripts/rei.js"
 hash = "eeeb982500d1e55f8b16f6e1a2a0093614f3212f33d40b2a72a866d7873f8267"
+
+[[files]]
+file = "kubejs/probe/cache/cachedForgeEvents.json"
+hash = "7747748294d0e9e8ccf83e26adb918a0b22278bf87bc140b2fb8940276c6a3a3"
+
+[[files]]
+file = "kubejs/probe/cache/cachedJava.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "kubejs/probe/cache/docs/dynamicjs.json"
+hash = "71f12ab6d05a72e8c58748b232ed57ab955f5f337070cff27002ad26a3f58b3a"
+
+[[files]]
+file = "kubejs/probe/cache/docs/events.json"
+hash = "578aee5d392e6da1a4b12d91bd075d1b824d9fba6ee98f07b49e28f00d8c0dfd"
+
+[[files]]
+file = "kubejs/probe/cache/docs/kubejs.json"
+hash = "3db4ef01ff3999f14b21c7ff42346884f5de71a2569001c52ef4773b2ea593ab"
+
+[[files]]
+file = "kubejs/probe/cache/docs/kubejs_recipes.json"
+hash = "0ab68fcd509638e3735063b6490c32261c40289eed123cc8a6e977f951e38151"
+
+[[files]]
+file = "kubejs/probe/cache/docs/morejs.json"
+hash = "3b6076d8ff5ab4dcc2086e27691d7e3b8abfccdf7be23f890cdb28b23d50e779"
+
+[[files]]
+file = "kubejs/probe/cache/docs/probe.json"
+hash = "eabf3964c5cf77d0f31b58cd091776631bf5800ffcca1be6c4c4cd8d14cfbf83"
+
+[[files]]
+file = "kubejs/probe/cache/docs/registry.json"
+hash = "c76e8fdae5ab850f764c8d069258a5b2a0611f4b691ac563829dd1af7157f2d8"
+
+[[files]]
+file = "kubejs/probe/cache/docs/types.json"
+hash = "01421362d4ee8c607708669ffb084303e9b9921a15fbe35090b277da7a8e587d"
+
+[[files]]
+file = "kubejs/probe/cache/modHash.txt"
+hash = "ccad27abfa33bee5187f0486d6e8c512811615cf50fa8cd80573a32c003a5182"
+
+[[files]]
+file = "kubejs/probe/generated/constants.d.ts"
+hash = "f288708c29aed00b7976b7e9b125871e91d92d6ad336cc074a662d0f5b827fe4"
+
+[[files]]
+file = "kubejs/probe/generated/events.d.ts"
+hash = "f21295dd453c7db50da9f6cfa6fc189986b2aef877f20d2c7c07526cbd4e1bbe"
+
+[[files]]
+file = "kubejs/probe/generated/globals.d.ts"
+hash = "3f16d775412c0f29f6428e771ae3ec44bfa181ddc5b1299be0cad99ee93f4fcd"
+
+[[files]]
+file = "kubejs/probe/generated/internals/index.d.ts"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_0.d.ts"
+hash = "1e644051f1097fcda54449ef90bcf75ebca80fedfadd5743564ee480143e910e"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_1.d.ts"
+hash = "80acf169f2f374a68fe99076cdf84c4299cb40b09fb666e550b7745b1781ab96"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_10.d.ts"
+hash = "acbf7bc03026f474ce3bbc1a660bf455d88c843ddcd48202d7638ae9443a2b9b"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_11.d.ts"
+hash = "5dae2bf2ef0cb1ed77a91f764aabeff00dd7a9efb6e587ea14386dcd1e9164db"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_12.d.ts"
+hash = "7c14445c07cf8b2748cea8934cbcd4f60c83f8b9178f29b99422d1a2b6bdd81e"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_13.d.ts"
+hash = "42b8343a656099e2a2d1a60db340544713139c6ef2b55f04b5a4527d4ef216fb"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_14.d.ts"
+hash = "1960f86e2423c79366140f314605d1c7577ba4306c6b1144858999a4cad8c048"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_15.d.ts"
+hash = "79042a091e5a57dad824938ea481d118c68045605fda20c5bbf98d79f1dcab1a"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_16.d.ts"
+hash = "3b5a29a4b8f88ed70f36d7ed0be7469537811fcd3f2bd7f15a7aae58647edbb3"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_17.d.ts"
+hash = "908c4c9d9782665ebce624469ba551adcaf992e534372d154bad43a51d873ccb"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_18.d.ts"
+hash = "4c966902b7c4977c827bdca438ae8027fac34135bec0751b400b8c2b6396a466"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_19.d.ts"
+hash = "127541dc819e527757778106e71d01b8f40d1a4a9cb57b1fb14bd35682c27274"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_2.d.ts"
+hash = "ec8422497be4c562a4240b04ffa8b33a3e4103075ebf1abb82f5a756b7ae6b41"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_20.d.ts"
+hash = "2aa635cddca97e10afc37c2aa490ffd24eac0ed5505c015d7e8f3eb9dea87960"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_21.d.ts"
+hash = "e181785735332aeb2120bb560eac4b1c3a0cf742e6e033b1fb8809b922299614"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_22.d.ts"
+hash = "9615bd1a7108b9ea27af657aab37912dbcf940781ead32ceb20c05a676adc02f"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_23.d.ts"
+hash = "8b97fb9cf40222f1541eabc502db4d3e9cad48aec9ac75b7a05a9b387c800ad0"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_24.d.ts"
+hash = "c5e69e4e84674d47c4ee1cb8905f560f1ed24e2f671d416782a26c3a2c02022c"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_25.d.ts"
+hash = "551769da9e7358a27401088ccaea108071475228acfc897359d5dfce890e1dc2"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_26.d.ts"
+hash = "a9531f4a44139a3e4e49492720c540409513b30aaa677fd64b0f08ef690a2356"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_27.d.ts"
+hash = "a9bcf3e0fbdbff6c919f919da8b64b25648c414d5d3095b0cbc08717929a0ae3"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_28.d.ts"
+hash = "5f5ade0207c074b94f4f502964c831b133e124e62aab3253627303a6e31fe81e"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_29.d.ts"
+hash = "c34137a343afa79298e2e4cff2a6d0892abaa97084c57e44479b5ec5e03d7681"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_3.d.ts"
+hash = "0ae74a3ee561768ae449bb57056123016ebd7bf87545c4f471119acb88f83e51"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_30.d.ts"
+hash = "b5b3dbdff03fcc3221f045a0ea54b24efc62274e1a716f1c5a5d4f0530f04ca7"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_31.d.ts"
+hash = "956b7aa9b51124cb672dd282301f8f68cf7c9f69207dabf2001eed945e49d50b"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_32.d.ts"
+hash = "a7b10bcf7c3be8a09e38c40cb424bb2d32a6e92853b3df4b58d656861e7582af"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_33.d.ts"
+hash = "dcc0ca02cbbfa37e041623777e21bfa2048989abf50eda3cd1b63def9e1d6fe1"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_34.d.ts"
+hash = "5e4c44f597b2c6a800a975d9bfee67666c25c73afba82993018a3dbc870b9d10"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_35.d.ts"
+hash = "f107e96c96d25f8a69a35672193f98f18f06911d4bb75cd77384be181a3a147e"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_36.d.ts"
+hash = "d71c73d899b8af479b3961acbf7355434a057e716e9e7d0297bcf2ceb16e38e8"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_37.d.ts"
+hash = "1a3de1962ebe65bc0d6eb9f6605a174a3cfb9a92e36be01839939f185d450e8b"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_38.d.ts"
+hash = "2283341ab4f9f0c0ad7ff812cf4e1dc4f58602afc6af06a007924eaab8d6ec76"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_39.d.ts"
+hash = "eb498de1d4c7e77d9315d1df336bc0d2827e3437c509a869da80c5510c7821ac"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_4.d.ts"
+hash = "31fe994852077b10cc371e1fa7a7b8ffe533b7a80cdb4353f49bd02eda68a506"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_40.d.ts"
+hash = "a5482d9365020a388d9887666c771e7b06ea6d5ae010c50b6424d9d4d8bf9f19"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_41.d.ts"
+hash = "66e76b17fb59e44a055fd25c08dffc334d17947fea89afec784069f0a1f52cb3"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_42.d.ts"
+hash = "eb56ff57bce7f83b0f0b00f5709f013be652a2e895abd297914958260d196531"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_43.d.ts"
+hash = "2267f25fe034a973f09fa2b627e2a1f540ef05e2e70088e1872b67e1c66eb1a9"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_44.d.ts"
+hash = "30948d74f5138bdaaabc538f8266ff6cf3bc4c99f01b85726e16db33683b5238"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_45.d.ts"
+hash = "add94f2c09ed5547dc499b00669e85dbe9e368786236707f9538db9c4f6c78ba"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_46.d.ts"
+hash = "6fe905236ec88da2a6d1a838fb626c50823a15a40f3a6658cbe03f87b444ac06"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_47.d.ts"
+hash = "9cbe4ec7fb5cbcc23d007a4a795261d2e711a982b0ca04f97168c08eafaa1141"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_48.d.ts"
+hash = "98e7eee61d1ef5639b0958cc85e5026d79bade2ceb6f8792b4ec438d1eb82de8"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_49.d.ts"
+hash = "47ca71775ea1074a4400d03829f9b610ba2e83945afdef54a1a61c5e18418458"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_5.d.ts"
+hash = "89c5b3f14542d229270bb98461196dc82bb772703ef3da88ba2b1468321bb706"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_50.d.ts"
+hash = "2608dfe4f33b41658a85b497bb82ceb535b7a16d130204fdbe3ba9d0bff2d0d9"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_51.d.ts"
+hash = "5df69c0f8176ff25e9595372468d53536fd26034bafe3ff01fd4494aa8af1267"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_52.d.ts"
+hash = "f0eb6c913e42af9a8338828519996e7f1d0b312adfc4a2faeb401bab0be03677"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_53.d.ts"
+hash = "c9ae374cb7bac016a1eb7bcb3095f390c290d953948570c6074fe9b982b55bb0"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_54.d.ts"
+hash = "b2d38e09648f9613124c18cb8702513ae87f55f588933847bdb99a29f09f4425"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_55.d.ts"
+hash = "695d07a52bd00451bb2e392b7ea13a776f80436f1a420d761dc54e11dcb0edca"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_56.d.ts"
+hash = "3f4d3c6223d696a89e7667102cd029f3039a0f0c1b51c096ed04b8d3572a9faf"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_57.d.ts"
+hash = "9e017918b2148131803b1879249b42ce1b349150d72452b69b2f3b0235f93ce3"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_58.d.ts"
+hash = "1a18c88724c52f3a4894b326951affc3f37398fe44c8684cb9c5d6ae9967bd72"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_59.d.ts"
+hash = "09a7d40c51b4759fc6aff2e7abff50a0cc8449e9626bb7ebf8681791422a8a24"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_6.d.ts"
+hash = "2dbb77cea27727a33d908113dd2e917b9ab46805eaaa409e066b556f1f06b9c0"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_60.d.ts"
+hash = "8d8feafe229029513c643df602825a0a6af24f009ad0f9403618a0fb7154f377"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_61.d.ts"
+hash = "ddad27de3e0102127fe3536ffc3992393d3b527aed9acf521ea492a6c06643f7"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_62.d.ts"
+hash = "0be53ce0c5469dba3ce899ca927bd035b158fb1efb0f5141501cd61218322851"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_7.d.ts"
+hash = "7889f4303f34d8eb8a51b296ce5b480fd5fd919f8e1f142b9c61d8f4af105d54"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_8.d.ts"
+hash = "60f1d8b44f531e7483125c4c32141cb66fd3ada0d5431e6e76ab46f491612829"
+
+[[files]]
+file = "kubejs/probe/generated/internals/internal_9.d.ts"
+hash = "29965933514362d1547c43730e9a33cbb3c4b0120839b76fc7686fc80907a518"
+
+[[files]]
+file = "kubejs/probe/generated/names.d.ts"
+hash = "d1fe0c1e3467db9c16cb4f0788d8f307cae2499664c53206bac2a42fc875bdaa"
+
+[[files]]
+file = "kubejs/probe/generated/raw.d.ts"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/probe/generated/registries.d.ts"
+hash = "d433b89e5ba3f4ab00fd90691343b09911b701f544211ff99ab9828cff13f2e6"
+
+[[files]]
+file = "kubejs/probe/generated/tag_events.d.ts"
+hash = "a7ac9d95e5257bc99a4eb7b00e9e1b0026d0113f0dc7e0796e5fa8c2d6612e27"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
@@ -1742,7 +2278,7 @@ hash = "06dd35a897f8449a2b590fa523a147eb082368bacbe7ad5a38a440944d03a849"
 
 [[files]]
 file = "kubejs/server_scripts/stage1/woodAndStoneTools.js"
-hash = "0ffa94ad62acfad05c00b57f77ac5eaf45d578f1fbd2a1b30ab7e3bda4bfce30"
+hash = "82f14210721067b10552af6fe8e1244ad7dca2027ce3c915719780b64551b721"
 
 [[files]]
 file = "kubejs/server_scripts/stage2.js/sawmill.js"
@@ -1753,8 +2289,12 @@ file = "kubejs/server_scripts/tags.js"
 hash = "e949e6e337b89623087d26c3eaa302c51b6199dd396118086f7794e9940af4ab"
 
 [[files]]
+file = "kubejs/startup_scripts/defineDeepslateAlloy.js"
+hash = "e074de93b88d890ec43f064287cc345aefec4e311d159491c89201a36270340a"
+
+[[files]]
 file = "kubejs/startup_scripts/dontRequireTool.js"
-hash = "51f8423cd22c8303d571b8dcc5386197fd55614f160b5cf9f90f0e7299b7f88f"
+hash = "24a6e4637d278201d92165dfd7f4f8660dac65bb6bbe9d368055ab42297a14a7"
 
 [[files]]
 file = "kubejs/startup_scripts/flint.js"
@@ -2268,6 +2808,11 @@ hash = "e3e17cd1227f6464805792e526665b947abe2a3e2c4a59f3c8e219ce483cb30d"
 metafile = true
 
 [[files]]
+file = "mods/probejs.pw.toml"
+hash = "25f4863fba654a2b603a90f52ce5f0e17871c4249fd5c7bef3d40a6c8d9e36de"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "b7051b4c2310e1566a96e72b525469b460ed1132e393f3865b798bc3d80386f0"
 metafile = true
@@ -2483,7 +3028,7 @@ metafile = true
 
 [[files]]
 file = "mods/vintage-delight.pw.toml"
-hash = "8c0197e90111ded56c37392afb33568758bb3edc8d11d1f222f8ab956e78af0f"
+hash = "017c584a6d2eec130e1157a268f0b6d1a50e72955032b5f2b49e0534e0a35d04"
 metafile = true
 
 [[files]]
