@@ -9,8 +9,7 @@
     { "item": "sand", "chance": 0.5 },
     { "item": "glowstone_dust", "chance": 0.1 },
     { "item": "quartz", "chance": 0.1 },
-    { "item": "natprog:dripstone_block_pebble", "chance": 0.1 },
-    { "item": "create:zinc_nugget", "chance": 0.05 }
+    { "item": "natprog:dripstone_block_pebble", "chance": 0.1 }
   ],
   "processingTime": 500
 }

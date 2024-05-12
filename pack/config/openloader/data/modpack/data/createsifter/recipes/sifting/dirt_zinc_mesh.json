@@ -1,0 +1,24 @@
+{
+  "type": "createsifter:sifting",
+  "ingredients": [
+    { "item": "createsifter:zinc_mesh" },
+    [
+      { "item": "dirt" },
+      { "item": "grass_block" },
+      { "item": "podzol" },
+      { "item": "coarse_dirt" },
+      { "item": "rooted_dirt" }
+    ]
+  ],
+  "results": [
+    { "item": "natprog:stone_pebble", "chance": 0.5 },
+    { "item": "dirt", "chance": 0.25 },
+    { "item": "wheat_seeds", "chance": 0.1 },
+    { "item": "quark:dirty_shard", "chance": 0.1 },
+    { "item": "aquaculture:worm", "chance": 0.1 },
+    { "item": "natprog:andesite_pebble", "chance": 0.1 },
+    { "item": "natprog:dripstone_block_pebble", "chance": 0.1 },
+    { "item": "create:zinc_nugget", "chance": 0.05 }
+  ],
+  "processingTime": 500
+}
