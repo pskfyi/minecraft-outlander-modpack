@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "SB",
+    "/ "
+  ],
+  "key": {
+    "S": { "item": "string" },
+    "B": { "item": "natprog:bone_shard" },
+    "/": { "item": "stick" }
+  },
+  "result": { "item": "natprog:bone_pickaxe" }
+}

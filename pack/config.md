@@ -114,7 +114,16 @@ distracting and divergent from vanilla map behavior.
 - Disabled the damage effect when trying to mine an unmineable block because it
   triggers at inappropriate times when playing with a trackpad.
 
-- Skipped the entire bone tier of tools.
+- Removed the bone knife.
+
+- Lowered bone pickaxe tool tier to match wood rather than stone tools,
+  preventing it from mining iron and copper.
+
+- Adjusted durability of all tools.
+
+- Added custom JEI/REI integration for knapping, using KubeJS.
+
+- Customized all tool recipes and added a table recipe for bone shards.
 
 ## Paragliders
 

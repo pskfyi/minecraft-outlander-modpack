@@ -1,0 +1,9 @@
+{
+  "type": "natprog:damage_tools",
+  "ingredients": [
+    { "tag": "farmersdelight:tools/knives" },
+    { "item": "bone" }
+  ],
+  "result": { "item": "natprog:bone_shard", "count": 2 },
+  "group": "bone"
+}

@@ -37,7 +37,11 @@ JEIAddedEvents.registerRecipes((event) => {
     .custom("natprog:knapping")
     .add({
       name: "minecraft:flint",
-      description: "Hold pebbles in both hands, then right-click to clack them together. There is a chance that they will produce sharp flint."
+      description: "Hold pebbles in both hands, then hold right-click to clack them together. There is a chance that they will produce sharp flint."
+    })
+    .add({
+      name: "natprog:bone_shard",
+      description: "Hold flint in one hand and bone in the other, then hold right-click to clack them together. There is a chance that they will produce sharp bone shards."
     })
 });
 

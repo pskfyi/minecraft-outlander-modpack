@@ -32,9 +32,7 @@ global.items = {
     "natprog:quark_marble_pebble",
     "natprog:quark_basalt_pebble",
     "natprog:quark_slate_pebble",
-    "natprog:bone_shard", // Skipping bone tools
     "natprog:bone_knife",
-    "natprog:bone_pickaxe",
     "natprog:bronze_saw", // No bronze in the pack
     "natprog:steel_saw",  // No steel in the pack
 
