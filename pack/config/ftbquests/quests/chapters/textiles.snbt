@@ -20,7 +20,7 @@
 			size: 1.5d
 			tasks: [{
 				id: "3ED91B17F54E5563"
-				item: "sewingkit:sewing_station"
+				item: "sewingkit:storing_sewing_station"
 				type: "item"
 			}]
 			x: -3.5d
@@ -423,18 +423,6 @@
 			}]
 			x: 3.5d
 			y: 5.5d
-		}
-		{
-			dependencies: ["3B95D031E0A69FC8"]
-			description: ["Add a chest and the table will retain its inventory."]
-			id: "7DC2BD1639426058"
-			tasks: [{
-				id: "67515AD988F4BE23"
-				item: "sewingkit:storing_sewing_station"
-				type: "item"
-			}]
-			x: -3.5d
-			y: -2.0d
 		}
 		{
 			id: "73F9E2D87301C683"

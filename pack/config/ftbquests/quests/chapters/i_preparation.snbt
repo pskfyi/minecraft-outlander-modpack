@@ -344,7 +344,7 @@
 			tasks: [
 				{
 					id: "7CDDF23189E47756"
-					item: "sewingkit:sewing_station"
+					item: "sewingkit:storing_sewing_station"
 					type: "item"
 				}
 				{

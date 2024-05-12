@@ -137,6 +137,12 @@ TBD
 Using configuration to hide uncraftable items and items which the modpack
 intends to treat as removed.
 
+## Sewing Kit
+
+- Removed the basic Sewing Station entirely in favor of its variant "Sewing
+  Station with Drawers" which retains its inventory.
+  - Renamed the variant to just "Sewing Station."
+
 ## Spice of Life: Carrot Edition
 
 - Player starting health set exceptionally low - just 2 hearts. However, eating

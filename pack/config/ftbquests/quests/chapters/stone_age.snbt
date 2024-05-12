@@ -183,7 +183,7 @@
 			id: "6375F1EEB7E00741"
 			tasks: [{
 				id: "33A5CD1F679D2B51"
-				item: "sewingkit:sewing_station"
+				item: "sewingkit:storing_sewing_station"
 				type: "item"
 			}]
 			x: 14.0d
