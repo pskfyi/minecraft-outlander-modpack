@@ -1,13 +1,13 @@
 {
   "type": "crafting_shaped",
   "pattern": [
-    "SSS",
-    "SCS",
+    "CCC",
+    "C C",
     "SSS"
   ],
   "key": {
-    "S": { "tag": "stone_tool_materials" },
-    "C": { "item": "clay_ball" }
+    "C": { "item": "cobblestone" },
+    "S": { "item": "smooth_stone" }
   },
-  "result": { "item": "furnace", "count": 1 }
+  "result": { "item": "furnace" }
 }

@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SFS",
+    "MMM"
+  ],
+  "key": {
+    "S": { "tag": "stone_tool_materials" },
+    "F": { "item": "campfire" },
+    "M": { "item": "mud_bricks" }
+  },
+  "result": { "item": "clayworks:kiln" }
+}

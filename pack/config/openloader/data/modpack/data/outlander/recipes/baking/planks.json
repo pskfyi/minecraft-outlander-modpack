@@ -1,0 +1,11 @@
+{
+  "type": "clayworks:baking",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.15,
+  "ingredient": { "tag": "planks" },
+  "result": {
+    "item": "tinycoal:tinycharcoal",
+    "count": 2
+  }
+}

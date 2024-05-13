@@ -1,1 +1,12 @@
-{}
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "MS",
+    "SM"
+  ],
+  "key": {
+    "M": { "item": "mud" },
+    "S": { "item": "farmersdelight:straw" }
+  },
+  "result": { "item": "packed_mud", "count": 2 }
+}

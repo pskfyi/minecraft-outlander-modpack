@@ -57,4 +57,5 @@ REIEvents.hide('item', event => {
   event.hide("quark:stripped_cherry_post") // Quark issue fix
   event.hide("#quark:vertical_slab")
   event.hide(/.+[\:\/]vertical_.+_planks/)
+  event.hide(/clayworks:.+_/)
 })

@@ -47,6 +47,8 @@ const BLOCKS_THAT_REQUIRE_TOOLS = [
   
   "createsifter:sifter",
   "sliceanddice:slicer",
+
+  "clayworks:kiln",
   
   // "#outlander:made_of/deepslate_alloy", // doesn't support tags at this time
   // snippet to get ids in a tag:

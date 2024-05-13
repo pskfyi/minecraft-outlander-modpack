@@ -1,0 +1,8 @@
+{
+  "type": "clayworks:baking",
+  "category": "misc",
+  "cookingtime": 600,
+  "experience": 0.15,
+  "ingredient": { "item": "cobblestone" },
+  "result": "stone"
+}
