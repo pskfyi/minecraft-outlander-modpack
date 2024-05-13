@@ -110,7 +110,7 @@ hash = "337547cac40f1050004efa0a5a6933cb41a21cd53af64a9b6faa35ec1483b2fd"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stone_age.snbt"
-hash = "cedccdb3d5bc4bf5990e99a2bba9f7221857f396df2aee511f7e6e4577c0a74b"
+hash = "09bb533f588ab7a2845a51b7dd16b0d4a8141c44671c0e40c0069fb97231e351"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/structures.snbt"
@@ -838,7 +838,7 @@ hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "config/openloader/data/modpack/data/farmersdelight/recipes/packed_mud_from_straw.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+hash = "60fd5c43f8a674469106c03fcb7fb8010b9f21107370d2b6081597698932a4cd"
 
 [[files]]
 file = "config/openloader/data/modpack/data/farmersdelight/recipes/paper_from_tree_bark.json"
@@ -1045,16 +1045,8 @@ file = "config/openloader/data/modpack/data/outlander/curios/entities/charm.json
 hash = "4cf9197c5c20802117500bf5796c2a2ef8c9eec17205b15b5d7ef26a08482489"
 
 [[files]]
-file = "config/openloader/data/modpack/data/outlander/recipes/baking/clay_ball.json"
-hash = "7eb1fd1930ea6bb0ba404187a41db5ff1817215f2255244be29747ac4b480741"
-
-[[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/baking/cobblestone.json"
 hash = "963a9adc1cf73d5a08f366af6be32376ed13b2516d741bfa51cc5e94edaa5f27"
-
-[[files]]
-file = "config/openloader/data/modpack/data/outlander/recipes/baking/mud.json"
-hash = "1ebc4b7415871e7be2d8b8fc73693ff37479a53681af723b9a6bbbeaa1ccd79b"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/baking/planks.json"
@@ -1063,10 +1055,6 @@ hash = "a3834e149637cf22e83c95bd2ef3c691bb72a0186928854fa4e678cc83d10bdf"
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/bone_shard.json"
 hash = "9aec06ff22b924000ab6065d9d869593138a77c815e4f262f156abb24c976898"
-
-[[files]]
-file = "config/openloader/data/modpack/data/outlander/recipes/campfire/mud.json"
-hash = "e472384007e4202b6b049320c01cc6a5d8ad8e9251e9400dba246a6fb7478f74"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/crafting/fermenting_jar.json"
@@ -1119,6 +1107,10 @@ hash = "24df295f217e9b3522371487f80a2f14a7037792925b5ed80530cde89e032467"
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/hand_hoe.json"
 hash = "63e3d649fd3ee2362c78081523f35cee782d0b93d0420c06a41fb3f53bee89c7"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/lychee/item_burning/log.json"
+hash = "4749f538501e3231caae21d1b1aec6c4903c330e3efb3ed15a1c74838ae53808"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/lychee/item_inside/dirt_in_water.json"
