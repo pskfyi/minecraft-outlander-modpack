@@ -1,0 +1,5 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [{ "item": "dripstone_block" }],
+  "results": [{ "item": "quark:polished_dripstone" }]
+}

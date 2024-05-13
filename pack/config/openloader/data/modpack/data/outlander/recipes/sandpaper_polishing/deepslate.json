@@ -1,0 +1,5 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [{ "item": "deepslate" }],
+  "results": [{ "item": "polished_deepslate" }]
+}

@@ -1,0 +1,5 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [{ "item": "diorite" }],
+  "results": [{ "item": "polished_diorite" }]
+}

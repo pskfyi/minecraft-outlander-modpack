@@ -1,0 +1,5 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [{ "item": "andesite" }],
+  "results": [{ "item": "polished_andesite" }]
+}

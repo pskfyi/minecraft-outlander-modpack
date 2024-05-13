@@ -1,0 +1,5 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [{ "item": "quark:myalite" }],
+  "results": [{ "item": "quark:polished_myalite" }]
+}

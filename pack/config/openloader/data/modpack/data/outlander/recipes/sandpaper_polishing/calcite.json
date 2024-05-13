@@ -1,0 +1,5 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [{ "item": "calcite" }],
+  "results": [{ "item": "quark:polished_calcite" }]
+}

@@ -1,0 +1,5 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [{ "item": "sandstone" }],
+  "results": [{ "item": "smooth_sandstone" }]
+}

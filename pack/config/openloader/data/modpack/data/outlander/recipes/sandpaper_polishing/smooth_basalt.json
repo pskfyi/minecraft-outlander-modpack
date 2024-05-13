@@ -1,0 +1,5 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [{ "item": "smooth_basalt" }],
+  "results": [{ "item": "polished_basalt" }]
+}

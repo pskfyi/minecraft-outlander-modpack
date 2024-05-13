@@ -1,0 +1,5 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [{ "item": "quark:jasper" }],
+  "results": [{ "item": "quark:polished_jasper" }]
+}

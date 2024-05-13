@@ -1,0 +1,5 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [{ "item": "quark:shale" }],
+  "results": [{ "item": "quark:polished_shale" }]
+}

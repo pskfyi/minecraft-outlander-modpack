@@ -1,0 +1,5 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [{ "item": "quartz_block" }],
+  "results": [{ "item": "smooth_quartz" }]
+}
