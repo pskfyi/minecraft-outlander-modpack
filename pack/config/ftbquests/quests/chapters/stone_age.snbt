@@ -51,17 +51,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 0.0d
-		}
-		{
-			id: "1F971A7E13539612"
-			tasks: [{
-				id: "522FBCF17D8FAD29"
-				item: "farmersdelight:straw"
-				type: "item"
-			}]
-			x: 4.0d
-			y: 0.0d
+			y: -0.5d
 		}
 		{
 			id: "08CEB677154BD052"
@@ -70,8 +60,8 @@
 				item: "minecraft:string"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 0.0d
+			x: 4.0d
+			y: 4.5d
 		}
 		{
 			id: "4073F97529003174"
@@ -80,8 +70,8 @@
 				item: "farmersdelight:tree_bark"
 				type: "item"
 			}]
-			x: 10.0d
-			y: 0.0d
+			x: 6.0d
+			y: -3.0d
 		}
 		{
 			id: "5A3DD2919D350F69"
@@ -90,8 +80,8 @@
 				item: "minecraft:oak_planks"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 0.0d
+			x: 6.0d
+			y: -1.5d
 		}
 		{
 			id: "453241C52754C049"
@@ -104,8 +94,8 @@
 				}
 				type: "item"
 			}]
-			x: 14.0d
-			y: -3.0d
+			x: 8.0d
+			y: -4.5d
 		}
 		{
 			id: "5071E470C87737D9"
@@ -115,7 +105,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 4.5d
+			y: 7.5d
 		}
 		{
 			id: "4F316F9C4E7591F6"
@@ -130,8 +120,8 @@
 				}
 				type: "item"
 			}]
-			x: 8.0d
-			y: 0.0d
+			x: 4.0d
+			y: -0.5d
 		}
 		{
 			id: "3B95757A9755805D"
@@ -146,17 +136,7 @@
 				}
 				type: "item"
 			}]
-			x: 12.0d
-			y: -1.5d
-		}
-		{
-			id: "3B60AE0B06E65FD9"
-			tasks: [{
-				id: "71C370D66E65349C"
-				item: "minecraft:crafting_table"
-				type: "item"
-			}]
-			x: 14.0d
+			x: 8.0d
 			y: 0.0d
 		}
 		{
@@ -166,8 +146,8 @@
 				item: "create:zinc_nugget"
 				type: "item"
 			}]
-			x: 14.0d
-			y: -4.5d
+			x: 8.0d
+			y: -6.0d
 		}
 		{
 			id: "340EDB1823C2D356"
@@ -176,8 +156,8 @@
 				item: "farmersdelight:cutting_board"
 				type: "item"
 			}]
-			x: 14.0d
-			y: 1.5d
+			x: 9.5d
+			y: -1.5d
 		}
 		{
 			id: "6375F1EEB7E00741"
@@ -186,8 +166,8 @@
 				item: "sewingkit:storing_sewing_station"
 				type: "item"
 			}]
-			x: 14.0d
-			y: -1.5d
+			x: 8.0d
+			y: -3.0d
 		}
 		{
 			id: "352A2BCD22A4A8F4"
@@ -202,8 +182,8 @@
 				}
 				type: "item"
 			}]
-			x: 6.0d
-			y: -1.5d
+			x: 4.0d
+			y: -3.0d
 		}
 		{
 			id: "19482A6B0A58AF3E"
@@ -213,7 +193,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 3.0d
+			y: 6.0d
 		}
 		{
 			id: "53AEEF3769E48212"
@@ -223,7 +203,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 6.0d
+			y: 9.0d
 		}
 		{
 			id: "0BDD2584F1416085"
@@ -245,7 +225,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 7.5d
+			y: 10.5d
 		}
 		{
 			id: "42C2DFAE8ABF2FF6"
@@ -254,8 +234,176 @@
 				item: "minecraft:paper"
 				type: "item"
 			}]
-			x: 10.0d
+			x: 6.0d
+			y: -4.5d
+		}
+		{
+			id: "20DE3F85C37D3BAA"
+			tasks: [{
+				id: "30CCB0521BEBB0DC"
+				item: "minecraft:dirt"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "4BBA66BCF7669471"
+			tasks: [{
+				id: "36F08763EB9E30C8"
+				item: "minecraft:grass"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			id: "056D336A366B2E1E"
+			tasks: [{
+				id: "698E5A240E080BFA"
+				item: "farmersdelight:straw"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			id: "4C973362B3286C5A"
+			tasks: [{
+				id: "225D812556C70DD0"
+				item: "minecraft:mud"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			id: "127656B08826CFB6"
+			tasks: [{
+				id: "3889E67EA2A6221A"
+				item: "minecraft:packed_mud"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			id: "53FAA8E16C315B44"
+			tasks: [{
+				id: "76C53F95AB8D0E77"
+				item: "minecraft:mud_bricks"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			id: "5A5DD854F80E66D0"
+			tasks: [{
+				id: "616B26610536A72B"
+				item: "clayworks:kiln"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			id: "6E1E5E22E34B2873"
+			tasks: [{
+				id: "2C747C923CA0594F"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			x: 4.0d
 			y: -1.5d
+		}
+		{
+			id: "1232E32D0E6339DB"
+			tasks: [{
+				id: "2096F261395EB390"
+				item: {
+					Count: 1b
+					id: "create:sand_paper"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -6.0d
+		}
+		{
+			id: "0B3F95B59178A500"
+			tasks: [{
+				id: "63D69FF639EB928C"
+				item: "minecraft:crafting_table"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -1.5d
+		}
+		{
+			id: "177BE58C6D78B04A"
+			tasks: [{
+				id: "43B0EE0AA41E86A6"
+				item: "minecraft:stone"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			id: "75DA097D5E64CE8B"
+			tasks: [{
+				id: "467AE4CE97654319"
+				item: {
+					Count: 1b
+					id: "all_the_flint_tools:flintshovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			id: "46AD6F549D1DEDD1"
+			tasks: [{
+				id: "22E4FAF308D495B1"
+				item: {
+					Count: 1b
+					id: "all_the_flint_tools:flinthoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			id: "1E95B3676CFDB5B1"
+			tasks: [{
+				id: "36250F8CCB024B73"
+				item: "minecraft:smooth_stone"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			id: "373AD7C864705B50"
+			tasks: [{
+				id: "52E05EB9C20E6544"
+				item: "minecraft:furnace"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 1.5d
 		}
 	]
 	title: "Stone Age"
