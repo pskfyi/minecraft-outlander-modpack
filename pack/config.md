@@ -17,6 +17,11 @@ Most of the items have been removed. This is in the pack primarily so that
 copper shovels, hoes, and picks can precede iron and serve as the first metal
 tools.
 
+## Block Runner
+
+Configured all smooth, polished, brick, and tile blocks to be as fast as paved
+dirt.
+
 ## Botany Pots
 
 ### Growth Speed
