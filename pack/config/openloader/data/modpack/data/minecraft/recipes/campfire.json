@@ -1,14 +1,13 @@
 {
   "type": "crafting_shaped",
   "pattern": [
-    " s ",
-    "sSs",
-    "LLL"
+    "ss",
+    "SP"
   ],
   "key": {
     "s": { "item": "stick" },
     "S": { "item": "farmersdelight:straw" },
-    "L": { "tag": "logs" }
+    "P": { "tag": "planks" }
   },
   "result": { "item": "campfire", "count": 1 }
 }
