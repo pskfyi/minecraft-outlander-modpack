@@ -2,8 +2,8 @@
   "type": "crafting_shaped",
   "pattern": [
     "CCC",
-    "CFC",
-    "MMM"
+    "M M",
+    "MFM"
   ],
   "key": {
     "C": { "item": "cobblestone" },
