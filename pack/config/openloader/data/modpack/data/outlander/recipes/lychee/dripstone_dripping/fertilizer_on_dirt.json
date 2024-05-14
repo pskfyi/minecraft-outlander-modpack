@@ -1,0 +1,6 @@
+{
+  "type": "lychee:dripstone_dripping",
+  "source_block": "sliceanddice:fertilizer",
+  "target_block": "dirt",
+  "post": [{ "type": "place", "block": "grass_block" }]
+}

@@ -1,0 +1,6 @@
+{
+  "type": "lychee:dripstone_dripping",
+  "source_block": "sliceanddice:fertilizer",
+  "target_block": "moss_block",
+  "post": [{ "type": "drop_item", "item": "quark:moss_paste" }]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "lychee:dripstone_dripping",
+  "source_block": "sliceanddice:fertilizer",
+  "target_block": "vintagedelight:magic_vine_block",
+  "post": [
+    { "type": "place", "block": "create:experience_block" }
+  ]
+}

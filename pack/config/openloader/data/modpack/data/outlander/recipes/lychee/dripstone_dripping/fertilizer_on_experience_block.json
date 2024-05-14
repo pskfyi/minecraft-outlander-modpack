@@ -1,0 +1,9 @@
+{
+  "type": "lychee:dripstone_dripping",
+  "source_block": "sliceanddice:fertilizer",
+  "target_block": "create:experience_block",
+  "post": [
+    { "type": "place", "block": "air" },
+    { "type": "drop_item", "item": "emerald" }
+  ]
+}

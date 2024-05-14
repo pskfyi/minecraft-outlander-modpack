@@ -1,0 +1,8 @@
+{
+  "type": "lychee:dripstone_dripping",
+  "source_block": "sliceanddice:fertilizer",
+  "target_block": "water",
+  "post": [
+    { "type": "drop_item", "item": "aquaculture:algae" }
+  ]
+}
