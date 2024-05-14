@@ -1,7 +1,7 @@
 {
   "type": "create:milling",
   "ingredients": [
-    [{ "tag": "saplings" }, { "tag": "forge:seeds" }]
+    [{ "tag": "saplings" }, { "tag": "outlander:seeds" }]
   ],
   "processingTime": 10,
   "results": []
