@@ -541,6 +541,10 @@ file = "config/openloader/data/modpack/data/bountiful/recipes/crafting/bountyboa
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "config/openloader/data/modpack/data/clayworks/recipes/kiln.json"
+hash = "c482814bd9ecb4eec01e45694df7d9ae415f72521b7ed9cb77be3a508f919a1f"
+
+[[files]]
 file = "config/openloader/data/modpack/data/constructionwand/recipes/stone_wand.json"
 hash = "04065c7a8aa46dcef290534a4c9dd08f4c6ef6c6e87b11518ef43e1faa124ed6"
 
@@ -646,7 +650,7 @@ hash = "ea36646f1b738bf14406659b7fac40d3b29ab2dedfcba69830e408c3f57afec6"
 
 [[files]]
 file = "config/openloader/data/modpack/data/create/recipes/milling/seeds_and_saplings.json"
-hash = "8b679abca1ca473488ea569ec84f63c867ecbf2180f84e76beb9d32aa033908d"
+hash = "8bc641c52ced311fb7262c7984270ed9407eca9f6fd4d56658e7fa2c80d41b3c"
 
 [[files]]
 file = "config/openloader/data/modpack/data/create/recipes/milling/terracotta.json"
@@ -873,6 +877,10 @@ file = "config/openloader/data/modpack/data/forge/tags/items/seeds.json"
 hash = "946546ad96d5f53985582c0d44f3930561f691a6323d440537ac41362a3b167d"
 
 [[files]]
+file = "config/openloader/data/modpack/data/minecraft/loot_tables/blocks/campfire.json"
+hash = "384df05f384d2b6605d26af8209663c17331bc860d6fda69a9e2a71eaecae1a4"
+
+[[files]]
 file = "config/openloader/data/modpack/data/minecraft/recipes/andesite.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
@@ -890,7 +898,7 @@ hash = "244f6cc609e4f6d2aaabc61e1d30474d6669c473bf9df68dbcba0c1671be3056"
 
 [[files]]
 file = "config/openloader/data/modpack/data/minecraft/recipes/campfire.json"
-hash = "43dc656caae8533c299a0e4d5d5451d5b35e771dc29c2ae654f16f1fbf383245"
+hash = "b4dc529a4bf2cc0e0242d92bd5f526c917ed015c51dbb677f7773aa08c5810dc"
 
 [[files]]
 file = "config/openloader/data/modpack/data/minecraft/recipes/cartography_table.json"
@@ -1059,10 +1067,6 @@ hash = "9aec06ff22b924000ab6065d9d869593138a77c815e4f262f156abb24c976898"
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/crafting/fermenting_jar.json"
 hash = "221f6a3821f1e3d933e484f943b9f53fd1c503204e7865acdb13d8b3fc8acdd3"
-
-[[files]]
-file = "config/openloader/data/modpack/data/outlander/recipes/crafting/kiln.json"
-hash = "33f43ad33ac647de403b735b6847d208873f5699cd1d5e9fe50b3a9c471d52e2"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/crops/ancient_hedge.json"
@@ -1315,6 +1319,10 @@ hash = "f55c9669d4fa18a52846f0f29e5024e3c97ec3ee3e8bdfe53af5cea1fc01f85d"
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/tags/items/made_of/deepslate_alloy.json"
 hash = "c90f6319c59f4f9bc8c7bac7d5d6fbe154161b3c90bde85a87203825ce4a16b9"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/tags/items/seeds.json"
+hash = "71bc52a95dfad91341d074f99ddf9da47758f4106b3be649606c12a40b76be1f"
 
 [[files]]
 file = "config/openloader/data/modpack/data/paraglider/recipes/paraglider.json"
@@ -2037,6 +2045,10 @@ file = "config/openloader/resources/modpack/assets/all_the_flint_tools/lang/en_u
 hash = "4a7b7ad2cbe9533af07d16e22b5525697c8b7a74f23e26e552001e69d3533a8e"
 
 [[files]]
+file = "config/openloader/resources/modpack/assets/clayworks/lang/en_us.json"
+hash = "8380032427dc4aba9dca8dcd9f3bdcd804fda3efe5ccbd36615cc2f2ddef43be"
+
+[[files]]
 file = "config/openloader/resources/modpack/assets/sewingkit/lang/en_us.json"
 hash = "59c09a56431fe57f8669b4488ea1019aeb09ba61a496c47f4ca3335159a09bf3"
 
@@ -2103,10 +2115,6 @@ hash = "bb605c0c33e7b785b04a9575175d8e425717d21b16f3f974b6673c6825d0f9aa"
 [[files]]
 file = "kubejs/assets/outlander/textures/item/deepslate_alloy.png"
 hash = "547cc434909a225e3f326f53610a46eb7d7faf9a502974dc767d66431416c6bf"
-
-[[files]]
-file = "kubejs/client_scripts/lang.js"
-hash = "870f8a1ea5880037c9dba5f0c18c65afb7e6d807514d97a8e6834a2a8e651c9f"
 
 [[files]]
 file = "kubejs/client_scripts/rei.js"
@@ -3086,11 +3094,6 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-resources.pw.toml"
 hash = "afbc1b044e9a53bc2db3686bdc4b8e8d099972de2bd802482a569594c209b471"
-metafile = true
-
-[[files]]
-file = "mods/salt.pw.toml"
-hash = "0320c1620e4589d18a590e23d80c729f873dbcdd9aae29bc5e76a9ad7c5f668f"
 metafile = true
 
 [[files]]
