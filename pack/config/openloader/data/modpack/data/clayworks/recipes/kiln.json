@@ -1,12 +1,12 @@
 {
   "type": "crafting_shaped",
   "pattern": [
-    "SSS",
-    "SFS",
+    "CCC",
+    "CFC",
     "MMM"
   ],
   "key": {
-    "S": { "tag": "stone_tool_materials" },
+    "C": { "item": "cobblestone" },
     "F": { "item": "campfire" },
     "M": { "item": "mud_bricks" }
   },
