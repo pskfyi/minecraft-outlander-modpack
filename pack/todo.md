@@ -15,8 +15,6 @@
   - This is an intended feature of the current build of Parcool when using
     hunger as the stamina system. Undocumented but noted in the Curseforge
     comments section. There's an open request to make it configurable.
-- The vanilla furnace recipe cannot be removed, neither with data packs nor
-  KubeJS.
 - Loot tables contain OP items, especially in villages. This warps the early
   game too much.
 - Some Lychee interactions show Chinese characters which are not translateable
