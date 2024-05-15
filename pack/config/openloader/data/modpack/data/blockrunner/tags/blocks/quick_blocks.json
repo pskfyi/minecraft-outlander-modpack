@@ -1,5 +1,6 @@
 {
   "values": [
+    "minecraft:dirt_path",
     "#outlander:smooth_blocks",
     "#outlander:polished_blocks",
     "#outlander:brick_blocks",
