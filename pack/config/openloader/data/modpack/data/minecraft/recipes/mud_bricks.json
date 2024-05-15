@@ -1,0 +1,9 @@
+{
+  "type": "natprog:damage_tools",
+  "ingredients": [
+    { "tag": "natprog:saw" },
+    { "item": "packed_mud" }
+  ],
+  "result": { "item": "mud_bricks", "count": 1 },
+  "group": "mud"
+}
