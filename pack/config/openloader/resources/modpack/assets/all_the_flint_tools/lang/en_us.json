@@ -1,9 +1,4 @@
 {
   "item.all_the_flint_tools.flintshovel": "Flint Garden Trowel",
-  "advancements.flint.title": "Baby steps",
-  "item.all_the_flint_tools.flintaxe": "Flint axe",
-  "item.all_the_flint_tools.flinthoe": "Flint Hand Hoe",
-  "advancements.flint.descr": "Make your first tool, (only from flint).",
-  "item.all_the_flint_tools.flintpickaxe": "Flint pickaxe",
-  "item.all_the_flint_tools.flintshears": "Flint shears"
+  "item.all_the_flint_tools.flinthoe": "Flint Hand Hoe"
 }
