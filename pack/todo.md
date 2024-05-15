@@ -29,10 +29,6 @@
 
 ## Mods Not Yet Ready
 
-[Grappling Hook Mod](https://www.curseforge.com/minecraft/mc-mods/grappling-hook-mod)
-is stuck on an old version of Forge and I'm not willing to downgrade for it. I'd
-also prefer a much simpler implementation.
-
 [Create Style Modded Compats](https://www.curseforge.com/minecraft/texture-packs/create-style-modded-compats)
 is stuck on 1.19.3.
 
