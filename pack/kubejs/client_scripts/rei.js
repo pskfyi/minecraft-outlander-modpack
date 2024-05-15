@@ -50,6 +50,7 @@ REIEvents.hide('item', event => {
 
   event.hide("farmersdelight:rope")
   event.hide("quark:rope")
+  event.hide("quark:chute")
   event.hide("quark:blackstone_furnace")
   event.hide("quark:deepslate_furnace")
   event.hide("quark:rope")

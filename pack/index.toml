@@ -2130,7 +2130,7 @@ hash = "c91312875a70cfd13eb1cdec393e0ddb646b810d729d1958ef769063c765febc"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "6ffe1b98180b2afd419e26e2b1a056d0e8fa527b8d1139c299185d1fa0df4abc"
+hash = "ad04250f8a055f039accaba685a7c5fe682f570eaf0b54b445f1cb96fbbb6c24"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -2182,7 +2182,7 @@ hash = "547cc434909a225e3f326f53610a46eb7d7faf9a502974dc767d66431416c6bf"
 
 [[files]]
 file = "kubejs/client_scripts/rei.js"
-hash = "3f139852460876ea55abc8204e361d0550166b1c6c4d8c319bb4936a88ad7377"
+hash = "354279472f4a3e6b2f0b658f2649b96c54eaa508cda705a754ffcb4eb4983a15"
 
 [[files]]
 file = "kubejs/probe/cache/cachedForgeEvents.json"
