@@ -70,7 +70,8 @@ configuration is particularly notable.
   [Effects](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed),
   [Paintings](https://www.curseforge.com/minecraft/mc-mods/jepp),
   [Professions](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-professions-rep),
-  [Resources](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources))
+  [Resources](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources),
+  [JER](https://legacy.curseforge.com/minecraft/mc-mods/just-enough-resources-jer))
 - [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true) w/
   connected textures via
   [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity),
