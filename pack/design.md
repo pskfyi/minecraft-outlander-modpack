@@ -21,8 +21,9 @@ with the base game.
   [First Industrial Revolution](https://en.wikipedia.org/wiki/Industrial_Revolution)
   except through fantastical means such as redstone and ender pearls.
 
-- No overhauls to the core look and feel of the vanilla game. No texture packs,
-  bundled shaders, audio overhauls, etc.
+- No overhauls to the core look and feel of the vanilla game. No bundled
+  shaders, audio overhauls, etc. Only vanilla-esque texture packs should be
+  considered.
 
 - Strong preference for environmental interaction in lieu of GUIs.
 

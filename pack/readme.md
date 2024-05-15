@@ -71,6 +71,11 @@ configuration is particularly notable.
   [Paintings](https://www.curseforge.com/minecraft/mc-mods/jepp),
   [Professions](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-professions-rep),
   [Resources](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources))
+- [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true) w/
+  connected textures via
+  [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity),
+  [Lazurite](https://www.curseforge.com/minecraft/mc-mods/lazurite), and
+  [Sinytra](https://www.curseforge.com/minecraft/mc-mods/sinytra-connector)
 - [Visual Workbench](https://curseforge.com/minecraft/mc-mods/visual-workbench)
 
 #### Performance

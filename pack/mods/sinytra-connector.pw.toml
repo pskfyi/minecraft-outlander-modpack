@@ -1,0 +1,13 @@
+name = "Sinytra Connector"
+filename = "Connector-1.0.0-beta.43+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa993138baa05a7cc7b55f9a97ea20a0328afcf1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5299502
+project-id = 890127
