@@ -39,12 +39,6 @@ is stuck on 1.19.3.
 [Simply Ceramics](https://www.curseforge.com/minecraft/mc-mods/simply-ceramics)
 needs to be slightly more proven before I dive in.
 
-Both
-[Roughly Enough Loot Tables](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-loot-tables)
-and
-[Roughly Enough Trades](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-trades)
-are stuck on 1.19.x.
-
 [HUD Compass] does not support
 [Map Atlases](https://github.com/gigaherz/HudCompass/issues/14) or
 [Curios](https://github.com/gigaherz/HudCompass/issues/21). I created
