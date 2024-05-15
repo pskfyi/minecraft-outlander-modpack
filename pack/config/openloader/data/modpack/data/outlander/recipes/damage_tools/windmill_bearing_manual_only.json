@@ -1,0 +1,12 @@
+{
+  "type": "natprog:damage_tools",
+  "ingredients": [
+    { "item": "supplementaries:wrench" },
+    { "item": "slime_ball" },
+    { "item": "polished_deepslate_slab" },
+    { "item": "outlander:deepslate_alloy" },
+    { "item": "create:shaft" }
+  ],
+  "result": { "item": "create:windmill_bearing" },
+  "group": "string"
+}

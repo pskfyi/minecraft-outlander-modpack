@@ -1,0 +1,13 @@
+{
+  "type": "natprog:damage_tools",
+  "ingredients": [
+    { "item": "supplementaries:wrench" },
+    { "item": "create:cogwheel" },
+    { "tag": "planks" },
+    { "tag": "planks" },
+    { "tag": "planks" },
+    { "tag": "planks" }
+  ],
+  "result": { "item": "create:large_cogwheel" },
+  "group": "string"
+}
