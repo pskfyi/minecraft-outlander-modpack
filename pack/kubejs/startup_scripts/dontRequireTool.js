@@ -12,6 +12,8 @@ const BLOCKS_THAT_REQUIRE_TOOLS = [
   "natprog:cobbled_dripstone_block",
   "natprog:cobbled_nettherack",
   "natprog:cobbled_end_stone",
+
+  "quark:sturdy_stone",
   
   "create:andesite_casing",
   "create:andesite_encased_cogwheel",
@@ -47,8 +49,6 @@ const BLOCKS_THAT_REQUIRE_TOOLS = [
   
   "createsifter:sifter",
   "sliceanddice:slicer",
-
-  "clayworks:kiln",
   
   // "#outlander:made_of/deepslate_alloy", // doesn't support tags at this time
   // snippet to get ids in a tag:

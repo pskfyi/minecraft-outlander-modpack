@@ -6,11 +6,7 @@
 	icon: "minecraft:campfire"
 	id: "4956B401CFFB6C47"
 	images: [{
-		click: ""
-		corner: false
-		dev: false
 		height: 1.0d
-		hover: [ ]
 		image: "farmersdelight:item/hamburger"
 		rotation: 0.0d
 		width: 1.0d

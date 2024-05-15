@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "sss",
+    "sss",
+    "sss"
+  ],
+  "key": {
+    "s": { "item": "natprog:stone_pebble" }
+  },
+  "result": { "item": "quark:sturdy_stone" }
+}

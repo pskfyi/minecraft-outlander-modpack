@@ -71,14 +71,6 @@ tiers.
 possible within REI. I made a request in the REI Discord and the author
 immediately responded positively, so it's possible this issue will be resolved.)
 
-## Clayworks
-
-- Disabled all items except the kiln. Heavily modified it.
-  - Renamed to Oven.
-  - Edited recipe to replace furnace with campfire.
-  - Removed all default baking recipes, with the intention to repurpose the
-    block for cooking and other low-temperature cooking.
-
 ## Cold Sweat
 
 Added a Curios charm slot to hold the thermometer.
@@ -157,6 +149,9 @@ TBD
 - Disabled emotes. They add many entries to the Controls screeen and cause
   clutter in the in-game talk GUI.
 - Disabled Limestone in favor of Create's variant.
+- Repurposed "Stury Stone" as "Sturdy Cobblestone" crafted from pebbles and used
+  as the early precursor to Stone proper as well as a building material for the
+  vanilla Furnace.
 
 ## REI
 

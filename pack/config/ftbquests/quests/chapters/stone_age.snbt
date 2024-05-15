@@ -25,7 +25,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -1.5d
+			y: -2.0d
 		}
 		{
 			id: "482FC0C67F7B41B5"
@@ -35,7 +35,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 1.5d
+			y: 2.0d
 		}
 		{
 			id: "3504FA5097C1115D"
@@ -61,7 +61,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 4.5d
+			y: 6.0d
 		}
 		{
 			id: "4073F97529003174"
@@ -71,7 +71,7 @@
 				type: "item"
 			}]
 			x: 6.0d
-			y: -3.0d
+			y: -4.0d
 		}
 		{
 			id: "5A3DD2919D350F69"
@@ -81,7 +81,7 @@
 				type: "item"
 			}]
 			x: 6.0d
-			y: -1.5d
+			y: -2.0d
 		}
 		{
 			id: "453241C52754C049"
@@ -95,7 +95,7 @@
 				type: "item"
 			}]
 			x: 8.0d
-			y: -4.5d
+			y: -5.5d
 		}
 		{
 			id: "5071E470C87737D9"
@@ -105,7 +105,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 7.5d
+			y: 10.0d
 		}
 		{
 			id: "4F316F9C4E7591F6"
@@ -147,7 +147,7 @@
 				type: "item"
 			}]
 			x: 8.0d
-			y: -6.0d
+			y: -6.5d
 		}
 		{
 			id: "340EDB1823C2D356"
@@ -157,7 +157,7 @@
 				type: "item"
 			}]
 			x: 9.5d
-			y: -1.5d
+			y: -2.0d
 		}
 		{
 			id: "6375F1EEB7E00741"
@@ -167,7 +167,7 @@
 				type: "item"
 			}]
 			x: 8.0d
-			y: -3.0d
+			y: -4.0d
 		}
 		{
 			id: "352A2BCD22A4A8F4"
@@ -183,7 +183,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: -3.0d
+			y: -4.0d
 		}
 		{
 			id: "19482A6B0A58AF3E"
@@ -193,7 +193,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 6.0d
+			y: 8.0d
 		}
 		{
 			id: "53AEEF3769E48212"
@@ -203,7 +203,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 9.0d
+			y: 12.0d
 		}
 		{
 			id: "0BDD2584F1416085"
@@ -225,7 +225,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 10.5d
+			y: 14.0d
 		}
 		{
 			id: "42C2DFAE8ABF2FF6"
@@ -235,7 +235,7 @@
 				type: "item"
 			}]
 			x: 6.0d
-			y: -4.5d
+			y: -5.5d
 		}
 		{
 			id: "20DE3F85C37D3BAA"
@@ -245,7 +245,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 3.0d
+			y: 4.0d
 		}
 		{
 			id: "4BBA66BCF7669471"
@@ -255,7 +255,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 4.5d
+			y: 6.0d
 		}
 		{
 			id: "056D336A366B2E1E"
@@ -265,7 +265,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 4.5d
+			y: 6.0d
 		}
 		{
 			id: "4C973362B3286C5A"
@@ -275,7 +275,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 3.0d
+			y: 4.0d
 		}
 		{
 			id: "127656B08826CFB6"
@@ -285,7 +285,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 3.0d
+			y: 4.0d
 		}
 		{
 			id: "53FAA8E16C315B44"
@@ -295,17 +295,7 @@
 				type: "item"
 			}]
 			x: 6.0d
-			y: 3.0d
-		}
-		{
-			id: "5A5DD854F80E66D0"
-			tasks: [{
-				id: "616B26610536A72B"
-				item: "clayworks:kiln"
-				type: "item"
-			}]
-			x: 8.0d
-			y: 3.0d
+			y: 4.0d
 		}
 		{
 			id: "6E1E5E22E34B2873"
@@ -315,7 +305,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: -1.5d
+			y: -2.0d
 		}
 		{
 			id: "1232E32D0E6339DB"
@@ -331,7 +321,7 @@
 				type: "item"
 			}]
 			x: 6.0d
-			y: -6.0d
+			y: -6.5d
 		}
 		{
 			id: "0B3F95B59178A500"
@@ -341,7 +331,7 @@
 				type: "item"
 			}]
 			x: 8.0d
-			y: -1.5d
+			y: -2.0d
 		}
 		{
 			id: "177BE58C6D78B04A"
@@ -350,8 +340,8 @@
 				item: "minecraft:stone"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 1.0d
+			x: 4.0d
+			y: 2.0d
 		}
 		{
 			id: "75DA097D5E64CE8B"
@@ -392,7 +382,7 @@
 				item: "minecraft:smooth_stone"
 				type: "item"
 			}]
-			x: 8.0d
+			x: 6.0d
 			y: 2.0d
 		}
 		{
@@ -402,8 +392,18 @@
 				item: "minecraft:furnace"
 				type: "item"
 			}]
-			x: 9.5d
-			y: 1.5d
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			id: "2A18D0DBD1A91F99"
+			tasks: [{
+				id: "247A5AFB11166E73"
+				item: "quark:sturdy_stone"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
 		}
 	]
 	title: "Stone Age"

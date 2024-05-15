@@ -1,12 +1,12 @@
 {
   "type": "crafting_shaped",
   "pattern": [
-    "CCC",
-    "C C",
+    "sss",
+    "s s",
     "SSS"
   ],
   "key": {
-    "C": { "item": "cobblestone" },
+    "s": { "item": "quark:sturdy_stone" },
     "S": { "item": "smooth_stone" }
   },
   "result": { "item": "furnace" }

@@ -1,0 +1,7 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    { "item": "quark:sturdy_stone" }
+  ],
+  "result": { "item": "natprog:stone_pebble", "count": 9 }
+}
