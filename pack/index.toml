@@ -5,6 +5,10 @@ file = "config/biomespawnpoint/spawnbiomes.txt"
 hash = "4950d915459bb009395022c947384e32ae29d2ae26c5dab551d1fdd47a1597f2"
 
 [[files]]
+file = "config/blockrunner.json"
+hash = "80abf923f16248d5fc16177706c12970bcaccfdd979e6d768f0f928f471d21b7"
+
+[[files]]
 file = "config/carryon-common.toml"
 hash = "ea6269b399235f4c2d061ba5b7e9ba5d65d7f6624c345f4ccfdc3813c41e2973"
 
@@ -110,7 +114,7 @@ hash = "337547cac40f1050004efa0a5a6933cb41a21cd53af64a9b6faa35ec1483b2fd"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stone_age.snbt"
-hash = "09bb533f588ab7a2845a51b7dd16b0d4a8141c44671c0e40c0069fb97231e351"
+hash = "f3bd06c7aba87de480349e58477d418658f5c4026ea8d353fe083152c63f11f1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/structures.snbt"
@@ -122,7 +126,7 @@ hash = "966e621cf38d18400e20afa2b8e983dd635eb24e28d5b61c4c2cc7a0375d727c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_way_of_fire.snbt"
-hash = "ec307d5b1bf57e72760b810457a2773499f9a9fddd9ee10e02fdd6f36849b593"
+hash = "49ccd71afb63fffe126fe87e33c2450e480d31c3d26187de85c4f07f414cb032"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_way_of_water.snbt"
@@ -206,7 +210,11 @@ hash = "b9584b2bfb870982e63c44ef2cde2385f284813c49dcb5f568512dd6b7f5de7d"
 
 [[files]]
 file = "config/openloader/data/modpack/data/blockrunner/tags/blocks/quick_blocks.json"
-hash = "8f852283d906794d268cdf68642c07d8705c1e5c38f56d5a325157021944ed17"
+hash = "c8c8a9bd2c8f0b0a109f2d4c09b72d79d6b1ffaf152c7da76bf5168e4df93131"
+
+[[files]]
+file = "config/openloader/data/modpack/data/blockrunner/tags/blocks/slightly_quick_blocks.json"
+hash = "02a3702cc7e1b6d4972641e36acd89fd6cf982920331a2cbcf9d4b968337bf4f"
 
 [[files]]
 file = "config/openloader/data/modpack/data/botanypots/recipes/farmersdelight/pot_interaction/till_rich_soil.json"
@@ -230,7 +238,7 @@ hash = "8c411a4384650a0c03dac7ce0dd6d90361bca68d87fb8378c2c3dcfea8f2f0a9"
 
 [[files]]
 file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/crop/moss.json"
-hash = "ce61ed2d6a6bb8519d92cf6878dec3c1d6bd3764e8e25f23f229d642165b887d"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "config/openloader/data/modpack/data/botanypots/recipes/minecraft/fertilizer/bonemeal.json"
@@ -541,10 +549,6 @@ file = "config/openloader/data/modpack/data/bountiful/recipes/crafting/bountyboa
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
-file = "config/openloader/data/modpack/data/clayworks/recipes/kiln.json"
-hash = "c482814bd9ecb4eec01e45694df7d9ae415f72521b7ed9cb77be3a508f919a1f"
-
-[[files]]
 file = "config/openloader/data/modpack/data/constructionwand/recipes/stone_wand.json"
 hash = "04065c7a8aa46dcef290534a4c9dd08f4c6ef6c6e87b11518ef43e1faa124ed6"
 
@@ -590,11 +594,11 @@ hash = "d5b99e7818ce9db02d26fc5c374b4eb25afb9d7b6451319748a42fd8adf0f9fe"
 
 [[files]]
 file = "config/openloader/data/modpack/data/create/recipes/crafting/kinetics/large_cogwheel.json"
-hash = "0ab964b0d18bd338e792f9a3e18a4c5ec55b05980ef573e9a79a233052872843"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "config/openloader/data/modpack/data/create/recipes/crafting/kinetics/large_cogwheel_from_little.json"
-hash = "8d6f7711eb4ef0c5d9f6da5b99b444507b8c4ffdca958b3d356ad6711054d62a"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "config/openloader/data/modpack/data/create/recipes/crafting/kinetics/mechanical_press.json"
@@ -607,6 +611,10 @@ hash = "bf8a5b501ed72043092bf95d14ae00634eba6e3dc872a8cea81b867efc20aabe"
 [[files]]
 file = "config/openloader/data/modpack/data/create/recipes/crafting/kinetics/water_wheel.json"
 hash = "52a19ea9d376dc1b101007003032ffc7d5e1a40f3356b2a0610cf2a17a1d1fd4"
+
+[[files]]
+file = "config/openloader/data/modpack/data/create/recipes/crafting/kinetics/windmill_bearing.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "config/openloader/data/modpack/data/create/recipes/milling/andesite.json"
@@ -914,7 +922,7 @@ hash = "4bcc669209cbcdeb6b86ca99ede9317b31a2a37188e44fb6c6559c48cff84ccd"
 
 [[files]]
 file = "config/openloader/data/modpack/data/minecraft/recipes/furnace.json"
-hash = "60b2a87538fcabe04ed7734551fb23425ceda89c491cdf296ddd85b30b974e6c"
+hash = "b8e548d946f5a013c5dd2ac89b72977f451da9c655ee56168b8e41b94c3d0ab1"
 
 [[files]]
 file = "config/openloader/data/modpack/data/minecraft/recipes/glass_bottle.json"
@@ -963,6 +971,10 @@ hash = "7232c84607673aa2d27b808ef246de97071b168d3f42a4f1ea4639af0e957b6b"
 [[files]]
 file = "config/openloader/data/modpack/data/minecraft/recipes/map.json"
 hash = "d15c3e0bbbccdabd5d603367f44f3a697c5363edd39929ad95baa630d3d1fea9"
+
+[[files]]
+file = "config/openloader/data/modpack/data/minecraft/recipes/mud_bricks.json"
+hash = "11a5d3a28c47b27952ec6276cd404006d2609080f74de2286d9749311aba576d"
 
 [[files]]
 file = "config/openloader/data/modpack/data/minecraft/recipes/packed_mud.json"
@@ -1053,16 +1065,8 @@ file = "config/openloader/data/modpack/data/outlander/curios/entities/charm.json
 hash = "4cf9197c5c20802117500bf5796c2a2ef8c9eec17205b15b5d7ef26a08482489"
 
 [[files]]
-file = "config/openloader/data/modpack/data/outlander/recipes/baking/cobblestone.json"
-hash = "963a9adc1cf73d5a08f366af6be32376ed13b2516d741bfa51cc5e94edaa5f27"
-
-[[files]]
-file = "config/openloader/data/modpack/data/outlander/recipes/baking/planks.json"
-hash = "a3834e149637cf22e83c95bd2ef3c691bb72a0186928854fa4e678cc83d10bdf"
-
-[[files]]
-file = "config/openloader/data/modpack/data/outlander/recipes/bone_shard.json"
-hash = "9aec06ff22b924000ab6065d9d869593138a77c815e4f262f156abb24c976898"
+file = "config/openloader/data/modpack/data/outlander/recipes/campfire/stone.json"
+hash = "7541d6d784708639444074f66c1ac81263ae681e713ca69fde24ce3d045d370d"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/crafting/fermenting_jar.json"
@@ -1097,6 +1101,22 @@ file = "config/openloader/data/modpack/data/outlander/recipes/cutting/planter.js
 hash = "091d4b2c3674d9fe43e007e46d9f9a0f26835c3cd22683757ab5793a40519f4f"
 
 [[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/damage_tools/bone_shard_manual_only.json"
+hash = "9aec06ff22b924000ab6065d9d869593138a77c815e4f262f156abb24c976898"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/damage_tools/large_cogwheel_manual_only.json"
+hash = "2a7ab508756446e833b3b14c7a38899b7953f2be08184ca970f7c2ecbc918066"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/damage_tools/straw_to_string_manual_only.json"
+hash = "f55c9669d4fa18a52846f0f29e5024e3c97ec3ee3e8bdfe53af5cea1fc01f85d"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/damage_tools/windmill_bearing_manual_only.json"
+hash = "35396c5ef2a5c02b1f6f9da0a5c7d21aaae8a25b882430c320af13677c79faff"
+
+[[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/deepslate_alloy.json"
 hash = "4b8023ba585d920aee6fb42ba70fc5201a9f3f8001f6be50f43365b6d3f12657"
 
@@ -1111,6 +1131,38 @@ hash = "24df295f217e9b3522371487f80a2f14a7037792925b5ed80530cde89e032467"
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/hand_hoe.json"
 hash = "63e3d649fd3ee2362c78081523f35cee782d0b93d0420c06a41fb3f53bee89c7"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/lychee/dripstone_dripping/fertilizer_on_dirt.json"
+hash = "f61da2385933c99ba9b90e5f769c0818b98e153ea1378b0193df0a25ceee51af"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/lychee/dripstone_dripping/fertilizer_on_experience_block.json"
+hash = "edca626c0b3f9a0f7bc06dc435c867cc2eeb676be6d217307da211cf373df3cb"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/lychee/dripstone_dripping/fertilizer_on_grass_block.json"
+hash = "a61844b951f535b379de7d7ecf7bad25edfb3bf0721eb1f3f9af86fb8970a521"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/lychee/dripstone_dripping/fertilizer_on_magic_vine_block.json"
+hash = "4645fb4f5623334dac7821fb20b9ae0bf9d84bc88431932d7017202b6e3b1b99"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/lychee/dripstone_dripping/fertilizer_on_moss.json"
+hash = "ee897bc1ed430d59686b6ecb7a0991e42390a76b8f2e19cd70730f0a8bec3e19"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/lychee/dripstone_dripping/fertilizer_on_podzol.json"
+hash = "6d888a49e93be37d287967f82fdbf634de215edd0883afc51714eca091f1ae9f"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/lychee/dripstone_dripping/fertilizer_on_slime_block.json"
+hash = "7f77343f9e68729299b2dc8f21837c3ee049eb59539183defc0a92b6892a7a9c"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/lychee/dripstone_dripping/fertilizer_on_water.json"
+hash = "8d0349570f9474f9850652097c883b26b703d4b2a7a77bbcfa6c00d429b6fd5a"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/lychee/item_burning/log.json"
@@ -1313,10 +1365,6 @@ file = "config/openloader/data/modpack/data/outlander/recipes/soils/ceramic_wate
 hash = "3010c257560422c47caf6fcc8c80bef20ea7ed3c023f4b6c0edbbdd11a5cd887"
 
 [[files]]
-file = "config/openloader/data/modpack/data/outlander/recipes/straw_to_string.json"
-hash = "f55c9669d4fa18a52846f0f29e5024e3c97ec3ee3e8bdfe53af5cea1fc01f85d"
-
-[[files]]
 file = "config/openloader/data/modpack/data/outlander/tags/items/made_of/deepslate_alloy.json"
 hash = "c90f6319c59f4f9bc8c7bac7d5d6fbe154161b3c90bde85a87203825ce4a16b9"
 
@@ -1353,6 +1401,10 @@ file = "config/openloader/data/modpack/data/paraglider/worldgen/structure/underg
 hash = "ad384086ad43baceeedb90bbdae807eacff97abe62cd14305ee82c9f289fe00d"
 
 [[files]]
+file = "config/openloader/data/modpack/data/quark/recipes/building/crafting/furnaces/mixed_furnace.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
 file = "config/openloader/data/modpack/data/quark/recipes/building/crafting/rope.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
@@ -1367,6 +1419,14 @@ hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 [[files]]
 file = "config/openloader/data/modpack/data/quark/recipes/building/crafting/stonevariants/vanilla/polished_tuff.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/openloader/data/modpack/data/quark/recipes/building/crafting/sturdy_stone.json"
+hash = "9f7548ad90777e02f9e0ac8792158d1092a4a08e6674fd8c44a958a29ce30d3b"
+
+[[files]]
+file = "config/openloader/data/modpack/data/quark/recipes/building/crafting/sturdy_stone_decompress.json"
+hash = "7eff9de8b64551caa11d0052a3991224de03f34203d9a794868ce7d898a1e732"
 
 [[files]]
 file = "config/openloader/data/modpack/data/quark/recipes/oddities/crafting/backpack_no_hide.json"
@@ -2042,15 +2102,19 @@ hash = "f6fba273fe630af24465cc22891f74f2040ba25f85d9ef8f08a2a11a3a2f40ea"
 
 [[files]]
 file = "config/openloader/resources/modpack/assets/all_the_flint_tools/lang/en_us.json"
-hash = "4a7b7ad2cbe9533af07d16e22b5525697c8b7a74f23e26e552001e69d3533a8e"
+hash = "b79a603fc882b481fd6953695e004167b65627ce8ff59ab016ef15092739a173"
 
 [[files]]
-file = "config/openloader/resources/modpack/assets/clayworks/lang/en_us.json"
-hash = "8380032427dc4aba9dca8dcd9f3bdcd804fda3efe5ccbd36615cc2f2ddef43be"
+file = "config/openloader/resources/modpack/assets/quark/lang/en_us.json"
+hash = "452fbabf7aa556639343efb77722d2c5083c94134ec87bdc6e1ced67a7f02ef9"
 
 [[files]]
 file = "config/openloader/resources/modpack/assets/sewingkit/lang/en_us.json"
-hash = "59c09a56431fe57f8669b4488ea1019aeb09ba61a496c47f4ca3335159a09bf3"
+hash = "25751974080f1c9ab49339182cf9726d3e3421737a89022ee72ef87cf6bdb348"
+
+[[files]]
+file = "config/openloader/resources/modpack/assets/supplementaries/lang/en_us.json"
+hash = "7b34cdbc947b88cd9859c20ce03da6189c60fb707c5b06fb698b4374fc97133d"
 
 [[files]]
 file = "config/openloader/resources/modpack/pack.mcmeta"
@@ -2118,7 +2182,7 @@ hash = "547cc434909a225e3f326f53610a46eb7d7faf9a502974dc767d66431416c6bf"
 
 [[files]]
 file = "kubejs/client_scripts/rei.js"
-hash = "4c1e2cb468fd8df6f043ba08b2318cc319f5a6676d6b8026f1d5d39346ca5749"
+hash = "3f139852460876ea55abc8204e361d0550166b1c6c4d8c319bb4936a88ad7377"
 
 [[files]]
 file = "kubejs/probe/cache/cachedForgeEvents.json"
@@ -2494,7 +2558,7 @@ hash = "e074de93b88d890ec43f064287cc345aefec4e311d159491c89201a36270340a"
 
 [[files]]
 file = "kubejs/startup_scripts/dontRequireTool.js"
-hash = "29db7ddb73c9f7ba1351fd411b2449168654576344dc7b5764aef35c5a546d3d"
+hash = "dfa595a2da1b1ef22d33c50da3f4104bd4384c02b894a5e21582238839ae6905"
 
 [[files]]
 file = "kubejs/startup_scripts/flint.js"
@@ -2568,11 +2632,6 @@ hash = "e9edfb229a6899e1c2864d54fd6dd5286d1bb936393c2e1f48f4b63f1b4af23c"
 metafile = true
 
 [[files]]
-file = "mods/blueprint.pw.toml"
-hash = "f7574bbc725128a0fa6a44c959c67d706d2279ed442dfedf2d135fd955e5ca6b"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "475a3bafbd5a7b6e8a7f8008f9a137e25a7c0d3474cca99eaa8bfa313899b408"
 metafile = true
@@ -2633,11 +2692,6 @@ hash = "7d3fded0a343b2953e2a77fd1d2ed7abc547d7008f5b1b842546f28b8df1b802"
 metafile = true
 
 [[files]]
-file = "mods/clayworks.pw.toml"
-hash = "a481b0afa4e6b3452a9d592a51270c21660d243209f1e4b75ce2f982cf80f617"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
 metafile = true
@@ -2645,6 +2699,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "14e2b2f26aff8192baac5ba50948aa131bd7b70ce0c1bf703804a0b08ead7dd0"
+metafile = true
+
+[[files]]
+file = "mods/collectors-reap.pw.toml"
+hash = "19d0f5dfb2c4c113bc3cfca446b3d0b4deb59c7c469d32ad4f29c5a163cd3ea1"
 metafile = true
 
 [[files]]
@@ -2660,6 +2719,11 @@ metafile = true
 [[files]]
 file = "mods/construction-wand.pw.toml"
 hash = "1613f68b9bdd242a957a3a20c5193b640672d11087abcb5c3abe5da45b235e35"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "fceb50162333b2cf2f251af72cc12f1a7657df07f979338dcd6e46b10b993466"
 metafile = true
 
 [[files]]
@@ -2763,6 +2827,11 @@ hash = "718b91b6de3a6692e32c9035eb6c63560a460663eaef8a27406b1b0eb49157d7"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "b2add68278027f1d23ca7fd0440ea686faa37d6ccefd55dc064bac9e6f93de54"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
 metafile = true
@@ -2785,6 +2854,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "12d55c7f4a540c3c1956dd784c3ef1d740f8f961512d4d8888a289157e674ad8"
 metafile = true
 
 [[files]]
@@ -2915,6 +2989,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "3036c1d17c0ec750c48e97813c51b20b503ba7c5284946f89bb3d34aa5201142"
+metafile = true
+
+[[files]]
+file = "mods/lazurite.pw.toml"
+hash = "026d65fea29b361fd34367ead493d26128744824795019e407dc39370e0a1fe5"
 metafile = true
 
 [[files]]
@@ -3132,6 +3211,11 @@ hash = "df9bb6ec5a8d43ce0faf7a161cad242717f83d43d993706daeb5b233daa0c4fe"
 metafile = true
 
 [[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "99e1ea6e06a92080c984a4aa7309a33cb8b31089a2556013ef43f25b40c6203d"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "5b8044347814e2099c47058c60680376c5acf64f6e87124d1734ae23aeb183fc"
 metafile = true
@@ -3339,6 +3423,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/no-villager-idle-sounds.pw.toml"
 hash = "4199af072bbeaab85027af92fe27e43f766252be4392a0b57d604063c0b75544"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stay-true.pw.toml"
+hash = "84209283dcd07c0fcb4f14c5e579f443d6ff277e18e8b89c2b7dadee0febc41a"
 metafile = true
 
 [[files]]
