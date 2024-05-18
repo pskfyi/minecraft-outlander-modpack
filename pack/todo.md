@@ -17,9 +17,6 @@
     comments section. There's an open request to make it configurable.
 - Loot tables contain OP items, especially in villages. This warps the early
   game too much.
-- Some Lychee interactions show Chinese characters which are not translateable
-  via lang files. Opened https://github.com/Snownee/Lychee/issues/84 to
-  document.
 
 ## Action Items
 
