@@ -45,17 +45,25 @@ JEIAddedEvents.registerRecipes((event) => {
     })
 });
 
+const HIDE_IN_REI = [
+  "farmersdelight:rope",
+
+  "quark:rope",
+  "quark:chute",
+  "quark:blackstone_furnace",
+  "quark:deepslate_furnace",
+  "quark:rope",
+  "#quark:posts", // Everycompat issue fix
+  "quark:stripped_cherry_post", // Quark issue fix
+  "#quark:vertical_slab",
+
+  /.+[\:\/]vertical_.+_planks/,
+
+  "supplementaries:tater_in_a_jar",
+  /^supplementaries:trapped_present/,
+]
+
 REIEvents.hide('item', event => {
   global.items.remove.map(id => event.hide(id))
-
-  event.hide("farmersdelight:rope")
-  event.hide("quark:rope")
-  event.hide("quark:chute")
-  event.hide("quark:blackstone_furnace")
-  event.hide("quark:deepslate_furnace")
-  event.hide("quark:rope")
-  event.hide("#quark:posts") // Everycompat issue fix
-  event.hide("quark:stripped_cherry_post") // Quark issue fix
-  event.hide("#quark:vertical_slab")
-  event.hide(/.+[\:\/]vertical_.+_planks/)
+  HIDE_IN_REI.map(id => event.hide(id))
 })
