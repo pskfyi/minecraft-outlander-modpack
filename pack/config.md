@@ -200,11 +200,6 @@ microcrafting required.
 - Disabled trapped presents. I don't have a user for them in the pack and they
   add clutter in REI.
 
-## Thin Air
-
-Added a "blue" zone between y128 and y150 to account for elevated villages in
-Terralith/Tectonic.
-
 ## Waystones
 
 Enabled feature to force Waystones to spawn in villages because I love them and
