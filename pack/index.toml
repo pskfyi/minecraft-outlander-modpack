@@ -25,6 +25,10 @@ file = "config/embeddium++.toml"
 hash = "8ebc06e1c2c3f321a01eaee95c261d93a03fc226f346f7010d8f676490a55c0f"
 
 [[files]]
+file = "config/endrem.toml"
+hash = "8df05bd573d1f07fa49eaa964d39a732cda4a25ec36cd91f63b23959089686d4"
+
+[[files]]
 file = "config/fml.toml"
 hash = "c5a62e3f2d7b91aaff7977d02db34b45f800ccd553678d86e77b5c110f46d60b"
 
@@ -1533,6 +1537,10 @@ file = "config/openloader/data/modpack/data/thinair/recipes/air_bladder.json"
 hash = "d0eec22353b1d199667b6f50a73c179f239648f9af9db408c22b50556932a216"
 
 [[files]]
+file = "config/openloader/data/modpack/data/thinair/tags/entity_types/air_quality_sensitive.json"
+hash = "62c189ec1ed31bced5c5a4958498479006db8e5b8875ee8e979ad0b5f0c49e10"
+
+[[files]]
 file = "config/openloader/data/modpack/data/tinycoal/recipes/charcoal.json"
 hash = "9504d900a1704cd781252bb742040972c7530eb6d9aa38bdfacb836c10b67f51"
 
@@ -2182,7 +2190,7 @@ hash = "547cc434909a225e3f326f53610a46eb7d7faf9a502974dc767d66431416c6bf"
 
 [[files]]
 file = "kubejs/client_scripts/rei.js"
-hash = "354279472f4a3e6b2f0b658f2649b96c54eaa508cda705a754ffcb4eb4983a15"
+hash = "664289ae65925c415d4f68c03b6324712d5506d27a001b412d0568ec104762bc"
 
 [[files]]
 file = "kubejs/probe/cache/cachedForgeEvents.json"
@@ -2752,6 +2760,11 @@ hash = "84bc5f323d3cc4f735e75158bd810f3ea886d3f4bc4d3eb472c68368650ce1ff"
 metafile = true
 
 [[files]]
+file = "mods/create-mechanical-extruder.pw.toml"
+hash = "880d32d2d885740383c594471c4a8cea7e8da7f991ad32825eacc94a28f27cad"
+metafile = true
+
+[[files]]
 file = "mods/create-sifting.pw.toml"
 hash = "793b80b878f62dee992ee6874e8890ef398a45aa0e1fce19c93cec7e3fb4ff69"
 metafile = true
@@ -2812,6 +2825,11 @@ hash = "3dcbd80b1fa747abe35a56886faab664f47456f2345d94043f8df532129b3a9b"
 metafile = true
 
 [[files]]
+file = "mods/endremastered.pw.toml"
+hash = "48c89e386fe1dc47dedfce02ccbc9a55ca899e94348ae470a77b3b7022496a58"
+metafile = true
+
+[[files]]
 file = "mods/epherolib.pw.toml"
 hash = "fadaae47087ff0af2442bed6c9978eaa14f2926990738d81b5ce382d4c4a86fa"
 metafile = true
@@ -2834,6 +2852,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
+metafile = true
+
+[[files]]
+file = "mods/farsighted-mobs-forge.pw.toml"
+hash = "4faaa75710197421e8191c89735e308718acf3a1b58427a3976652eddb1cca81"
 metafile = true
 
 [[files]]
