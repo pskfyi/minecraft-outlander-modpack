@@ -1,0 +1,12 @@
+{
+  "type": "lychee:lightning_channeling",
+  "item_in": {
+    "item": "skeleton_skull"
+  },
+  "post": [
+    {
+      "type": "drop_item",
+      "item": "wither_skeleton_skull"
+    }
+  ]
+}

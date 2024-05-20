@@ -3296,6 +3296,11 @@ hash = "9d454c82d919b4980c0a3fc46ae7c19ee015847e24573ea116df1fbab7644f48"
 metafile = true
 
 [[files]]
+file = "mods/summoningrituals.pw.toml"
+hash = "09d2a6e091881be6c89def0e102ea3799efd62ef25de1f919f8dc5e31ae86caf"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
 metafile = true
