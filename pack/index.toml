@@ -1085,6 +1085,10 @@ file = "config/openloader/data/modpack/data/outlander/recipes/campfire/stone.jso
 hash = "7541d6d784708639444074f66c1ac81263ae681e713ca69fde24ce3d045d370d"
 
 [[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/crafting/altar.json"
+hash = "05eff0354cd58a5016c3afabc261fdd8b4300c66b1dda1a5270ceefaa066d30f"
+
+[[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/crafting/fermenting_jar.json"
 hash = "221f6a3821f1e3d933e484f943b9f53fd1c503204e7865acdb13d8b3fc8acdd3"
 
@@ -1187,6 +1191,14 @@ hash = "4749f538501e3231caae21d1b1aec6c4903c330e3efb3ed15a1c74838ae53808"
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/lychee/item_inside/dirt_in_water.json"
 hash = "73ccef298a0345ea2ea709157998323c58c4ce582f5fab7bd7dfb9e26321c08a"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/lychee/lightning_channeling/wither_skeleton_skull.json"
+hash = "f23a38380e6a061511b38c54bc6a74ea08ce10096edeeb075931dce9f3c086da"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/lychee/lightning_channeling/wither_skeleton_skull_block.json"
+hash = "9dbabd6d5c711fb916a62c297eae68e28681ce618f82efb81475360693fd88e8"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/milling/cobbled_sandstone.json"
@@ -2202,7 +2214,7 @@ hash = "547cc434909a225e3f326f53610a46eb7d7faf9a502974dc767d66431416c6bf"
 
 [[files]]
 file = "kubejs/client_scripts/rei.js"
-hash = "664289ae65925c415d4f68c03b6324712d5506d27a001b412d0568ec104762bc"
+hash = "cd3c908adad34872924951250c33c1b1f5fc113c09bf7057440d6c62e9e2e123"
 
 [[files]]
 file = "kubejs/probe/cache/cachedForgeEvents.json"
@@ -2578,7 +2590,7 @@ hash = "e074de93b88d890ec43f064287cc345aefec4e311d159491c89201a36270340a"
 
 [[files]]
 file = "kubejs/startup_scripts/dontRequireTool.js"
-hash = "dfa595a2da1b1ef22d33c50da3f4104bd4384c02b894a5e21582238839ae6905"
+hash = "c20edc747dfa4909775bde45b6b53043f698c04b7908520f1544d0f73bef983b"
 
 [[files]]
 file = "kubejs/startup_scripts/flint.js"
@@ -2953,12 +2965,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3c681e8bf56f772ee190fff3c1bca83d1bd8b8d5885e20bcff2b365305a8a2d0"
+hash = "021bf9542f93777cabd29383ea215d521c93ccaef1a57e93825690e314699a93"
 metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "526dbf7fc833be8fb1e8844f0b22d6102046c6d12df9735c5ba2e0279e15fe75"
+hash = "e50f67e37775aca9ee5c5a1c91bd8e10846f8077e20ace467e4acb7892e1aca0"
 metafile = true
 
 [[files]]
@@ -3168,7 +3180,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "a19e00d52a5bca57e6b4b3b026094cffedd494b2e1b69149587c4049ccacead0"
+hash = "41221339c3f325d688a025e120c887b2003b76234149b3873236f872e9a48f54"
 metafile = true
 
 [[files]]
@@ -3232,7 +3244,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "9d18098db00132902e2bd48fbff3354373e6ece91eaeba5ed17adc00b92207cb"
+hash = "d68e3dec94d4da1500d1bdfa4901507d86165ab8ccd6ece218636ebab86b43bc"
 metafile = true
 
 [[files]]
@@ -3317,12 +3329,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "2702a1a7d6ebac7853d6e7ebb5dcf68e2edf4b54702ccb745c5d452b5d4df6cf"
+hash = "23f5db98d7adda1199728bba01d575b4a85e82fd801163242ac656f0247aa4a8"
 metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "c65990083e70a721e768dc9385a6d989d2c157b2024d3a7d02bb56bf14d49a0a"
+hash = "67b8c6ae39e505e811416d77fba82bf45d713ed9ad240f0f7e0b6af1f300a14e"
 metafile = true
 
 [[files]]

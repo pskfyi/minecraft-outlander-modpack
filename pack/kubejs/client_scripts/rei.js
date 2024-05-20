@@ -54,7 +54,6 @@ const HIDE_IN_REI = [
   "quark:deepslate_furnace",
   "quark:rope",
   "#quark:posts", // Everycompat issue fix
-  "quark:stripped_cherry_post", // Quark issue fix
   "#quark:vertical_slab",
 
   /.+[\:\/]vertical_.+_planks/,
