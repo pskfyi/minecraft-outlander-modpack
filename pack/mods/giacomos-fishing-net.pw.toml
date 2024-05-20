@@ -1,0 +1,13 @@
+name = "Giacomo's Fishing Net"
+filename = "giacomos_fishing_net-1.20.1-1.7.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bde5058c025f6d08235f77a1496c45d0f9388a80"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4725964
+project-id = 230535

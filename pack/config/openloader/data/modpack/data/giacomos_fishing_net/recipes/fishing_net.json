@@ -1,0 +1,14 @@
+{
+  "type": "sewingkit:sewing",
+  "materials": [
+    {
+      "count": 24,
+      "ingredient": { "item": "string" }
+    }
+  ],
+  "result": { "item": "giacomos_fishing_net:fishing_net" },
+  "tool": {
+    "type": "sewingkit:tool_ingredient",
+    "tool_type": "sewingkit_sew"
+  }
+}

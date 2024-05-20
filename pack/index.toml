@@ -169,6 +169,10 @@ file = "config/ftbultimine.snbt"
 hash = "838e7e4c0550c94db975e02cd0ce9f680abeba20edaa777203e44d691b36dcdd"
 
 [[files]]
+file = "config/giacomos_fishing_net-server.toml"
+hash = "45d2804ba7817ebe38efa5ecec0e0bfc9bdde5a72ea463bb1761d94c2209f37c"
+
+[[files]]
 file = "config/globalgamerules-common.toml"
 hash = "b86336fc09e5dbab29399be1752883c6115382c833e702191ef55059e9e67f29"
 
@@ -887,6 +891,14 @@ hash = "1d8a439ef571b89225bb746fd298c9d32d7ff6a2dff15e8964c9db68e729fab9"
 [[files]]
 file = "config/openloader/data/modpack/data/forge/tags/items/seeds.json"
 hash = "946546ad96d5f53985582c0d44f3930561f691a6323d440537ac41362a3b167d"
+
+[[files]]
+file = "config/openloader/data/modpack/data/giacomos_fishing_net/recipes/fishing_net.json"
+hash = "19a8a5e6c393e6a0090aaf2765ff194e50ff5a9a7ec111cdf9cdad26247f6f54"
+
+[[files]]
+file = "config/openloader/data/modpack/data/giacomos_fishing_net/recipes/strings.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "config/openloader/data/modpack/data/minecraft/loot_tables/blocks/campfire.json"
@@ -2917,6 +2929,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "59d22263e36313c43ad7c5e4179cb3554d414f701442b0784d94c0ba2384edfd"
+metafile = true
+
+[[files]]
+file = "mods/giacomos-fishing-net.pw.toml"
+hash = "952ce2b75551c5ec9bd8bea3ade5bc1a2d215add24c15dc03266a445c8c644ab"
 metafile = true
 
 [[files]]
