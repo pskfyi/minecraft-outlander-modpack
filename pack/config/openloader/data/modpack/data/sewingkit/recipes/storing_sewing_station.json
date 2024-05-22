@@ -1,1 +1,14 @@
-{}
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "___",
+    "# #",
+    "| |"
+  ],
+  "key": {
+    "_": { "tag": "wooden_slabs" },
+    "#": { "tag": "planks" },
+    "|": { "item": "stick" }
+  },
+  "result": { "item": "sewingkit:storing_sewing_station" }
+}

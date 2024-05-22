@@ -805,6 +805,10 @@ file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier
 hash = "c885c207e35676fed5b16fe4227618be169e51951ff66e20bdf5c27652b3a47f"
 
 [[files]]
+file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier/paraglider/swamp.json"
+hash = "87a7d3da0bbe2bb4e0e0ff85f902ed1e062a516c3a9f8cc850555d894fcdf466"
+
+[[files]]
 file = "config/openloader/data/modpack/data/ctov/lithostitched/worldgen_modifier/paraglider/swamp_fortified.json"
 hash = "c885c207e35676fed5b16fe4227618be169e51951ff66e20bdf5c27652b3a47f"
 
