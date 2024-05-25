@@ -1506,11 +1506,11 @@ hash = "018cbf905e508793297c223458086d9c2b68361f9f04629440a026b9ddfedf84"
 
 [[files]]
 file = "config/openloader/data/modpack/data/sewingkit/recipes/sewing_station.json"
-hash = "92ac27393ba9cfc616fbf04a3dac6505d7bdc0f023b7360e86fec1c21c51ce46"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "config/openloader/data/modpack/data/sewingkit/recipes/storing_sewing_station.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+hash = "92ac27393ba9cfc616fbf04a3dac6505d7bdc0f023b7360e86fec1c21c51ce46"
 
 [[files]]
 file = "config/openloader/data/modpack/data/sewingkit/recipes/wool_roll_from_wool.json"
@@ -2218,7 +2218,7 @@ hash = "547cc434909a225e3f326f53610a46eb7d7faf9a502974dc767d66431416c6bf"
 
 [[files]]
 file = "kubejs/client_scripts/rei.js"
-hash = "cd3c908adad34872924951250c33c1b1f5fc113c09bf7057440d6c62e9e2e123"
+hash = "75544671f879fb78e9d3873f59701cc3ec95fc038f82bd0aae76905c14da5b73"
 
 [[files]]
 file = "kubejs/probe/cache/cachedForgeEvents.json"
@@ -2785,6 +2785,11 @@ metafile = true
 [[files]]
 file = "mods/create-air-forge.pw.toml"
 hash = "84bc5f323d3cc4f735e75158bd810f3ea886d3f4bc4d3eb472c68368650ce1ff"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "cc6024c02ab4cfcadea22833dd439456f726a23525d05ef2dfde0bb5e2d541af"
 metafile = true
 
 [[files]]

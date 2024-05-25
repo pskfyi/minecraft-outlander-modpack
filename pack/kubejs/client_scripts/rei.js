@@ -46,6 +46,8 @@ JEIAddedEvents.registerRecipes((event) => {
 });
 
 const HIDE_IN_REI = [
+  "create_enchantment_industry:experience_rotor",
+
   "farmersdelight:rope",
 
   "quark:rope",
