@@ -20,14 +20,6 @@
   [KubeJS default options handling](https://kubejs.com/wiki/tutorials/default-options)
   for keybinds.
 
-## Mods Not Yet Ready
-
-[Create Style Modded Compats](https://www.curseforge.com/minecraft/texture-packs/create-style-modded-compats)
-is stuck on 1.19.3.
-
-[Simply Ceramics](https://www.curseforge.com/minecraft/mc-mods/simply-ceramics)
-needs to be slightly more proven before I dive in.
-
 ## Mods Under Consideration
 
 - Modpack Tools (Mostly new recipe/crafting mechanisms)
