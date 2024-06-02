@@ -2674,7 +2674,7 @@ metafile = true
 
 [[files]]
 file = "mods/botany-pots.pw.toml"
-hash = "2efc0ae15e2605ad520a8098773ea720d12af4d6bd787c2094a903bc2d91f167"
+hash = "816db0a26334f2a8edeba30f3596281abbda19b63a7719092d6cdf308ae764c9"
 metafile = true
 
 [[files]]
@@ -2734,7 +2734,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "14e2b2f26aff8192baac5ba50948aa131bd7b70ce0c1bf703804a0b08ead7dd0"
+hash = "6b690f3bc815149cc5c0fd03a98ac9b19cb62a9cbdc3b9aa0f8fca3321a3a07b"
 metafile = true
 
 [[files]]
@@ -2744,7 +2744,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorful-hearts.pw.toml"
-hash = "bbd37c0148855bc6aaac27bdc7aef5acef2f29180da52adfa5818573924135f1"
+hash = "e32ef65eac3f01e4daae277c1c3d290937b0f8d8230063901885148f68c1d749"
 metafile = true
 
 [[files]]
@@ -2769,12 +2769,12 @@ metafile = true
 
 [[files]]
 file = "mods/copper-amulets.pw.toml"
-hash = "ffc04804eef1221d983f815761e051471a128fb8d51f910ffd5bd7e2b1c3defc"
+hash = "3ddd0297133cbdb2938ac449ebe391f0517273954a058f5aeb9d63a1b859b6c7"
 metafile = true
 
 [[files]]
 file = "mods/corn-delight.pw.toml"
-hash = "78f38ddc4c204f2a82062d532d98266546a168aeeddbd53fdaa8fb1af4ceb030"
+hash = "60e22142593d512e3614ae5171e8a247d9bedbf18fe55750387f45f99993e5cc"
 metafile = true
 
 [[files]]
@@ -2824,7 +2824,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "f4d41750be3841d73640ba8f4da3ec8e2e8baef4afef7ecb55dd4afd10588d34"
+hash = "ef203cfb9e4703fc48e154ccc2da9f0a1af4770d49f403f3ed0a581e5498a515"
 metafile = true
 
 [[files]]
@@ -2834,12 +2834,12 @@ metafile = true
 
 [[files]]
 file = "mods/custom-villager-trades-forge.pw.toml"
-hash = "928996def75c546e8fc74bafdff4e5ebbc5dfd19a37e9432dcbfdab1da82a733"
+hash = "7e0bab3d8b1f528c07ef6758343b5bf85458861ab4b722d31664f10f9969ce9c"
 metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "5a6bf8b7d22a4356c5d0fb26d0a4c7fbc65723d5accc8edf88248e3575a64876"
+hash = "4d05ade00afb76af5e0269c923649cccdfb564597d438a09aab70226f508f9a6"
 metafile = true
 
 [[files]]
@@ -2869,7 +2869,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "9c193894b686db8688203643abdc7c1487dac9b9d504621d79d5c2f0a6428369"
+hash = "aeb305e676c8face2677918b850913e603c1ea23ddf09a6aa7226f4c84e4ebf0"
 metafile = true
 
 [[files]]
@@ -2894,7 +2894,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-leaf-decay.pw.toml"
-hash = "4da758690c2a7ac4d0e17283203d0b1bac670edfaf42f1863cd624941d3a0145"
+hash = "fd5aa059dd7e148e9ce801455b438425c0ad36537ce4b635edeb524900b15284"
 metafile = true
 
 [[files]]
@@ -2914,7 +2914,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "12d55c7f4a540c3c1956dd784c3ef1d740f8f961512d4d8888a289157e674ad8"
+hash = "fd4067afb2907fbe9c2077a52b2528d8612d4ac400645942f6367c83df44602b"
 metafile = true
 
 [[files]]
@@ -2924,12 +2924,12 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "c6a6db5cfdde50e43e7f8537f3cb495cc55a6e54af5a53e46eda92000ae69fa3"
+hash = "26d469d4c4b9aedb1daf28e8f17ee5a1d28691ca3c78403dfb67e49616493001"
 metafile = true
 
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
-hash = "a2c0b49d8753555d8b79d1a931488e1cf5b9591300fea0a46ebeba22d4aea4a4"
+hash = "331d72941d7ab4146812d8977f4f2d5721e09318b02a70f42432620600a155f3"
 metafile = true
 
 [[files]]
@@ -2939,7 +2939,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
-hash = "dcab54200a705f5a74544011849f8d77e73776124e7b144a2d27d6117c949b84"
+hash = "5d5819b14f3e0088d99e82f2a6b2f77df2b566726c9380b89b858b4246c69d25"
 metafile = true
 
 [[files]]
@@ -2974,7 +2974,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "021bf9542f93777cabd29383ea215d521c93ccaef1a57e93825690e314699a93"
+hash = "2998c6878a1ab6ef9ddec4597f6a42bffe05f18d3942346f16795a445c00addc"
 metafile = true
 
 [[files]]
@@ -3004,7 +3004,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "fcb1cb77c34aa9819c2dd9dacd13526592fb0995da7e8cd5f1f6d595b7ffd9d4"
+hash = "212633e875f70f3990a8064079e116dae6b957363c2d67776cc56debb2e64c7b"
 metafile = true
 
 [[files]]
@@ -3039,7 +3039,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-additions.pw.toml"
-hash = "b7388c79458f172f4fe9ea1b7bbf374052aa60279f05c730aca682f6bfdfaf4a"
+hash = "61454015dbe77ad8732ca3cbcf62075a4419716ce98dae360032ac29cc3eacf5"
 metafile = true
 
 [[files]]
@@ -3084,7 +3084,7 @@ metafile = true
 
 [[files]]
 file = "mods/map-atlases-forge.pw.toml"
-hash = "ef6d6e97e8029624bdf66df96571b96df73e4fe0d3a4bd0398f2eb973575fc79"
+hash = "514111f6cbd2618c5360f7bf4a8f130bd0c266ea59583b91e2a4734a1657807e"
 metafile = true
 
 [[files]]
@@ -3139,7 +3139,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-loader.pw.toml"
-hash = "1cd365278de0da9556eea435b41d7c4adeab251e80ea6be22b6ba60debfaf5b0"
+hash = "f1a2d3a570a6ce0722f0136b4b57371fc067ad7f329e1df9cd3cd765619ac759"
 metafile = true
 
 [[files]]
@@ -3179,7 +3179,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "26bdb83bbbf415d54995cf1c2a32c76901d4c00811704b420cc8de99a919a5ec"
+hash = "b15f8cc6d2943faa4afad0e41ec5dfd232cd8de8e30fdb2a76dafe14c8515f43"
 metafile = true
 
 [[files]]
@@ -3189,7 +3189,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "41221339c3f325d688a025e120c887b2003b76234149b3873236f872e9a48f54"
+hash = "d25a4cd8f8df0f8fa2a8d91841b8e8f2b557cfe57d30368d376d508188a8864b"
 metafile = true
 
 [[files]]
@@ -3243,7 +3243,7 @@ metafile = true
 
 [[files]]
 file = "mods/sawmill.pw.toml"
-hash = "a2dd573a48d1cb30e5fdbd1bab3e3a433e75f0e1f1a622fdd9b01b6703307f4e"
+hash = "1265c3208aedf23b4e9a2c189a18b16284df5cc9b4677db6e7441ccd93390f6a"
 metafile = true
 
 [[files]]
@@ -3253,7 +3253,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "d68e3dec94d4da1500d1bdfa4901507d86165ab8ccd6ece218636ebab86b43bc"
+hash = "085cf9d7f9823cec6fb7c9369fcfc22485a0bd2d810a7e2bac0ad8ba7c8f773e"
 metafile = true
 
 [[files]]
@@ -3313,7 +3313,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
-hash = "9d454c82d919b4980c0a3fc46ae7c19ee015847e24573ea116df1fbab7644f48"
+hash = "6c05b77030665d90ceffbc50d7fd6ed1dedefb20d333c39443c68704ec76f629"
 metafile = true
 
 [[files]]
@@ -3383,7 +3383,7 @@ metafile = true
 
 [[files]]
 file = "mods/tool-belt.pw.toml"
-hash = "fc609c2c8e3d9ce340a79e7cc1c81da7168e982f1c5a37705bbe4fcf89d06d47"
+hash = "95d60fd0a890b6b1087de0bc89079e1dd1276b61a9b1241857f3ea414a3592d2"
 metafile = true
 
 [[files]]

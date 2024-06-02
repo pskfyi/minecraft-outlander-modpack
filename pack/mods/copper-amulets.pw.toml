@@ -1,13 +1,13 @@
 name = "Copper Amulets"
-filename = "Copper_amulets-forge-1.20.1-v1.14.2.jar"
+filename = "Copper_amulets-forge-1.20.1-v1.14.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c68b387897b171e9263eb9f9d4a90b9959062b89"
+hash = "081d3e02a0f901c4758ebf207f1bee09e390c07b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5317540
+file-id = 5385411
 project-id = 831384
