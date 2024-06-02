@@ -2,10 +2,6 @@
 
 ## Temporarily Removed
 
-- Cold Sweat, pending release of bugfix which impacts Supplementaries Sack items
-  w/ Quark's renderer.
-  - https://github.com/Momo-Softworks/Cold-Sweat/issues/267 (marked resolved,
-    but issue persists)
 - [Compost](https://www.curseforge.com/minecraft/mc-mods/compost) is broken w/
   REI: [Compost/#7](https://github.com/yurisuika/Compost/issues/7)
 
