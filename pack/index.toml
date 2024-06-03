@@ -2983,11 +2983,6 @@ hash = "e50f67e37775aca9ee5c5a1c91bd8e10846f8077e20ace467e4acb7892e1aca0"
 metafile = true
 
 [[files]]
-file = "mods/integrated-api.pw.toml"
-hash = "f4c2da6dca3b98278e50c31f15ee95f1af75e27e98bea5a68e7f1e6aaff952f0"
-metafile = true
-
-[[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
 metafile = true
