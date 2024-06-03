@@ -2928,11 +2928,6 @@ hash = "fd4067afb2907fbe9c2077a52b2528d8612d4ac400645942f6367c83df44602b"
 metafile = true
 
 [[files]]
-file = "mods/fruits-delight.pw.toml"
-hash = "eb3eb04ee3b238b63d456a5e4619f45cbddf8aa8ad186f2171e5cc5dad4ead1a"
-metafile = true
-
-[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "26d469d4c4b9aedb1daf28e8f17ee5a1d28691ca3c78403dfb67e49616493001"
 metafile = true
@@ -2975,11 +2970,6 @@ metafile = true
 [[files]]
 file = "mods/golemsarefriends.pw.toml"
 hash = "c2a3f3de7f32e18283c366c551ddb7869e35c025acac76b52f9ce6ae05711789"
-metafile = true
-
-[[files]]
-file = "mods/idas.pw.toml"
-hash = "0808a2e0f30d8ec20508d77b10ee4412a3d3d5978385ba37b2234b994f72baea"
 metafile = true
 
 [[files]]
