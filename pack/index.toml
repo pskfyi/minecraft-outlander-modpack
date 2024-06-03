@@ -2858,6 +2858,11 @@ hash = "7c42037125573675148f40d1be3c2dfbbfb58065de4793828281de9cd70f0588"
 metafile = true
 
 [[files]]
+file = "mods/ecologics.pw.toml"
+hash = "e58257e27b7fce3399b38ca94a953728879d288757957521975ecc5044218fe0"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "3dcbd80b1fa747abe35a56886faab664f47456f2345d94043f8df532129b3a9b"
 metafile = true
