@@ -2,8 +2,9 @@
 
 ![ChatGPT / DallE 3 image as temporary placeholder to establish mood](packmenu/resources/assets/packmenu/textures/gui/background.png)
 
-See also the documentation on [the pack's design](design.md) and
-[mod configurations](config.md).
+An expert-lite, french-vanilla, quest-driven experience with a game loop focused
+on exploration and automation. See also the documentation on
+[the pack's design](design.md) and [mod configurations](config.md).
 
 ## Core Modlist
 
