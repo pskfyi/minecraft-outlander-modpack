@@ -99,3 +99,74 @@ options for farming, husbandry, and cooking. Connects Adventure and Settlement.
 
 Villages are both places to uncover and places to call home, bridging Adventure
 and Settlement. They are also key Integration points in the modding scene.
+
+## Standpoints
+
+### Magic
+
+I evaluated every major magic mod for 1.20.1 and found that none were suitable
+for this pack. Most add new GUI elements that don't meet my french vanilla
+requirement. The only two outliers are Hexerei which isn't on this version yet,
+and Mana & Artifice which wouldn't run. Here are my slightly more detailed
+notes:
+
+<details>
+<summary>Hide/Show Notes</summary>
+
+#### Not Available
+
+- Hexerei
+
+### Rejected
+
+- Ars Nouveau
+  - Adds new HUD elements
+  - Radically non-Vanilla GUIs
+- Embers Rekindled
+  - Too tech-y
+- Forcecraft
+  - Too tech-y
+- Nature's Aura
+  - Adds new HUD elements
+  - Too tech-y
+- Totemic
+  - Noisy
+  - Narrow scope
+  - Adds new HUD elements
+  - Art style is not French Vanilla
+- ForceCraft
+  - Too tech-y, and too high-tech
+- Biomancy
+  - Too creepy for me
+  - Too evil
+  - Several redundant features
+- Primal Magic
+  - Far too much stuff
+  - Undesirable worldgen
+  - Art style is not French Vanilla
+- Forbidden and Arcanus
+  - Undesirable worldgen
+  - Unfocused
+  - Excessive dependencies
+  - Underdocumented
+- Eidolon: Repraised
+  - Too evil
+  - Unfinished
+- Theurgy
+  - Radically non-Vanilla GUI
+  - GUI-driven learning
+- Occultism
+  - Too evil
+- Rune Craft
+  - Grindy
+  - Too disconnected from core gameplay
+  - Undesirable worldgen
+
+#### Didn't Work
+
+- Mana and Artifice
+
+</details>
+
+Rather than leaning on one of these, I would prefer to use many Lychee recipes
+to simulate environmental magic.
