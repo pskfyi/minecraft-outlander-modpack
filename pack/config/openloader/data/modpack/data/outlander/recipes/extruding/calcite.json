@@ -1,0 +1,9 @@
+{
+  "type": "create_mechanical_extruder:extruding",
+  "ingredients": [
+    { "fluid": "lava", "amount": 1000 },
+    { "fluid": "water", "amount": 1000 }
+  ],
+  "catalyst": { "item": "bone_block" },
+  "result": { "item": "calcite" }
+}

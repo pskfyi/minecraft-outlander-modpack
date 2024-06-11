@@ -1,0 +1,9 @@
+{
+  "type": "create_mechanical_extruder:extruding",
+  "ingredients": [
+    { "fluid": "lava", "amount": 1000 },
+    { "fluid": "sliceanddice:fertilizer", "amount": 1000 }
+  ],
+  "catalyst": { "item": "quark:rusty_iron_plate" },
+  "result": { "item": "quark:jasper" }
+}

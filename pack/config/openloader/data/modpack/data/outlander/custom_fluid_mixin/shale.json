@@ -1,0 +1,12 @@
+{
+  "type": "flowing_block",
+  "flowing": "#lava",
+  "blocks_nearby": [
+    "#sliceanddice:fertilizer",
+    "create:andesite_alloy_block"
+  ],
+  "result": {
+    "type": "block",
+    "block": "quark:shale"
+  }
+}

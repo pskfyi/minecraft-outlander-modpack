@@ -1,0 +1,12 @@
+{
+  "type": "flowing_block",
+  "flowing": "#lava",
+  "blocks_nearby": [
+    "create:experience_block",
+    "oxidized_copper"
+  ],
+  "result": {
+    "type": "block",
+    "block": "create:veridium"
+  }
+}

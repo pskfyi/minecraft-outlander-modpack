@@ -1,0 +1,9 @@
+{
+  "type": "create_mechanical_extruder:extruding",
+  "ingredients": [
+    { "fluid": "lava", "amount": 1000 },
+    { "item": "create:experience_block" }
+  ],
+  "catalyst": { "item": "create:zinc_block" },
+  "result": { "item": "create:asurine" }
+}

@@ -1085,6 +1085,74 @@ file = "config/openloader/data/modpack/data/outlander/curios/entities/charm.json
 hash = "4cf9197c5c20802117500bf5796c2a2ef8c9eec17205b15b5d7ef26a08482489"
 
 [[files]]
+file = "config/openloader/data/modpack/data/outlander/custom_fluid_mixin/asurine.json"
+hash = "24872f831c12b4b45e98c93d24e8f34f0916fe498f67f8b488dd0b1575a3c8db"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/custom_fluid_mixin/blackstone.json"
+hash = "ed40d8ef1d3a8165f973c3f509c18f4ef9ce92617bb98d3bd9478778221af870"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/custom_fluid_mixin/calcite.json"
+hash = "11360b57e7f114a218d6bf29cd9095e7c66fd65c96fc1ccb86aa22f7c75b4580"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/custom_fluid_mixin/crimsite.json"
+hash = "80a7525cf58187734a93baea01696c45c1c7618ff0a8ca57253d900f43cf87d9"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/custom_fluid_mixin/end_stone.json"
+hash = "0576908ede81f84e1e098f1a20ea1692b134585685facc4fcfa36b9e70387f88"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/custom_fluid_mixin/jasper.json"
+hash = "1b54ad5724f338b5f4c6319db73abc56bc99b3175e65dfc2997136102212d546"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/custom_fluid_mixin/limestone.json"
+hash = "f40c2a8c2ec8758df85652c4f17202ae5a561bdccd530bb67fb321e0dd00e949"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/custom_fluid_mixin/myalite.json"
+hash = "98f6e2114353578cad1e8e817866f7fabb490882fffeec43a5d28d8bcece0c9e"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/custom_fluid_mixin/ochrum.json"
+hash = "69d96f56bb9c9bcca6adf2874d58999d7e52dd67381a775552a9db802c8e2089"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/custom_fluid_mixin/permafrost.json"
+hash = "b1ce0a1e97962ecfade9841b880571656836d530639dd59f92cd1273eca16dac"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/custom_fluid_mixin/prismarine.json"
+hash = "474d7541b69bfd3ca126496e2cea4e5e7f21f3ef1da506f2fe2e3f02cdd6abea"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/custom_fluid_mixin/red_sandstone.json"
+hash = "fb6b2b62d0bee93b18a8280197c22a1dd8db8e3c522e6a9858ab03a4d67349b2"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/custom_fluid_mixin/sandstone.json"
+hash = "f1a6bbb62e2bf0c0b5e682f69944da12ae09c0b8a5a5b6ddf8153afef0f13980"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/custom_fluid_mixin/scoria.json"
+hash = "16a5ec2adf24c9bf03306aef6764c733e57ac4dc6b47252825e4579c4db7504c"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/custom_fluid_mixin/shale.json"
+hash = "2697172613d3653c12ad3bff1c49b4923acc81f6d5c51c224db53cf3d95b9253"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/custom_fluid_mixin/tuff.json"
+hash = "793bfe0cf84270cb2e5462fded2ce834d5ddbb0677de5dbb956e0ebc2e0be7fc"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/custom_fluid_mixin/veridium.json"
+hash = "39527e8087b3898fb44a50f9dd26a1d26461b1bfe4aedf49f1cf93b8ad93159f"
+
+[[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/campfire/stone.json"
 hash = "7541d6d784708639444074f66c1ac81263ae681e713ca69fde24ce3d045d370d"
 
@@ -1143,6 +1211,74 @@ hash = "35396c5ef2a5c02b1f6f9da0a5c7d21aaae8a25b882430c320af13677c79faff"
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/deepslate_alloy.json"
 hash = "4b8023ba585d920aee6fb42ba70fc5201a9f3f8001f6be50f43365b6d3f12657"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/extruding/asurine.json"
+hash = "8f2498290ea53de52be99c11c930e3b126405069442ac2c61761ebe7899ea35d"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/extruding/blackstone.json"
+hash = "88187100533d0d2d778d712a3ea90c3203919c4ec4b896429872abac15e5ec05"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/extruding/calcite.json"
+hash = "bbb3aa01e389f1a5b47c2d08f3e2c2a88bfb37f2bf514b635163384496910d94"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/extruding/crimsite.json"
+hash = "c4ffb2e1a3dfaece33fa44c67c8ec1a0775d1802ba84b263a58c5d4d2e44ca0e"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/extruding/end_stone.json"
+hash = "ab476a3ec182baf8fc93692ae34748f0dad7e180b72ca38324d8862985560c62"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/extruding/jasper.json"
+hash = "412adee68da39decb32535666af139d9a8c43f68bcdaf444e74ac2ed0e95233f"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/extruding/limestone.json"
+hash = "2dad6ae75218264fe803b770889c108cc181b60813dd3504421d9b8cff804264"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/extruding/myalite.json"
+hash = "0767ba84a53167e13b05eb15121f4d40f447d3877a4e9c84c0e87bcc44c75c57"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/extruding/ochrum.json"
+hash = "f9b3326ef15a89c338af4880dcf87d5e689f2af6619731c9422c85e867e422d0"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/extruding/permafrost.json"
+hash = "27f1c72a65917e3a8bd14d8fadf0e8c3028126ccb3f99ded7775715b652256d5"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/extruding/prismarine.json"
+hash = "e01f58082657f8207f51f39740cc0433c4fb5edce903686f3515f3cbd6fc2fc6"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/extruding/red_sandstone.json"
+hash = "b68252430ae8ab447b369a9fa09858992e16d1a3aea4dac317dddbaf4c06eed7"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/extruding/sandstone.json"
+hash = "07be202b043801f88dc6acdc7a22f217250c1d186a0909d7ef2b29cf1ac4f389"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/extruding/scoria.json"
+hash = "02993d6178e25b7d1ab8deed07850dab55b161285caef4e4849439d4bd09b49d"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/extruding/shale.json"
+hash = "3428c5ed9efe309ff2535dbde684db81b5ab2593b517af330b2ef39731662313"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/extruding/tuff.json"
+hash = "1eb509f04d0a02de4ca36847d94978afe6a4faca494b63a005ec7161d5b5377a"
+
+[[files]]
+file = "config/openloader/data/modpack/data/outlander/recipes/extruding/veridium.json"
+hash = "066f78927dafa6fd8c180f9738005b22185f53bfc75411709e1b87713b76abb6"
 
 [[files]]
 file = "config/openloader/data/modpack/data/outlander/recipes/garden_trowel.json"
@@ -2838,6 +2974,11 @@ hash = "d4751daea2a174a7bea8efb15eb8191be3be00426c8c316ca45254bb9d12dced"
 metafile = true
 
 [[files]]
+file = "mods/custom-fluid-mixin.pw.toml"
+hash = "a77cb3a05af0e3b6a276d5908e74c6b82ba5a8d6dc31421445342d592afe0e5f"
+metafile = true
+
+[[files]]
 file = "mods/custom-villager-trades-forge.pw.toml"
 hash = "7e0bab3d8b1f528c07ef6758343b5bf85458861ab4b722d31664f10f9969ce9c"
 metafile = true
@@ -2980,6 +3121,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "e50f67e37775aca9ee5c5a1c91bd8e10846f8077e20ace467e4acb7892e1aca0"
+metafile = true
+
+[[files]]
+file = "mods/insanelib.pw.toml"
+hash = "8603423c46a37f783726a263334f2527b1e3dffa8b34382fc59fc5dd95793598"
 metafile = true
 
 [[files]]

@@ -1,0 +1,12 @@
+{
+  "type": "flowing_block",
+  "flowing": "#lava",
+  "blocks_nearby": [
+    "#water",
+    "redstone_block"
+  ],
+  "result": {
+    "type": "block",
+    "block": "red_sandstone"
+  }
+}

@@ -35,6 +35,7 @@ configuration is particularly notable.
 - [Ceramic Bucket](https://www.curseforge.com/minecraft/mc-mods/ceramic-bucket)
 - [Ceramic Shears](https://www.curseforge.com/minecraft/mc-mods/ceramic-shears)
 - [Cagerium](https://curseforge.com/minecraft/mc-mods/cagerium)
+- [Custom Fluid Mixin](https://www.curseforge.com/minecraft/mc-mods/custom-fluid-mixin)
 - [Custom Villager Trades](https://www.curseforge.com/minecraft/mc-mods/custom-villager-trades-forge)
 - [Global GameRules](https://www.curseforge.com/minecraft/mc-mods/global-gamerules)
 - [KubeJS](https://curseforge.com/minecraft/mc-mods/jubejs) plus integrations

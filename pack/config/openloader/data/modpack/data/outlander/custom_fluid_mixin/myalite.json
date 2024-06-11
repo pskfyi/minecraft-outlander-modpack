@@ -1,0 +1,12 @@
+{
+  "type": "flowing_block",
+  "flowing": "#lava",
+  "blocks_nearby": [
+    "#sliceanddice:fertilizer",
+    "budding_amethyst"
+  ],
+  "result": {
+    "type": "block",
+    "block": "quark:myalite"
+  }
+}

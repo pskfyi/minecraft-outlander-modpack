@@ -1,0 +1,11 @@
+{
+  "type": "flowing_block",
+  "flowing": "#water",
+  "blocks_nearby": [
+    "blue_ice"
+  ],
+  "result": {
+    "type": "block",
+    "block": "quark:permafrost"
+  }
+}

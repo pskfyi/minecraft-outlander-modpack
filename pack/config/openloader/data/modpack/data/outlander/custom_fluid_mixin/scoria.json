@@ -1,0 +1,11 @@
+{
+  "type": "flowing_block",
+  "flowing": "#lava",
+  "blocks_nearby": [
+    "#forge:chocolate"
+  ],
+  "result": {
+    "type": "block",
+    "block": "create:scoria"
+  }
+}

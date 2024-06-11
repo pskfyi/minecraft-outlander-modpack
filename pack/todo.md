@@ -22,9 +22,6 @@
 
 ## Mods Under Consideration
 
-- Modpack Tools (Mostly new recipe/crafting mechanisms)
-  - [Custom Fluid Mixin](https://www.curseforge.com/minecraft/mc-mods/custom-fluid-mixin)
-    allows for fluid interactions like cobble generators
 - Visuals & Branding
   - Possible alternative to Packmenu:
     https://legacy.curseforge.com/minecraft/mc-mods/its-the-little-things

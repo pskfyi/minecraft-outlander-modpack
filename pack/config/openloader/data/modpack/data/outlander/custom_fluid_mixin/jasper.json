@@ -1,0 +1,12 @@
+{
+  "type": "flowing_block",
+  "flowing": "#lava",
+  "blocks_nearby": [
+    "#sliceanddice:fertilizer",
+    "quark:rusty_iron_plate"
+  ],
+  "result": {
+    "type": "block",
+    "block": "quark:jasper"
+  }
+}

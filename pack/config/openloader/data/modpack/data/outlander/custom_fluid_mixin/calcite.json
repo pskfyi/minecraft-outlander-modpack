@@ -1,0 +1,12 @@
+{
+  "type": "flowing_block",
+  "flowing": "#lava",
+  "blocks_nearby": [
+    "#water",
+    "bone_block"
+  ],
+  "result": {
+    "type": "block",
+    "block": "calcite"
+  }
+}

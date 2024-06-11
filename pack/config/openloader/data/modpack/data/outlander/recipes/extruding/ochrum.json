@@ -1,0 +1,9 @@
+{
+  "type": "create_mechanical_extruder:extruding",
+  "ingredients": [
+    { "fluid": "lava", "amount": 1000 },
+    { "item": "create:experience_block" }
+  ],
+  "catalyst": { "item": "gold_block" },
+  "result": { "item": "create:ochrum" }
+}

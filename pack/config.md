@@ -80,6 +80,18 @@ Added a Curios charm slot to hold the thermometer.
 These are configured to remove their custom menu icons because I find them
 cluttersome and distracting.
 
+## Custom Fluid Mixin
+
+The recipes for Blackstone, Limestone, and Scoria are already built into the
+mods that add those liquids. I have added the recipes so that they appear in
+REI.
+
+Intentionally, no recipes were added for Andesite, Diorite, Granite, or Scorchia
+because they are craftable via existing recipes already.
+
+No recipe was added for Deepslate - it can be crafted from pebbles, which are
+obtainable from sifting, all of which can be automated.
+
 ## Embeddium
 
 - Disabled FPS display.

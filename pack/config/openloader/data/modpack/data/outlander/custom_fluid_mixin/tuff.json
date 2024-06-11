@@ -1,0 +1,12 @@
+{
+  "type": "flowing_block",
+  "flowing": "#lava",
+  "blocks_nearby": [
+    "#water",
+    "supplementaries:ash_bricks"
+  ],
+  "result": {
+    "type": "block",
+    "block": "tuff"
+  }
+}

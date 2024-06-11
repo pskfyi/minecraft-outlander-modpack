@@ -1,0 +1,8 @@
+{
+  "type": "create_mechanical_extruder:extruding",
+  "ingredients": [
+    { "fluid": "water", "amount": 1000 },
+    { "item": "blue_ice" }
+  ],
+  "result": { "item": "quark:permafrost" }
+}

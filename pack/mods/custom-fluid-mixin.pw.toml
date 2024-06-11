@@ -1,0 +1,13 @@
+name = "Custom Fluid Mixin"
+filename = "CustomFluidMixin-1.4.2-mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "712e683dd1e6f5b35a08d64ffb5ea386b9536a19"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4921263
+project-id = 597165
