@@ -1573,6 +1573,10 @@ file = "config/openloader/data/modpack/data/paraglider/worldgen/structure/underg
 hash = "ad384086ad43baceeedb90bbdae807eacff97abe62cd14305ee82c9f289fe00d"
 
 [[files]]
+file = "config/openloader/data/modpack/data/platforms/recipes/wrench_alt.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
 file = "config/openloader/data/modpack/data/quark/recipes/building/crafting/framed_glass.json"
 hash = "798b12638b2358a8962b5c6a3b226473daa93aeb167e7c4c46fa990a4462ddb7"
 
@@ -2291,7 +2295,7 @@ hash = "337ec62cfbe93ab2a33a57c4fa5d021b7eabb6b335455f68cbfb88045bf133ef"
 
 [[files]]
 file = "kubejs/startup_scripts/globals.js"
-hash = "b96e7f16cbade4bc9a9fd9f01be5f5066e63066849537a4b81d9b7e839b019b2"
+hash = "7f03b6380e5b97ea27cd5da24fbcc201d372f345385823538c7c327a1c639c82"
 
 [[files]]
 file = "kubejs/startup_scripts/name.js"
