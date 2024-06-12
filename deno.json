@@ -6,10 +6,8 @@
     "dev": "cd pack && ./packwiz serve",
     "update": "cd pack && ./packwiz update",
     "update:all": "cd pack && ./packwiz update --all",
-    "install:datapack": "deno run --allow-read --allow-write scripts/pack/installDatapack.ts",
-    "inspect": "deno run --allow-read --allow-write --allow-run=jar scripts/pack/inspectMod.ts",
-    "gen:recyclersdelight": "deno run --allow-write --allow-read scripts/recyclersdelight/refresh.ts",
-    "gen": "deno task gen:recyclersdelight",
-    "instance:open": "deno run --allow-read --allow-run scripts/pack/openInstance.ts"
+    "install:datapack": "deno run -A scripts/installDatapack.ts",
+    "inspect": "deno run -A scripts/inspectMod.ts",
+    "instance:open": "deno run -A scripts/openInstance.ts"
   }
 }

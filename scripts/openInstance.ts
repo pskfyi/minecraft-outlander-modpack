@@ -1,4 +1,4 @@
-import { ENV } from "../../datagen/constants.ts";
+import { ENV } from "../constants.ts";
 
 const command = new Deno.Command("code", {
   args: [ENV.INSTANCE_DIR],

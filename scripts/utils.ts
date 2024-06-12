@@ -1,6 +1,9 @@
-import { MODPACK_MODS_DIR } from "../../datagen/constants.ts";
-import { join } from "./deps.ts";
-import { readTomlFile } from "./readTomlFile.ts";
+import { MODPACK_MODS_DIR } from "../constants.ts";
+import { join, parseToml } from "./deps.ts";
+
+export async function readTomlFile(path: string) {
+  return parseToml(await Deno.readTextFile(path));
+}
 
 export type ModFileData = {
   name: string;

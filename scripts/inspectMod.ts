@@ -1,6 +1,6 @@
-import { ENV, ROOT_DIR } from "../../datagen/constants.ts";
+import { ENV, ROOT_DIR } from "../constants.ts";
 import { assert, copy, join } from "./deps.ts";
-import { readModFile } from "./readModFile.ts";
+import { readModFile } from "./utils.ts";
 
 const MOD_SLUG = Deno.args[0];
 assert(MOD_SLUG, "No mod slug provided.");

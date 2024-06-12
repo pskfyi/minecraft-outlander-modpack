@@ -1,4 +1,4 @@
-import { ROOT_DIR } from "../../datagen/constants.ts";
+import { ROOT_DIR } from "../constants.ts";
 import { copy, exists, load as loadEnv, resolve } from "./deps.ts";
 
 const ENV = await loadEnv();

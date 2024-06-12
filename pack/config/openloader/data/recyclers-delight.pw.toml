@@ -1,0 +1,13 @@
+name = "Recycler's Delight"
+filename = "recyclersdelight-1.1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b10ea4550d0c47bc9f35346f0c33efde7045b25f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5396875
+project-id = 1029710
