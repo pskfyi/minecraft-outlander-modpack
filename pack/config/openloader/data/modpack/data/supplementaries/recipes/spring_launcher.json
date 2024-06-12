@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " S ",
+    "DPD",
+    " G "
+  ],
+  "key": {
+    "S": { "item": "slime_block" },
+    "D": { "item": "outlander:deepslate_alloy" },
+    "P": { "item": "sticky_piston" },
+    "G": { "item": "gunpowder" }
+  },
+  "result": { "item": "supplementaries:spring_launcher" }
+}

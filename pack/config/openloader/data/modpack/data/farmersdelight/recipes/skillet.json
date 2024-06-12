@@ -3,11 +3,11 @@
   "pattern": [
     " DD",
     " DD",
-    "C  "
+    "B  "
   ],
   "key": {
     "D": { "item": "outlander:deepslate_alloy" },
-    "C": { "item": "copper_ingot" }
+    "B": { "item": "brick" }
   },
   "result": { "item": "farmersdelight:skillet" }
 }

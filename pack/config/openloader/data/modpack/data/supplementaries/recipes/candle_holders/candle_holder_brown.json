@@ -1,13 +1,12 @@
 {
   "type": "crafting_shaped",
   "pattern": [
-    "  D",
-    " D ",
-    "B  "
+    "C ",
+    "D "
   ],
   "key": {
-    "B": { "item": "brick" },
+    "C": { "item": "brown_candle" },
     "D": { "item": "outlander:deepslate_alloy" }
   },
-  "result": { "item": "rechiseled:chisel" }
+  "result": { "item": "supplementaries:candle_holder_brown" }
 }

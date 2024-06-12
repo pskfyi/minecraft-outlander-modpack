@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " DS",
+    "DTD",
+    " D "
+  ],
+  "key": {
+    "S": { "item": "string" },
+    "D": { "item": "outlander:deepslate_alloy" },
+    "T": { "item": "tnt" }
+  },
+  "result": { "item": "supplementaries:bomb", "count": 4 }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "C ",
+    "D "
+  ],
+  "key": {
+    "C": { "item": "magenta_candle" },
+    "D": { "item": "outlander:deepslate_alloy" }
+  },
+  "result": { "item": "supplementaries:candle_holder_magenta" }
+}

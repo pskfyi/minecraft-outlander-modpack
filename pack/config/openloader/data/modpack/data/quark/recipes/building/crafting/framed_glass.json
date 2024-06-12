@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "DGD",
+    "G G",
+    "DGD"
+  ],
+  "key": {
+    "D": { "item": "outlander:deepslate_alloy" },
+    "G": { "tag": "forge:glass/colorless" }
+  },
+  "result": { "item": "quark:framed_glass" }
+}

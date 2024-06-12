@@ -1,12 +1,12 @@
 {
   "type": "crafting_shaped",
   "pattern": [
-    "C|C",
+    "B|B",
     "D D",
     "DDD"
   ],
   "key": {
-    "C": { "item": "copper_ingot" },
+    "B": { "item": "brick" },
     "|": { "item": "stick" },
     "D": { "item": "outlander:deepslate_alloy" }
   },
