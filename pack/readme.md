@@ -63,6 +63,7 @@ configuration is particularly notable.
 - [AppleSkin](https://curseforge.com/minecraft/mc-mods/apple-skin)
 - [Auto Third Person](https://curseforge.com/minecraft/mc-mods/auto-third-person)
 - [Better Third Person](https://curseforge.com/minecraft/mc-mods/better-third-person)
+- [ClearSky](https://legacy.curseforge.com/minecraft/mc-mods/clearsky)
 - [Colorful Hearts](https://curseforge.com/minecraft/mc-mods/colorful-hearts)
 - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) [⚙️](config.md#jade)
   ([Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons))

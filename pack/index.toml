@@ -2421,6 +2421,11 @@ hash = "7d3fded0a343b2953e2a77fd1d2ed7abc547d7008f5b1b842546f28b8df1b802"
 metafile = true
 
 [[files]]
+file = "mods/clearsky.pw.toml"
+hash = "51e16bcd33e0113ad7a74777107fca6ab78b0231cf40f2afb99a32e575f53086"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
 metafile = true
