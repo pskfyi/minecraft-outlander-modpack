@@ -2546,6 +2546,11 @@ hash = "7e0bab3d8b1f528c07ef6758343b5bf85458861ab4b722d31664f10f9969ce9c"
 metafile = true
 
 [[files]]
+file = "mods/dark-utilities.pw.toml"
+hash = "73d04361ac8c44b7128d1acf9bf4384f8e573ff3308065047f8675112540c9c9"
+metafile = true
+
+[[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "4d05ade00afb76af5e0269c923649cccdfb564597d438a09aab70226f508f9a6"
 metafile = true
@@ -2871,6 +2876,11 @@ hash = "49ce1663227c8d86f1e6cdc3db38f632691182cc257d6cc390d77b52598057ea"
 metafile = true
 
 [[files]]
+file = "mods/pig-pen-cipher.pw.toml"
+hash = "f896fefa7466845181da9db06ba4a89865f54b406ff3b1fb65773c66614b6f1b"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "14eb87dea15b2484cda7bed648ed7382d8636e1e953a0e3f73f92c528c145934"
 metafile = true
@@ -2947,6 +2957,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-resources.pw.toml"
 hash = "afbc1b044e9a53bc2db3686bdc4b8e8d099972de2bd802482a569594c209b471"
+metafile = true
+
+[[files]]
+file = "mods/runelic.pw.toml"
+hash = "53254c5c7af6238845518f9e289b8b91337e88b6dad4566c2e1b223f6901f456"
 metafile = true
 
 [[files]]

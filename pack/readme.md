@@ -37,6 +37,7 @@ configuration is particularly notable.
 - [Cagerium](https://curseforge.com/minecraft/mc-mods/cagerium)
 - [Custom Fluid Mixin](https://www.curseforge.com/minecraft/mc-mods/custom-fluid-mixin)
 - [Custom Villager Trades](https://www.curseforge.com/minecraft/mc-mods/custom-villager-trades-forge)
+- [Dark Utilities](https://www.curseforge.com/minecraft/mc-mods/dark-utilities)
 - [Global GameRules](https://www.curseforge.com/minecraft/mc-mods/global-gamerules)
 - [Item Collectors](https://www.curseforge.com/minecraft/mc-mods/item-collectors)
 - [KubeJS](https://curseforge.com/minecraft/mc-mods/jubejs) plus integrations
