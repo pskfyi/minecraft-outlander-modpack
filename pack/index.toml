@@ -2696,6 +2696,11 @@ hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
 metafile = true
 
 [[files]]
+file = "mods/item-collectors.pw.toml"
+hash = "4fdb75b6a3ad133e0f80c3b9a55695578c1be63f2e1e034e943adbce3b00545b"
+metafile = true
+
+[[files]]
 file = "mods/item-filters.pw.toml"
 hash = "ff92eddb2bf6f1afe9fa7fc73d63ea9419e0cff77fbd4fd2936b51525fe9340c"
 metafile = true

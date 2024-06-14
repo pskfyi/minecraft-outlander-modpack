@@ -38,6 +38,7 @@ configuration is particularly notable.
 - [Custom Fluid Mixin](https://www.curseforge.com/minecraft/mc-mods/custom-fluid-mixin)
 - [Custom Villager Trades](https://www.curseforge.com/minecraft/mc-mods/custom-villager-trades-forge)
 - [Global GameRules](https://www.curseforge.com/minecraft/mc-mods/global-gamerules)
+- [Item Collectors](https://www.curseforge.com/minecraft/mc-mods/item-collectors)
 - [KubeJS](https://curseforge.com/minecraft/mc-mods/jubejs) plus integrations
 - [Lychee](https://curseforge.com/minecraft/mc-mods/lychee)
 - [Mob Capturing Tool](https://curseforge.com/minecraft/mc-mods/mob-capturing-tool)
