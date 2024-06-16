@@ -40,7 +40,7 @@ configuration is particularly notable.
 - [Dark Utilities](https://www.curseforge.com/minecraft/mc-mods/dark-utilities)
 - [Global GameRules](https://www.curseforge.com/minecraft/mc-mods/global-gamerules)
 - [Item Collectors](https://www.curseforge.com/minecraft/mc-mods/item-collectors)
-- [KubeJS](https://curseforge.com/minecraft/mc-mods/jubejs) plus integrations
+- [KubeJS](https://curseforge.com/minecraft/mc-mods/kubejs) plus integrations
 - [Lychee](https://curseforge.com/minecraft/mc-mods/lychee)
 - [Mob Capturing Tool](https://curseforge.com/minecraft/mc-mods/mob-capturing-tool)
 - [Open Loader](https://curseforge.com/minecraft/mc-mods/open-loader)
