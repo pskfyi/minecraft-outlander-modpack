@@ -165,11 +165,6 @@ TBD
   as the early precursor to Stone proper as well as a building material for the
   vanilla Furnace.
 
-## REI
-
-Using configuration to hide uncraftable items and items which the modpack
-intends to treat as removed.
-
 ## Sewing Kit
 
 - Removed the basic Sewing Station entirely in favor of its variant "Sewing
@@ -216,8 +211,3 @@ microcrafting required.
 
 Enabled feature to force Waystones to spawn in villages because I love them and
 I feel they support the Adventure, Convenience, and Integration design pillars.
-
-## Vinery
-
-Scrubbed out the flower box and flower pot items. The ones that Supplementaries
-added are functionally superior.
